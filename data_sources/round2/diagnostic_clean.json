@@ -1,0 +1,1485 @@
+{
+ "note": "Cleaned list used in the prototype (2026-10-12): Bangla addresses, upazila tag, duplicate Sohel Rana merged, timing text tidied, 141 doctor entries. Built from diagnostic_more.json + earlier doctors.json; samples excluded.",
+ "centres": [
+  {
+   "n": "গ্রাজুয়েট ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+   "s": "হাসপাতাল ও ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "মেইন রোড, আমতলী, জয়পুরহাট",
+   "ph": "01752-019956",
+   "src": "healthcenterbd, inhealthylife, DGHS",
+   "docs": [
+    {
+     "n": "ডাঃ মোঃ গওছুল আযম",
+     "en": "Dr. Md. Gaousul Azam",
+     "deg": "MBBS, BCS (Health), MS (Neurosurgery), FACS (USA)",
+     "skill": "স্নায়ু ও ব্রেইন",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ শায়লা জামান",
+     "en": "Dr. Shaila Zaman",
+     "deg": "MBBS, BCS (Health), FCPS, DDV (BSMMU)",
+     "skill": "চর্ম ও যৌন",
+     "time": "বিকাল ৫টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ মনিরুজ্জামান মানিক",
+     "en": "Dr. Monirujjaman Manik",
+     "deg": "MBBS, BCS (Health), DCH",
+     "skill": "শিশু",
+     "time": "বিকাল ৩টা – সন্ধ্যা ৭টা"
+    },
+    {
+     "n": "ডাঃ মোঃ শরিফুল হক",
+     "en": "Dr. Md. Shariful Haque",
+     "deg": "MBBS, MD (Nephrology)",
+     "skill": "কিডনি",
+     "time": "প্রতি সোমবার, বিকাল ৪টা – রাত ৯টা"
+    },
+    {
+     "n": "ডাঃ মুরশিদা পারভীন জলি",
+     "en": "Dr. Murshida Parvin Jolly",
+     "deg": "MBBS, FCPS (Surgery)",
+     "skill": "সার্জারি",
+     "time": "প্রতি শুক্রবার, সকাল ১০টা – রাত ৯টা"
+    },
+    {
+     "n": "ডাঃ মোঃ হাবিবুল আহসান তালুকদার (রেজা)",
+     "en": "Dr. Md. Habibul Ahsan Talukder (Reza)",
+     "deg": "MBBS, BCS (Health), MPH (DU)",
+     "skill": "আল্ট্রাসনোগ্রাফি",
+     "time": "প্রতিদিন, সকাল ৯টা – দুপুর ২টা ও বিকাল ৪টা – রাত ৯টা"
+    },
+    {
+     "n": "ডাঃ মোঃ মতিউর রহমান",
+     "en": "Dr. Md. Matiur Rahman",
+     "deg": "MBBS, FCPS (Medicine), MD (Cardiology); Fellow of Interventional Cardiology (United Hospital, Dhaka)",
+     "skill": "হৃদরোগ",
+     "time": "প্রতি শুক্রবার, সকাল ১০টা – দুপুর ১২টা"
+    },
+    {
+     "n": "ডাঃ এএসএম গোলাম রব্বানী",
+     "en": "Dr. ASM Golam Rabbani",
+     "deg": "MBBS, BCS (Health), D-Card (NICVD)",
+     "skill": "হৃদরোগ",
+     "time": "বিকাল ৩:৩০ – রাত ৯টা"
+    },
+    {
+     "n": "ডাঃ মোঃ সোহেল রানা",
+     "en": "Dr. Md. Sohel Rana",
+     "deg": "MBBS, BCS (Health), MS (Orthopaedic Surgery)",
+     "skill": "হাড় ও জোড়া",
+     "time": "সময় জানতে কল করুন (অন্য সিরিয়াল নম্বর: 0571-62012, 01706-150706)",
+     "ph": "01794-901717"
+    },
+    {
+     "n": "ডাঃ মোঃ আলিম আল রাজী",
+     "en": "Dr. Md. Alim Al Razi",
+     "deg": "MBBS, BCS (Health), MS (Urology), DU",
+     "skill": "ইউরোলজি",
+     "time": "বৃহস্পতিবার, শুক্রবার, বিকাল ৪টা – রাত ১০টা",
+     "ph": "0571-62012"
+    },
+    {
+     "n": "Dr. Nahid Sultana",
+     "deg": "FCPS",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ মোঃ সাইদুর রহমান",
+     "en": "Dr. Md. Saidur Rahman",
+     "deg": "MBBS, BCS (Health), PhD (Dermatology/AIDS/STD), DVD (Dhaka), FCGP (Dhaka), FAD (America)",
+     "skill": "চর্ম ও যৌন",
+     "time": "সময় জানতে হাসপাতালে কল করুন"
+    },
+    {
+     "n": "ডাঃ এস. এম. বোরহান উদ্দিন",
+     "en": "Dr. S. M. Borhan Uddin",
+     "deg": "MBBS, BCS (Health), MS (Paediatric Surgery)",
+     "skill": "শিশু সার্জারি",
+     "time": "সময় জানতে হাসপাতালে কল করুন"
+    },
+    {
+     "n": "ডাঃ সানজিদা ইয়াসমিন",
+     "en": "Dr. Sanzida Yasmin",
+     "deg": "MBBS, BCS (Health), MS (Gynae & Obs), CMU (Ultrasonography)",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "সময় জানতে হাসপাতালে কল করুন"
+    },
+    {
+     "n": "ডাঃ মনজুর আহমেদ",
+     "en": "Dr. Monzur Ahamed",
+     "deg": "MBBS, BCS (Health), FCPS (Physical Medicine)",
+     "skill": "ফিজিক্যাল মেডিসিন",
+     "time": "সময় জানতে হাসপাতালে কল করুন"
+    },
+    {
+     "n": "ডাঃ দেওয়ান মোঃ আমিনুল ইসলাম",
+     "en": "Dr. Dewan Md. Aminul Islam",
+     "deg": "MBBS, BCPS (Health), DMU",
+     "skill": "ব্যথা ও অ্যানেসথেসিয়া",
+     "time": "সময় জানতে হাসপাতালে কল করুন"
+    },
+    {
+     "n": "ডাঃ মোঃ আমানউল্লাহ চৌধুরী",
+     "en": "Dr. Md. Amanullah Chowdhury",
+     "deg": "MBBS, BCS (Health), MD (Chest Diseases)",
+     "skill": "বক্ষব্যাধি",
+     "time": "সময় জানতে হাসপাতালে কল করুন"
+    },
+    {
+     "n": "ডাঃ মোঃ মাহফুজুল হক মামুন",
+     "en": "Dr. Md. Mahfuzul Haque Mamun",
+     "deg": "MBBS, DLO, BSMMU Trained (PG Hospital)",
+     "skill": "নাক, কান ও গলা",
+     "time": "সময় জানতে হাসপাতালে কল করুন"
+    },
+    {
+     "n": "ডাঃ মোঃ জাহিদুল কবির সুজন",
+     "en": "Dr. Md. Zahidul Kabir Sujon",
+     "deg": "MBBS (DMC), BCS (Health), D-Orthopaedic (NITOR)",
+     "skill": "হাড় ও জোড়া",
+     "time": "সময় জানতে হাসপাতালে কল করুন"
+    },
+    {
+     "n": "ডাঃ মোঃ শাহীন",
+     "en": "Dr. Md. Shahin",
+     "deg": "MBBS, MCPS (Ophthalmology), MS (Ophthalmology)",
+     "skill": "চোখ",
+     "time": "সময় জানতে হাসপাতালে কল করুন"
+    },
+    {
+     "n": "ডাঃ জান্নাতুল ফেরদৌস (শাপলা)",
+     "en": "Dr. Jannatul Ferdous (Shapla)",
+     "deg": "MBBS, BCS (Health), DGO",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "সময় জানতে হাসপাতালে কল করুন"
+    }
+   ]
+  },
+  {
+   "n": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "সালমা কমপ্লেক্স, সদর রোড, সিও কলোনি, জয়পুরহাট",
+   "ph": "01326-285813",
+   "src": "healthcenterbd, inhealthylife, DGHS",
+   "docs": [
+    {
+     "n": "ডাঃ মোঃ মনোয়ার হোসেন",
+     "en": "Dr. Md. Monowar Hossain",
+     "deg": "MBBS (CU), BCS (Health), MD (Medicine)",
+     "skill": "মেডিসিন",
+     "time": "প্রতিদিন বিকাল ৩টা – রাত ৯টা; শুক্রবার সকাল ১০টা – দুপুর ১টা"
+    },
+    {
+     "n": "ডাঃ মোঃ শওকত আলী খাঁন",
+     "en": "Dr. Md. Sawkat Ali Khan",
+     "deg": "MBBS, MPH (NIPSOM), MCPS (Psychiatry)",
+     "skill": "মানসিক রোগ",
+     "time": "শনি–বৃহস্পতি বিকাল ৩টা – সন্ধ্যা ৭টা; শুক্রবার সকাল ১০টা – সন্ধ্যা ৭টা"
+    },
+    {
+     "n": "ডাঃ মোঃ সোহরাব হোসেন",
+     "en": "Dr. Md. Sohrab Hossain",
+     "deg": "MBBS, BCS (Health), D-Card (BSMMU), CCD (BIRDEM), MACP (USA)",
+     "skill": "হৃদরোগ",
+     "time": "শনিবার – বৃহস্পতিবার, বিকাল ৩টা – রাত ৯টা"
+    },
+    {
+     "n": "Dr. Md. Latiful Bari Shakil",
+     "deg": "MBBS, BCS (Health), MS (BSMMU), FACS (USA), MRCS (Edinburgh), FMAS (Delhi)",
+     "skill": "সার্জারি",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ মোর্শেদা খাতুন (স্বপ্না)",
+     "en": "Dr. Morsheda Khatun Swapna",
+     "deg": "MBBS, BCS (Health), FCPS (Gynae & Obs)",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "প্রতিদিন বিকাল ৩:৩০ – রাত ১০টা; শুক্রবার সকাল ১০টা – রাত ১০টা"
+    },
+    {
+     "n": "ডাঃ দিলরুবা আফরোজ (নীরা)",
+     "en": "Dr. Dilruba Afroz Nira",
+     "deg": "MBBS, BCS (Health), MD (Skin & VD / Dermatology), BSMMU",
+     "skill": "চর্ম ও যৌন",
+     "time": "শনিবার – বৃহস্পতিবার, বিকাল ৪টা – রাত ৯টা"
+    },
+    {
+     "n": "Dr. M. Abdullah Sakib",
+     "deg": "MBBS, BCS (Health), FCPS (Eye)",
+     "skill": "চোখ",
+     "time": "প্রতিদিন, বিকাল ৩টা – রাত ৯টা"
+    },
+    {
+     "n": "ডাঃ এম.এ. ওয়াহেদ",
+     "en": "Dr. M. A. Wahed",
+     "deg": "MBBS, BCS (Health), DLO",
+     "skill": "নাক, কান ও গলা",
+     "time": "শুক্রবার, সকাল ১০টা – বিকাল ৫টা"
+    },
+    {
+     "n": "ডাঃ মোঃ গওছুল আযম",
+     "en": "Dr. Md. Gaousul Azam",
+     "deg": "MBBS, BCS (Health), MS (Neurosurgery), FACS (USA)",
+     "skill": "স্নায়ু ও ব্রেইন",
+     "time": "২য় ও ৪র্থ শুক্রবার (প্রতি মাসে), বিকাল ৩টা – রাত ৯টা"
+    },
+    {
+     "n": "Dr. M. A. R. Chowdhury",
+     "deg": "MBBS (DMC), BCS (Health), D-Card (NICVD), MD (Cardiology)",
+     "skill": "হৃদরোগ",
+     "time": "প্রতি শুক্রবার, সকাল ১০টা – বিকাল ৪টা"
+    },
+    {
+     "n": "Dr. Md. Asaduzzaman Babu",
+     "deg": "MBBS, DVD (BSMMU)",
+     "skill": "চর্ম ও যৌন",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ মোঃ ইউসুফ আলী",
+     "en": "Dr. Md. Yousuf Ali",
+     "deg": "MBBS, BCS (Health), MD (Pediatrics)",
+     "skill": "শিশু",
+     "time": "শনিবার – বৃহস্পতিবার, বিকাল ৪টা – রাত ৯টা"
+    },
+    {
+     "n": "ডাঃ কাজী ইসমাইল হোসেন",
+     "en": "Dr. Kazi Ismail Hossain",
+     "deg": "MBBS, BCS (Health), FCPS (Surgery)",
+     "skill": "সার্জারি",
+     "time": "প্রতিদিন, বিকাল ৪টা – রাত ৯টা"
+    },
+    {
+     "n": "ডাঃ মোঃ আতাউল হক",
+     "en": "Dr. Md. Ataul Haque",
+     "deg": "MBBS, BCS (Health), D-Ortho, CCD (BIRDEM), FACS (USA)",
+     "skill": "হাড় ও জোড়া",
+     "time": "শনিবার – বৃহস্পতিবার, বিকাল ৩টা থেকে"
+    },
+    {
+     "n": "ডাঃ মোঃ আরিফুল ইসলাম",
+     "deg": "MBBS, BCS (Health), FCPS Pt-1, MS (in course)",
+     "skill": "হাড় ও জোড়া",
+     "time": "শুক্রবার, সকাল ১১টা – বিকাল ৩টা"
+    },
+    {
+     "n": "ডাঃ শেখ মামুন ইসহাক (সাগর)",
+     "deg": "MBBS, CCD (BIRDEM), DMU",
+     "skill": "ডায়াবেটিস ও হরমোন",
+     "time": "শনি–বৃহস্পতি দুপুর ২টা – রাত ১০টা; শুক্রবার সকাল ১০টা – রাত ১০টা"
+    },
+    {
+     "n": "ডাঃ গোলাম সাকলাইন",
+     "deg": "MBBS, BCS (Health), MS (Urology)",
+     "skill": "ইউরোলজি",
+     "time": "শনিবার, বিকাল ৩টা – রাত ৯টা"
+    },
+    {
+     "n": "ডাঃ মোঃ আদনান আরিফীন (পল্লব)",
+     "deg": "MBBS, MD (Oncology)",
+     "skill": "ক্যান্সার",
+     "time": "বুধবার, বিকাল ৪টা – রাত ৯টা"
+    },
+    {
+     "n": "ডাঃ মোঃ মাসুদ রানা",
+     "deg": "MBBS, BCS (Health), MD (Neurology)",
+     "skill": "স্নায়ু ও ব্রেইন",
+     "time": "শনিবার – বৃহস্পতিবার, বিকাল ৪টা – রাত ৯টা"
+    },
+    {
+     "n": "ডা মোঃ ওমর ফারুক",
+     "en": "Dr. Md. Omar Faruk",
+     "deg": "MBBS, BCS(Health), MS (Urology)",
+     "skill": "ইউরোলজি",
+     "time": "বৃহস্পতিবার, শুক্রবার, সকাল ৯টা – বিকাল ৪টা",
+     "fee": "৭০০",
+     "ph": "01762-441686"
+    }
+   ]
+  },
+  {
+   "n": "ফেমাস হেলথ কেয়ার এন্ড ক্লিনিক",
+   "s": "ক্লিনিক ও ডায়াগনস্টিক",
+   "tag": "সদর",
+   "a": "জয়পুরহাট সদর",
+   "ph": "01942-144930",
+   "src": "healthcenterbd, inhealthylife",
+   "docs": [
+    {
+     "n": "ডাঃ মোঃ মাসুদ রানা",
+     "deg": "MBBS, BCS (Health), MD (Neurology)",
+     "skill": "স্নায়ু ও ব্রেইন",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ মোঃ সালাহউদ্দীন আল আযাদ",
+     "deg": "MBBS, BCS (Health), MCPS, FCPS (ENT), MS (thesis)",
+     "skill": "নাক, কান ও গলা",
+     "time": "শুক্রবার, সকাল ১০টা – দুপুর ১টা"
+    },
+    {
+     "n": "ডাঃ মোঃ মাহবুবুর রহমান",
+     "deg": "এমবিবিএস, বিসিএস (স্বাস্থ্য), এমডি (নিউরোমেডিসিন)",
+     "skill": "স্নায়ু ও ব্রেইন",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ এনায়েতুল্লাহ নাজীম",
+     "deg": "এমবিবিএস (ঢামেক), বিসিএস (স্বাস্থ্য), এমএস-অর্থোপেডিক সার্জারী",
+     "skill": "হাড় ও জোড়া",
+     "time": "প্রতি শুক্রবার, বিকাল ৩টা থেকে"
+    },
+    {
+     "n": "ডাঃ সুদর্শন কুমার তালুকদার",
+     "deg": "এমবিবিএস (ঢাকা), বিসিএস (স্বাস্থ্য), এমসিপি এস (চর্ম ও যৌন রোগ), এপসিপিএস, এফএমডি (ফ্যামিলি মেডিসিন)",
+     "skill": "চর্ম ও যৌন",
+     "time": "বুধবার, বিকাল ৩টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ মাকছুরা আরেফিন (রুনা)",
+     "deg": "এমবিবিএস, বিসিএস (স্বাস্থ্য), এফসিপিএস (শেষ পর্ব), ডিজিও (গাইনী এন্ড অবস)",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "প্রতিদিন, বিকাল ৩টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ শাহীন রেজা",
+     "deg": "এমবিবিএস, বিসিএস (স্বাস্থ), এফসিপিএস (সার্জারী)",
+     "skill": "সার্জারি",
+     "time": "শুক্রবার, দুপুর ২টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ মোঃ সোয়েব আরেফিন",
+     "deg": "এমবিবিএস, বিসিএস (স্বাস্থ্য), সিসিডি (বারডেম)",
+     "skill": "মেডিসিন",
+     "time": "প্রতিদিন, বিকাল ৪টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ মোঃ মোস্তাফিজুর রহমান (মাসুদ)",
+     "deg": "এমবিবিএস (রামেক), বিসিএস (স্বাস্থ্য), পিজিটি (মেডিসিন ও বক্ষব্যাধি), ডিএমইউ (ঢাঃবিঃ), সিসিডি (বারডেম)",
+     "skill": "মেডিসিন",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "অধ্যাপক ডাঃ মইনুল হাসান সাদিক",
+     "deg": "এমবিবিএস, এফসিপিএস (মেডিসিন)",
+     "skill": "মেডিসিন",
+     "time": "রবিবার, বিকাল ৩টা – রাত ৯টা"
+    },
+    {
+     "n": "ডাঃ এ বি এম আব্দুল্লাহ",
+     "deg": "এমবিবিএস, বিসিএস (স্বাস্থ্য)",
+     "skill": "নাক, কান ও গলা",
+     "time": "শনিবার – বৃহস্পতিবার, বিকাল ৩টা – সন্ধ্যা ৬:৩০"
+    },
+    {
+     "n": "ডাঃ দীপন কুমার সরকার",
+     "deg": "এমবিবিএস, এমএস (ইএনটি)",
+     "skill": "নাক, কান ও গলা",
+     "time": "বুধবার, বিকাল ৩টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ মোঃ রাশেদুল হক",
+     "deg": "এমবিবিএস, বিসিএস (স্বাস্থ্য), এফসিপিএস (মেডিসিন)",
+     "skill": "মেডিসিন",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ মোঃ ওমর ফারুক",
+     "deg": "এমবিবিএস, সিসিডি (বারডেম), এফসিপিএস (পার্ট-২ সার্জারী), এমএস (ইউরোলজি ফাইনাল পার্ট)",
+     "skill": "ইউরোলজি",
+     "time": "শুক্রবার, সকাল ৯টা – দুপুর ১টা ও বিকাল ৪টা – রাত ৮টা"
+    }
+   ]
+  },
+  {
+   "n": "আল শেফা ডায়াগনস্টিক সেন্টার",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "ক্ষেতলাল",
+   "a": "সদর রোড, টিঅ্যান্ডটি অফিসের পূর্বে, ক্ষেতলাল",
+   "ph": "01735-705360",
+   "src": "healthcenterbd, inhealthylife, DGHS",
+   "docs": [
+    {
+     "n": "ডাঃ মোর্শেদা খাতুন (স্বপ্না)",
+     "en": "Dr. Morsheda Khatun Swapna",
+     "deg": "MBBS, BCS (Health), FCPS (Gynae & Obs)",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "বৃহস্পতিবার, দুপুর ২:৩০ – বিকাল ৪:৩০",
+     "ph": "01778-104982"
+    },
+    {
+     "n": "ডাঃ মোঃ আবুল কালাম আজাদ",
+     "deg": "MBBS, BCS (Health), MPH, CCD (BIRDEM), MS (Surgery), ATBP (Thailand)",
+     "skill": "সার্জারি",
+     "time": "রবিবার, দুপুর ২টা – বিকাল ৪টা",
+     "ph": "01778-104982"
+    },
+    {
+     "n": "ডাঃ মোঃ নজরুল ইসলাম (নাহিদ)",
+     "deg": "MBBS (Dhaka), BCS (Health), MS (Orthopaedics & Traumatology), NITOR & Spine (Switzerland)",
+     "skill": "হাড় ও জোড়া",
+     "time": "সোমবার, বিকাল ৩টা – বিকাল ৫টা",
+     "ph": "01778-104982"
+    },
+    {
+     "n": "ডাঃ এম এস জামান (শাজিল)",
+     "en": "Dr. M. S. Zaman (Shajil)",
+     "deg": "MBBS (Raj), BCS (Health), D-Ortho (BSMMU / PG Hospital); IMO (Orthopaedics)",
+     "skill": "হাড় ও জোড়া",
+     "time": "সোমবার, বিকাল ৪টা – রাত ৮টা",
+     "ph": "01778-104982"
+    },
+    {
+     "n": "ডাঃ শাহীন রেজা",
+     "deg": "MBBS, BCS (Health), FCPS (ENT, final part), CCD (BIRDEM)",
+     "skill": "নাক, কান ও গলা",
+     "time": "সোমবার বিকাল ৩টা থেকে; শুক্রবার সকাল ৯টা – বিকাল ৪টা",
+     "ph": "01778-104982"
+    },
+    {
+     "n": "ডাঃ মোঃ রেজাউল করিম (রেজা)",
+     "deg": "MBBS, BCS (Health), FCPS (Medicine, final part), MD (Cardiology, part 2), PGT (Skin & STD)",
+     "skill": "মেডিসিন",
+     "time": "শুক্রবার, সকাল ৯টা – বিকাল ৪টা",
+     "ph": "01778-104982"
+    },
+    {
+     "n": "ডাঃ আব্দুল আহাদ",
+     "deg": "MBBS (Rajshahi), DCH; PGT (Paediatrics)",
+     "skill": "শিশু",
+     "time": "শুক্রবার, সকাল ৯টা – বিকাল ৪টা",
+     "ph": "01778-104982"
+    },
+    {
+     "n": "ডাঃ মোঃ মোহাম্মদ এস জামান",
+     "deg": "MBBS (Rajshahi), CMU (Ultra), MS (Phase A)",
+     "skill": "হৃদরোগ",
+     "time": "শুক্রবার, সকাল ৯টা – বিকাল ৫টা",
+     "ph": "01778-104982"
+    },
+    {
+     "n": "ডাঃ মোঃ মেহেদী হাসান",
+     "deg": "MBBS, BCS (Health), D-Card (BSMMU), CCD (BIRDEM), MACP (USA)",
+     "skill": "হৃদরোগ",
+     "time": "প্রতিদিন, বিকাল ৪টা – রাত ৮:৩০",
+     "ph": "01778-104982"
+    },
+    {
+     "n": "ডাঃ নিলিমা আফরিন অর্নিবান",
+     "deg": "MBBS, BCS (Health)",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "রবিবার, বুধবার, দুপুর ২টা – বিকাল ৫টা",
+     "ph": "01778-104982"
+    },
+    {
+     "n": "ডাঃ রোজী খানম",
+     "deg": "MBBS, DGO (Rajshahi), FCPS (final part)",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "শুক্রবার, সকাল ১০টা – বিকাল ৩টা",
+     "ph": "01778-104982"
+    },
+    {
+     "n": "ডাঃ নূরে ফাতেমা জান্নাতুন নূরী (ইরা)",
+     "deg": "MBBS, BCS (Health), MS (Obs & Gynae), FCPS (part II), CUltra (Dhaka)",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "শুক্রবার, দুপুর ২টা – সন্ধ্যা ৬টা",
+     "ph": "01778-104982"
+    },
+    {
+     "n": "ডাঃ সামসুর রহমান বিশ্বাস (তুহিন)",
+     "deg": "MBBS, BCS (Health), MD (Part 2, Medicine)",
+     "skill": "মেডিসিন",
+     "time": "শুক্রবার, সকাল ৯টা – বিকাল ৫টা",
+     "ph": "01778-104982"
+    },
+    {
+     "n": "ডাঃ মোঃ আওফি খান (শাওন)",
+     "deg": "MBBS (AFMC, Dhaka)",
+     "skill": "মেডিসিন",
+     "time": "শুক্রবার, সকাল ৯টা – বিকাল ৫টা",
+     "ph": "01778-104982"
+    }
+   ]
+  },
+  {
+   "n": "পদ্মা ল্যাব অ্যান্ড ডায়াগনস্টিক সেন্টার",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "ইসলামী ব্যাংকের সামনে, সদর রোড, জয়পুরহাট",
+   "ph": "01716-219463",
+   "src": "healthcenterbd, inhealthylife, DGHS",
+   "docs": [
+    {
+     "n": "ডাঃ জিনাত ফারুকী",
+     "deg": "MBBS, BCS (Health), MD (Internal Medicine, BMU)",
+     "skill": "মেডিসিন",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ মোঃ জাফর ইমাম",
+     "deg": "MBBS, D-Ortho; Fellow (Ilizarov Surgery), Dhaka",
+     "skill": "হাড় ও জোড়া",
+     "time": "প্রতিদিন বিকাল ৪:৩০ – রাত ১০টা; শুক্রবার সারাদিন"
+    },
+    {
+     "n": "ডাঃ এম.এন.এ. আল মেহেদী",
+     "deg": "MBBS, DTCD, BCS (Health), CCD (BIRDEM)",
+     "skill": "বক্ষব্যাধি",
+     "time": "শনিবার – বৃহস্পতিবার, বিকাল ৪টা – রাত ৯টা"
+    },
+    {
+     "n": "ডাঃ কাজী খালিদ রায়হান",
+     "deg": "MBBS (DMC), MPhil (Nuclear Medicine)",
+     "skill": "আল্ট্রাসনোগ্রাফি",
+     "time": "প্রতিদিন, সকাল ১১:৩০ – রাত ৯:৩০"
+    },
+    {
+     "n": "ডাঃ মোঃ আসাদুজ্জামান",
+     "deg": "MBBS (Dhaka), BCS (Health), FCPS (Medicine), MD (Neuromedicine)",
+     "skill": "স্নায়ু ও ব্রেইন",
+     "time": "২য় ও ৪র্থ বৃহস্পতিবার (প্রতি মাসে), সারাদিন"
+    },
+    {
+     "n": "ডাঃ মোঃ মনছুর রহমান চৌধুরী",
+     "deg": "MBBS, FCPS (Plastic & Reconstructive Surgery)",
+     "skill": "সার্জারি",
+     "time": "২য় ও ৪র্থ শুক্রবার (প্রতি মাসে), সারাদিন"
+    },
+    {
+     "n": "ডাঃ মোঃ সালাহউদ্দীন আল আযাদ",
+     "deg": "MBBS, BCS (Health), MCPS, FCPS (ENT), MS (thesis)",
+     "skill": "নাক, কান ও গলা",
+     "time": "শুক্রবার, বিকাল ৩টা – রাত ৯:৩০"
+    },
+    {
+     "n": "ডাঃ সওদাগর শাহানা পারভীন",
+     "deg": "MBBS, BCS, DGO, CCD (BIRDEM), FCPS (Gynae & Obs) Part 2",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "প্রতিদিন বিকাল ৩:৩০ – রাত ৮টা; শুক্রবার সারাদিন"
+    },
+    {
+     "n": "ডাঃ মোঃ শাহাদৎ হোসেন",
+     "en": "Dr. Md. Shahadat Hossain",
+     "deg": "MBBS, BCS (Health), MD (Cardiology)",
+     "skill": "হৃদরোগ",
+     "time": "বৃহস্পতিবার বিকাল ৩টা – রাত ৮টা; শুক্রবার সারাদিন"
+    },
+    {
+     "n": "ডাঃ ফাহমিদা আকতার লীনা",
+     "deg": "MBBS, BCS (Health), DDV (BSMMU/BMU)",
+     "skill": "চর্ম ও যৌন",
+     "time": "প্রতি শুক্রবার, বিকাল ৩টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ কে.এম. জোবায়ের গালীব",
+     "deg": "MBBS, DCH",
+     "skill": "শিশু",
+     "time": "প্রতিদিন বিকাল ৫টা – রাত ৯:৩০; শুক্রবার সারাদিন"
+    },
+    {
+     "n": "ডাঃ মুহাম্মদ জাকারিয়া জালাল",
+     "en": "Dr. Muhammad Zakaria Jalal",
+     "deg": "MBBS (MMC), CCD (BARDEM), MD resident in Endocrinology (BARDEM); advanced endocrinology course, Mayo Clinic, USA",
+     "skill": "ডায়াবেটিস ও হরমোন",
+     "time": "শুক্রবার, সারাদিন"
+    }
+   ]
+  },
+  {
+   "n": "তাজুল ইসলাম ডায়াগনস্টিক সেন্টার",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "উপজেলা পরিষদের পাশে, সিও কলোনি, আমতলী সদর রোড, জয়পুরহাট",
+   "ph": "01791-868666",
+   "src": "healthcenterbd, inhealthylife, DGHS",
+   "docs": [
+    {
+     "n": "ডাঃ ফাহমিদা আকতার লীনা",
+     "deg": "MBBS, BCS (Health), DDV (BSMMU/BMU)",
+     "skill": "চর্ম ও যৌন",
+     "time": "সোমবার, বিকাল ৪টা – রাত ৯টা"
+    },
+    {
+     "n": "ডাঃ মুহাম্মদ জাকারিয়া জালাল",
+     "en": "Dr. Muhammad Zakaria Jalal",
+     "deg": "MBBS (MMC), CCD (BARDEM), MD resident in Endocrinology (BARDEM); advanced endocrinology course, Mayo Clinic, USA",
+     "skill": "ডায়াবেটিস ও হরমোন",
+     "time": "শনিবার, সোমবার, বুধবার, শুক্রবার, বিকাল ৪টা – রাত ৯টা"
+    },
+    {
+     "n": "ডাঃ এম এস জামান (শাজিল)",
+     "en": "Dr. M. S. Zaman (Shajil)",
+     "deg": "MBBS (Raj), BCS (Health), D-Ortho (BSMMU / PG Hospital); IMO (Orthopaedics)",
+     "skill": "হাড় ও জোড়া",
+     "time": "বৃহস্পতিবার বিকাল ৪টা – রাত ৯টা; শুক্রবার সকাল ১০টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ এস এম আব্দুল মুনিম (রমিম)",
+     "en": "Dr. S M Abdul Munim (Romim)",
+     "deg": "MBBS, BCS (Health), MCPS (Medicine), FCPS (Medicine)",
+     "skill": "মেডিসিন",
+     "time": "শনিবার – বৃহস্পতিবার"
+    },
+    {
+     "n": "ডাঃ মোঃ আফতাব রাসেল",
+     "en": "Dr. Md. Aftab Rasel",
+     "deg": "MBBS, BCS (Health), FCPS (Medicine), MD (Neurology)",
+     "skill": "স্নায়ু ও ব্রেইন",
+     "time": "বৃহস্পতিবার ও শুক্রবার (জুমার পর) বিকাল ৫টা থেকে রাত ৯টা, সময় যাচাই করে নিন"
+    },
+    {
+     "n": "ডাঃ মোঃ সাবা আল গালিব",
+     "en": "Dr. Md. Saba Al Galib",
+     "deg": "MBBS, BCS (Health), FCPS (Surgery); fellowship in minimal access surgery (India)",
+     "skill": "সার্জারি",
+     "time": "প্রতিদিন বিকাল ৩টা – রাত ১০টা; শুক্রবার সারাদিন"
+    },
+    {
+     "n": "ডাঃ মোঃ ওবায়দুল ইসলাম",
+     "en": "Dr. Md. Obaidul Islam",
+     "deg": "MS Neurosurgery (Phase B)",
+     "skill": "স্নায়ু ও ব্রেইন",
+     "time": "শনিবার, সকাল ১০টা – সন্ধ্যা ৬টা"
+    },
+    {
+     "n": "ডাঃ আসিফুল ইসলাম (আসিফ)",
+     "en": "Dr. Asiful Islam (Asif)",
+     "deg": "MBBS, CCH, DA (course), BMU",
+     "skill": "ব্যথা ও অ্যানেসথেসিয়া",
+     "time": "শুক্রবার, সকাল ১০টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ মোঃ হারুন-অর-রশিদ প্রামানিক",
+     "en": "Dr. Md. Harun-or-Rashid Pramanik",
+     "deg": "MBBS, D-Ortho (NITOR)",
+     "skill": "হাড় ও জোড়া",
+     "time": "শুক্রবার, বিকাল ৩টা – রাত ১০টা"
+    },
+    {
+     "n": "ডাঃ মঞ্জুর হাসান স্বাধীন",
+     "en": "Dr. Manjur Hasan Swadhin",
+     "deg": "MBBS, BCS (Health), FCPS Orthopaedic Surgery (final part)",
+     "skill": "হাড় ও জোড়া",
+     "time": "শুক্রবার, সকাল ১০টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ মুহাঃ রুহুল আমিন",
+     "en": "Dr. Muh. Ruhul Amin (Civil Surgeon)",
+     "deg": "",
+     "skill": "হৃদরোগ",
+     "time": "রবিবার – বুধবার, বিকাল ৫টা – রাত ১০টা"
+    },
+    {
+     "n": "ডাঃ মোঃ জুয়েল হোসেন",
+     "en": "Dr. Md. Jewel Hossain",
+     "deg": "MBBS, BCS (Health), MS (course) ENT",
+     "skill": "নাক, কান ও গলা",
+     "time": "শুক্রবার, সকাল ১০টা থেকে রাত ৯টা"
+    }
+   ]
+  },
+  {
+   "n": "নিউ গ্রীন লাইফ ডায়াগনস্টিক সেন্টার",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "সদর রাস্তা, সি.ও কলোনী (পানির ট্যাংকের সামনে), জয়পুরহাট",
+   "ph": "01309-246060",
+   "src": "healthcenterbd, inhealthylife, DGHS",
+   "docs": [
+    {
+     "n": "ডাঃ শায়লা জামান",
+     "en": "Dr. Shaila Zaman",
+     "deg": "MBBS, BCS (Health), FCPS, DDV (BSMMU)",
+     "skill": "চর্ম ও যৌন",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ মোঃ আলিম আল রাজী",
+     "en": "Dr. Md. Alim Al Razi",
+     "deg": "MBBS, BCS (Health), MS (Urology), DU",
+     "skill": "ইউরোলজি",
+     "time": "বৃহস্পতিবার ও শুক্রবার, সকাল ৯টা – বিকাল ৩টা"
+    },
+    {
+     "n": "ডাঃ মোঃ শাহাদৎ হোসেন",
+     "en": "Dr. Md. Shahadat Hossain",
+     "deg": "MBBS, BCS (Health), MD (Cardiology)",
+     "skill": "হৃদরোগ",
+     "time": "বৃহস্পতিবার বিকাল ৪টা – রাত ৮টা; শুক্রবার দুপুর ২টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ নূরে ফাতেমা জান্নাতুন নূরী (ইরা)",
+     "deg": "MBBS, BCS (Health), MS (Obs & Gynae), FCPS (part II), CUltra (Dhaka)",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "শনিবার – বৃহস্পতিবার, বিকাল ৩টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ আব্দুর রাজ্জাক",
+     "en": "Dr. Abdur Razzak",
+     "deg": "MBBS (Board Stand), BCS (Health), FCPS (Medicine)",
+     "skill": "মেডিসিন",
+     "time": "প্রতি বুধবার বিকাল ৪টা থেকে রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ মোঃ রুহুল আমিন",
+     "en": "Dr. Md. Ruhul Amin (Orthopaedics)",
+     "deg": "MBBS, BCS (Health), D-Ortho (Pangu Hospital, Dhaka), MS (Ortho)",
+     "skill": "হাড় ও জোড়া",
+     "time": "বিকাল ৪টা থেকে রাত ৮টা; শুক্রবার দুপুর ২:৩০ থেকে রাত ৮টা (উৎস ভেদে দিন আলাদা, কল করে নিশ্চিত হোন)"
+    },
+    {
+     "n": "ডাঃ মীর মুবিনুল ইসলাম (মুবিন)",
+     "en": "Dr. Mir Mubinul Islam (Mubin)",
+     "deg": "MBBS, BCS (Health), MS (Surgery)",
+     "skill": "সার্জারি",
+     "time": "বিকাল ৪টা থেকে রাত ৮টা (মঙ্গলবার বাদে); শুক্রবার সকাল ৮টা থেকে সন্ধ্যা ৭টা (উৎস ভেদে আলাদা, কল করে নিশ্চিত হোন)"
+    },
+    {
+     "n": "ডাঃ নাসিমা আখতার (নীনা)",
+     "en": "Dr. Nasima Akhtar Nina",
+     "deg": "MBBS, BCS (Health), DGO",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "প্রতিদিন বিকাল ৩টা – রাত ৮টা; শুক্রবার সকাল ১০টা থেকে"
+    },
+    {
+     "n": "ডাঃ অমিত কুমার আগরওয়াল",
+     "en": "Dr. Amit Kumar Agarwal",
+     "deg": "MBBS (Dhaka), BCS (Health), DLO (PG Hospital), CCD (BARDEM)",
+     "skill": "নাক, কান ও গলা",
+     "time": "সোমবার বিকাল ৩টা – সন্ধ্যা ৭টা; শুক্রবার সকাল ১০টা – বিকাল ৩টা"
+    },
+    {
+     "n": "ডাঃ মুহাম্মদ আব্দুল্লাহ্ আল মুতী (সুবর্ণ)",
+     "deg": "এম বি বি এস, বি সি এস (স্বাস্থ্য), এম এস",
+     "skill": "হাড় ও জোড়া",
+     "time": "প্রতি বুধবার, দুপুর ৩টা থেকে সন্ধ্যা ৬টা পর্যন্ত",
+     "ph": "01972-783783"
+    },
+    {
+     "n": "ডাঃ শারমিন মারিয়া",
+     "deg": "",
+     "skill": "চর্ম ও যৌন",
+     "time": "প্রতি বৃহস্পতিবার, বিকাল ৩টা থেকে ৬টা পর্যন্ত",
+     "ph": "01972-783783"
+    }
+   ]
+  },
+  {
+   "n": "মডার্ণ জেনারেল হাসপাতাল এন্ড ডায়াগনস্টিক সেন্টার",
+   "s": "ক্লিনিক ও ডায়াগনস্টিক",
+   "tag": "সদর",
+   "a": "জয়পুরহাট সদর",
+   "ph": "01742-426713",
+   "src": "healthcenterbd, inhealthylife",
+   "docs": [
+    {
+     "n": "ডাঃ এম.এ. ওয়াহেদ",
+     "en": "Dr. M. A. Wahed",
+     "deg": "MBBS, BCS (Health), DLO",
+     "skill": "নাক, কান ও গলা",
+     "time": "শুক্রবার, সকাল ৮টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ কাজী ইসমাইল হোসেন",
+     "en": "Dr. Kazi Ismail Hossain",
+     "deg": "MBBS, BCS (Health), FCPS (Surgery)",
+     "skill": "সার্জারি",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ সওদাগর শাহানা পারভীন",
+     "deg": "MBBS, BCS, DGO, CCD (BIRDEM), FCPS (Gynae & Obs) Part 2",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ মীর মুবিনুল ইসলাম (মুবিন)",
+     "en": "Dr. Mir Mubinul Islam (Mubin)",
+     "deg": "MBBS, BCS (Health), MS (Surgery)",
+     "skill": "সার্জারি",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ নাসিমা আখতার (নীনা)",
+     "en": "Dr. Nasima Akhtar Nina",
+     "deg": "MBBS, BCS (Health), DGO",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "প্রতিদিন, বিকাল ৫টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ মোঃ আনোয়ার হোসেন",
+     "deg": "MBBS, DA (Anaesthesia)",
+     "skill": "ব্যথা ও অ্যানেসথেসিয়া",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ মোঃ রেজাউল করিম",
+     "deg": "MBBS, BCS (Health), D-Ortho (Bangladesh Medical University Hospital, Dhaka)",
+     "skill": "হাড় ও জোড়া",
+     "time": "বৃহস্পতিবার, বিকাল ৩টা – রাত ১০টা"
+    },
+    {
+     "n": "ডাঃ অমিত কুমার মোর",
+     "deg": "MBBS, BCS (Health), FCPS (final part) Surgery",
+     "skill": "সার্জারি",
+     "time": "সময় জানতে কল করুন"
+    }
+   ]
+  },
+  {
+   "n": "তাকওয়া ল্যাব এন্ড কনসালটেশন সেন্টার",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "হাসপাতাল মোড়, সদর রোড, জয়পুরহাট-৫৯০০",
+   "ph": "01737-374012",
+   "src": "healthcenterbd, inhealthylife, DGHS",
+   "docs": [
+    {
+     "n": "ডাঃ শারমিন আকতার জুঁই",
+     "en": "Dr. Sharmin Akter Juhi",
+     "deg": "MBBS, BCS (Health), FCPS (Gynae & Obs, final part)",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "শুক্রবার, সকাল ৯টা – দুপুর ২টা"
+    },
+    {
+     "n": "ডাঃ সুকান্ত কুমার ঘোষ",
+     "en": "Dr. Sukanta Kumar Ghosh",
+     "deg": "MBBS (Rajshahi MC), DDV (BSMMU)",
+     "skill": "চর্ম ও যৌন",
+     "time": "শুক্রবার, সকাল ৯টা – দুপুর ২টা"
+    },
+    {
+     "n": "ডাঃ মোঃ সাজেদুর রহমান",
+     "en": "Dr. Md. Sajedur Rahman",
+     "deg": "MBBS (Rangpur MC), BCS (Health), CCD (BARDEM), MD (course)",
+     "skill": "ব্যথা ও অ্যানেসথেসিয়া",
+     "time": "শুক্রবার, সকাল ৯টা – দুপুর ২টা"
+    },
+    {
+     "n": "ডাঃ মোঃ সাইফুল ইসলাম",
+     "en": "Dr. Md. Saiful Islam",
+     "deg": "MBBS (Rajshahi MC), BCS (Health), D-Card (course), CCD (BARDEM), DMU; PGT (Medicine & Respiratory)",
+     "skill": "হৃদরোগ",
+     "time": "প্রতিদিন, বিকাল ৫টা – রাত ৯টা"
+    },
+    {
+     "n": "ডাঃ মোঃ শাহীদ আকন্দ",
+     "en": "Dr. Md. Shahid Akand",
+     "deg": "MBBS, BCS (Health), MS (ENT), BSMMU",
+     "skill": "নাক, কান ও গলা",
+     "time": "শুক্রবার, সকাল ১০টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ মোঃ মামুন আল মুজাহিদ",
+     "en": "Dr. Md. Mamun Al Mujahid",
+     "deg": "MBBS, MD (Psychiatry), BSMMU",
+     "skill": "মানসিক রোগ",
+     "time": "শনিবার, বিকাল ৩টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ মোঃ আনোয়ার হোসেন",
+     "en": "Dr. Md. Anwar Hossain (Orthopaedics)",
+     "deg": "MBBS, BCS (Health), FCPS (Ortho-FP), MS (Ortho, course)",
+     "skill": "হাড় ও জোড়া",
+     "time": "শুক্রবার, সকাল ৯টা – দুপুর ২টা"
+    }
+   ]
+  },
+  {
+   "n": "দি রওশন ক্লিনিক এন্ড ডায়াগনস্টিক সেন্টার",
+   "s": "ক্লিনিক ও ডায়াগনস্টিক",
+   "tag": "সদর",
+   "a": "জয়পুরহাট সদর",
+   "ph": "02589-915700",
+   "src": "healthcenterbd, inhealthylife",
+   "docs": [
+    {
+     "n": "অধ্যাপক ডাঃ মোঃ মজিবর রহমান",
+     "en": "Prof. Dr. Md. Mojibor Rahman",
+     "deg": "FCPS, FRCS (Glasgow), FRCS (Ireland), FICS (USA), Fellow in Urology (Australia)",
+     "skill": "সার্জারি",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ মেহনাজ মুশতারী",
+     "en": "Dr. Mehnaz Mushtari",
+     "deg": "MBBS, FCPS (Obs & Gynae), FCPS (Infertility)",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ এ বি শাহরিয়ার আহমেদ (ফুয়াদ)",
+     "en": "Dr. A B Shahriar Ahmed (Fuad)",
+     "deg": "MBBS, MRCS, FCPS (Surgery), MS (Urology)",
+     "skill": "ইউরোলজি",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ মোঃ শের আলী মর্তুজা",
+     "en": "Dr. Md. Sher Ali Murtuza",
+     "deg": "MBBS, BCS (Health), DLO (Dhaka), PMT and PSGT (Canada)",
+     "skill": "নাক, কান ও গলা",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ এস এম আব্দুল মুনিম (রমিম)",
+     "en": "Dr. S M Abdul Munim (Romim)",
+     "deg": "MBBS, BCS (Health), MCPS (Medicine), FCPS (Medicine)",
+     "skill": "মেডিসিন",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "অধ্যাপক ডাঃ মরিয়ম খাতুন",
+     "en": "Prof. Dr. Moriom Khatun",
+     "deg": "MBBS, MPhil, MSc (London)",
+     "skill": "অন্যান্য",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ সরদার রাশেদ মোবারক (জুয়েল)",
+     "en": "Dr. Sardar Rashed Mobarak (Jewel)",
+     "deg": "MBBS (DU), BCS (Health)",
+     "skill": "অন্যান্য",
+     "time": "সময় জানতে কল করুন"
+    }
+   ]
+  },
+  {
+   "n": "জয়পুরহাট ডায়াগনস্টিক ও ডায়ালাইসিস সেন্টার",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "পশু হাসপাতাল রোড, আমতলী, জয়পুরহাট",
+   "ph": "01751-004544",
+   "src": "healthcenterbd, inhealthylife, DGHS",
+   "docs": [
+    {
+     "n": "ডাঃ মোঃ সোহরাব হোসেন",
+     "en": "Dr. Md. Sohrab Hossain",
+     "deg": "MBBS, BCS (Health), D-Card (BSMMU), CCD (BIRDEM), MACP (USA)",
+     "skill": "হৃদরোগ",
+     "time": "শনিবার – বৃহস্পতিবার, দুপুর ২:৩০ – বিকাল ৪টা"
+    },
+    {
+     "n": "ডাঃ মাহমুদুর রহমান (রিয়াদ)",
+     "en": "Dr. Mahmudur Rahman (Riyad)",
+     "deg": "MBBS, BCS (Health), MD (Phase B, chest diseases), FCPS (Final Part, Medicine)",
+     "skill": "মেডিসিন",
+     "time": "প্রতি শুক্রবার, সকাল ১০টা – রাত ৮টা"
+    },
+    {
+     "n": "ডাঃ আশিক আহমদ জেবাল (বাপ্পী)",
+     "en": "Dr. Ashik Ahmed Jebal (Bappi)",
+     "deg": "MBBS (Sir Salimullah Medical College), BCS 36",
+     "skill": "হাড় ও জোড়া",
+     "time": "প্রতি শুক্রবার, সকাল ১০টা – রাত ১০টা"
+    },
+    {
+     "n": "ডাঃ নূর-উন-নাহার নাজমী",
+     "en": "Dr. Nur-un-Nahar Nazmi (Ruma)",
+     "deg": "MBBS, BCS (Health), FCPS (Gynae & Obs)",
+     "skill": "গাইনি ও প্রসূতি",
+     "time": "প্রতি শুক্রবার, সকাল ১০টা – রাত ১০টা"
+    },
+    {
+     "n": "ডাঃ মাহবুব আল আমিন",
+     "en": "Dr. Mahbub Al Amin",
+     "deg": "MBBS, BCS (Health), MD (Child Medicine)",
+     "skill": "শিশু",
+     "time": "সময় জানতে কল করুন"
+    },
+    {
+     "n": "ডাঃ মোঃ রবিউল আলম",
+     "en": "Dr. Md. Robiul Alam",
+     "deg": "MBBS, BCS (Health), CCD (BIRDEM), MD (Nephrology)",
+     "skill": "কিডনি",
+     "time": "প্রতি শুক্রবার, সকাল ১০টা – রাত ১০টা"
+    }
+   ]
+  },
+  {
+   "n": "ফেয়ার হেলথ কনসালটেন্সী এন্ড ডায়াগনষ্টিক সেন্টার",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "আনসার আলী কমপ্লেক্স, বাটার মোড়, জয়পুরহাট",
+   "ph": "01927-075747",
+   "src": "healthcenterbd, inhealthylife, DGHS",
+   "docs": [
+    {
+     "n": "ডাঃ আসাফুদ্দৌলা",
+     "deg": "MBBS, MCPS, DLO",
+     "skill": "নাক, কান ও গলা",
+     "time": "সকাল ১০.০০টা থেকে বিকাল ৩.০০টা"
+    },
+    {
+     "n": "ডাঃ শচীন্দ্রনাথ সরকার",
+     "deg": "MBBS, ডিসিএইড",
+     "skill": "শিশু",
+     "time": "সকাল ১০.০০টা থেকে বিকাল ৩.০০টা"
+    },
+    {
+     "n": "অধ্যাপক ডাঃ শাহীন রেজা চৌধুরী",
+     "deg": "MBBS, DDV, MCH (Norway)",
+     "skill": "চর্ম ও যৌন",
+     "time": "সময় জানতে কল করুন"
+    }
+   ]
+  },
+  {
+   "n": "ডাক্তার বাড়ী কনসালটেশন সেন্টার",
+   "s": "বিশেষজ্ঞ ডাক্তার ও রোগ নির্ণয়",
+   "tag": "পাঁচবিবি",
+   "a": "হিলি রোড, পাঁচ পাথা, পাঁচবিবি",
+   "ph": "01729-534949",
+   "src": "Monem-এর অ্যাপ, DGHS রেজিস্ট্রি",
+   "docs": [
+    {
+     "n": "ডাঃ এস.এম নাহিদ ইসলাম",
+     "deg": "এমবিবিএস, বিসিএস (স্বাস্থ্য), পিজিটি (মেডিসিন ও হৃদরোগ), ডিএফ (চর্ম ও যৌন), সাবেক আইএমও, টিএমএসএস মেডিকেল কলেজ ও হাসপাতাল",
+     "skill": "মেডিসিন, হৃদরোগ ও ডায়াবেটিস রোগে অভিজ্ঞ",
+     "time": "প্রতি শনি ও বুধবার বিকাল ৪টা হতে রাত ৮টা",
+     "fee": "৭০০",
+     "days": [
+      6,
+      3
+     ]
+    },
+    {
+     "n": "ডাঃ মনিরাতুল জান্নাত",
+     "deg": "এমবিবিএস, এফসিপিএস (কার্ডিওলজি) ফাইনাল পার্ট, এমডি (কার্ডিওলজি) কোর্স রেসিডেন্ট, বাংলাদেশ মেডিকেল বিশ্ববিদ্যালয় (এক্স পিজি হাসপাতাল)",
+     "skill": "মেডিসিন, হৃদরোগ ও ডায়াবেটিস রোগে অভিজ্ঞ",
+     "time": "প্রতি শনি ও বুধবার বিকাল ৪টা হতে রাত ৮টা",
+     "fee": "",
+     "days": [
+      6,
+      3
+     ]
+    },
+    {
+     "n": "ডাঃ মাসরুফা তাসনিম",
+     "deg": "এমবিবিএস, বিসিএস (স্বাস্থ্য), ডিএমইউ (আল্ট্রা), মেডিকেল অফিসার (ডাক্তার বাড়ী কনসালটেশন সেন্টার, পাঁচবিবি)",
+     "skill": "মেডিসিন ও ডায়াবেটিস রোগে অভিজ্ঞ চিকিৎসক",
+     "time": "প্রতিদিন সকাল ৯টা হতে দুপুর ২টা",
+     "fee": "৭০০",
+     "days": null
+    }
+   ]
+  },
+  {
+   "n": "ইমু ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "আমতলী, সদর রোড, জয়পুরহাট সদর, জয়পুরহাট",
+   "ph": "01791-353610",
+   "src": "healthcenterbd, inhealthylife, DGHS",
+   "docs": [
+    {
+     "n": "ডাঃ মোঃ সামছুজ্জোহা (সুজন)",
+     "deg": "এমবিবিএস, বিসিএস, ডিসিএইচ",
+     "skill": "শিশু",
+     "time": "সময় জানতে কল করুন"
+    }
+   ]
+  },
+  {
+   "n": "আল বারাকা হার্ট সেন্টার অ্যান্ড ডায়াগনস্টিক",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "আমতলী রোড, জয়পুরহাট",
+   "ph": "01932-507693",
+   "low": true,
+   "src": "healthcenterbd, inhealthylife, DGHS",
+   "docs": [
+    {
+     "n": "Dr. Md. Mejbahul Islam",
+     "deg": "MBBS, BCS (Health), D-Ortho (course, BMU/PG Hospital), FCPS (Part-1, Orthopaedics, on training)",
+     "skill": "হাড় ও জোড়া",
+     "time": "সময় জানতে কল করুন"
+    }
+   ]
+  },
+  {
+   "n": "বিসমিল্লাহ ডায়াগনস্টিক সেন্টার",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "আক্কেলপুর",
+   "a": "সরদার মার্কেট, আক্কেলপুর",
+   "ph": "01712-493776",
+   "low": true,
+   "src": "DGHS রেজিস্ট্রি (নবায়ন ২০১৯)",
+   "docs": [
+    {
+     "n": "ডাঃ মোঃ ইউসুফ আলী",
+     "en": "Dr. Md. Yousuf Ali",
+     "deg": "MBBS, BCS (Health), MD (Pediatrics)",
+     "skill": "শিশু",
+     "time": "সময় জানতে কল করুন"
+    }
+   ]
+  },
+  {
+   "n": "সেবা ডায়াগনস্টিক সেন্টার",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "সদর মেইন রোড, জয়পুরহাট",
+   "ph": "0571-63117",
+   "src": "healthcenterbd, inhealthylife, DGHS"
+  },
+  {
+   "n": "কেএম ল্যাব এন্ড কনসালটেন্সি",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "ডিকেএম ভবন, মহিলা কলেজ রোড, জয়পুরহাট",
+   "ph": "01712-265904",
+   "src": "healthcenterbd, inhealthylife, DGHS"
+  },
+  {
+   "n": "ফ্যামিলি কেয়ার ল্যাব",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "সরদার আবেদ আলী কমপ্লেক্স (৩য় তলা), সদর রোড, সিও কলোনি, জয়পুরহাট",
+   "ph": "01758-102740",
+   "low": true,
+   "src": "healthcenterbd, inhealthylife, DGHS"
+  },
+  {
+   "n": "আল-শিফা ডায়াগনস্টিক সেন্টার",
+   "en": "Al-Shifa Diagnostic Centre (Joypurhat Sadar)",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "জেলা হাসপাতাল মোড়, সদর রোড, জয়পুরহাট",
+   "ph": "01969-833922",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "যমুনা ল্যাব এন্ড কনসালটেন্সী",
+   "en": "Jamuna Lab & Consultancy",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "মঙ্গলবাড়ী বাজার, পাছলিয়া, জয়পুরহাট",
+   "ph": "01795-188281",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "ল্যাব সেভেন ডায়গনস্টিক সেন্টার",
+   "en": "Lab Seven Diagnostic Centre",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "পুরানাপৈল বাজার, জয়পুরহাট",
+   "ph": "01913-152300",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "এস.বি পোলার ডায়াগনস্টিকস্ এন্ড কনসালটেন্সী",
+   "en": "S.B Polar Diagnostic & Consultancy",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "বাজার গলি, জয়পুরহাট সদর",
+   "ph": "01715-483444",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "সাজ প্যাথলজিক্যাল ল্যাব",
+   "en": "Saz Pathological Lab",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "জামালগঞ্জ রোড, জয়পুরহাট",
+   "ph": "01714-029251",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "ডক্টরস ল্যাব",
+   "en": "Doctors Lab",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "আমতলী, সদর রোড, জয়পুরহাট",
+   "ph": "01957-199979",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "মেডিটেস্ট ডায়াগনস্টিক এন্ড কনসালটেন্সী সেন্টার",
+   "en": "Meditest Diagnostic & Consultancy Center",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "সিও কলোনি, জয়পুরহাট",
+   "ph": "01717-999855",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "অক্সিজেন ডায়াগনস্টিকস এন্ড কনসালটেশন সেন্টার",
+   "en": "Oxigen Diagnostic & Consultation Centre",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "আমতলী, সদর রোড, জয়পুরহাট",
+   "ph": "01790-474751",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "হাই কেয়ার ক্লিনিক এন্ড ডায়াগনস্টিক সেন্টার",
+   "en": "High Care Clinic and Diagnostic Center",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "আমতলী, সদর রোড, জয়পুরহাট",
+   "ph": "01831-387070",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "ন্যাশনাল জেনারেল হাসপাতাল এন্ড ডায়াগনষ্টিক সেন্টার",
+   "en": "National General Hospital and Diagnostic Centre",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "আমতলী, সদর রোড, জয়পুরহাট",
+   "ph": "01721-669177",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "আনোয়ারা ল্যাব অ্যান্ড কনসালটেন্সি",
+   "en": "Anowara Lab & Consultancy",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "সিও কলোনি, সদর রোড, জয়পুরহাট",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "সিটি ডায়াগনষ্টিক সেন্টার",
+   "en": "City Diagnostic Center",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "সদর",
+   "a": "আমতলী, সদর রোড, জয়পুরহাট",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "খনজনপুর মিশন হেলথ সার্ভিস",
+   "en": "Khanjanpur Mission Health Service",
+   "s": "স্বাস্থ্যকেন্দ্র (এনজিও)",
+   "tag": "সদর",
+   "a": "পাহাড়পুর রোড, খনজনপুর, জয়পুরহাট",
+   "ph": "01733-779944",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "সূর্যের হাসি নেটওর্য়াক, সূর্যের হাসি ক্লিনিক জয়পুরহাট",
+   "en": "Surjer Hashi Clinic, Joypurhat",
+   "s": "স্বাস্থ্যকেন্দ্র (এনজিও)",
+   "tag": "সদর",
+   "a": "প্রফেসরপাড়া, জয়পুরহাট",
+   "ph": "01720-553810",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "মাধাইনগর স্বাস্থ্যকেন্দ্র, গ্রামীন কল্যাণ",
+   "en": "Madhainagar Health Centre, Grameen Kalyan",
+   "s": "স্বাস্থ্যকেন্দ্র (এনজিও)",
+   "tag": "সদর",
+   "a": "মাধাইনগর বাজার, আমদই, জয়পুরহাট সদর",
+   "ph": "01701-693441",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "জামালগঞ্জ স্বাস্থ্য কেন্দ্র গ্রামীন কল্যাণ",
+   "en": "Jamalganj Health Center, Grameen Kalyan",
+   "s": "স্বাস্থ্যকেন্দ্র (এনজিও)",
+   "tag": "সদর",
+   "a": "জামালপুর চারমাথা, জামালগঞ্জ, জয়পুরহাট সদর",
+   "ph": "01701-693449",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "সমজদার ডায়াগনষ্টিক সেন্টার",
+   "en": "Somajder Diagnostic Centre",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "আক্কেলপুর",
+   "a": "তিলকপুর, আক্কেলপুর",
+   "ph": "01719-105830",
+   "low": true,
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "ডিজিটাল ডায়াগনষ্টিক সেন্টার",
+   "en": "Digital Diagnostic Center (Akkelpur)",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "আক্কেলপুর",
+   "a": "হাবিবা ম্যানশন, কলেজ বাজার, মেইন রোড, আক্কেলপুর",
+   "ph": "01714-602663",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "নাবা-আয়াত ডায়াগনস্টিক সেন্টার",
+   "en": "Naba-Ayat Diagnostic Centre",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "আক্কেলপুর",
+   "a": "উপজেলা মুক্তিযোদ্ধা কমপ্লেক্স ভবন, সদর রোড, আক্কেলপুর",
+   "ph": "01779-222282",
+   "low": true,
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "দি পপুলার ডায়াগনস্টিক সেন্টার",
+   "en": "The Popular Diagnostic Center, Akkelpur",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "আক্কেলপুর",
+   "a": "এস কে সুপার মার্কেট (২য় তলা), আক্কেলপুর উপজেলা স্বাস্থ্য কমপ্লেক্সের সামনে",
+   "src": "DGHS রেজিস্ট্রি, প্রথম আলো"
+  },
+  {
+   "n": "তিলকপুর স্বাস্থ্যকেন্দ্র, গ্রামীণ কল্যাণ",
+   "en": "Tilokpur Health Center, Grameen Kalyan",
+   "s": "স্বাস্থ্যকেন্দ্র (এনজিও)",
+   "tag": "আক্কেলপুর",
+   "a": "তিলকপুর, আক্কেলপুর",
+   "ph": "01701-693452",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "নাফ ডায়াগনষ্টিক সেন্টার",
+   "en": "NAF Diagnostic Centre",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "কালাই",
+   "a": "হারুঞ্জা, কালাই",
+   "ph": "01711-929522",
+   "low": true,
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "মল্লিক ডিজিটাল ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+   "en": "Mollik Digital Diagnostic & Consultation Center",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "কালাই",
+   "a": "সদর রোড, কালাই",
+   "ph": "01717-338194",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "সততা ডায়গনষ্টিক সেন্টার",
+   "en": "Sotota Diagnostic Center",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "কালাই",
+   "a": "হাসপাতাল রোড, কালাই",
+   "ph": "01725-855936",
+   "low": true,
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "ক্ষেতলাল ডায়াগনস্টিক সেন্টার",
+   "en": "Khetlal Diagnostic Centre",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "ক্ষেতলাল",
+   "a": "ইটাখোলা রোড, শান্তিকুঞ্জ, ক্ষেতলাল",
+   "ph": "01917-800445",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "কম্পিউটার প্যাথলজি সেন্টার",
+   "en": "Computer Pathology Centre",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "ক্ষেতলাল",
+   "a": "নাজিরপুর, মোলামগাড়ীহাট, ক্ষেতলাল",
+   "ph": "01729-446170",
+   "low": true,
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "আল-তাকওয়া ল্যাব এন্ড কনসালটেশন সেন্টার",
+   "en": "Al-Taqwa Lab and Consultation Center (Khetlal)",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "ক্ষেতলাল",
+   "a": "ক্ষেতলাল সদর, ক্ষেতলাল",
+   "ph": "01776-404545",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "লাইফ কেয়ার ডায়াগনস্টিক এন্ড ডায়াবেটিক সেন্টার",
+   "en": "Life Care Diagnostic & Diabetic Centre",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "ক্ষেতলাল",
+   "a": "বটতলী বাজার, ক্ষেতলাল",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "গ্রামীন কল্যান বটতলী বাজার স্বাস্থ্য কেন্দ্র",
+   "en": "Grameen Kalyan Bottoli Bazar Health Centre",
+   "s": "স্বাস্থ্যকেন্দ্র (এনজিও)",
+   "tag": "ক্ষেতলাল",
+   "a": "বটতলী বাজার, ক্ষেতলাল",
+   "ph": "01701-693442",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "প্যাথলজিক্যাল ল্যাবরেটরি",
+   "en": "Pathological Laboratory (Damdama, Panchbibi)",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "পাঁচবিবি",
+   "a": "দমদমা, পাঁচবিবি",
+   "ph": "01712-501800",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "রমিছা ক্লিনিক এন্ড ডায়াগনষ্টিক সেন্টার",
+   "en": "Ramichha Clinic & Diagnostic Centre",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "পাঁচবিবি",
+   "a": "বাজার রোড, পাঁচবিবি",
+   "ph": "01722-820013",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "শিমুলতলী ডায়াগনষ্টিক সেন্টার",
+   "en": "Shimultoli Diagnostic Centre",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "পাঁচবিবি",
+   "a": "শিমুলতলী বাজার, পাঁচবিবি",
+   "ph": "01714-566497",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "আত-তাকওয়া ল্যাব এন্ড জেনারেল হাসপাতাল",
+   "en": "At-Taqwa Lab & General Hospital",
+   "s": "ডায়াগনস্টিক সেন্টার",
+   "tag": "পাঁচবিবি",
+   "a": "তিনমাথা, পাঁচবিবি",
+   "src": "DGHS রেজিস্ট্রি"
+  },
+  {
+   "n": "সূর্যের হাসি নেটওয়ার্ক, সূর্যের হাসি ক্লিনিক, পাঁচবিবি",
+   "en": "Surjer Hashi Clinic, Panchbibi",
+   "s": "স্বাস্থ্যকেন্দ্র (এনজিও)",
+   "tag": "পাঁচবিবি",
+   "a": "নাকুরগাছি (হিলি রোড), পাঁচবিবি",
+   "ph": "01712-846964",
+   "src": "DGHS রেজিস্ট্রি"
+  }
+ ],
+ "dental": [
+  {
+   "n": "গ্রাজুয়েট জেনারেল হাসপাতাল (ডেন্টাল বিভাগ)",
+   "a": "মেইন রোড, আমতলী, জয়পুরহাট",
+   "ph": "01752-019956",
+   "src": "graduategeneralhospital.com",
+   "docs": [
+    {
+     "n": "ডাঃ এম. আই. হাসান",
+     "en": "Dr. M. I. Hasan",
+     "deg": "BDS, PGT, MPH (Dentistry)",
+     "skill": "দাঁত ও মুখের রোগ"
+    },
+    {
+     "n": "ডাঃ জামাতুল ফেরদৌস বীথি",
+     "en": "Dr. Jamatul Ferdous Bithi",
+     "deg": "BDS (Rajshahi), BMDC Reg. 2480",
+     "skill": "দাঁত ও ওরাল সার্জারি"
+    }
+   ]
+  },
+  {
+   "n": "ডাঃ মোঃ আমিরুল ইসলামের চেম্বার",
+   "s": "ওরাল ও ম্যাক্সিলোফেসিয়াল সার্জন",
+   "a": "সদর রোড, জয়পুরহাট",
+   "ph": "01911-829940",
+   "low": true,
+   "src": "Cybo, DGHS"
+  }
+ ]
+}

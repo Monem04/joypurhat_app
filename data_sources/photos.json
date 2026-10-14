@@ -1,0 +1,4 @@
+{
+ "_how": "Real photos for the app. Put each photo file directly in assets/photos/ (e.g. assets/photos/paharpur-1.jpg), or use an https web address. Add one entry per place: category key (spots, restaurant, hotel, mess, house, hospital, ...), the place's name exactly as the app shows it, and its photos with a credit (who took it, licence). Then run: python3 tool/build_data.py tool/proto_data.json data_sources assets/data/joypurhat.json. Use only photos you took yourself or ones whose licence allows reuse (e.g. Wikimedia Commons CC BY-SA, with the author named in credit).",
+ "photos": []
+}

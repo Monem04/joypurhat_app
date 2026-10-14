@@ -1,0 +1,2035 @@
+{
+  "checked": "2026-10-11",
+  "education": [
+    {
+      "name_en": "Joypurhat Government College",
+      "name_bn": "জয়পুরহাট সরকারি কলেজ",
+      "kind": "Government college (HSC, honours, masters; National University affiliated); EIIN 121897; college code 5000",
+      "upazila": "Joypurhat Sadar",
+      "address": "Shanti Nagar, near Joypurhat Railway Station, Joypurhat",
+      "phones": [
+        "02589915728"
+      ],
+      "website": "www.jgcbd.edu.bd",
+      "price": "",
+      "description_bn": "জেলার সর্বোচ্চ শিক্ষাপ্রতিষ্ঠান। জাতীয় বিশ্ববিদ্যালয়ের অধিভুক্ত; ১৯৮০ সালে সরকারি হয়, ১৯৯৭ সালে অনার্স ও ২০০৬ সালে মাস্টার্স কোর্স চালু হয়। প্রায় ৮.৭ একর ক্যাম্পাস, জয়পুরহাট রেলস্টেশনের কাছে।",
+      "maps_query": "Joypurhat Government College, Joypurhat",
+      "lat": "25.0972",
+      "lng": "89.0236",
+      "source_urls": [
+        "https://jgcbd.edu.bd/",
+        "https://en.wikipedia.org/wiki/Joypurhat_Government_College",
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://en.banglapedia.org/index.php/Joypurhat_Sadar_Upazila",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা"
+      ],
+      "confidence": "high",
+      "notes": "Phone, EIIN and college code from the college website. Founding year conflicts: Wikipedia 1963 (opened 17 Nov 1963 in a jute warehouse at Bajla); Banglapedia district page 1946; Banglapedia Sadar upazila page 1972. Principal also differs: website lists Prof. A.K.M. Shafiqul Islam, Wikipedia lists Md. Saiful Islam."
+    },
+    {
+      "name_en": "Joypurhat Girls' Cadet College",
+      "name_bn": "জয়পুরহাট মহিলা ক্যাডেট কলেজ",
+      "kind": "Government cadet college for girls (Ministry of Defence), class 7 to HSC; EIIN 132222",
+      "upazila": "Joypurhat Sadar",
+      "address": "Joypurhat 5900",
+      "phones": [
+        ""
+      ],
+      "website": "jgcc.army.mil.bd",
+      "price": "",
+      "description_bn": "মেয়েদের ক্যাডেট কলেজ, প্রতিষ্ঠা ১৬ জুলাই ২০০৬। সপ্তম বা অষ্টম শ্রেণিতে ভর্তি হয়ে উচ্চ মাধ্যমিক পর্যন্ত পড়াশোনা। ক্যাম্পাস ৫৭ একর, আসন প্রায় ৩২৬।",
+      "maps_query": "Joypurhat Girls Cadet College",
+      "lat": "25.0983",
+      "lng": "89.0064",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Joypurhat_Girls%27_Cadet_College",
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা",
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "high",
+      "notes": "Upazila listed as Sadar by Banglapedia's Sadar upazila page. Official website is robots-blocked so phone could not be read."
+    },
+    {
+      "name_en": "Joypurhat Government Women's College",
+      "name_bn": "জয়পুরহাট সরকারি মহিলা কলেজ",
+      "kind": "Government women's college",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "সরকারি মহিলা কলেজ, প্রতিষ্ঠা ১৯৭২।",
+      "maps_query": "Joypurhat Government Women's College",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://en.banglapedia.org/index.php/Joypurhat_Sadar_Upazila",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা",
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "medium",
+      "notes": "Established 1972 (Banglapedia and Wikipedia agree). No address/phone found."
+    },
+    {
+      "name_en": "Mohipur Haji Mohsin Government College",
+      "name_bn": "মহিপুর হাজী মহসিন সরকারি কলেজ",
+      "kind": "Government college",
+      "upazila": "Panchbibi",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "পাঁচবিবি উপজেলার সরকারি কলেজ।",
+      "maps_query": "Mohipur Haji Mohsin Government College, Panchbibi",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Panchbibi_Upazila",
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা",
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "medium",
+      "notes": "Founding year conflict: 1969 (Banglapedia district page, Wikipedia) vs 1976 (Banglapedia Panchbibi page, spelled 'Mahipur Haji Mohosin')."
+    },
+    {
+      "name_en": "Panchbibi Degree College",
+      "name_bn": "পাঁচবিবি ডিগ্রি কলেজ",
+      "kind": "College (degree)",
+      "upazila": "Panchbibi",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "পাঁচবিবি উপজেলার ডিগ্রি কলেজ, প্রতিষ্ঠা ১৯৯৪।",
+      "maps_query": "Panchbibi Degree College",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Panchbibi_Upazila"
+      ],
+      "confidence": "medium",
+      "notes": "Established 1994 per Banglapedia. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Akkelpur Mujibar Rahman College",
+      "name_bn": "আক্কেলপুর মুজিবর রহমান কলেজ",
+      "kind": "College",
+      "upazila": "Akkelpur",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "আক্কেলপুরের কলেজ।",
+      "maps_query": "Akkelpur Mujibar Rahman College",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "low",
+      "notes": "Only named in Wikipedia's district college list. upazila inferred from the place name in the institution's name, not stated by the source. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Amdai United Degree College",
+      "name_bn": "আমদই ইউনাইটেড ডিগ্রি কলেজ",
+      "kind": "College (degree)",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "ডিগ্রি কলেজ; উইকিপিডিয়া অনুযায়ী প্রতিষ্ঠা ১৯৪৬।",
+      "maps_query": "Amdai United Degree College Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "low",
+      "notes": "Wikipedia gives founding year 1946; location not stated. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Joypurhat Women's Degree College",
+      "name_bn": "জয়পুরহাট মহিলা ডিগ্রি কলেজ",
+      "kind": "Women's college (degree)",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "জয়পুরহাটের মহিলা ডিগ্রি কলেজ।",
+      "maps_query": "Joypurhat Women's Degree College",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "low",
+      "notes": "Only named in Wikipedia's list. upazila inferred from the place name in the institution's name, not stated by the source. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Kalai Degree College",
+      "name_bn": "কালাই ডিগ্রি কলেজ",
+      "kind": "College (degree)",
+      "upazila": "Kalai",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "কালাই উপজেলার ডিগ্রি কলেজ।",
+      "maps_query": "Kalai Degree College, Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "low",
+      "notes": "upazila inferred from the place name in the institution's name, not stated by the source. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Khetlal Syeed Altafunnesa College",
+      "name_bn": "ক্ষেতলাল সৈয়দ আলতাফুন্নেসা কলেজ",
+      "kind": "College",
+      "upazila": "Khetlal",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "ক্ষেতলাল উপজেলার কলেজ।",
+      "maps_query": "Khetlal Altafunnesa College",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "low",
+      "notes": "upazila inferred from the place name in the institution's name, not stated by the source. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Nandail College",
+      "name_bn": "নান্দাইল কলেজ",
+      "kind": "College",
+      "upazila": "Kalai",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "নান্দাইল দীঘির পাড়ে অবস্থিত কলেজ।",
+      "maps_query": "Nandail College, Kalai, Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://vromonguide.com/place/nandail-dighi-joypurhat"
+      ],
+      "confidence": "low",
+      "notes": "Only mentioned by a travel page as being on the bank of Nandail Dighi; upazila follows that page (Kalai), but see the Nandail Dighi conflict (one source says Panchbibi)."
+    },
+    {
+      "name_en": "Business Management Institute, Joypurhat",
+      "name_bn": "",
+      "kind": "Technical institute",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "উইকিপিডিয়ায় জয়পুরহাটের প্রথম প্রযুক্তি প্রতিষ্ঠান হিসেবে উল্লেখিত।",
+      "maps_query": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Joypurhat_Sadar_Upazila"
+      ],
+      "confidence": "low",
+      "notes": "Wikipedia (Sadar upazila page) calls it the 'first technology institution'; no year, address or contact."
+    },
+    {
+      "name_en": "Joypurhat R.B. (Ramdeo Bajla) Govt. High School",
+      "name_bn": "জয়পুরহাট রামদেও বাজলা সরকারি উচ্চ বিদ্যালয়",
+      "kind": "Government high school (class 6-10, boys), Rajshahi board",
+      "upazila": "Joypurhat Sadar",
+      "address": "Sadar Road, Joypurhat 5900",
+      "phones": [
+        ""
+      ],
+      "website": "www.rbgovthighschool.edu.bd",
+      "price": "",
+      "description_bn": "জেলা স্কুল বা বাজলা স্কুল নামেও পরিচিত। প্রতিষ্ঠা ২ ফেব্রুয়ারি ১৯৪৬; জমিদাতা ব্যবসায়ী রামদেও বাজলার নামে নামকরণ। ১ জুন ১৯৭৭ সরকারি হয়। প্রভাতি ও দিবা শিফট, ৬০ আসনের ছাত্রাবাস।",
+      "maps_query": "R.B. Govt. High School, Joypurhat",
+      "lat": "25.1003",
+      "lng": "89.0319",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/R.B._Govt._High_School",
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা",
+        "https://en.wikipedia.org/wiki/Joypurhat_District",
+        "https://en.wikipedia.org/wiki/Joypurhat_Sadar_Upazila"
+      ],
+      "confidence": "high",
+      "notes": "Coordinates from Wikipedia infobox (25°06′01″N 89°01′55″E). EIIN and phone not listed."
+    },
+    {
+      "name_en": "Joypurhat Government Girls' High School",
+      "name_bn": "জয়পুরহাট সরকারি উচ্চ বালিকা বিদ্যালয়",
+      "kind": "Government girls' high school",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "সরকারি বালিকা উচ্চ বিদ্যালয়।",
+      "maps_query": "Joypurhat Government Girls High School",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা",
+        "https://en.banglapedia.org/index.php/Joypurhat_Sadar_Upazila",
+        "https://en.wikipedia.org/wiki/Joypurhat_Sadar_Upazila"
+      ],
+      "confidence": "medium",
+      "notes": "Year conflict: Banglapedia gives 1977; Wikipedia Sadar page says established 1960 and nationalised 1977."
+    },
+    {
+      "name_en": "Khanjanpur High School",
+      "name_bn": "খঞ্জনপুর উচ্চ বিদ্যালয়",
+      "kind": "High school",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "খঞ্জনপুরের পুরোনো উচ্চ বিদ্যালয়।",
+      "maps_query": "Khanjanpur High School, Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_Sadar_Upazila",
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা",
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "medium",
+      "notes": "Year conflict: 1901 (English Banglapedia, Wikipedia) vs 1917 (Bangla Banglapedia)."
+    },
+    {
+      "name_en": "Khanjanpur Mission Girls' High School",
+      "name_bn": "খঞ্জনপুর মিশন উচ্চ বালিকা বিদ্যালয়",
+      "kind": "Girls' high school (mission)",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "খঞ্জনপুর খ্রিস্টান মিশন পরিচালিত বালিকা বিদ্যালয়।",
+      "maps_query": "Khanjanpur Mission Girls High School",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://en.banglapedia.org/index.php/Joypurhat_Sadar_Upazila",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা",
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "medium",
+      "notes": "Year conflict: 1919 (Banglapedia district page, Wikipedia) vs 1911 (Banglapedia Sadar upazila page)."
+    },
+    {
+      "name_en": "Uchai Jerka Adivasi (S.C.) High School",
+      "name_bn": "উচাই জেরকা আদিবাসী উচ্চ বিদ্যালয়",
+      "kind": "High school",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "১৯২৫ সালে প্রতিষ্ঠিত উচ্চ বিদ্যালয়।",
+      "maps_query": "Uchai Jerka High School Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://en.banglapedia.org/index.php/Joypurhat_Sadar_Upazila",
+        "https://en.banglapedia.org/index.php/Panchbibi_Upazila",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা",
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "medium",
+      "notes": "Established 1925 (all sources agree). Upazila conflict: Banglapedia Sadar page lists 'Uchai Jerka Adivasi High School', Banglapedia Panchbibi page lists 'Uchai Jerka SC High School'."
+    },
+    {
+      "name_en": "Teghar High School",
+      "name_bn": "তেঘর উচ্চ বিদ্যালয়",
+      "kind": "High school",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "১৯৪০ সালে প্রতিষ্ঠিত উচ্চ বিদ্যালয়।",
+      "maps_query": "Teghar High School Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_Sadar_Upazila",
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা",
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "medium",
+      "notes": "Established 1940."
+    },
+    {
+      "name_en": "Kalai Moyen Uddin High School",
+      "name_bn": "কালাই ময়েনউদ্দিন উচ্চ বিদ্যালয়",
+      "kind": "High school",
+      "upazila": "Kalai",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "কালাইয়ের প্রাচীন উচ্চ বিদ্যালয়, প্রতিষ্ঠা ১৯১৩।",
+      "maps_query": "Kalai Moyen Uddin High School",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Kalai_Upazila",
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা",
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "medium",
+      "notes": "Established 1913."
+    },
+    {
+      "name_en": "Sonamukhi Bilateral High School",
+      "name_bn": "সোনামুখী দ্বিমুখী উচ্চ বিদ্যালয়",
+      "kind": "High school",
+      "upazila": "Akkelpur",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "আক্কেলপুরের উচ্চ বিদ্যালয়, প্রতিষ্ঠা ১৯১৬।",
+      "maps_query": "Sonamukhi High School Akkelpur",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Akkelpur_Upazila",
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা",
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "medium",
+      "notes": "Established 1916. Spelled 'Sunamukhi' on the Akkelpur page."
+    },
+    {
+      "name_en": "Jamalganj Multilateral High School",
+      "name_bn": "জামালগঞ্জ বহুমুখী উচ্চ বিদ্যালয়",
+      "kind": "High school",
+      "upazila": "Akkelpur",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "জামালগঞ্জের উচ্চ বিদ্যালয়, প্রতিষ্ঠা ১৯৪৪।",
+      "maps_query": "Jamalganj High School Akkelpur",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Akkelpur_Upazila"
+      ],
+      "confidence": "medium",
+      "notes": "Established 1944. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Akkelpur F.U. Pilot High School",
+      "name_bn": "আক্কেলপুর এফ ইউ পাইলট উচ্চ বিদ্যালয়",
+      "kind": "High school",
+      "upazila": "Akkelpur",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "আক্কেলপুরের পাইলট উচ্চ বিদ্যালয়, প্রতিষ্ঠা ১৯৪৮।",
+      "maps_query": "Akkelpur F.U. Pilot High School",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Akkelpur_Upazila",
+        "https://en.wikipedia.org/wiki/Joypurhat_Sadar_Upazila"
+      ],
+      "confidence": "medium",
+      "notes": "Established 1948. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Haripur High School",
+      "name_bn": "হরিপুর উচ্চ বিদ্যালয়",
+      "kind": "High school",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "১৯১৭ সালে প্রতিষ্ঠিত উচ্চ বিদ্যালয়।",
+      "maps_query": "Haripur High School Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা"
+      ],
+      "confidence": "low",
+      "notes": "Established 1917; upazila not stated."
+    },
+    {
+      "name_en": "Khetlal Pilot High School",
+      "name_bn": "ক্ষেতলাল পাইলট উচ্চ বিদ্যালয়",
+      "kind": "High school",
+      "upazila": "Khetlal",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "ক্ষেতলালের পাইলট উচ্চ বিদ্যালয়, প্রতিষ্ঠা ১৯৪২।",
+      "maps_query": "Khetlal Pilot High School",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Khetlal_Upazila"
+      ],
+      "confidence": "medium",
+      "notes": "Established 1942. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Panchbibi Lal Bihari Government High School",
+      "name_bn": "পাঁচবিবি লাল বিহারী সরকারি উচ্চ বিদ্যালয়",
+      "kind": "Government high school",
+      "upazila": "Panchbibi",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "পাঁচবিবির সরকারি উচ্চ বিদ্যালয়, প্রতিষ্ঠা ১৯৪০।",
+      "maps_query": "Panchbibi Lal Bihari Government High School",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Panchbibi_Upazila"
+      ],
+      "confidence": "medium",
+      "notes": "Established 1940. Banglapedia separately lists a 'Government LLB High School (1924)' in Panchbibi; unclear whether these are related. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Panchbibi Nasir Mandal Government Girls' High School",
+      "name_bn": "পাঁচবিবি নাসির মন্ডল সরকারি বালিকা উচ্চ বিদ্যালয়",
+      "kind": "Government girls' high school",
+      "upazila": "Panchbibi",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "পাঁচবিবির সরকারি বালিকা উচ্চ বিদ্যালয়, প্রতিষ্ঠা ১৯৬৪।",
+      "maps_query": "Panchbibi Nasir Mandal Government Girls High School",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Panchbibi_Upazila"
+      ],
+      "confidence": "medium",
+      "notes": "Established 1964. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Komorgram High School",
+      "name_bn": "কোমরগ্রাম উচ্চ বিদ্যালয়",
+      "kind": "High school",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "১৯৬৮ সালে প্রতিষ্ঠিত উচ্চ বিদ্যালয়।",
+      "maps_query": "Komorgram High School Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "low",
+      "notes": "Established 1968 per Wikipedia; location not stated. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Baniapara Kamil Madrasa",
+      "name_bn": "বানিয়াপাড়া মাদ্রাসা",
+      "kind": "Alia madrasa (kamil)",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "জয়পুরহাট সদরের কামিল মাদ্রাসা।",
+      "maps_query": "Baniapara Kamil Madrasa Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Joypurhat_District",
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা"
+      ],
+      "confidence": "medium",
+      "notes": "Year conflict: Wikipedia says established 1779; Banglapedia lists 'Baniapara Madrasa (1936)'."
+    },
+    {
+      "name_en": "Hanail Nomania Kamil Madrasa",
+      "name_bn": "হানাইল নোমানিয়া কামিল মাদ্রাসা",
+      "kind": "Alia madrasa (kamil)",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "জয়পুরহাট সদরের কামিল মাদ্রাসা, প্রতিষ্ঠা ১৯১৮।",
+      "maps_query": "Hanail Nomania Kamil Madrasa",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_Sadar_Upazila",
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "medium",
+      "notes": "Established 1918 (Banglapedia). name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Karai Nurul Huda Kamil (Aliya) Madrasa",
+      "name_bn": "কড়ই নুরুল হুদা আলিয়া মাদ্রাসা",
+      "kind": "Alia madrasa (kamil)",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "১৯২৬ সালে প্রতিষ্ঠিত আলিয়া মাদ্রাসা।",
+      "maps_query": "Karai Nurul Huda Kamil Madrasa",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা",
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "medium",
+      "notes": "Established 1926 (Banglapedia). Wikipedia calls it a kamil madrasa in Sadar upazila."
+    },
+    {
+      "name_en": "Joypurhat Siddiqia Kamil Model Madrasa",
+      "name_bn": "জয়পুরহাট সিদ্দিকীয়া কামিল মডেল মাদ্রাসা",
+      "kind": "Alia madrasa (kamil)",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "জয়পুরহাট শহরের কামিল মডেল মাদ্রাসা।",
+      "maps_query": "Joypurhat Siddiqia Kamil Madrasa",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Joypurhat_District",
+        "https://en.banglapedia.org/index.php/Joypurhat_Sadar_Upazila"
+      ],
+      "confidence": "medium",
+      "notes": "Wikipedia: 'Jaipurhat Siddiqia Kamil Model Madrasa'. Banglapedia Sadar page lists 'Joypurhat Siddiqia Senior Madrasa (1965)', probably the same institution (not confirmed). name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Nangapirhat S.A. Bilateral Fazil Madrasa",
+      "name_bn": "নাঙ্গাপীরহাট এস এ দ্বি-মুখী ফাজিল মাদ্রাসা",
+      "kind": "Alia madrasa (fazil)",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "১৯২৮ সালে প্রতিষ্ঠিত ফাজিল মাদ্রাসা।",
+      "maps_query": "Nangapirhat Fazil Madrasa",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা"
+      ],
+      "confidence": "low",
+      "notes": "Established 1928; upazila not stated."
+    },
+    {
+      "name_en": "Panchbibi Mahabbatpur Aminia Kamil Madrasa",
+      "name_bn": "পাঁচবিবি মহব্বতপুর আমিনিয়া কামিল মাদ্রাসা",
+      "kind": "Alia madrasa (kamil)",
+      "upazila": "Panchbibi",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "পাঁচবিবির কামিল মাদ্রাসা, প্রতিষ্ঠা ১৯৪৮।",
+      "maps_query": "Mahabbatpur Aminia Kamil Madrasa Panchbibi",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Panchbibi_Upazila"
+      ],
+      "confidence": "medium",
+      "notes": "Established 1948. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Balighata Alim Madrasa",
+      "name_bn": "বালিঘাটা আলিম মাদ্রাসা",
+      "kind": "Alia madrasa (alim)",
+      "upazila": "Panchbibi",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "পাঁচবিবির আলিম মাদ্রাসা, প্রতিষ্ঠা ১৯৭৬।",
+      "maps_query": "Balighata Alim Madrasa",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Panchbibi_Upazila"
+      ],
+      "confidence": "medium",
+      "notes": "Established 1976. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Uttar Joypur Bilateral Dakhil Madrasa",
+      "name_bn": "উত্তর জয়পুর দ্বিমুখী দাখিল মাদ্রাসা",
+      "kind": "Alia madrasa (dakhil)",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "সদর উপজেলার দাখিল মাদ্রাসা, প্রতিষ্ঠা ১৯১৮।",
+      "maps_query": "Uttar Joypur Dakhil Madrasa",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_Sadar_Upazila"
+      ],
+      "confidence": "low",
+      "notes": "Established 1918. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Ali Mamud Purna Gopinathpur Alim Madrasa",
+      "name_bn": "",
+      "kind": "Alia madrasa (alim)",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Gopinathpur Alim Madrasa Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "low",
+      "notes": "Only named in Wikipedia's list; location not stated."
+    }
+  ],
+  "hotels": [
+    {
+      "name_en": "Hotel Jahan Ara International",
+      "name_bn": "হোটেল জাহান আরা ইন্টারন্যাশনাল",
+      "kind": "Residential hotel",
+      "upazila": "Joypurhat Sadar",
+      "address": "Jahanara Plaza, Sadar Road, Joypurhat (about 500 m from the railway station)",
+      "phones": [
+        "0571-62779"
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "সদর রোডে জাহানারা প্লাজায় আবাসিক হোটেল। কাপল এসি, কাপল নন-এসি, ডাবল স্ট্যান্ডার্ড ও সিঙ্গেল রুম। নিচতলায় খাবারের দোকান আছে বলে উল্লেখ।",
+      "maps_query": "Hotel Jahanara International Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://prethibi.com/2020/11/18/hotel-list-in-joypurhat-bangladesh/",
+        "https://www.resortian.com/blog/joypurhat-sadar-joypurhat-travel-guide-attractions-stays",
+        "https://bdplaces.com/hotels-in-joypurhat/",
+        "https://vromonguide.com/place/nandail-dighi-joypurhat",
+        "https://vromonguide.com/place/lakma-palace-joypurhat",
+        "https://www.htlbd.com/hotel/prithibi-hotel"
+      ],
+      "confidence": "medium",
+      "notes": "Phone from prethibi.com (published 18 Nov 2020, modified 5 Nov 2022); old 0571 landline format, may have changed. Room types from resortian.com (Aug 2026, no prices). bdplaces.com rating 4.0 (248 reviews), 'Call for rate'. vromonguide calls it 'Hotel Jahan Ara Inn' on one page."
+    },
+    {
+      "name_en": "Prithibi Hotel",
+      "name_bn": "পৃথিবী হোটেল",
+      "kind": "Residential hotel",
+      "upazila": "Joypurhat Sadar",
+      "address": "Thana Road, Joypurhat 5900",
+      "phones": [
+        "01712-501951"
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "থানা রোডের আবাসিক হোটেল। সিঙ্গেল নন-এসি, ডাবল নন-এসি ও ডিলাক্স এসি রুম। পাশে খাবার ও মিষ্টির দোকান।",
+      "maps_query": "Prithibi Hotel Thana Road Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://prethibi.com/2020/11/18/hotel-list-in-joypurhat-bangladesh/",
+        "https://www.htlbd.com/hotel/prithibi-hotel",
+        "https://www.resortian.com/blog/joypurhat-sadar-joypurhat-travel-guide-attractions-stays",
+        "https://bdplaces.com/hotels-in-joypurhat/",
+        "https://vromonguide.com/place/lakma-palace-joypurhat"
+      ],
+      "confidence": "medium",
+      "notes": "Phone from prethibi.com (2020/2022). HTLBD shows only its own booking hotline (not recorded). resortian.com calls it 'Hotel Prithibi International' at Thana Road/Sadar Road, ~800 m from station; a bdbooking.com page is titled 'Hotel Prithibi Residential' (not read). bdplaces rating 3.9 (229 reviews)."
+    },
+    {
+      "name_en": "Hotel Sourav International",
+      "name_bn": "হোটেল সৌরভ ইন্টারন্যাশনাল",
+      "kind": "Residential hotel",
+      "upazila": "Joypurhat Sadar",
+      "address": "Thana Road, Joypurhat 5900",
+      "phones": [
+        "0571-62007"
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "থানা রোডের আবাসিক হোটেল।",
+      "maps_query": "Hotel Sourav International Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://prethibi.com/2020/11/18/hotel-list-in-joypurhat-bangladesh/",
+        "https://vromonguide.com/place/lakma-palace-joypurhat",
+        "https://vromonguide.com/place/shishu-uddan-joypurhat",
+        "https://www.htlbd.com/hotel/prithibi-hotel"
+      ],
+      "confidence": "medium",
+      "notes": "prethibi.com spells it 'Hotel Shourav International'; vromonguide also 'Hotel Sourav Inn'; HTLBD 'Hotel Sourov'. Phone is an old 0571 landline (2020/2022 source)."
+    },
+    {
+      "name_en": "Hotel Boishakhi Residential",
+      "name_bn": "হোটেল বৈশাখী রেসিডেন্সিয়াল",
+      "kind": "Residential hotel",
+      "upazila": "Joypurhat Sadar",
+      "address": "Bhai Bhai Market, Sadar Road, Joypurhat",
+      "phones": [
+        "01784-032908"
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "সদর রোডের ভাই ভাই মার্কেটে আবাসিক হোটেল।",
+      "maps_query": "Hotel Boishakhi Residential Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://prethibi.com/2020/11/18/hotel-list-in-joypurhat-bangladesh/",
+        "https://vromonguide.com/place/lakma-palace-joypurhat",
+        "https://vromonguide.com/place/nandail-dighi-joypurhat"
+      ],
+      "confidence": "medium",
+      "notes": "Phone from prethibi.com (2020/2022)."
+    },
+    {
+      "name_en": "Hotel Prome International",
+      "name_bn": "হোটেল প্রমি ইন্টারন্যাশনাল",
+      "kind": "Residential hotel",
+      "upazila": "Joypurhat Sadar",
+      "address": "Thana Road, Joypurhat",
+      "phones": [
+        "01723-112087"
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "আবাসিক হোটেল; স্ট্যান্ডার্ড নন-এসি ও স্ট্যান্ডার্ড এসি রুম।",
+      "maps_query": "Hotel Prome International Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://prethibi.com/2020/11/18/hotel-list-in-joypurhat-bangladesh/",
+        "https://www.resortian.com/blog/joypurhat-sadar-joypurhat-travel-guide-attractions-stays",
+        "https://bdplaces.com/hotels-in-joypurhat/",
+        "https://www.htlbd.com/hotel/prithibi-hotel",
+        "https://vromonguide.com/place/achranga-dighi-joypurhat"
+      ],
+      "confidence": "medium",
+      "notes": "Address conflict: prethibi.com says Thana Rd; resortian.com ('Promee Hotel') says Sadar Road beside the Joypurhat-Hilly Road intersection, ~1.2 km from the station. vromonguide lists 'Premi Hotel'. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Sa'd Hotel (Hotel Saad)",
+      "name_bn": "",
+      "kind": "Residential hotel",
+      "upazila": "Joypurhat Sadar",
+      "address": "1 Station Road (College Road), Joypurhat, about 200 m from the railway station",
+      "phones": [
+        "01721-904488"
+      ],
+      "website": "",
+      "price": "HTLBD listing shows ৳3,487/night (room type not stated)",
+      "description_bn": "রেলস্টেশনের কাছে কলেজ রোডে আবাসিক হোটেল। সিঙ্গেল ও ডাবল, এসি ও নন-এসি রুম।",
+      "maps_query": "Sa'd Hotel College Road Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://prethibi.com/2020/11/18/hotel-list-in-joypurhat-bangladesh/",
+        "https://www.resortian.com/blog/joypurhat-sadar-joypurhat-travel-guide-attractions-stays",
+        "https://www.htlbd.com/hotel/prithibi-hotel",
+        "https://vromonguide.com/place/achranga-dighi-joypurhat"
+      ],
+      "confidence": "medium",
+      "notes": "Phone from prethibi.com (2020/2022). Address from resortian.com and prethibi (College Road). vromonguide's Achranga page lists 'Hotel Shad' as a hotel and 'স্বাদ' as a restaurant, possibly the same business (not confirmed)."
+    },
+    {
+      "name_en": "Hotel Red Rock",
+      "name_bn": "হোটেল রেড রক",
+      "kind": "Residential hotel",
+      "upazila": "Joypurhat Sadar",
+      "address": "Mondol Tower, main Bus Stand, Sadar Road, Joypurhat",
+      "phones": [
+        "01786272762"
+      ],
+      "website": "https://hotelredrock.com/",
+      "price": "Double ৳5000, Premium King ৳3500, Deluxe King ৳3500, Family ৳5000, VIP ৳7000 per night",
+      "description_bn": "বাসস্ট্যান্ডের মন্ডল টাওয়ারে আবাসিক হোটেল। ডাবল, প্রিমিয়াম কিং, ডিলাক্স কিং, ফ্যামিলি ও ভিআইপি রুম।",
+      "maps_query": "Hotel Red Rock Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hotelredrock.com/",
+        "https://www.resortian.com/blog/joypurhat-sadar-joypurhat-travel-guide-attractions-stays",
+        "https://bdplaces.com/hotels-in-joypurhat/"
+      ],
+      "confidence": "medium",
+      "notes": "Phone, email (hotelredrock3@gmail.com) and prices from the hotel's own website (no date). Address only from resortian.com (Aug 2026). name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Joypurhat Circuit House",
+      "name_bn": "জয়পুরহাট সার্কিট হাউজ",
+      "kind": "Government circuit house",
+      "upazila": "Joypurhat Sadar",
+      "address": "Joypurhat-Bogra Highway, near the Deputy Commissioner's Office, Joypurhat 5900 (about 1.2 km east of the railway station)",
+      "phones": [
+        "01774-813705"
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "সরকারি সার্কিট হাউজ; মূলত সরকারি কর্মকর্তা ও রাষ্ট্রীয় অতিথিদের জন্য। ভিআইপি এসি ও সাধারণ নন-এসি রুম।",
+      "maps_query": "Joypurhat Circuit House",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://prethibi.com/2020/11/18/hotel-list-in-joypurhat-bangladesh/",
+        "https://www.resortian.com/blog/joypurhat-sadar-joypurhat-travel-guide-attractions-stays"
+      ],
+      "confidence": "medium",
+      "notes": "Phone from prethibi.com (2020/2022); location and room types from resortian.com. Official district portal is robots-blocked, so not verified there."
+    },
+    {
+      "name_en": "Hotel Amin Residential",
+      "name_bn": "হোটেল আমিন রেসিডেন্সিয়াল",
+      "kind": "Residential hotel",
+      "upazila": "Joypurhat Sadar",
+      "address": "Joypurhat",
+      "phones": [
+        "01310-969629"
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Hotel Amin Residential Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://prethibi.com/2020/11/18/hotel-list-in-joypurhat-bangladesh/"
+      ],
+      "confidence": "low",
+      "notes": "Single source (prethibi.com 2020/2022); no street address. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Hotel Paradise International",
+      "name_bn": "হোটেল প্যারাডাইস ইন্টারন্যাশনাল",
+      "kind": "Hotel/resort",
+      "upazila": "Joypurhat Sadar",
+      "address": "C&O Colony, near the Government Circuit House, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "সার্কিট হাউজের কাছে হোটেল; ইকোনমি নন-এসি ও ডিলাক্স এসি রুম।",
+      "maps_query": "Hotel Paradise International Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.resortian.com/blog/joypurhat-sadar-joypurhat-travel-guide-attractions-stays",
+        "https://bdplaces.com/hotels-in-joypurhat/"
+      ],
+      "confidence": "low",
+      "notes": "bdplaces.com (Sept 2026) ranks it #1, type 'Resort', rating 4.1 (150 reviews), 'Call for rate'. No phone found. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Hotel Sweet Dream",
+      "name_bn": "হোটেল সুইট ড্রিম",
+      "kind": "Hotel",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Hotel Sweet Dream Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://bdplaces.com/hotels-in-joypurhat/"
+      ],
+      "confidence": "low",
+      "notes": "Only on bdplaces.com: rating 3.9 (144 reviews). No address or phone. name_bn is the researcher's transliteration, not read in a Bangla source; verify spelling."
+    },
+    {
+      "name_en": "Jasim Residential Hotel",
+      "name_bn": "জসিম রেসিডেন্সিয়াল হোটেল",
+      "kind": "Residential hotel",
+      "upazila": "Joypurhat Sadar",
+      "address": "Thana Road area, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Jasim Residential Hotel Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://vromonguide.com/place/lakma-palace-joypurhat",
+        "https://vromonguide.com/place/nandail-dighi-joypurhat",
+        "https://www.htlbd.com/hotel/prithibi-hotel"
+      ],
+      "confidence": "low",
+      "notes": "vromonguide places its hotel list on Thana Road; HTLBD spells 'Jashim Residential Hotel'. No phone."
+    },
+    {
+      "name_en": "JAKAS Resource Center (JRC) Guest House",
+      "name_bn": "",
+      "kind": "NGO guest house",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "JAKAS Resource Center Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://bdplaces.com/hotels-in-joypurhat/",
+        "https://www.resortian.com/blog/joypurhat-sadar-joypurhat-travel-guide-attractions-stays"
+      ],
+      "confidence": "low",
+      "notes": "bdplaces: 29 reviews; resortian: 'about 5 km from Bel Amla'. No address or phone."
+    },
+    {
+      "name_en": "DMSS Guesthouse",
+      "name_bn": "",
+      "kind": "Guest house",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "DMSS Guesthouse Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.resortian.com/blog/joypurhat-sadar-joypurhat-travel-guide-attractions-stays"
+      ],
+      "confidence": "low",
+      "notes": "Only named on resortian.com; no details."
+    },
+    {
+      "name_en": "Tripty Residential Hotel",
+      "name_bn": "",
+      "kind": "Residential hotel",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Tripty Residential Hotel Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.htlbd.com/hotel/prithibi-hotel"
+      ],
+      "confidence": "low",
+      "notes": "Only listed on HTLBD with no address, phone or price."
+    },
+    {
+      "name_en": "Moyna Bahar Hotel",
+      "name_bn": "",
+      "kind": "Hotel",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Moyna Bahar Hotel Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.htlbd.com/hotel/prithibi-hotel"
+      ],
+      "confidence": "low",
+      "notes": "Only listed on HTLBD with no address, phone or price."
+    },
+    {
+      "name_en": "Joypur Resort (Shishu Uddan)",
+      "name_bn": "",
+      "kind": "Resort",
+      "upazila": "Joypurhat Sadar",
+      "address": "Bulu Para, about 1 km from Joypurhat town, beside Shishu Uddan",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Shishu Uddan Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://vromonguide.com/location/joypurhat",
+        "https://vromonguide.com/place/shishu-uddan-joypurhat"
+      ],
+      "confidence": "low",
+      "notes": "vromonguide mentions Shishu Uddan is 'next to Joypur Resort' and that there is a resort on the park grounds; no phone or price."
+    }
+  ],
+  "restaurants": [
+    {
+      "name_en": "Cafe Orange Chinese Restaurant",
+      "name_bn": "ক্যাফে অরেঞ্জ চাইনিজ রেস্টুরেন্ট",
+      "kind": "Chinese restaurant",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "জয়পুরহাট শহরের চাইনিজ রেস্টুরেন্ট; ভ্রমণ গাইডে বারবার সুপারিশকৃত।",
+      "maps_query": "Cafe Orange Chinese Restaurant Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://vromonguide.com/place/lakma-palace-joypurhat",
+        "https://vromonguide.com/place/nandail-dighi-joypurhat",
+        "https://vromonguide.com/place/shishu-uddan-joypurhat",
+        "https://vromonguide.com/place/achranga-dighi-joypurhat"
+      ],
+      "confidence": "low",
+      "notes": "Named on several vromonguide pages; no address or phone."
+    },
+    {
+      "name_en": "Bismillah Hotel & Restaurant",
+      "name_bn": "বিসমিল্লা হোটেল এন্ড রেস্টুরেন্ট",
+      "kind": "Restaurant (Bangla food)",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Bismillah Hotel and Restaurant Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://vromonguide.com/place/lakma-palace-joypurhat",
+        "https://vromonguide.com/place/nandail-dighi-joypurhat"
+      ],
+      "confidence": "low",
+      "notes": "No address or phone in source."
+    },
+    {
+      "name_en": "Ruchita Restaurant & Chinese",
+      "name_bn": "রুচিটা রেস্টুরেন্ট এন্ড চাইনিজ",
+      "kind": "Restaurant / Chinese",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Ruchita Restaurant Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://vromonguide.com/place/lakma-palace-joypurhat",
+        "https://vromonguide.com/place/nandail-dighi-joypurhat",
+        "https://vromonguide.com/place/achranga-dighi-joypurhat"
+      ],
+      "confidence": "low",
+      "notes": "No address or phone in source. Bangla name as spelled on vromonguide."
+    },
+    {
+      "name_en": "Prince Restaurant",
+      "name_bn": "প্রিন্স রেস্টুরেন্ট",
+      "kind": "Restaurant",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Prince Restaurant Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://vromonguide.com/place/lakma-palace-joypurhat",
+        "https://vromonguide.com/place/nandail-dighi-joypurhat",
+        "https://vromonguide.com/place/achranga-dighi-joypurhat"
+      ],
+      "confidence": "low",
+      "notes": "No address or phone in source."
+    },
+    {
+      "name_en": "Mina Restaurant",
+      "name_bn": "মিনা",
+      "kind": "Restaurant",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Mina Restaurant Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://vromonguide.com/place/lakma-palace-joypurhat",
+        "https://vromonguide.com/place/nandail-dighi-joypurhat"
+      ],
+      "confidence": "low",
+      "notes": "Listed only as 'Mina'; no address or phone."
+    },
+    {
+      "name_en": "Bonolota Food Place, Chinese & Party Center",
+      "name_bn": "বনলতা",
+      "kind": "Restaurant / Chinese / party centre",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Bonolota Food Place Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://vromonguide.com/place/achranga-dighi-joypurhat",
+        "https://au.trip.com/restaurant/bangladesh/jaipurhat-district/detail/bonolota-food-place-chines-and-party-center-138837340"
+      ],
+      "confidence": "low",
+      "notes": "vromonguide lists 'Bonolota'; full name from a Trip.com listing title seen in search results (page itself robots-blocked, not read)."
+    },
+    {
+      "name_en": "Friend's Garden",
+      "name_bn": "",
+      "kind": "Restaurant",
+      "upazila": "Joypurhat Sadar",
+      "address": "32XG+CG8, Joypurhat",
+      "phones": [
+        "01793-267984"
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "জনপ্রিয় রেস্টুরেন্ট (সাশ্রয়ী মূল্য)।",
+      "maps_query": "32XG+CG8 Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/restaurants"
+      ],
+      "confidence": "medium",
+      "notes": "Cybo: rating 3.7 (43 reviews), price '$'. Address is a Google plus code."
+    },
+    {
+      "name_en": "Sanonda Hotel",
+      "name_bn": "",
+      "kind": "Restaurant (hotel/bhaat)",
+      "upazila": "Joypurhat Sadar",
+      "address": "32XG+CJG, Badar Uddin Road, Joypurhat",
+      "phones": [
+        "01740-176058"
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Sanonda Hotel Badar Uddin Road Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/restaurants"
+      ],
+      "confidence": "medium",
+      "notes": "Cybo: rating 4.1 (45 reviews)."
+    },
+    {
+      "name_en": "Nana's bar",
+      "name_bn": "",
+      "kind": "Food/snack shop",
+      "upazila": "Joypurhat Sadar",
+      "address": "32XG+25M, College Road, Joypurhat",
+      "phones": [
+        "01921-121282"
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Nana's bar College Road Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/restaurants"
+      ],
+      "confidence": "medium",
+      "notes": "Listed under restaurants on Cybo, rating 4.7 (13 reviews); type of food not stated."
+    },
+    {
+      "name_en": "Cafe Daruchini",
+      "name_bn": "",
+      "kind": "Cafe",
+      "upazila": "Joypurhat Sadar",
+      "address": "Chitra Road, Joypurhat",
+      "phones": [
+        "01322-337800"
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Cafe Daruchini Chitra Road Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/restaurants"
+      ],
+      "confidence": "medium",
+      "notes": "Cybo rating 4.0 (2 reviews)."
+    },
+    {
+      "name_en": "Shwarma King",
+      "name_bn": "",
+      "kind": "Fast food (shawarma)",
+      "upazila": "Joypurhat Sadar",
+      "address": "Main Road, Joypurhat 5900",
+      "phones": [
+        "01781-836673"
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Shwarma King Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/restaurants"
+      ],
+      "confidence": "medium",
+      "notes": ""
+    },
+    {
+      "name_en": "I-Foods",
+      "name_bn": "",
+      "kind": "Restaurant",
+      "upazila": "Joypurhat Sadar",
+      "address": "32XG+QMV, Joypurhat",
+      "phones": [
+        "01957-572323"
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "32XG+QMV Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/restaurants"
+      ],
+      "confidence": "medium",
+      "notes": "Cybo rating 4.3 (3 reviews)."
+    },
+    {
+      "name_en": "You tree House",
+      "name_bn": "",
+      "kind": "Restaurant/cafe",
+      "upazila": "Joypurhat Sadar",
+      "address": "Joypurhat 5900",
+      "phones": [
+        "01303-025462"
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "You tree House Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/restaurants"
+      ],
+      "confidence": "low",
+      "notes": "Cybo listing, no street address."
+    },
+    {
+      "name_en": "Chilli Cafe & Restaurant",
+      "name_bn": "",
+      "kind": "Cafe & restaurant",
+      "upazila": "",
+      "address": "Jamil Complex, Golabari, 5920",
+      "phones": [
+        "01310-510807"
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Chilli cafe & restaurant Golabari",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/restaurants",
+        "https://www.touristplaces.com.bd/joypurhat/achranga-dighi/"
+      ],
+      "confidence": "low",
+      "notes": "Listed under Joypurhat on Cybo. Postcode 5920 is the one touristplaces.com.bd uses for Khetlal, so it may be in Khetlal (not confirmed)."
+    },
+    {
+      "name_en": "S A Tandoori Tea",
+      "name_bn": "",
+      "kind": "Tea stall",
+      "upazila": "Joypurhat Sadar",
+      "address": "32QF+XMC, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "32QF+XMC Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/restaurants"
+      ],
+      "confidence": "low",
+      "notes": "Cybo rating 4.2 (11 reviews); no phone."
+    },
+    {
+      "name_en": "Moumita Hotel And Restaurant",
+      "name_bn": "",
+      "kind": "Restaurant",
+      "upazila": "Joypurhat Sadar",
+      "address": "Near Ispahani Tea Regional Office, Bongo Bondhu Road, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Moumita Hotel And Restaurant Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/restaurants"
+      ],
+      "confidence": "low",
+      "notes": "No phone on Cybo."
+    },
+    {
+      "name_en": "New Jannat Coffee House And Fast Food",
+      "name_bn": "",
+      "kind": "Fast food / coffee",
+      "upazila": "Joypurhat Sadar",
+      "address": "Near Ispahani Tea Regional Office, Bongo Bondhu Road, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "New Jannat Coffee House Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/restaurants"
+      ],
+      "confidence": "low",
+      "notes": "No phone on Cybo."
+    },
+    {
+      "name_en": "Home Made food Joypurhat",
+      "name_bn": "",
+      "kind": "Home-made food",
+      "upazila": "Joypurhat Sadar",
+      "address": "32XG+R5V, Station Road, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "32XG+R5V Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/restaurants"
+      ],
+      "confidence": "low",
+      "notes": "No phone on Cybo."
+    },
+    {
+      "name_en": "Moktar tea shop",
+      "name_bn": "",
+      "kind": "Tea stall",
+      "upazila": "",
+      "address": "Suktahar mor, Dadra, Jantigram, Joypurhat 5900",
+      "phones": [
+        "01318-572558"
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Moktar tea shop Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/restaurants"
+      ],
+      "confidence": "low",
+      "notes": ""
+    }
+  ],
+  "tourist_spots": [
+    {
+      "name_en": "Nandail Dighi",
+      "name_bn": "নান্দাইল দীঘি",
+      "kind": "Historic pond (dighi) / picnic spot",
+      "upazila": "Kalai",
+      "address": "Nandail village (Harunja), Kalai, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "জেলার সবচেয়ে বড় দীঘি; প্রায় ১ কিলোমিটার লম্বা, আয়তন প্রায় ৫৯.৪ একর। জনশ্রুতি আছে ১৬১০ সালে রাজা নন্দলাল এক রাতে এটি খনন করান। শীতে অতিথি পাখি আসে, পিকনিক স্পট হিসেবে জনপ্রিয়; পাড়ে নান্দাইল কলেজ। জয়পুরহাট শহর থেকে স্থানীয় যানবাহনে যাওয়া যায়।",
+      "maps_query": "Nandail Dighi, Kalai, Joypurhat",
+      "lat": "25.061563",
+      "lng": "89.210461",
+      "source_urls": [
+        "https://vromonguide.com/place/nandail-dighi-joypurhat",
+        "https://www.touristplaces.com.bd/joypurhat/nandail-dighi/",
+        "https://en.banglapedia.org/index.php/Kalai_Upazila",
+        "https://www.banglatribune.com/journey/969006",
+        "https://vromonguide.com/location/joypurhat"
+      ],
+      "confidence": "medium",
+      "notes": "Upazila conflict: Banglapedia (Kalai, at Harunja), vromonguide and touristplaces (Kalai, postcode 5930) vs Bangla Tribune 18 Sep 2026 ('পাঁচবিবি উপজেলার নান্দাইল গ্রামে'). Distance conflict within vromonguide: 23 km east of town in text, 19 km in travel section. Size and 1610 date are folklore per vromonguide. Coordinates from touristplaces.com.bd."
+    },
+    {
+      "name_en": "Achhranga Dighi",
+      "name_bn": "আছরাঙ্গা দীঘি",
+      "kind": "Historic pond (dighi)",
+      "upazila": "Khetlal",
+      "address": "Mamudpur union, Khetlal, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "প্রায় ২৬ একরের প্রাচীন দীঘি (দৈর্ঘ্য ১০০০ ফুট, প্রস্থ ১০৭০ ফুট)। কথিত আছে ৮১৭ খ্রিস্টাব্দের দিকে মৌন ভট্ট এটি খনন করান। চারপাশে চারটি বাঁধানো ঘাট। ১৯৯২ সালে পুনঃখননের সময় প্রায় ১২টি প্রাচীন মূর্তি পাওয়া যায়। শীতে অতিথি পাখি আসে। ক্ষেতলাল উপজেলা পর্যন্ত বাসে গিয়ে সেখান থেকে প্রায় ৯ কিলোমিটার স্থানীয় যানবাহনে।",
+      "maps_query": "Achhranga Dighi, Khetlal, Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://vromonguide.com/place/achranga-dighi-joypurhat",
+        "https://www.touristplaces.com.bd/joypurhat/achranga-dighi/",
+        "https://en.banglapedia.org/index.php/Khetlal_Upazila",
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা"
+      ],
+      "confidence": "medium",
+      "notes": "Banglapedia calls it 'Achhranga Beel' and lists it as Khetlal's tourist spot. No coordinates in any source read. The 817 AD date is from vromonguide."
+    },
+    {
+      "name_en": "Hinda-Kasba Shahi Jame Mosque",
+      "name_bn": "হিন্দা-কসবা শাহী জামে মসজিদ",
+      "kind": "Mosque (heritage)",
+      "upazila": "Khetlal",
+      "address": "Hinda village, Barail union, Khetlal, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "১৯৫৮ সালে (বাংলা ১৩৬৫) বাগমারী পীর নামে পরিচিত পীর আব্দুল গফুর চিশতী প্রতিষ্ঠা করেন। পাঁচ গম্বুজের মসজিদ, দেয়ালে ভাঙা চিনামাটি ও কাঁচের মোজাইক নকশা; আলাদা মিনার আছে। একসঙ্গে প্রায় ৩০০-৪০০ জন নামাজ পড়তে পারেন। জেলা শহর থেকে প্রায় ১৬ কিলোমিটার।",
+      "maps_query": "Hinda Kasba Shahi Jame Masjid, Khetlal, Joypurhat",
+      "lat": "24.9971",
+      "lng": "89.1356",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Hinda-Kosba_Shahi_Mosque",
+        "https://www.bssnews.net/bangla/tourism/288458",
+        "https://en.banglapedia.org/index.php/Khetlal_Upazila",
+        "https://www.touristplaces.com.bd/joypurhat/",
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "high",
+      "notes": "Coordinates from Wikipedia. Minor conflict: BSS (5 Mar 2026) gives size 49.5 x 22.5 ft and a 40 ft minaret; Wikipedia gives 15.1 x 6.8 m and a ~12 m minaret."
+    },
+    {
+      "name_en": "Lakma Rajbari (Lakma Zamindar Bari)",
+      "name_bn": "লকমা রাজবাড়ি",
+      "kind": "Zamindar palace (heritage)",
+      "upazila": "Panchbibi",
+      "address": "Paschim Koria (West Karia) village, Panchbibi, Joypurhat, near the Indian border",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "প্রায় ৩০০ বছরের পুরোনো জমিদার বাড়ি; লকমা চৌধুরীর পূর্বপুরুষ চৌধুরী হাদি মামুন নির্মাণ করেন বলে কথিত (অনেকের মতে রাজা লক্ষণ সেন)। ইংরেজি U আকৃতির দ্বিতল ভবন, পাশে ঘোড়াশাল ও হাতিশাল। পূর্বদিকে কর্মচারীদের ঘর ও কবরস্থান। সীমান্তঘেঁষা হওয়ায় জনপ্রিয়।",
+      "maps_query": "Lakma Rajbari, Panchbibi, Joypurhat",
+      "lat": "25.206404",
+      "lng": "88.947596",
+      "source_urls": [
+        "https://vromonguide.com/place/lakma-palace-joypurhat",
+        "https://www.touristplaces.com.bd/joypurhat/lokma-jomidar-bari/",
+        "https://en.banglapedia.org/index.php/Panchbibi_Upazila",
+        "https://vromonguide.com/location/joypurhat",
+        "https://uk.trip.com/travel-guide/destination/jaipurhat-district-1706596"
+      ],
+      "confidence": "medium",
+      "notes": "vromonguide (updated 4 May 2026) gives ~37 km from district HQ; the touristplaces coordinates suggest a shorter straight-line distance, so verify. Banglapedia: 'residence of Lokhma Chowdhury in Karia'. Spellings vary: Lakma / Lokma / Lokhma."
+    },
+    {
+      "name_en": "Pathorghata (Patharghata Church)",
+      "name_bn": "পাথরঘাটা",
+      "kind": "Riverside religious meeting place / church",
+      "upazila": "Panchbibi",
+      "address": "Pathorghata, Panchbibi, Joypurhat (bank of the Tulsi Ganga)",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "তুলসীগঙ্গা নদীর তীরে মুসলমান, হিন্দু ও খ্রিস্টান তিন সম্প্রদায়ের মিলনস্থল; এখানে একটি গির্জা ও নিমাই পীরের মাজার আছে।",
+      "maps_query": "Patharghata Church, Panchbibi, Joypurhat",
+      "lat": "25.187164",
+      "lng": "89.019128",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Panchbibi_Upazila",
+        "https://www.touristplaces.com.bd/joypurhat/patharghata-church/",
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা"
+      ],
+      "confidence": "medium",
+      "notes": "Coordinates from touristplaces.com.bd (same point it uses for Nimai Pir Shrine)."
+    },
+    {
+      "name_en": "Nimai Pir Mazar (Shrine)",
+      "name_bn": "নিমাই পীরের মাজার",
+      "kind": "Shrine (mazar)",
+      "upazila": "Panchbibi",
+      "address": "Pathorghata, Panchbibi, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "সুফি সাধক নিমাই পীরের মাজার, পাথরঘাটায় অবস্থিত।",
+      "maps_query": "Nimai Pir Mazar Pathorghata Panchbibi",
+      "lat": "25.187164",
+      "lng": "89.019128",
+      "source_urls": [
+        "https://www.touristplaces.com.bd/joypurhat/nimai-pir-shrine/",
+        "https://vromonguide.com/location/joypurhat",
+        "https://en.wikivoyage.org/wiki/Jaipurhat"
+      ],
+      "confidence": "medium",
+      "notes": "Coordinates from touristplaces.com.bd (identical to its Patharghata Church point, so approximate)."
+    },
+    {
+      "name_en": "Gopinathpur Temple (Sree Sree Gopinath Jiu Mandir)",
+      "name_bn": "গোপীনাথপুর মন্দির",
+      "kind": "Hindu temple (heritage)",
+      "upazila": "Akkelpur",
+      "address": "Gopinathpur, Akkelpur, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "ভগবান গোপীনাথের প্রাচীন মন্দির (বাংলাপিডিয়া অনুযায়ী ১৫ শতকের)। দোলপূর্ণিমায় গোপীনাথপুরে মেলা বসে।",
+      "maps_query": "Gopinathpur Mandir, Akkelpur, Joypurhat",
+      "lat": "24.969246",
+      "lng": "89.020323",
+      "source_urls": [
+        "https://www.touristplaces.com.bd/joypurhat/gopinathpur-mandir/",
+        "https://en.banglapedia.org/index.php/Akkelpur_Upazila",
+        "https://vromonguide.com/location/joypurhat",
+        "https://www.touristplaces.com.bd/joypurhat/"
+      ],
+      "confidence": "medium",
+      "notes": "Coordinates from touristplaces.com.bd. Banglapedia: 'Temple of Sree Sree Gopinath Jieu (15th century, Gopinathpur)' and 'Dole Purnima Mela (Gopinathpur)'."
+    },
+    {
+      "name_en": "Bel Amla Baro Shibaloy (Twelve Shiva Temples)",
+      "name_bn": "বেলআমলা বার শিবালয় মন্দির",
+      "kind": "Hindu temple complex (heritage)",
+      "upazila": "Joypurhat Sadar",
+      "address": "Bel-Amla village, on the bank of the (Choto) Jamuna river, about 4 km from Joypurhat town",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "যমুনা নদীর তীরে ১২টি শিবমন্দিরের সমষ্টি; পোড়ামাটির ফলক ও দেয়ালচিত্র আছে। ফাল্গুন মাসে শিব চতুর্দশীতে দুই দিনের শিবরাত্রি পূজা ও মেলা হয়। জেলা সদর থেকে গদন শহর স্টপেজে গিয়ে সেখান থেকে ভ্যান বা রিকশায় মন্দির।",
+      "maps_query": "Baro Shibaloy Mandir Bel Amla Joypurhat",
+      "lat": "25.131471",
+      "lng": "89.015917",
+      "source_urls": [
+        "https://vromonguide.com/place/baro-shibaloy-temple-jaipurhat",
+        "https://www.touristplaces.com.bd/joypurhat/baro-shibaloy-temple/",
+        "https://en.banglapedia.org/index.php/Joypurhat_Sadar_Upazila",
+        "https://www.resortian.com/blog/joypurhat-sadar-joypurhat-travel-guide-attractions-stays",
+        "https://en.wikipedia.org/wiki/Joypurhat_Sadar_Upazila"
+      ],
+      "confidence": "medium",
+      "notes": "Date conflict: Banglapedia dates it 1700 AD; vromonguide (modified 12 Mar 2025) suggests Sena era, attributed to King Ballal Sen. Coordinates from touristplaces.com.bd (address 'Amla'). No source found for a separate 'Bel Amla Bot gachh' (banyan tree)."
+    },
+    {
+      "name_en": "Shishu Uddan (Children's Park)",
+      "name_bn": "শিশু উদ্যান",
+      "kind": "Amusement park",
+      "upazila": "Joypurhat Sadar",
+      "address": "Bulu Para, about 1 km from Joypurhat town, beside Joypur Resort",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "Entry: adults Tk 100, children Tk 50; rides ticketed separately",
+      "description_bn": "২০০৫ সালে রফিকুল ইসলাম চৌধুরী (প্রিন্স) প্রায় ৬০ বিঘা জমিতে প্রতিষ্ঠা করেন। মিনি চিড়িয়াখানা, থ্রিডি মুভি, রাইড, সুইমিং পুল, ফুড কোর্ট, প্যাডেল বোটসহ দুটি লেক ও আমবাগান আছে। শহরের বিন্দু পাচুর মোড় থেকে রিকশা বা অটোতে ১০-১৫ টাকা ভাড়া।",
+      "maps_query": "Shishu Uddan Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://vromonguide.com/place/shishu-uddan-joypurhat",
+        "https://vromonguide.com/location/joypurhat",
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা",
+        "https://www.touristplaces.com.bd/joypurhat/"
+      ],
+      "confidence": "medium",
+      "notes": "Prices and facilities from vromonguide (modified 12 Jan 2025); may have changed. Opening hours and phone not found."
+    },
+    {
+      "name_en": "Pagla Dewan Boddhobhumi (1971 mass grave memorial)",
+      "name_bn": "পাগলা দেওয়ান বধ্যভূমি",
+      "kind": "Liberation War memorial",
+      "upazila": "Joypurhat Sadar",
+      "address": "Chakbarkat union, near the border with Dhalahar union and Jahanpur union (Dhamoirhat, Naogaon)",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "১৯৭১ সালের গণহত্যার স্থান; পাকিস্তানি বাহিনী এখানে ক্যাম্প ও বাঙ্কার করেছিল, বাঙ্কার এখনো আছে। গণপূর্ত বিভাগ এখানে স্মৃতিসৌধ নির্মাণ করেছে (কালো টাইলসের উঁচু স্তম্ভ ও ভাঙা দেয়াল)। জয়পুরহাট থেকে রিকশায় যাওয়া যায়।",
+      "maps_query": "Pagla Dewan Boddhobhumi Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://vromonguide.com/place/pagla-dewan-boddhobhumi",
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://www.resortian.com/blog/joypurhat-sadar-joypurhat-travel-guide-attractions-stays",
+        "https://www.touristplaces.com.bd/joypurhat/",
+        "https://en.wikipedia.org/wiki/Joypurhat_Sadar_Upazila"
+      ],
+      "confidence": "medium",
+      "notes": "Distance conflict: vromonguide 17 km vs resortian ~8 km (Bambu union). touristplaces lists it under 'Dhamoirhat'. History conflict: Banglapedia says ~300 killed during Friday prayers on 5 Oct 1971; vromonguide says 122 villagers killed on 14 Dec and gives unofficial totals of ~4,000."
+    },
+    {
+      "name_en": "Khanjanpur Christian Mission",
+      "name_bn": "খঞ্জনপুর খ্রিস্টান মিশন",
+      "kind": "Church mission (heritage)",
+      "upazila": "Joypurhat Sadar",
+      "address": "Khanjanpur, Joypurhat Sadar",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "১৮৯৮ সালের খ্রিস্টান মিশন; বাংলাপিডিয়ায় জেলার দর্শনীয় স্থান হিসেবে তালিকাভুক্ত।",
+      "maps_query": "Khanjanpur Mission Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District",
+        "https://en.banglapedia.org/index.php/Joypurhat_Sadar_Upazila",
+        "https://bn.banglapedia.org/index.php/জয়পুরহাট_জেলা"
+      ],
+      "confidence": "medium",
+      "notes": "Year 1898 from Banglapedia Sadar upazila page."
+    },
+    {
+      "name_en": "Somapura Mahavihara (Paharpur Buddhist Vihara)",
+      "name_bn": "সোমপুর মহাবিহার (পাহাড়পুর)",
+      "kind": "UNESCO World Heritage archaeological site (nearby, Naogaon district)",
+      "upazila": "",
+      "address": "Paharpur, Badalgachhi, Naogaon (outside Joypurhat district)",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "ইউনেস্কো বিশ্ব ঐতিহ্য (১৯৮৫) প্রাচীন বৌদ্ধ বিহার; জামালগঞ্জ থেকে প্রায় ৬ কিলোমিটার উত্তর-পশ্চিমে। জয়পুরহাট থেকে কাছের প্রধান দর্শনীয় স্থান।",
+      "maps_query": "Paharpur Buddhist Vihara",
+      "lat": "25.03111",
+      "lng": "88.97694",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Somapura_Mahavihara",
+        "https://en.wikipedia.org/wiki/Joypurhat_District",
+        "https://www.resortian.com/blog/joypurhat-sadar-joypurhat-travel-guide-attractions-stays",
+        "https://www.touristplaces.com.bd/joypurhat/gopinathpur-mandir/"
+      ],
+      "confidence": "high",
+      "notes": "Coordinates from Wikipedia. Wikipedia (district page) says ~6 km north-west of Jamalganj; resortian says ~17 km west of Joypurhat town; touristplaces says 8.1 km from Gopinathpur temple."
+    },
+    {
+      "name_en": "Bhimer Panti (Garuda Pillar)",
+      "name_bn": "ভীমের পান্টি",
+      "kind": "Ancient pillar (nearby, Naogaon side)",
+      "upazila": "",
+      "address": "Listed by touristplaces.com.bd as 'Vimer Panti (Naogaon)'",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Bhimer Panti",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.wikivoyage.org/wiki/Jaipurhat",
+        "https://www.touristplaces.com.bd/joypurhat/patharghata-church/",
+        "https://vromonguide.com/location/joypurhat"
+      ],
+      "confidence": "low",
+      "notes": "Wikivoyage lists 'Garuda Pillar at Bhimer Panti' under Jaipurhat; touristplaces puts it in Naogaon, ~17 km from Pathorghata. No description read."
+    },
+    {
+      "name_en": "Joypurhat Sugar Mill",
+      "name_bn": "জয়পুরহাট চিনিকল",
+      "kind": "Landmark (industrial)",
+      "upazila": "Joypurhat Sadar",
+      "address": "Eastern part of Joypurhat town, about 3 km from the railway station",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "দেশের বড় চিনিকলগুলোর একটি; শহরের পূর্ব অংশে।",
+      "maps_query": "Joypurhat Sugar Mills",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.resortian.com/blog/joypurhat-sadar-joypurhat-travel-guide-attractions-stays",
+        "https://en.wikipedia.org/wiki/Joypurhat_Sadar_Upazila"
+      ],
+      "confidence": "low",
+      "notes": "Wikipedia (Sadar) calls it the largest autonomous sugar mill in the country; location from resortian.com."
+    },
+    {
+      "name_en": "Baligram Rajbari",
+      "name_bn": "",
+      "kind": "Ruined zamindar house (archaeological)",
+      "upazila": "Kalai",
+      "address": "Matrai, Kalai",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Baligram Rajbari Matrai Kalai",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Kalai_Upazila"
+      ],
+      "confidence": "low",
+      "notes": "Banglapedia lists 'Baligram Rajbari, with ancient relics and a copperplate, in Matrai' under archaeological heritage. No visitor info."
+    }
+  ],
+  "other_services": [
+    {
+      "name_en": "Shopno Chaya Community Centre",
+      "name_bn": "",
+      "kind": "Community centre",
+      "upazila": "Joypurhat Sadar",
+      "address": "Shantinagar, Station Road, Joypurhat 5900",
+      "phones": [
+        "01711-144353"
+      ],
+      "website": "shopno-chaya-community-centre.business.site",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Shopno Chaya Community Centre Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://www.cybo.com/BD-biz/shopno-chaya-community-centre"
+      ],
+      "confidence": "medium",
+      "notes": "Cybo listing; hours shown as 24 hours."
+    },
+    {
+      "name_en": "Hoque Convention Centre",
+      "name_bn": "",
+      "kind": "Convention hall",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "Hoque Convention Centre Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://vromonguide.com/place/achranga-dighi-joypurhat"
+      ],
+      "confidence": "low",
+      "notes": "Named only on vromonguide's Achranga Dighi page (in its hotel list). No address or phone."
+    },
+    {
+      "name_en": "SR Hostel Joypurhat",
+      "name_bn": "",
+      "kind": "Hostel / mess",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "price": "",
+      "description_bn": "",
+      "maps_query": "SR hostel joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://bdplaces.com/hotels-in-joypurhat/"
+      ],
+      "confidence": "low",
+      "notes": "Named on bdplaces.com (10 reviews); no address or phone."
+    }
+  ]
+}

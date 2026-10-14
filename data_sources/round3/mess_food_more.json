@@ -1,0 +1,234 @@
+{
+ "checked": "2026-10-13",
+ "items": [
+  {
+   "category": "restaurant",
+   "name_bn": "এসএম হোটেল",
+   "name_en": "SM Hotel",
+   "kind_bn": "খাবার হোটেল (নাশতা)",
+   "gender": "",
+   "upazila": "Akkelpur",
+   "address_bn": "উপজেলা পরিষদের সামনে, আক্কেলপুর, জয়পুরহাট",
+   "address_en": "In front of the Upazila Parishad, Akkelpur, Joypurhat",
+   "phones": [],
+   "hours_bn": "",
+   "menu": [],
+   "lat": null,
+   "lng": null,
+   "plus_code": "",
+   "maps_query": "SM Hotel, Akkelpur Upazila Parishad, Joypurhat",
+   "source_urls": [
+    "https://www.prothomalo.com/bangladesh/district/554ffailyg",
+    "https://www.kalbela.com/country-news/334852"
+   ],
+   "confidence": "high",
+   "notes": "Two independent news reports (Prothom Alo, 2 Oct 2026; Kalbela, 3 Oct 2026) name the hotel (Prothom Alo writes 'এস এম হোটেল', Kalbela 'এসএম হোটেল') and place it in front of the Akkelpur Upazila Parishad. Both describe a meal hotel that serves breakfast. They were reporting an incident there, not reviewing the hotel. No phone, hours or prices given."
+  },
+  {
+   "category": "restaurant",
+   "name_bn": "হোটেল স্বাদ",
+   "name_en": "Hotel Swad",
+   "kind_bn": "খাবার হোটেল",
+   "gender": "",
+   "upazila": "Joypurhat Sadar",
+   "address_bn": "জয়পুরহাট রেলস্টেশন থেকে প্রায় ৩২০ মিটার উত্তরে, জয়পুরহাট পৌরসভা",
+   "address_en": "About 320 m north of Joypurhat Railway Station, Joypurhat Paurashava",
+   "phones": [],
+   "hours_bn": "",
+   "menu": [],
+   "lat": 25.10188,
+   "lng": 89.02602,
+   "plus_code": "7MQF422G+QC",
+   "maps_query": "Hotel Swad, Joypurhat",
+   "source_urls": [
+    "https://mapcarta.com/N5158340558"
+   ],
+   "confidence": "low",
+   "notes": "Only source is an OpenStreetMap node shown on Mapcarta (amenity=restaurant/cafe); undated, and the node ID range suggests it was mapped around 2017, so it may be outdated. No phone, hours or menu in the source. OSM node 5158340558."
+  },
+  {
+   "category": "restaurant",
+   "name_bn": "মিস্টার টাটকা",
+   "name_en": "Mr Tatka",
+   "kind_bn": "রেস্টুরেন্ট",
+   "gender": "",
+   "upazila": "Joypurhat Sadar",
+   "address_bn": "জয়পুরহাট রেলস্টেশন থেকে প্রায় ৩০০ মিটার উত্তরে, জয়পুরহাট পৌরসভা",
+   "address_en": "About 300 m north of Joypurhat Railway Station, Joypurhat Paurashava",
+   "phones": [],
+   "hours_bn": "",
+   "menu": [],
+   "lat": 25.10165,
+   "lng": 89.02589,
+   "plus_code": "7MQF422G+M9",
+   "maps_query": "Mr Tatka restaurant, Joypurhat",
+   "source_urls": [
+    "https://mapcarta.com/N5158341693"
+   ],
+   "confidence": "low",
+   "notes": "Only source is an OpenStreetMap node shown on Mapcarta (amenity=restaurant/cafe); undated, and the node ID range suggests it was mapped around 2017, so it may be outdated. No phone, hours or menu in the source. OSM node 5158341693. name_bn is a transliteration."
+  },
+  {
+   "category": "restaurant",
+   "name_bn": "কাকলী ফাস্ট ফুড শপ",
+   "name_en": "Kakoly Fast Food Shop",
+   "kind_bn": "ফাস্ট ফুড",
+   "gender": "",
+   "upazila": "Joypurhat Sadar",
+   "address_bn": "বঙ্গবন্ধু রোড, জয়পুরহাট পৌরসভা (কেন্দ্রীয় মসজিদ মার্কেটের কাছে)",
+   "address_en": "Bongo Bondhu Road, Joypurhat Paurashava (near Central Mosque Market)",
+   "phones": [],
+   "hours_bn": "",
+   "menu": [],
+   "lat": 25.10233,
+   "lng": 89.026604,
+   "plus_code": "7MQF422G+WJ",
+   "maps_query": "Kakoly Fast Food Shop, Bongo Bondhu Road, Joypurhat",
+   "source_urls": [
+    "https://mapcarta.com/N10696836861"
+   ],
+   "confidence": "low",
+   "notes": "Only source is an OpenStreetMap node (amenity=restaurant) shown on Mapcarta, named 'Kakoly Fast Food Shop, Bongo Bondhu Road, Joypurhat'. Undated; the node ID range suggests it was mapped around 2023. No phone, hours or menu in the source. name_bn is a transliteration."
+  },
+  {
+   "category": "restaurant",
+   "name_bn": "মোয়াজ",
+   "name_en": "Moaj",
+   "kind_bn": "ক্যাফে",
+   "gender": "",
+   "upazila": "Joypurhat Sadar",
+   "address_bn": "মাছ বাজারের প্রায় ১১০ মিটার উত্তর-পূর্বে, রেলস্টেশন থেকে প্রায় ৪৬০ মিটার উত্তরে, জয়পুরহাট পৌরসভা",
+   "address_en": "About 110 m north-east of Joypurhat Maach Bazaar, about 460 m north of the railway station, Joypurhat Paurashava",
+   "phones": [],
+   "hours_bn": "",
+   "menu": [],
+   "lat": 25.10309,
+   "lng": 89.02516,
+   "plus_code": "7MQF423G+63",
+   "maps_query": "Moaj cafe, Joypurhat",
+   "source_urls": [
+    "https://mapcarta.com/N5158343182"
+   ],
+   "confidence": "low",
+   "notes": "Only source is an OpenStreetMap node (amenity=cafe) shown on Mapcarta; undated, and the node ID range suggests it was mapped around 2017, so it may be outdated. The Bangla spelling is a guess at the transliteration, since OSM gives only 'Moaj'."
+  },
+  {
+   "category": "restaurant",
+   "name_bn": "রানী সুপার আইসক্রিম",
+   "name_en": "Rani Super Ice Cream",
+   "kind_bn": "আইসক্রিমের দোকান",
+   "gender": "",
+   "upazila": "Joypurhat Sadar",
+   "address_bn": "জয়পুর হাট বাজারের প্রায় ১২০ মিটার পশ্চিমে, নিউ মার্কেটের কাছে, জয়পুরহাট পৌরসভা",
+   "address_en": "About 120 m west of Jaipur Hat market, near New Market, Joypurhat Paurashava",
+   "phones": [],
+   "hours_bn": "",
+   "menu": [],
+   "lat": 25.102495,
+   "lng": 89.024754,
+   "plus_code": "7MQF422F+XW",
+   "maps_query": "Rani Super Ice Cream, Joypurhat",
+   "source_urls": [
+    "https://mapcarta.com/N5158343541",
+    "https://mapcarta.com/N5158346191"
+   ],
+   "confidence": "low",
+   "notes": "OpenStreetMap has two nodes with this name (Bangla 'রানী সুপার আইসক্রিম' and 'রানী সুপার আইস ক্রীম'): node 5158343541 (amenity=restaurant, the location given here) and node 5158346191 (amenity=cafe) at 25.10391, 89.02104 (7MQF423C+HC), about 150 m west of Hotel Prome International near Thana Road. These may be two branches or an old and a new location; the source does not say. Undated OSM data (node IDs suggest about 2017)."
+  },
+  {
+   "category": "restaurant",
+   "name_bn": "বিপ্লব টি স্টল",
+   "name_en": "Biplob Tea Stall",
+   "kind_bn": "চায়ের দোকান",
+   "gender": "",
+   "upazila": "Joypurhat Sadar",
+   "address_bn": "জয়পুরহাট রেলস্টেশন থেকে প্রায় ২৫০ মিটার উত্তরে",
+   "address_en": "About 250 m north of Joypurhat Railway Station",
+   "phones": [],
+   "hours_bn": "",
+   "menu": [],
+   "lat": null,
+   "lng": null,
+   "plus_code": "",
+   "maps_query": "Biplob Tea Stall, Joypurhat",
+   "source_urls": [
+    "https://mapcarta.com/N1472108338",
+    "https://mapcarta.com/N5158341693"
+   ],
+   "confidence": "low",
+   "notes": "Seen only as a 'tea shop' in Mapcarta's nearby-places lists (from OpenStreetMap) on the Joypurhat Railway Station and Mr Tatka pages; it has no page of its own, so no coordinates were given. Undated."
+  },
+  {
+   "category": "restaurant",
+   "name_bn": "লোকান্ত ৫৯০০",
+   "name_en": "Lokanto 5900",
+   "kind_bn": "রেস্টুরেন্ট",
+   "gender": "",
+   "upazila": "Joypurhat Sadar",
+   "address_bn": "পারুলিয়া, পাঁচবিবি রোড, জয়পুরহাট",
+   "address_en": "Paruliya, Panchbibi Road, Joypurhat",
+   "phones": [
+    "+880 1323-276269"
+   ],
+   "hours_bn": "প্রতিদিন সকাল ১০টা – রাত ১০:৩০",
+   "menu": [],
+   "lat": null,
+   "lng": null,
+   "plus_code": "",
+   "maps_query": "লোকান্ত ৫৯০০ পারুলিয়া পাঁচবিবি রোড জয়পুরহাট",
+   "source_urls": [
+    "https://www.restaurantsbd.one/rajshahi/restaurants-joypurhat/"
+   ],
+   "confidence": "low",
+   "notes": "Single aggregator (restaurantsbd.one, page modified 31 Mar 2026), which lists it among Joypurhat restaurants with rating 4.3, hours 10:00-22:30 daily and this phone. The address is taken from the listed business name ('লোকান্ত ৫৯০০ পারুলিয়া পাঁচবিবি রোড জয়পুরহাট'). The upazila comes from the 5900 (Joypurhat Sadar) postcode in that name; please verify. The round-2 run skipped it because the type was unclear, and no other source confirms what kind of eatery it is."
+  },
+  {
+   "category": "hostel",
+   "name_bn": "খানজনপুর মিশন বয়েজ হোস্টেল",
+   "name_en": "Khanjonpur Misson Boys Hostel",
+   "kind_bn": "মিশনের ছাত্রাবাস (ছেলেদের)",
+   "gender": "male",
+   "upazila": "Joypurhat Sadar",
+   "address_bn": "খানজনপুর, জয়পুরহাট টেকনিক্যাল স্কুল অ্যান্ড কলেজের প্রায় ১১০ মিটার উত্তর-পশ্চিমে, খানজনপুর বাজারের প্রায় ১৬০ মিটার পূর্বে",
+   "address_en": "Khanjanpur, about 110 m north-west of Joypurhat Technical School and College and 160 m east of Khanjanpur Bazar",
+   "phones": [],
+   "hours_bn": "",
+   "menu": [],
+   "lat": 25.10649,
+   "lng": 89.00041,
+   "plus_code": "7MQF4242+H5",
+   "maps_query": "Khanjanpur Mission Boys Hostel, Joypurhat",
+   "source_urls": [
+    "https://mapcarta.com/N10688080981",
+    "https://mapcarta.com/W531388456"
+   ],
+   "confidence": "low",
+   "notes": "Only source is an OpenStreetMap node (tourism=hostel, node 10688080981) shown on Mapcarta, spelled 'Khanjonpur Misson Boys Hostel'. Undated; the node ID range suggests it was mapped around 2023. Gender is from the name ('Boys'). Presumably linked to the Khanjanpur Catholic mission, but no source says who runs it, who can stay or what it costs. An AsiaNews article (2018) on the Khonjanpur parish mentions a parish school but no hostel."
+  }
+ ],
+ "searched_but_not_found": [
+  "MESS/HOSTEL (Cybo pages 2-5): Cybo's Bangla hostel list still shows 116 results with only 25 on page 1, and the page has no pagination links. ?p= is allowed by Cybo's robots.txt, but every URL tried failed with CLIENT_ERROR: ?p=2 and /?p=2 (Bangla), /2/, the trailing-slash variant, the English www.cybo.com and yellowpages.cybo.com hostel pages, the Joypurhat root pages, hotels-and-motels, panchbibi pages, postal-code 5910/5940 pages and BD-biz pages. Only URLs fetched in round 2 still loaded, which suggests Cybo now blocks new fetches. About 91 named messes on Cybo are still not captured. Web search does not index Cybo's Joypurhat hostel BD-biz pages either.",
+  "MESS/HOSTEL (other): OpenStreetMap via Mapcarta has only 4 hostel nodes in the college/station area (Sifat, Ananya, Jim Mess, Govt College Girls Hostel, all already in the app) plus Khanjanpur Mission Boys Hostel. Also searched: news sites (Prothom Alo, Jagonews, Jugantor, Kaler Kantho, Samakal and others) for Joypurhat chhatrabas, chhatrinibas and mess names; thetolet.com and toletbd.app (seat/room ads name no mess); placedigger (0 Joypurhat residence or restaurant results); bn/en Wikipedia for Joypurhat Govt College and Girls' Cadet College (no hostel names; the Govt Women's College bn page does not exist). Found no named hostels for the Polytechnic, Technical School & College, PTI, Women's College, or any upazila college or school.",
+  "SKIPPED (mess): the 'Joypurhat Stadium Building' OSM way (W1149610472) is tagged tourism=hostel but has no other information, so it is unclear whether it is a hostel. Cybo's 'কফি শপ' (listed under hostels, 'বেজখন্ড শফিউল ভিলা, মাত্রাই 5930') was also skipped: the name is generic, the address is a private villa, and it is not clearly a business.",
+  "RESTAURANTS in Panchbibi, Kalai, Khetlal: none found. OSM via Mapcarta has no eateries near the Panchbibi Upazila Health Complex, Panchbibi town or Akkelpur bus stand/old bazar. Trip.com's 'Panchbibi' and 'Khetlal' restaurant pages are generic Bangladesh lists (the Joypurhat entries are already in the app). Recent headlines on the Prothom Alo topic pages (Akkelpur, Panchbibi, Kalai, Khetlal), the Jagonews upazila pages (Akkelpur, Kalai, Khetlal, Panchbibi, Sadar), the Kalbela pages (district, Kalai, Khetlal, Panchbibi) and RisingBD's Joypurhat page name no other eatery. A Naya Diganta report of a consumer-rights drive at Panchbibi bazar (9 Sep, year not stated) does not name the 3 shops it fined. Vromonguide and touristplaces.com.bd spot pages list only Sadar restaurants that are already in the app.",
+  "PARLOURS in Akkelpur, Kalai, Khetlal, Panchbibi: none found in any source (Cybo upazila pages blocked; OSM/Mapcarta has no hairdresser or beauty nodes there; news searches found nothing; placedigger has nothing).",
+  "MENUS: no source with dated dish prices was found for any new place.",
+  "POSSIBLE DUPLICATE skipped: 'New Sherma Hotel & Resturant' (OSM node 5158335898, 7MQF423G+78) sits about 30 m from restaurantsbd.one's 'শর্মা সুইটস (মীনা)' hotel (423G+69W, Sugar Mill Road). It is very likely the existing Mina Restaurant / Sharma Sweets (Meena), so no new record was made.",
+  "CHECK EXISTING (Biler Ghaat): food.json places 'Biler Ghaat' (Trip.com, plus code 23P9+J25, about 25.036N 89.068E) in Joypurhat Sadar. A Jagonews report (21 Jul 2025, https://www.jagonews24.com/country/news/1038066) puts 'বিলের ঘাট' on the Tulshiganga in Khetlal upazila, where a tourist spot 'নিঃশব্দ' opened. If the eatery and this ghat are the same place, the upazila may be Khetlal; not confirmed.",
+  "CHECK EXISTING (Moyna Bahar Hotel): places.json lists it under residential hotels, but OSM tags it amenity=restaurant at 25.10209, 89.02596 (7MQF422G+R9, https://mapcarta.com/N5158339530), near Hotel Swad and Khawa Dawa.",
+  "SEARCH LIMITS: the WebSearch tool barely indexes Bangla local news or directory pages for these upazilas. Site-restricted Bangla searches on national news domains worked better but rarely named eateries."
+ ],
+ "blocked_sites": [
+  "cybo.com (yellowpages-bn.cybo.com, www.cybo.com, yellowpages.cybo.com, postal-codes.cybo.com): every new URL returned CLIENT_ERROR (pagination ?p=2, /2/, other categories, upazila pages, BD-biz pages). Robots.txt allows ?p= but disallows ?nbh= and ?rating= filters, which were not used.",
+  "panchbibi.joypurhat.gov.bd and other *.joypurhat.gov.bd portals (ROBOTS_DISALLOWED)",
+  "wikimapia.org (robots.txt disallows ClaudeBot for the whole site)",
+  "overpass-api.de /api/ (robots.txt disallows)",
+  "nominatim.openstreetmap.org /search, /details (robots.txt disallows)",
+  "photon.komoot.io (ROBOTS_DISALLOWED)",
+  "bangladesh-places.com (ROBOTS_DISALLOWED)",
+  "uk.trip.com restaurant detail page for food-park-snacks (CLIENT_ERROR); au.trip.com was skipped because round 2 found it blocked",
+  "wanderlog.com place pages (JavaScript only, no content)",
+  "bd-pratidin.com article 1306805 (CLIENT_ERROR); prothomalo.com topic page for জয়পুরহাট (CLIENT_ERROR); one long-slug Prothom Alo URL was rejected by the fetch proxy for length",
+  "facebook.com (not attempted, per instructions)"
+ ]
+}

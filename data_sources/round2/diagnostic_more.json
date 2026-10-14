@@ -1,0 +1,1125 @@
+{
+  "checked": "2026-10-12",
+  "diagnostic_centres": [
+    {
+      "name_en": "Al-Shifa Diagnostic Centre (Joypurhat Sadar)",
+      "name_bn": "আল-শিফা ডায়াগনস্টিক সেন্টার",
+      "address": "Adhunik Jilla Hospital more, sodor Rasta, Joypurhat (as printed in DGHS registry; i.e. near the District/General Hospital crossing, Sadar Road)",
+      "upazila": "Joypurhat Sadar",
+      "phones": [
+        "01969833922"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": 25.09622,
+      "lng": 89.043006,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/31296/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2",
+        "https://healthcenterbd.com/joypurhat-medical-center-list/",
+        "https://inhealthylife.com/joypurhat-medical-center-list/",
+        "https://www.whereindoctor.com/2024/07/hospital-and-clinic-list-of-joypurhat.html"
+      ],
+      "confidence": "high",
+      "notes": "DGHS registry id 31296, email alshifa.amin@gmail.com, next-renewal date 2022-07-01. The same number is printed for 'Al Sifa Diagnostic Center, Sadar Main Rd., Joypurhat, +8801969-833922' (healthcenterbd, whereindoctor 2024) and 'আল শেফা ডায়াগনস্টিক সেন্টার, সদর মেইন রোড, +৮৮০১৯৬৯-৮৩৩৯২২' (inhealthylife list). DGHS registers a SEPARATE 'AL-SHEFA DIAGNOSTIC CENTER' in Khetlal (01735705360). Our existing 'Al Shefa Diagnostic Centre (Khetlal)' record blends the two; see corrections before merging."
+    },
+    {
+      "name_en": "Jamuna Lab & Consultancy",
+      "name_bn": "যমুনা ল্যাব এন্ড কনসালটেন্সী",
+      "address": "Pacholia, Mongolbari Bazar, Joypurhat",
+      "upazila": "Joypurhat Sadar",
+      "phones": [
+        "01795188281"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/26627/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1"
+      ],
+      "confidence": "medium",
+      "notes": "DGHS registry id 26627 (Consultancy & Diagnostic Center), email jamunalabandconsultancy@gmail.com, next-renewal date 2021-07-01. Upazila taken from the registry list. Registry coordinates are a Rajshahi-city placeholder, omitted."
+    },
+    {
+      "name_en": "Lab Seven Diagnostic Centre",
+      "name_bn": "ল্যাব সেভেন ডায়গনস্টিক সেন্টার",
+      "address": "Puranapail bazar, Joypurhat",
+      "upazila": "Joypurhat Sadar",
+      "phones": [
+        "01913152300"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": 25.1266961,
+      "lng": 89.0657027,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/28329/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1"
+      ],
+      "confidence": "medium",
+      "notes": "DGHS registry id 28329, email amhedfaruque555@gmail.com, next-renewal date 2021-07-01. Bangla spelling 'ডায়গনস্টিক' is as registered."
+    },
+    {
+      "name_en": "S.B Polar Diagnostic & Consultancy",
+      "name_bn": "এস.বি পোলার ডায়াগনস্টিকস্ এন্ড কনসালটেন্সী",
+      "address": "Bazar Goli, Joypurhat-5900, Joypurhat Sadar, Joypurhat",
+      "upazila": "Joypurhat Sadar",
+      "phones": [
+        "01715483444"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/28417/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1"
+      ],
+      "confidence": "medium",
+      "notes": "DGHS registry id 28417, email shuridbasak1975@gmail.com (Bandhan Clinic's registry email is shuridbasak@gmail.com, so possibly the same owner; not confirmed). Next-renewal date 2022-07-01. Registry coordinates are a value shared by several unrelated rows, omitted."
+    },
+    {
+      "name_en": "Saz Pathological Lab",
+      "name_bn": "সাজ প্যাথলজিক্যাল ল্যাব",
+      "address": "Jamalgonj road, Joypurhat",
+      "upazila": "Joypurhat Sadar",
+      "phones": [
+        "01714029251"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": 25.034759,
+      "lng": 89.081411,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/29496/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1"
+      ],
+      "confidence": "medium",
+      "notes": "DGHS registry id 29496, email drkhalid9251@gmail.com, next-renewal date 2022-07-01."
+    },
+    {
+      "name_en": "Doctors Lab",
+      "name_bn": "ডক্টরস ল্যাব",
+      "address": "Amtoli, Sadar Road, Joypurhat",
+      "upazila": "Joypurhat Sadar",
+      "phones": [
+        "01957199979"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/31205/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "DGHS registry id 31205, email doctorslabjoypurhat@gmail.com, next-renewal date 2022-07-01. Not the same as 'Doctors Clinic' / 'New Doctors Clinic' (Hazi Madrasa Road) in our hospitals list. Registry coordinates are a placeholder, omitted."
+    },
+    {
+      "name_en": "Meditest Diagnostic & Consultancy Center",
+      "name_bn": "মেডিটেস্ট ডায়াগনস্টিক এন্ড কনসালটেন্সী সেন্টার",
+      "address": "C O Colony, Joypurhat",
+      "upazila": "Joypurhat Sadar",
+      "phones": [
+        "01717999855"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": 25.0989734,
+      "lng": 89.0358907,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/31796/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "DGHS registry id 31796, email meditestdiagonostic.joy2021@gmail.com, next-renewal date 2022-07-01. No link found to the Dhaka 'Meditest Diagnostic Services'."
+    },
+    {
+      "name_en": "Oxigen Diagnostic & Consultation Centre",
+      "name_bn": "অক্সিজেন ডায়াগনস্টিকস এন্ড কনসালটেশন সেন্টার",
+      "address": "Amtoli Sadar Road, Joypurhat",
+      "upazila": "Joypurhat Sadar",
+      "phones": [
+        "01790474751"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": 25.1002079,
+      "lng": 89.0343416,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/34192/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "English spelling 'Oxigen' is as registered (Bangla: অক্সিজেন = Oxygen). DGHS registry id 34192, next-renewal date 2022-07-01; registry email printed as 'raselrana0Z09@gmail.com' (looks mistyped). Coordinates are identical to High Care Clinic's registry row."
+    },
+    {
+      "name_en": "High Care Clinic and Diagnostic Center",
+      "name_bn": "হাই কেয়ার ক্লিনিক এন্ড ডায়াগনস্টিক সেন্টার",
+      "address": "Amtoli Sadar Road, Joypurhat",
+      "upazila": "Joypurhat Sadar",
+      "phones": [
+        "01831387070"
+      ],
+      "hours": "",
+      "services": [
+        "Operation theatre (per DGHS registry)"
+      ],
+      "website": "",
+      "lat": 25.1002079,
+      "lng": 89.0343416,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/31767/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "DGHS registry id 31767, registered as 'Private Hospital / Clinic' with 10 approved beds, so it may belong in the hospitals list. Email joyhicareclinic@gmail.com, next-renewal date 2022-07-01. Coordinates identical to Oxigen Diagnostic's row."
+    },
+    {
+      "name_en": "National General Hospital and Diagnostic Centre",
+      "name_bn": "ন্যাশনাল জেনারেল হাসপাতাল এন্ড ডায়াগনষ্টিক সেন্টার",
+      "address": "Amtoly, Sadar Road, Joypurhat",
+      "upazila": "Joypurhat Sadar",
+      "phones": [
+        "01721669177"
+      ],
+      "hours": "",
+      "services": [
+        "Ambulance (per DGHS registry)"
+      ],
+      "website": "",
+      "lat": 25.1016856,
+      "lng": 89.0304796,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/35357/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "Registered twice in DGHS: id 35321 as 'Private Hospital / Clinic' and id 35357 as 'Consultancy & Diagnostic Center', same mobile. Email Nationalgeneralhospital2022@gmail.com, next-renewal date 2022-07-01. Hospital plus diagnostic centre; may also belong in the hospitals list."
+    },
+    {
+      "name_en": "Anowara Lab & Consultancy",
+      "name_bn": "আনোয়ারা ল্যাব অ্যান্ড কনসালটেন্সি",
+      "address": "C O Colony, Sadar Road, Joypurhat",
+      "upazila": "Joypurhat Sadar",
+      "phones": [],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/39295/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "DGHS registry id 39295 (a recent registration; no phone, email or renewal date). Possibly connected with Anowara Clinic (already in our hospitals list), which DGHS separately registers as 'Anowara Clinic & Nursing Home' and 'Anowara Clinic & Diagnostic Centre' (01715002308); the link is not confirmed."
+    },
+    {
+      "name_en": "City Diagnostic Center",
+      "name_bn": "সিটি ডায়াগনষ্টিক সেন্টার",
+      "address": "Amtoli Sadar Road, Joypurhat",
+      "upazila": "Joypurhat Sadar",
+      "phones": [],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/39951/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "Registry spells it 'City Diagonostic Center'. DGHS registry id 39951 (most recent Joypurhat registration seen); no phone or email given. Registry coordinates are a placeholder, omitted."
+    },
+    {
+      "name_en": "Khanjanpur Mission Health Service",
+      "name_bn": "খনজনপুর মিশন হেলথ সার্ভিস",
+      "address": "Paharpur Road, Khanjanpur, Joypurhat (village/street: Sonapur)",
+      "upazila": "Joypurhat Sadar",
+      "phones": [
+        "01733779944"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/20996/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1"
+      ],
+      "confidence": "medium",
+      "notes": "Mission-run health service, established 2004 (registry). Registered both as 'Consultancy & Diagnostic Center' (id 20996) and as 'Private Hospital / Clinic' (id 22286), email kmhs.cgm@yahoo.com, next-renewal date 2022-07-01. A separate 'Khanjanpur Samajik Sasthya Seba Kendra' (01713368404, eye-hospital email) is also registered. Could be filed under clinics instead. Registry coordinates are outside Bangladesh, omitted."
+    },
+    {
+      "name_en": "Surjer Hashi Clinic, Joypurhat",
+      "name_bn": "সূর্যের হাসি নেটওর্য়াক, সূর্যের হাসি ক্লিনিক জয়পুরহাট",
+      "address": "Joypurhat Professorpara (mailing address in DGHS registry)",
+      "upazila": "Joypurhat Sadar",
+      "phones": [
+        "01720553810"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/21937/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1"
+      ],
+      "confidence": "medium",
+      "notes": "NGO clinic of the Surjer Hashi Network (Smiling Sun), established 2003 (registry). Registered as 'Consultancy & Diagnostic Center' (id 21937, next-renewal 2019-07-01) and again as 'Private Hospital / Clinic' (id 32188, same mobile). The profile's village/paurashava fields read 'Near Gangni UHC' / 'Gangni Paurashava', evidently copied from another district, so they are ignored. Email joypurhatshc@yahoo.com. Bangla name kept exactly as registered (including the 'নেটওর্য়াক' spelling). Could be filed under clinics."
+    },
+    {
+      "name_en": "Madhainagar Health Centre, Grameen Kalyan",
+      "name_bn": "মাধাইনগর স্বাস্থ্যকেন্দ্র, গ্রামীন কল্যাণ",
+      "address": "Madhainagar Bazar, P.O- Amdai, Upazila- Joypurhat Sadar, Joypurhat",
+      "upazila": "Joypurhat Sadar",
+      "phones": [
+        "01701693441"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": 25.1697608,
+      "lng": 88.9659208,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/29648/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1"
+      ],
+      "confidence": "medium",
+      "notes": "Grameen Kalyan (NGO) rural health centre, registered by DGHS under 'Consultancy & Diagnostic Center' (id 29648). Email madhainagarhc.gk@gmail.com, next-renewal date 2022-07-01. Could be filed under clinics."
+    },
+    {
+      "name_en": "Jamalganj Health Center, Grameen Kalyan",
+      "name_bn": "জামালগঞ্জ স্বাস্থ্য কেন্দ্র গ্রামীন কল্যাণ",
+      "address": "Jamalpur Charmatha, Jamalganj, Joypurhat Sadar, Joypurhat",
+      "upazila": "Joypurhat Sadar",
+      "phones": [
+        "01701693449"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/33213/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "Grameen Kalyan (NGO) health centre registered under 'Consultancy & Diagnostic Center' (id 33213; registry English reads 'GRAMEEN KALYANAN'). Email jamalganjhc.gk@gmail.com, next-renewal date 2022-07-01. Registry coordinates point to Dhaka, omitted. Could be filed under clinics."
+    },
+    {
+      "name_en": "Somajder Diagnostic Centre",
+      "name_bn": "সমজদার ডায়াগনষ্টিক সেন্টার",
+      "address": "TILAKPUR, AKKELPUR, JOYPURHAT (mailing address; the registry's street field reads 'House # 7, Road # 2 Gutdara ghat, New Panir Pump')",
+      "upazila": "Akkelpur",
+      "phones": [
+        "01719105830"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/21660/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1"
+      ],
+      "confidence": "low",
+      "notes": "Registry English 'SOMAJDER DIAGONOSTIC CENTRE'. Established 2003 (registry); next-renewal date 2020-07-01, so it may have lapsed. Email hrabiul353@gmail.com. Registry coordinates fall in Joypurhat town, which does not match Tilakpur/Akkelpur, so they are omitted."
+    },
+    {
+      "name_en": "Digital Diagnostic Center (Akkelpur)",
+      "name_bn": "ডিজিটাল ডায়াগনষ্টিক সেন্টার",
+      "address": "Habiba Manson, Collage Bazar, Main Road, Akkelpur, Joypurhat",
+      "upazila": "Akkelpur",
+      "phones": [
+        "01714602663"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": 24.966703,
+      "lng": 89.016936,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/27009/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1"
+      ],
+      "confidence": "medium",
+      "notes": "DGHS registry id 27009, email digitaldiagnostisenter@gmail.com, next-renewal date 2021-07-01. The same coordinates are given for The Popular Diagnostic Center, so they may be a generic Akkelpur-town point."
+    },
+    {
+      "name_en": "Naba-Ayat Diagnostic Centre",
+      "name_bn": "নাবা-আয়াত ডায়াগনস্টিক সেন্টার",
+      "address": "Upozilla Mukti Zoddha Complex Bhabon, Sadar Road, Akkelpur, Joypurhat",
+      "upazila": "Akkelpur",
+      "phones": [
+        "01779222282"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/31539/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "low",
+      "notes": "DGHS registry id 31539, email nabaayatdiagnosticcentre10@gmail.com, next-renewal date 2020-07-01, so it may have lapsed. Registry coordinates (25.047862, 89.03443) lie well north of Akkelpur town, so they are omitted."
+    },
+    {
+      "name_en": "The Popular Diagnostic Center, Akkelpur",
+      "name_bn": "দি পপুলার ডায়াগনস্টিক সেন্টার",
+      "address": "S K Super Market (2nd Flor), Akkelpur, Joypurhat (DGHS); in front of Akkelpur Upazila Health Complex (Prothom Alo)",
+      "upazila": "Akkelpur",
+      "phones": [],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": 24.966703,
+      "lng": 89.016936,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/39486/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2",
+        "https://www.prothomalo.com/bangladesh/district/6oagrc1a6x"
+      ],
+      "confidence": "high",
+      "notes": "DGHS registry id 39486 (recent; no phone given). Prothom Alo (25 Aug 2026) spells it 'দ্য পপুলার ডায়াগনস্টিক সেন্টার', places it in front of Akkelpur UHC, and names its director as Rasel Ahmed (রাসেল আহম্মেদ). That report covers a local protest over a UHC medical officer seeing patients there during duty hours; no doctor is listed here because the report is an allegation, not a published chamber schedule. No evidence that it belongs to the national Popular Diagnostic Centre Ltd chain. The coordinates are the same as Digital Diagnostic Center's (possibly a generic Akkelpur point)."
+    },
+    {
+      "name_en": "Tilokpur Health Center, Grameen Kalyan",
+      "name_bn": "তিলকপুর স্বাস্থ্যকেন্দ্র, গ্রামীণ কল্যাণ",
+      "address": "Tilokpur, Akkelpur, Joypurhat",
+      "upazila": "Akkelpur",
+      "phones": [
+        "01701693452"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/33207/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "Grameen Kalyan (NGO) health centre registered under 'Consultancy & Diagnostic Center' (id 33207). Email tilokpurhc.gk@gmail.com, next-renewal date 2022-07-01. Registry coordinates point to Dhaka, omitted. Could be filed under clinics."
+    },
+    {
+      "name_en": "NAF Diagnostic Centre",
+      "name_bn": "নাফ ডায়াগনষ্টিক সেন্টার",
+      "address": "Harunja, Upzilla: Kalai, Joypurhat",
+      "upazila": "Kalai",
+      "phones": [
+        "01711929522"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/31515/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "low",
+      "notes": "DGHS registry id 31515, email masohail67@gmail.com, next-renewal date 2020-07-01, so it may have lapsed. Registry coordinates are a Rajshahi-city placeholder, omitted."
+    },
+    {
+      "name_en": "Mollik Digital Diagnostic & Consultation Center",
+      "name_bn": "মল্লিক ডিজিটাল ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+      "address": "Sadar Road, Kalai, Joypurhat-5930, Bangladesh",
+      "upazila": "Kalai",
+      "phones": [
+        "01717338194"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/31776/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "DGHS registry id 31776, email mdckalai@gmail.com, next-renewal date 2022-07-01. Registry coordinates fall in Joypurhat town and match Meghna General Hospital's row, not Kalai, so they are omitted."
+    },
+    {
+      "name_en": "Sotota Diagnostic Center",
+      "name_bn": "সততা ডায়গনষ্টিক সেন্টার",
+      "address": "Hospital Road, Kalai, Joypurhat",
+      "upazila": "Kalai",
+      "phones": [
+        "01725855936"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/32611/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "low",
+      "notes": "The Bangla name সততা means 'honesty' (registry English 'SOTOTA'). DGHS registry id 32611, email sototadiagonosticcentre@gmail.com, next-renewal date 2020-07-01, so it may have lapsed. Registry coordinates are a placeholder, omitted."
+    },
+    {
+      "name_en": "Khetlal Diagnostic Centre",
+      "name_bn": "ক্ষেতলাল ডায়াগনস্টিক সেন্টার",
+      "address": "Ietakhola Road, Khetlal, Joypurhat (village/street: Shantikunjo)",
+      "upazila": "Khetlal",
+      "phones": [
+        "01917800445"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/21463/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1"
+      ],
+      "confidence": "medium",
+      "notes": "Established 2006 (registry). DGHS registry id 21463, email khetlaldiagnosticcentre2018@gmail.com, next-renewal date 2022-07-01. Registry coordinates are a Rajshahi-city placeholder, omitted."
+    },
+    {
+      "name_en": "Computer Pathology Centre",
+      "name_bn": "কম্পিউটার প্যাথলজি সেন্টার",
+      "address": "Vill: Nazirpur, Post: Molamgarihat, Upa: Khetlal, Dist: Joypurhat",
+      "upazila": "Khetlal",
+      "phones": [
+        "01729446170"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": 24.998791,
+      "lng": 89.155273,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/32903/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "low",
+      "notes": "DGHS registry id 32903, email computerpathology01@gmail.com, next-renewal date 2020-07-01, so it may have lapsed."
+    },
+    {
+      "name_en": "Al-Taqwa Lab and Consultation Center (Khetlal)",
+      "name_bn": "আল-তাকওয়া ল্যাব এন্ড কনসালটেশন সেন্টার",
+      "address": "KHETLAL SADAR, KHETLAL, JOYPURHAT",
+      "upazila": "Khetlal",
+      "phones": [
+        "01776404545"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": 25.0380091,
+      "lng": 89.1086477,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/34788/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "DGHS registry id 34788, email arenasoft.bd@gmail.com, next-renewal date 2022-07-01. This is NOT our existing 'Taqwa Lab and Consultation Center' (Hospital Mor, Joypurhat Sadar, 01737-374012 / 01977-374012), so do not merge them."
+    },
+    {
+      "name_en": "Life Care Diagnostic & Diabetic Centre",
+      "name_bn": "লাইফ কেয়ার ডায়াগনস্টিক এন্ড ডায়াবেটিক সেন্টার",
+      "address": "Bottali Bazar, Khetlal, Joypurhat",
+      "upazila": "Khetlal",
+      "phones": [],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/39612/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "DGHS registry id 39612 (recent; no phone, email or renewal date). Registry coordinates (24.808119, 88.98987) are outside Khetlal, omitted."
+    },
+    {
+      "name_en": "Grameen Kalyan Bottoli Bazar Health Centre",
+      "name_bn": "গ্রামীন কল্যান বটতলী বাজার স্বাস্থ্য কেন্দ্র",
+      "address": "Bottoli Bazar, Khetlal, Joypurhat",
+      "upazila": "Khetlal",
+      "phones": [
+        "01701693442"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": 25.0674034,
+      "lng": 89.0961321,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/33561/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "Grameen Kalyan (NGO) health centre registered under 'Consultancy & Diagnostic Center' (id 33561). Email healthcenterbottoli@gmail.com, next-renewal date 2022-07-01. Could be filed under clinics."
+    },
+    {
+      "name_en": "Pathological Laboratory (Damdama, Panchbibi)",
+      "name_bn": "প্যাথলজিক্যাল ল্যাবরেটরি",
+      "address": "Damdama, Panchibibi, Joypurhat (as printed)",
+      "upazila": "Panchbibi",
+      "phones": [
+        "01712501800"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": 25.1871644,
+      "lng": 89.0191281,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/26014/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1"
+      ],
+      "confidence": "medium",
+      "notes": "The registered name is generic. DGHS registry id 26014, email dr.mozammel19@gmail.com, next-renewal date 2022-07-01."
+    },
+    {
+      "name_en": "Ramichha Clinic & Diagnostic Centre",
+      "name_bn": "রমিছা ক্লিনিক এন্ড ডায়াগনষ্টিক সেন্টার",
+      "address": "Bazar Road, Panchbibi, Joypurhat",
+      "upazila": "Panchbibi",
+      "phones": [
+        "01722820013"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": 25.190254,
+      "lng": 89.022442,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/27546/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "Registered twice: id 27546 'Consultancy & Diagnostic Center' (next-renewal 2020-07-01) and id 33969 'Private Hospital / Clinic' (later registration, same mobile). Email ramichhacdc@gmail.com. Clinic plus diagnostic centre; may also belong in the hospitals list."
+    },
+    {
+      "name_en": "Doctor Bari Consultation Center",
+      "name_bn": "ডাক্তার বাড়ী কনসালটেশন সেন্টার",
+      "address": "Hili Road, Panch Patha, Panchbibi, Joypurhat",
+      "upazila": "Panchbibi",
+      "phones": [
+        "01729534949"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": 25.1858842,
+      "lng": 89.0179122,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/34199/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "DGHS registry id 34199, email drbari5bb@gmail.com, next-renewal date 2022-07-01."
+    },
+    {
+      "name_en": "Shimultoli Diagnostic Centre",
+      "name_bn": "শিমুলতলী ডায়াগনষ্টিক সেন্টার",
+      "address": "Shimultoli Bazar, Panchbibi, Joypurhat",
+      "upazila": "Panchbibi",
+      "phones": [
+        "01714566497"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/34796/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "DGHS registry id 34796, email habiburdepis@gmail.com, next-renewal date 2022-07-01. Registry coordinates (25.045874, 88.751984) are west of the district, omitted."
+    },
+    {
+      "name_en": "At-Taqwa Lab & General Hospital",
+      "name_bn": "আত-তাকওয়া ল্যাব এন্ড জেনারেল হাসপাতাল",
+      "address": "Tinmatha, Panchibibi, Joypurhat (as printed)",
+      "upazila": "Panchbibi",
+      "phones": [],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": 25.1856657,
+      "lng": 89.0179816,
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/36789/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ],
+      "confidence": "medium",
+      "notes": "DGHS registry id 36789, registered as 'Private Hospital / Clinic' with 10 approved beds (lab plus hospital); no phone or email in the registry. Not the same as the Khetlal Al-Taqwa lab or our Sadar Taqwa Lab."
+    },
+    {
+      "name_en": "Surjer Hashi Clinic, Panchbibi",
+      "name_bn": "সূর্যের হাসি নেটওয়ার্ক, সূর্যের হাসি ক্লিনিক, পাঁচবিবি",
+      "address": "Village: Nakorgachhi (Hili Road), Panchbibi, Joypurhat",
+      "upazila": "Panchbibi",
+      "phones": [
+        "01712846964"
+      ],
+      "hours": "",
+      "services": [],
+      "website": "",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/27279/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1"
+      ],
+      "confidence": "medium",
+      "notes": "NGO clinic of the Surjer Hashi Network (Smiling Sun), registered under 'Consultancy & Diagnostic Center' (id 27279). Email panchbibishc@gmail.com, next-renewal date 2022-07-01. The registry's mailing address also contains 'Mohakhali, Dhaka' (the network's head office); that part is dropped here. Registry coordinates point to Dhaka, omitted. Could be filed under clinics."
+    }
+  ],
+  "doctors_at_centres": [
+    {
+      "name_en": "Dr. Md. Saidur Rahman",
+      "name_bn": "ডাঃ মোঃ সাইদুর রহমান",
+      "degrees": "MBBS, BCS (Health), PhD (Dermatology/AIDS/STD), DVD (Dhaka), FCGP (Dhaka), FAD (America)",
+      "specialty": "Dermatology & venereology (skin & sexual diseases)",
+      "designation": "Associate Professor, Skin & VD Department, Shaheed Ziaur Rahman Medical College & Hospital, Bogura",
+      "centre_name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+      "days": "",
+      "time": "",
+      "fee": "",
+      "phones": [
+        "017-520-19956"
+      ],
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/dermatology-joypurhat/dr-md-saidur-rahman/",
+        "https://graduategeneralhospital.com/ggh-doctors/"
+      ],
+      "confidence": "medium",
+      "notes": "From the hospital's own website. The site prints the name in English only (page shows 'DR MD Saidur Rahman'), so the Bangla is a careful transliteration. Degrees come from the page's Bangla line: 'এমবিবিএস, বিসিএস (স্বাস্থ্য) পিএইচডি (চর্মরোগ/এইডস/এসটিডি) ডিভিডি (ঢাকা), এফসিজিপি (ঢাকা) এফএডি (আমেরিকা)'. No schedule is printed; the phone is the hospital hotline."
+    },
+    {
+      "name_en": "Dr. S. M. Borhan Uddin",
+      "name_bn": "ডাঃ এস. এম. বোরহান উদ্দিন",
+      "degrees": "MBBS, BCS (Health), MS (Paediatric Surgery)",
+      "specialty": "Paediatric surgery & paediatric urology",
+      "designation": "Assistant Professor, Paediatric Surgery Department, Sir Salimullah Medical College & Hospital, Dhaka",
+      "centre_name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+      "days": "",
+      "time": "",
+      "fee": "",
+      "phones": [
+        "017-520-19956"
+      ],
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/paediatric-surgery-paediatric-urology/dr-s-m-borhan-uddin/",
+        "https://graduategeneralhospital.com/ggh-doctors/"
+      ],
+      "confidence": "medium",
+      "notes": "Bangla name is a transliteration (the site gives English only). No schedule printed; the phone is the hospital hotline."
+    },
+    {
+      "name_en": "Dr. Sanzida Yasmin",
+      "name_bn": "ডাঃ সানজিদা ইয়াসমিন",
+      "degrees": "MBBS, BCS (Health), MS (Gynae & Obs), CMU (Ultrasonography)",
+      "specialty": "Gynaecology & obstetrics, infertility",
+      "designation": "",
+      "centre_name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+      "days": "",
+      "time": "",
+      "fee": "",
+      "phones": [],
+      "source_urls": [
+        "https://graduategeneralhospital.com/ggh-doctors/"
+      ],
+      "confidence": "medium",
+      "notes": "Listed on the hospital's 'GGH Doctors' page as regularly seeing patients at GGH, Joypurhat. Her own profile page (https://graduategeneralhospital.com/doctors/gynecologist-joypurhat/dr-sanzida-yasmin/) failed to load twice, so details come only from the listing. She is not yet in the site's doctor sitemap, which suggests she was added recently. Bangla name is a transliteration."
+    },
+    {
+      "name_en": "Dr. Monzur Ahamed",
+      "name_bn": "ডাঃ মনজুর আহমেদ",
+      "degrees": "MBBS, BCS (Health), FCPS (Physical Medicine)",
+      "specialty": "Physical medicine & rehabilitation; pain medicine",
+      "designation": "Assistant Professor & Head of Department, Shaheed Ziaur Rahman Medical College & Hospital, Bogura",
+      "centre_name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+      "days": "",
+      "time": "",
+      "fee": "",
+      "phones": [
+        "017-520-19956"
+      ],
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/pain-doctor-joypurhat/dr-monzur-ahamed/",
+        "https://graduategeneralhospital.com/ggh-doctors/"
+      ],
+      "confidence": "medium",
+      "notes": "Name as printed: 'DR Monzur Ahamed' (English only), so the Bangla is a transliteration. The page says only that the chamber is open regularly; the phone is the hospital hotline."
+    },
+    {
+      "name_en": "Dr. Dewan Md. Aminul Islam",
+      "name_bn": "ডাঃ দেওয়ান মোঃ আমিনুল ইসলাম",
+      "degrees": "MBBS, BCPS (Health), DMU (as printed; 'BCPS' is probably a typo for BCS)",
+      "specialty": "Pain management / anaesthesiology",
+      "designation": "Senior Consultant (Pain Management / Anesthesiology), Adhunik Zilla Hospital, Joypurhat",
+      "centre_name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+      "days": "",
+      "time": "",
+      "fee": "",
+      "phones": [
+        "017-520-19956"
+      ],
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/neck-pain-joypurhat/dr-dewan-md-aminul-islam/",
+        "https://graduategeneralhospital.com/ggh-doctors/"
+      ],
+      "confidence": "medium",
+      "notes": "Bangla name is a transliteration. The page says only that the chamber is open regularly; the phone is the hospital hotline."
+    },
+    {
+      "name_en": "Dr. Md. Amanullah Chowdhury",
+      "name_bn": "ডাঃ মোঃ আমানউল্লাহ চৌধুরী",
+      "degrees": "MBBS, BCS (Health), MD (Chest Diseases)",
+      "specialty": "Chest diseases, asthma & pulmonology",
+      "designation": "Consultant, National Institute of Diseases of the Chest & Hospital (NIDCH), Mohakhali, Dhaka",
+      "centre_name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+      "days": "",
+      "time": "",
+      "fee": "",
+      "phones": [
+        "017-520-19956"
+      ],
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/asthma-joypurhat/dr-md-amanullah-chowdhury/",
+        "https://graduategeneralhospital.com/ggh-doctors/"
+      ],
+      "confidence": "medium",
+      "notes": "Bangla name is a transliteration. No schedule printed; the phone is the hospital hotline."
+    },
+    {
+      "name_en": "Dr. Md. Mahfuzul Haque Mamun",
+      "name_bn": "ডাঃ মোঃ মাহফুজুল হক মামুন",
+      "degrees": "MBBS, DLO, BSMMU Trained (PG Hospital)",
+      "specialty": "ENT (ear, nose & throat) surgery",
+      "designation": "Assistant Professor, Department of ENT, TMSS Medical College & Hospital, Bogura",
+      "centre_name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+      "days": "",
+      "time": "",
+      "fee": "",
+      "phones": [
+        "017-520-19956"
+      ],
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/nose-throat-surgery/dr-md-mahfuzul-haque-mamun/",
+        "https://graduategeneralhospital.com/ggh-doctors/"
+      ],
+      "confidence": "medium",
+      "notes": "Bangla name is a transliteration. No schedule printed; the phone is the hospital hotline."
+    },
+    {
+      "name_en": "Dr. Md. Zahidul Kabir Sujon",
+      "name_bn": "ডাঃ মোঃ জাহিদুল কবির সুজন",
+      "degrees": "MBBS (DMC), BCS (Health), D-Orthopaedic (NITOR)",
+      "specialty": "Orthopaedics & trauma surgery",
+      "designation": "Senior Consultant, Orthopaedic Surgeon, 250 Bed Sheikh Mohammed Ali Hospital, Bogura; Ex-Registrar, Shaheed Ziaur Rahman Medical College & Hospital, Bogura",
+      "centre_name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+      "days": "",
+      "time": "",
+      "fee": "",
+      "phones": [
+        "017-520-19956"
+      ],
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/orthopaedics-trauma/dr-md-zahidul-kabir-sujon/",
+        "https://graduategeneralhospital.com/ggh-doctors/"
+      ],
+      "confidence": "medium",
+      "notes": "Listed on the 'GGH Doctors' page; his profile itself does not state a Joypurhat schedule. Bangla name is a transliteration; the phone is the hospital hotline."
+    },
+    {
+      "name_en": "Dr. M. I. Hasan",
+      "name_bn": "ডাঃ এম. আই. হাসান",
+      "degrees": "BDS, PGT, MPH (Dentistry)",
+      "specialty": "Dentistry (dental surgeon)",
+      "designation": "Dental Surgeon, Graduate General Hospital, Joypurhat",
+      "centre_name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+      "days": "",
+      "time": "",
+      "fee": "",
+      "phones": [
+        "01752-019956"
+      ],
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/dentist-joypuhut/dr-m-i-hasan/",
+        "https://graduategeneralhospital.com/ggh-doctors/"
+      ],
+      "confidence": "medium",
+      "notes": "Dentist; file under dental if preferred. 01752-019956 is printed under 'সিরিয়ালের জন্য যোগাযোগ' (for serial). Bangla name is a transliteration."
+    },
+    {
+      "name_en": "Dr. Md. Shahin",
+      "name_bn": "ডাঃ মোঃ শাহীন",
+      "degrees": "MBBS, MCPS (Ophthalmology), MS (Ophthalmology)",
+      "specialty": "Ophthalmology (eye specialist & phaco surgeon)",
+      "designation": "Assistant Professor (Eye), Shaheed Ziaur Rahman Medical College Hospital, Bogura",
+      "centre_name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+      "days": "",
+      "time": "",
+      "fee": "",
+      "phones": [
+        "017-520-19956"
+      ],
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/ophthalmology-eye-specialist-phaco-surgeon/dr-md-shahin/",
+        "https://graduategeneralhospital.com/ggh-doctors/"
+      ],
+      "confidence": "medium",
+      "notes": "Bangla name is a transliteration (the page gives degrees and designation in Bangla but the name in English). No schedule printed; the phone is the hospital hotline."
+    },
+    {
+      "name_en": "Dr. Jamatul Ferdous Bithi",
+      "name_bn": "ডাঃ জামাতুল ফেরদৌস বীথি",
+      "degrees": "BDS (Rajshahi); trained in oral surgery; BMDC Reg. No. 2480",
+      "specialty": "Oral & dental surgery",
+      "designation": "",
+      "centre_name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+      "days": "",
+      "time": "",
+      "fee": "",
+      "phones": [
+        "017-520-19956"
+      ],
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/oral-dental-surgery/dr-jamatul-ferdous-bithi/",
+        "https://graduategeneralhospital.com/ggh-doctors/"
+      ],
+      "confidence": "medium",
+      "notes": "Dentist. 'Jamatul' is spelled as printed (it may be a typo for 'Jannatul'); Bangla is a transliteration. Not the same person as Dr. Bithi Khatun (gynaecology) in our list. The phone is the hospital hotline."
+    },
+    {
+      "name_en": "Dr. Jannatul Ferdous (Shapla)",
+      "name_bn": "ডাঃ জান্নাতুল ফেরদৌস (শাপলা)",
+      "degrees": "MBBS, BCS (Health), DGO",
+      "specialty": "Gynaecology & obstetrics",
+      "designation": "Consultant, 250 Bed Specialized General Hospital (Joypurhat General Hospital), Joypurhat",
+      "centre_name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+      "days": "",
+      "time": "",
+      "fee": "",
+      "phones": [
+        "017-520-19956"
+      ],
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/gynologist-joypurhat/dr-jannatul-ferdous-shapla/",
+        "https://graduategeneralhospital.com/ggh-doctors/"
+      ],
+      "confidence": "medium",
+      "notes": "Bangla name is a transliteration. No schedule printed; the phone is the hospital hotline."
+    },
+    {
+      "name_en": "Dr. Md. Omar Faruk (Urology)",
+      "name_bn": "ডা. মো: ওমর ফারুক",
+      "degrees": "MBBS, BCS (Health), MS (Urology) BSMMU Dhaka, CCD (BIRDEM)",
+      "specialty": "Kidney & urology specialist surgeon",
+      "designation": "",
+      "centre_name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+      "days": "",
+      "time": "",
+      "fee": "",
+      "phones": [
+        "017-520-19956"
+      ],
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/urology/dr-omar-faruk/",
+        "https://graduategeneralhospital.com/"
+      ],
+      "confidence": "medium",
+      "notes": "EXISTING DOCTOR, NEW CHAMBER: very likely the same urologist already in our list as 'Dr. Md. Omar Faruk' (Al Madina) and as the Bangla-only 'ডাঃ মোঃ ওমর ফারুক' urologist at Famous Health Care (who also lists CCD BIRDEM). This adds his Graduate General Hospital chamber; merge rather than duplicate."
+    },
+    {
+      "name_en": "Dr. Enayetullah Nazim",
+      "name_bn": "ডাঃ এনায়েতুল্লাহ নাজীম",
+      "degrees": "MBBS (DMC), BCS (Health), MS (Orthopaedic Surgery)",
+      "specialty": "Orthopaedics (bone, joint & orthopaedic specialist and surgeon)",
+      "designation": "",
+      "centre_name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+      "days": "",
+      "time": "",
+      "fee": "",
+      "phones": [
+        "017-520-19956"
+      ],
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/orthopedics-joypurhat/dr-anayetullah-nazim/",
+        "https://graduategeneralhospital.com/ggh-doctors/"
+      ],
+      "confidence": "medium",
+      "notes": "EXISTING DOCTOR, NEW CHAMBER: already in our list (Bangla-only record 'ডাঃ এনায়েতুল্লাহ নাজীম' at Famous Health Care & Clinic). The Bangla name is taken from that record; this site prints 'DR Enayetullah Nazim'. Adds his Graduate chamber; the page says only that it is open regularly."
+    },
+    {
+      "name_en": "Dr. Md. Nazrul Islam Nahid",
+      "name_bn": "ডাঃ মোঃ নজরুল ইসলাম (নাহিদ)",
+      "degrees": "MBBS (Dhaka), BCS (Health), MS (Orthopaedic Surgery)",
+      "specialty": "Orthopaedics & trauma surgery",
+      "designation": "Ex-Registrar (Orthopaedics), NITOR (Pangu Hospital), Dhaka; Ex-Consultant Orthopaedics, Shaheed Ziaur Rahman Medical College & Hospital, Bogura",
+      "centre_name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+      "days": "",
+      "time": "",
+      "fee": "",
+      "phones": [
+        "017-520-19956"
+      ],
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/orthopedic-joypurhat/dr-md-nazrul-islam-nahid/",
+        "https://graduategeneralhospital.com/ggh-doctors/"
+      ],
+      "confidence": "medium",
+      "notes": "EXISTING DOCTOR, NEW CHAMBER: already in our list as the Bangla-only record 'ডাঃ মোঃ নজরুল ইসলাম (নাহিদ)' at Al Shefa (Khetlal). The Bangla name is taken from that record. Adds his Graduate chamber."
+    },
+    {
+      "name_en": "Dr. Amit Kumar Mor",
+      "name_bn": "ডা. অমিত কুমার মোর",
+      "degrees": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "Surgery",
+      "designation": "",
+      "centre_name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+      "days": "",
+      "time": "",
+      "fee": "",
+      "phones": [
+        "017-520-19956"
+      ],
+      "source_urls": [
+        "https://graduategeneralhospital.com/"
+      ],
+      "confidence": "medium",
+      "notes": "EXISTING DOCTOR, NEW CHAMBER: already in our list (Bangla-only record 'ডাঃ অমিত কুমার মোর' at Modern General Hospital, degrees 'FCPS (final part) Surgery'). The GGH homepage card prints 'এমবিবিএস, বিসিএস (স্বাস্থ্য), এফসিপিএস (সার্জারি)', which suggests he has now completed the FCPS. His profile URL was too long for the fetch tool, so only the homepage card was read."
+    }
+  ],
+  "corrections": [
+    {
+      "what": "Al Shefa Diagnostic Centre (Khetlal): two different centres appear to be merged in our record",
+      "old": "One record: Khetlal (inhealthylife doctor page) but 'Sadar Main Rd, Joypurhat' on the centre lists; phones +৮৮০১৭৭৮-১০৪৯৮২, +৮৮০১৯৬৯-৮৩৩৯২২, +880 1969-833922",
+      "new": "DGHS has two separate registrations. (1) 'AL-SHEFA DIAGNOSTIC CENTER / আল-শেফা ডায়াগনষ্টিক সেন্টার', Khetlal: mailing 'khetlal Sadar, Upazilla: Khetlal, Dist:Joypurhat', mobile 01735705360, email alshefadiagnosticcenter@gmail.com (the same email inhealthylife gives for the Khetlal centre). (2) 'Al-Shifa Diagnostic Centre / আল-শিফা ডায়াগনস্টিক সেন্টার', Joypurhat Sadar: 'Adhunik Jilla Hospital more, sodor Rasta', mobile 01969833922. Suggest keeping the Khetlal record with its doctors, adding 01735705360, and moving the 'Sadar Main Rd' address and the 01969-833922 number to the new Sadar entry. inhealthylife's Khetlal page also prints 01969-833922, so a phone check would settle it.",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/28693/profile?tab=detailed-information",
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/31296/profile?tab=detailed-information",
+        "https://inhealthylife.com/al-shefa-diagnostic-joypurhat-doctor-list/",
+        "https://healthcenterbd.com/joypurhat-medical-center-list/"
+      ]
+    },
+    {
+      "what": "Bismilla Diagnostic Center: location and phone were empty",
+      "old": "upazila '', address '', phones []",
+      "new": "Registered as 'BISMILLAH DIAGONOSTIC CENTRE' / 'বিসমিল্লাহ ডায়াগনষ্টিক সেন্টার'; upazila Akkelpur; mailing address 'SARDAR MARKET, AKKELPUR, JOYPURHAT.'; mobile 01712493776; email hossaincomputer195@gmail.com. Its next-renewal date was 2019-07-01, so the registration may have lapsed. Registry coordinates point to Dhaka (ignore).",
+      "source_urls": [
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/30686/profile?tab=detailed-information",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1"
+      ]
+    },
+    {
+      "what": "Taqwa Lab and Consultation Center (Sadar): registered name and extra phone",
+      "old": "Name 'Taqwa Lab and Consultation Center'; phones +৮৮০১৭৩৭-৩৭৪০১২, +৮৮০১৯৭৭-৩৭৪০১২",
+      "new": "inhealthylife writes 'তাকওয়া ল্যাব এন্ড কনসালটেশন সেন্টার জয়পুরহাট (আনার কলি ল্যাব)'. DGHS registers 'Anarkoli Lab & Consultation Centre / আনার কলি ল্যাব এন্ড কনসালটেশন সেন্টার', Sadar Road, Joypurhat, mobile 01942420040, email Kmnazmulhuda0040@gmail.com (next-renewal 2021-07-01). This is probably the same Sadar centre under its older or registered name, so add it as an alias and extra phone rather than a new centre. Do not confuse it with 'AL-TAQWA LAB AND CONSULTATION CENTER' (Khetlal) or 'AT-TAQWA LAB & GENERAL HOSPITAL' (Panchbibi), both added as new.",
+      "source_urls": [
+        "https://inhealthylife.com/taqwa-lab-and-consultation-center-joypurhat-doctor-list/",
+        "https://hris.mohfw.gov.bd/public/facility-registry/facilities/28775/profile?tab=detailed-information"
+      ]
+    },
+    {
+      "what": "Graduate General Hospital / Graduate Diagnostic Center: website, phones and DGHS registrations",
+      "old": "website ''; phones +880 1752-019956, 0571-62012; Panchbibi branch phone +৮৮০১৭০৬-১৫০৭০৬ (in notes)",
+      "new": "Official website https://graduategeneralhospital.com/ (header phones '০১৭৫২-০১৯৯৫৬ | ০১৭৮৬-৫৪৫৬৫৬'; hotline '017-520-19956'; address '(Amtoli)Main Road, Joypurhat Sadar, Joypurhat'; emails advice@bshl.com.bd, info@bshl.com.bd). DGHS lists 'Graduate General Hospital' (mobile 01715138518), 'Graduate Diagnostics & Consultancy' (01710680380, graduatejoypurhat@gmail.com) and 'Graduate Diagnostics & Consultancy Panchbibi' (01715360903, gdcpanchbibitelemedicine@gmail.com, coordinates 25.187277, 89.019669). The DGHS numbers may be owner or manager contacts.",
+      "source_urls": [
+        "https://graduategeneralhospital.com/",
+        "https://graduategeneralhospital.com/contact/",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,latitude,longitude,email_1,mobile_2&page=1"
+      ]
+    },
+    {
+      "what": "Extra phone numbers and emails from the DGHS registry for existing centres (registry contact mobiles, possibly owner or manager numbers)",
+      "old": "Not in our records",
+      "new": "Seba Diagnostic Center: 01716057964, sebadiagnostic.joypurhat@gmail.com. KM Lab and Consultancy (registered 'K M Lab and Consaltensi'): 01745178868, sultanamahbuba881@gmail.com. Emu Diagnostic Center: 01714547455, emudiagnosticcenter@gmail.com (Emu General Hospital is registered separately: 01915461219). New Green Life Diagnostic Center: 01911231959, newgreen.ldc@gmail.com. Fair Health (registered 'Fair Health Specialist & Diagnostic Center'): 01712278227, fairhealth39@gmail.com, coordinates 25.101652, 89.030382. Al Madina: 'Al Modina Diagnostic & Consultation Centre' 01957042288, Almodina.diagnostic16@gmail.com, plus a separate 'Al Modina Diagnostic Center & General Hospital' 01757632971. Joypurhat Diagnostic & Dialysis Centre: registered as Private Hospital / Clinic, coordinates 25.1004866, 89.03255. Registered names: Padma Lab = 'Padma Lab & Consultation Centre'; Tajul Islam = 'Tajul Islam Diagnostic & Doctors Chembar' (01791868666, matching ours).",
+      "source_urls": [
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,latitude,longitude,email_1,mobile_2&page=1",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,latitude,longitude,email_1,mobile_2&page=2"
+      ]
+    },
+    {
+      "what": "Hospitals list (outside this file's scope, found along the way): DGHS phones for clinics already in our hospitals list",
+      "old": "Anowara Clinic '1199121281'; Bandhan Clinic '+8801723-555715', '1712135711'; Padma Clinic '+৮৮০১৭১৫-৫৫২৫৭৬' etc.",
+      "new": "Anowara Clinic (registered as 'Anowara Clinic & Nursing Home' and 'Anowara Clinic & Diagnostic Centre'): 01715002308. Bandhan Clinic (registered as 'BANDHAN CLINIC & NURSING HOME' and 'BANDHAN CLINIC & DIAGNOSTIC CENTRE'): 01782349275. Padma Clinic & Diagnostic Centre: 01925500817. Our '1199121281' for Anowara looks malformed.",
+      "source_urls": [
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,facility_type_name,upazila_name,union_name,mobile_1&page=1",
+        "https://hrm.dghs.gov.bd/public/facility-registry/reports/organization-list?submit=Run&is_active=1&district_code=38&is_private=1&columns_csv=id,name,name_bn,facility_type_name,upazila_name,mobile_1&page=2"
+      ]
+    },
+    {
+      "what": "Dr. ASM Golam Rabbani: designation",
+      "old": "Assistant Professor, Cardiology, Dinajpur Medical College Hospital",
+      "new": "'সহযোগী অধ্যাপক ও ইউনিট প্রধান (ইউনিট-০১), কার্ডিওলজি বিভাগ, দিনাজপুর মেডিকেল কলেজ, দিনাজপুর' (Associate Professor & Unit Head, Unit-01, Cardiology). Serial printed: 01752-019956.",
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/cardiology-in-joypurhat/dr-a-s-m-golam-robbani/"
+      ]
+    },
+    {
+      "what": "Dr. Nahid Sultana (Graduate): degrees and designation were nearly empty",
+      "old": "degrees 'FCPS'; designation ''; name_bn ''",
+      "new": "Degrees printed 'MBBS BCPS (Health) FCPS (Gynecology & Obstetrics)' ('BCPS' is probably a typo for BCS); designation 'Assistant Professor, Rajshahi Medical College & Hospital, Rajshahi'; specialty gynaecology & obstetrics. Bangla name not printed (transliteration would be ডাঃ নাহিদ সুলতানা).",
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/gynecologist-joypurhat/dr-nahid-sultana/"
+      ]
+    },
+    {
+      "what": "Dr. Md. Sohel Rana: degrees and designation",
+      "old": "degrees 'MBBS, BCS (Health), MS (Orthopaedic Surgery)'; designation 'Dhaka Medical College & Hospital'",
+      "new": "Printed: 'MBBS BCS (Health) MS (Ortho) DMC MRCS (Ireland)'; 'Consultant Orthopaedic Specialist & Trauma Surgeon; Medical Officer (Orthopaedics), 25 Bed Specialized District Hospital, Joypurhat' ('25 Bed' is as printed, probably 250).",
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/orthopedics-joypurhat/dr-md-sohel-rana/"
+      ]
+    },
+    {
+      "what": "Dr. Murshida Parvin Jolly: degrees and designation",
+      "old": "degrees 'MBBS, FCPS (Surgery)'; designation 'Sir Salimullah Medical College & Mitford Hospital, Dhaka'",
+      "new": "Printed: 'MBBS BCS (Health) FCPS (Surgery)'; 'Consultant (Surgery) 250 Bed Specialized General Hospital, Joypurhat'.",
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/general-surgery/dr-murshida-parvin-jolly/"
+      ]
+    },
+    {
+      "what": "Dr. Md. Matiur Rahman: designation (sources disagree)",
+      "old": "Former Assistant Professor, EWMC, Dhaka",
+      "new": "The hospital site prints 'Assistant Professor (Former) Department of Medicine, Sir Salimullah Medical College & Hospital, Dhaka; Consultant Cardiologist, International Cardiology Institute, United Hospital, Dhaka'.",
+      "source_urls": [
+        "https://graduategeneralhospital.com/doctors/cardiology-in-joypurhat/dr-md-matiur-rahman/"
+      ]
+    }
+  ],
+  "searched_but_not_found": "English and Bangla web searches for diagnostic centres in each upazila (e.g. 'আক্কেলপুর/পাঁচবিবি/কালাই/ক্ষেতলাল ডায়াগনস্টিক সেন্টার', 'Akkelpur/Panchbibi/Kalai diagnostic') returned almost nothing local; the useful finds came from the DGHS facility registry, the Graduate General Hospital website and one Prothom Alo report. findoutdoctor (2023), prethibi (2020), whereindoctor (2024), bangladeshhealthalliance (2024), healthcenterbd and inhealthylife lists added no new diagnostic centres. prethibi's 'Joypurhat Clinic And Diagnostic Center' has no address or phone and was skipped; its other extra entries are government community clinics. daktarbook's Joypurhat list (12 doctors) and inhealthylife's centre pages (Tajul Islam, Al Shefa, Emu, Taqwa re-checked) had no doctors missing from our list. sebamedi has 0 doctors for Joypurhat centres. ePharma shows only 6 of 120 doctors without login. daktarachen showed no Joypurhat entries and doctorpara failed to load. Skipped because robots.txt disallows fetching: medsheba.com, hospitaldghs.gov.bd (DGHS licence PDFs), doctorsinjoypurhat.com, healthbdhub.com and the joypurhat.gov.bd upazila portals (hospital/clinic pages). Facebook pages were not used. No online doctor schedules were found for any of the newly found DGHS-registered centres. The web-search quota ran out before name-by-name searches for each new centre (e.g. Meditest, Oxigen, Doctors Lab, Lab Seven, Mollik, Naba-Ayat, Doctor Bari), so most new centres rest on the DGHS registry alone. Source note: 'DGHS registry' means the DGHS/MOHFW Facility Registry (the same database at hrm.dghs.gov.bd and hris.mohfw.gov.bd, so it counts as one source), filtered to Joypurhat (district_code=38), private, active: 88 rows. A registry row shows a centre was registered, not that it is open today; many 'next renewal' dates are 2019-2022. lat/lng were copied from the registry only where they fall inside the stated upazila, and placeholder coordinates were left blank."
+}

@@ -1,0 +1,4622 @@
+{
+ "checked": "2026-10-11",
+ "doctors": [
+  {
+   "name_en": "Dr. Md. Monowar Hossain",
+   "name_bn": "ডাঃ মোঃ মনোয়ার হোসেন",
+   "degrees": "MBBS (CU), BCS (Health), MD (Medicine)",
+   "specialty": "Medicine, diabetes",
+   "designation": "Assistant Professor (Medicine), Naogaon Medical College & Hospital",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "Daily; Friday also morning",
+     "time": "3:00 PM - 9:00 PM; Friday also 10:00 AM - 1:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "01326-285813",
+      "01957-042288"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://healthcenterbd.com/al-madina-joypurhat-doctor-list/",
+    "https://inhealthylife.com/al-madina-diagnostic-joypurhat-doctor-list/",
+    "https://epharma.com.bd/en/doctors/joypurhat"
+   ],
+   "confidence": "high",
+   "notes": "inhealthylife gives degree as MD (BMU); healthcenterbd as MD (Medicine). ePharma also lists him at Al-Modina Diagnostic Center, Joypurhat."
+  },
+  {
+   "name_en": "Dr. Md. Sawkat Ali Khan",
+   "name_bn": "ডাঃ মোঃ শওকত আলী খাঁন",
+   "degrees": "MBBS, MPH (NIPSOM), MCPS (Psychiatry)",
+   "specialty": "Psychiatry (mental health, depression, drug addiction)",
+   "designation": "Assistant Professor, TMSS Medical College & Rafatullah Community Hospital, Bogura (inhealthylife); healthcenterbd: Consultant Psychiatry, TMSS Medical College Hospital and Senior Research Investigator, ICDDR (printed 'ICDDRD'), Dhaka",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "Saturday - Thursday; Friday",
+     "time": "Sat-Thu 3:00 PM - 7:00 PM; Friday 10:00 AM - 7:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "01326-285813",
+      "01957-042288"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://healthcenterbd.com/al-madina-joypurhat-doctor-list/",
+    "https://inhealthylife.com/al-madina-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "high",
+   "notes": "BMDC Reg. A-46127 (inhealthylife). Designation differs between sources (Consultant vs Assistant Professor)."
+  },
+  {
+   "name_en": "Dr. Md. Sohrab Hossain",
+   "name_bn": "ডাঃ মোঃ সোহরাব হোসেন",
+   "degrees": "MBBS, BCS (Health), D-Card (BSMMU), CCD (BIRDEM), MACP (USA)",
+   "specialty": "Cardiology, hypertension, rheumatic fever, diabetes, medicine",
+   "designation": "Consultant (Cardiology), 250-bed General Hospital, Joypurhat (inhealthylife); healthcenterbd: Consultant, Cardiology, Shahid Ziaur Rahman Medical College & Hospital",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "Saturday - Thursday",
+     "time": "3:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "01326-285813",
+      "01957-042288"
+     ]
+    },
+    {
+     "place_en": "Joypurhat Diagnostic & Dialysis Centre",
+     "place_bn": "জয়পুরহাট ডায়াগনস্টিক ও ডায়ালাইসিস সেন্টার",
+     "address": "পশু হাসপাতাল রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Saturday - Thursday",
+     "time": "2:30 PM - 4:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৫১-০০৪৫৪৪",
+      "+৮৮০১৩২৯-০০৩৬৩৭"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://healthcenterbd.com/al-madina-joypurhat-doctor-list/",
+    "https://inhealthylife.com/al-madina-diagnostic-joypurhat-doctor-list/",
+    "https://inhealthylife.com/joypurhat-diagnostic-and-dialysis-center-doctor-list/"
+   ],
+   "confidence": "high",
+   "notes": "Workplace conflict between sources (Joypurhat General Hospital vs Shahid Ziaur Rahman MCH, Bogura; former Registrar there per inhealthylife). Listed hours at the two chambers overlap (2:30-4 PM vs 3-9 PM) - confirm by phone."
+  },
+  {
+   "name_en": "Dr. Md. Latiful Bari Shakil",
+   "name_bn": "",
+   "degrees": "MBBS, BCS (Health), MS (BSMMU), FACS (USA), MRCS (Edinburgh), FMAS (Delhi)",
+   "specialty": "General, laparoscopic & colorectal surgery",
+   "designation": "Consultant & Surgeon (Surgery), Al Madina Diagnostic & Consultation Centre, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "01326-285813",
+      "01957-042288"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://healthcenterbd.com/al-madina-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "Not in inhealthylife's 2025-26 Al Madina list."
+  },
+  {
+   "name_en": "Dr. Morsheda Khatun Swapna",
+   "name_bn": "ডাঃ মোর্শেদা খাতুন (স্বপ্না)",
+   "degrees": "MBBS, BCS (Health), FCPS (Gynae & Obs)",
+   "specialty": "Gynaecology, obstetrics, infertility; surgeon",
+   "designation": "Junior Consultant, Gynecology & Obstetrics, District Sadar Hospital, Joypurhat (healthcenterbd); 'Consultant' per inhealthylife",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "Daily; Friday",
+     "time": "3:30 PM - 10:00 PM; Friday 10:00 AM - 10:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "01326-285813",
+      "01957-042288"
+     ]
+    },
+    {
+     "place_en": "Al Shefa Diagnostic Centre",
+     "place_bn": "আল শেফা ডায়াগনস্টিক সেন্টার ক্ষেতলাল জয়পুরহাট",
+     "address": "Sadar Road, east of the T&T office, Khetlal, Joypurhat",
+     "upazila": "Khetlal",
+     "days": "Thursday",
+     "time": "2:30 PM - 4:30 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৭৮-১০৪৯৮২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://healthcenterbd.com/al-madina-joypurhat-doctor-list/",
+    "https://inhealthylife.com/al-madina-diagnostic-joypurhat-doctor-list/",
+    "https://inhealthylife.com/al-shefa-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "high",
+   "notes": "Thursday hours at Al Shefa (Khetlal) overlap with daily hours at Al Madina - confirm."
+  },
+  {
+   "name_en": "Dr. Dilruba Afroz Nira",
+   "name_bn": "ডাঃ দিলরুবা আফরোজ (নীরা)",
+   "degrees": "MBBS, BCS (Health), MD (Skin & VD / Dermatology), BSMMU",
+   "specialty": "Skin, allergy, sexual & venereal diseases, vitiligo",
+   "designation": "Consultant, Dermatology & Venereology, District Sadar Hospital, Joypurhat (healthcenterbd)",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "Saturday - Thursday",
+     "time": "4:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "01326-285813",
+      "01957-042288"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://healthcenterbd.com/al-madina-joypurhat-doctor-list/",
+    "https://inhealthylife.com/al-madina-diagnostic-joypurhat-doctor-list/",
+    "https://epharma.com.bd/en/doctors/joypurhat"
+   ],
+   "confidence": "high",
+   "notes": "ePharma lists her workplace as Panchbibi Upazila Health Complex (conflicts with District Sadar Hospital)."
+  },
+  {
+   "name_en": "Dr. M. Abdullah Sakib",
+   "name_bn": "",
+   "degrees": "MBBS, BCS (Health), FCPS (Eye)",
+   "specialty": "Eye specialist, phaco surgeon",
+   "designation": "Consultant, Department of Ophthalmology, District Sadar Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "Everyday",
+     "time": "3:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+8801326-285813",
+      "+8801957-042288"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://healthcenterbd.com/dr-m-abdullah-sakib/",
+    "https://healthcenterbd.com/al-madina-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "healthcenterbd profile modified Jan 2026; not in inhealthylife's 2025-26 Al Madina list."
+  },
+  {
+   "name_en": "Dr. M. A. Wahed",
+   "name_bn": "ডাঃ এম.এ. ওয়াহেদ",
+   "degrees": "MBBS, BCS (Health), DLO",
+   "specialty": "ENT, head & neck surgery",
+   "designation": "Assistant Professor (ENT), Shaheed Ziaur Rahman Medical College Hospital, Bogura; Consultant (ENT), Sadar Hospital, Naogaon (per Modern Hospital page)",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "10:00 AM - 5:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "01326-285813",
+      "01957-042288"
+     ]
+    },
+    {
+     "place_en": "Modern General Hospital & Diagnostic Center",
+     "place_bn": "মডার্ণ জেনারেল হাসপাতাল এন্ড ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রোড (শহীদ ডাঃ আবুল কাশেম ময়দান সংলগ্ন) জয়পুরহাট ৫৯০০",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "8:00 AM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৪২-৪২৬৭১৩",
+      "+৮৮০১৯২২-২২৯৩৮৯",
+      "+৮৮০১৭৩২৬৭৭৯৯৬",
+      "+৮৮০১৭১৩-২২৮৩৮১"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://healthcenterbd.com/al-madina-joypurhat-doctor-list/",
+    "https://inhealthylife.com/al-madina-diagnostic-joypurhat-doctor-list/",
+    "https://inhealthylife.com/modern-general-hospital-and-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "high",
+   "notes": "Both chambers list Friday with overlapping hours - confirm which applies."
+  },
+  {
+   "name_en": "Dr. Md. Gaousul Azam",
+   "name_bn": "ডাঃ মোঃ গওছুল আযম",
+   "degrees": "MBBS, BCS (Health), MS (Neurosurgery), FACS (USA)",
+   "specialty": "Neurosurgery & spine surgery (brain, nerve, head injury)",
+   "designation": "Assistant Professor, Neurosurgery, Dhaka Medical College & Hospital",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "2nd and 4th Friday of each month",
+     "time": "3:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+880 1326-285813",
+      "+880 1957-042288"
+     ]
+    },
+    {
+     "place_en": "Graduate General Hospital (Graduate Diagnostic Center)",
+     "place_bn": "গ্রাজুয়েট ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রাস্তা, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৫২-০১৯৯৫৬"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://healthcenterbd.com/dr-md-gaousul-azam/",
+    "https://healthcenterbd.com/al-madina-joypurhat-doctor-list/",
+    "https://inhealthylife.com/al-madina-diagnostic-joypurhat-doctor-list/",
+    "https://inhealthylife.com/graduate-general-hospital-joypurhat-doctor-list/"
+   ],
+   "confidence": "high",
+   "notes": "Also has a Dhaka chamber (Bangladesh Centre for Rehabilitation, Katabon) per healthcenterbd. Graduate page spells name 'Gousul'."
+  },
+  {
+   "name_en": "Dr. M. A. R. Chowdhury",
+   "name_bn": "",
+   "degrees": "MBBS (DMC), BCS (Health), D-Card (NICVD), MD (Cardiology)",
+   "specialty": "Cardiology (heart failure, heart attack, hypertension)",
+   "designation": "Senior Consultant, Department of Cardiology, 250 Beded District Sadar Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "Every Friday",
+     "time": "10:00 AM - 4:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+8801326-285813",
+      "+8801957-042288"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://healthcenterbd.com/dr-m-a-r-chowdhury/",
+    "https://healthcenterbd.com/al-madina-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "healthcenterbd profile header says Joypurhat but its biodata section says Naogaon (conflict). Not in inhealthylife's 2025-26 Al Madina list."
+  },
+  {
+   "name_en": "Dr. Md. Asaduzzaman Babu",
+   "name_bn": "",
+   "degrees": "MBBS, DVD (BSMMU)",
+   "specialty": "Skin, sex, allergy & venereal disease",
+   "designation": "Assistant Professor & Head, Dermatology, North Bengal Medical College & Hospital, Sirajganj",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "01326-285813",
+      "01957-042288"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://healthcenterbd.com/al-madina-joypurhat-doctor-list/"
+   ],
+   "confidence": "low",
+   "notes": "Only in healthcenterbd's Al Madina list; no schedule."
+  },
+  {
+   "name_en": "Dr. Md. Yousuf Ali",
+   "name_bn": "ডাঃ মোঃ ইউসুফ আলী",
+   "degrees": "MBBS, BCS (Health), MD (Pediatrics)",
+   "specialty": "Neonatal, child & adolescent diseases",
+   "designation": "Consultant (Paediatrics), 250-bed General Hospital / District Sadar Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "Saturday - Thursday",
+     "time": "4:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "01326-285813",
+      "01957-042288"
+     ]
+    },
+    {
+     "place_en": "Bismilla Diagnostic Center",
+     "place_bn": "",
+     "address": "",
+     "upazila": "",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": []
+    }
+   ],
+   "source_urls": [
+    "https://healthcenterbd.com/al-madina-joypurhat-doctor-list/",
+    "https://inhealthylife.com/al-madina-diagnostic-joypurhat-doctor-list/",
+    "https://epharma.com.bd/en/doctors/joypurhat"
+   ],
+   "confidence": "high",
+   "notes": "ePharma lists 'Dr. Yousuf Ali, MD, Paediatric' at Bismilla Diagnostic Center (address not shown; phone behind login)."
+  },
+  {
+   "name_en": "Dr. Kazi Ismail Hossain",
+   "name_bn": "ডাঃ কাজী ইসমাইল হোসেন",
+   "degrees": "MBBS, BCS (Health), FCPS (Surgery)",
+   "specialty": "General, breast, laparoscopic, colorectal & paediatric surgery, proctology",
+   "designation": "Consultant (Surgery), 250-bed General Hospital / District Sadar Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "Daily",
+     "time": "4:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "01326-285813",
+      "01957-042288"
+     ]
+    },
+    {
+     "place_en": "Modern General Hospital & Diagnostic Center",
+     "place_bn": "মডার্ণ জেনারেল হাসপাতাল এন্ড ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রোড (শহীদ ডাঃ আবুল কাশেম ময়দান সংলগ্ন) জয়পুরহাট ৫৯০০",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৪২-৪২৬৭১৩",
+      "+৮৮০১৯২২-২২৯৩৮৯",
+      "+৮৮০১৭৩২৬৭৭৯৯৬"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://healthcenterbd.com/al-madina-joypurhat-doctor-list/",
+    "https://inhealthylife.com/al-madina-diagnostic-joypurhat-doctor-list/",
+    "https://inhealthylife.com/modern-general-hospital-and-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Md. Ataul Haque",
+   "name_bn": "ডাঃ মোঃ আতাউল হক",
+   "degrees": "MBBS, BCS (Health), D-Ortho, CCD (BIRDEM), FACS (USA)",
+   "specialty": "Orthopaedics & trauma, spine, arthritis, back pain",
+   "designation": "Consultant, Orthopedics, District Sadar Hospital, Joypurhat (healthcenterbd); inhealthylife: Consultant, Ortho & Trauma Surgery, linked to Dhaka Medical College Hospital",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "Saturday - Thursday",
+     "time": "from 3:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "01326-285813",
+      "01957-042288"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://healthcenterbd.com/al-madina-joypurhat-doctor-list/",
+    "https://inhealthylife.com/al-madina-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "high",
+   "notes": "FACS listed only by inhealthylife."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ আরিফুল ইসলাম",
+   "degrees": "MBBS, BCS (Health), FCPS Pt-1, MS (in course)",
+   "specialty": "Orthopaedics (trauma, joints, spine, knee, back, neck)",
+   "designation": "Linked to National Orthopaedic Hospital & Rehabilitation Institute (NITOR), Dhaka",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "11:00 AM - 3:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "01326-285813",
+      "01957-042288"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-madina-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ শেখ মামুন ইসহাক (সাগর)",
+   "degrees": "MBBS, CCD (BIRDEM), DMU",
+   "specialty": "Diabetes & sonology",
+   "designation": "",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "Saturday - Thursday; Friday",
+     "time": "Sat-Thu 2:00 PM - 10:00 PM; Friday 10:00 AM - 10:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "01326-285813",
+      "01957-042288"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-madina-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ গোলাম সাকলাইন",
+   "degrees": "MBBS (printed 'AMBBS'), BCS (Health), MS (Urology)",
+   "specialty": "Urology & kidney",
+   "designation": "Assistant Professor; linked to National Institute of Kidney Diseases & Urology (Dhaka) and Sheikh Abu Naser Specialised Hospital (Khulna)",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "Saturday",
+     "time": "3:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "01326-285813",
+      "01957-042288"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-madina-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ আদনান আরিফীন (পল্লব)",
+   "degrees": "MBBS, MD (Oncology)",
+   "specialty": "Clinical & radiation oncology (cancer)",
+   "designation": "Assistant Professor, Oncology, TMSS Medical College & Rafatullah Community Hospital, Bogura",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "Wednesday",
+     "time": "4:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "01326-285813",
+      "01957-042288"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-madina-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ মাসুদ রানা",
+   "degrees": "MBBS, BCS (Health), MD (Neurology)",
+   "specialty": "Neurology / neuromedicine (brain, stroke, spine/nerve)",
+   "designation": "Neuromedicine specialist, 250-bed General Hospital (Adhunik District Hospital), Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic & Consultation Centre",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+     "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "Saturday - Thursday",
+     "time": "4:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "01326-285813",
+      "01957-042288"
+     ]
+    },
+    {
+     "place_en": "Famous Health Care & Clinic",
+     "place_bn": "ফেমাস হেলথ কেয়ার এন্ড ক্লিনিক জয়পুরহাট",
+     "address": "আলহাজ্ব ম্যানশন, সদর রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯৪২-১৪৪৯৩০",
+      "+৮৮০১৭০৮-৭৯৬৬০৫",
+      "+৮৮০১৮১৯-০৩৩৬৬৩",
+      "+৮৮০১৭২১-২০৬৮৬৯"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-madina-diagnostic-joypurhat-doctor-list/",
+    "https://inhealthylife.com/famous-health-care-joypurhat-doctor-list/"
+   ],
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Md. Omar Faruk",
+   "name_bn": "ডা মোঃ ওমর ফারুক",
+   "degrees": "MBBS, BCS(Health), MS (Urology)",
+   "specialty": "Urology (kidney & urinary tract)",
+   "designation": "Consultant; works in urology dept, Shaheed Suhrawardy Medical College Hospital (per daktarbook)",
+   "chambers": [
+    {
+     "place_en": "Al Madina Diagnostic Center",
+     "place_bn": "আল মদিনা ডায়াগনস্টিক সেন্টার, জয়পুরহাট",
+     "address": "সি ও কলোনী(পানির ট্যাংকির বিপরীতে),জয়পুরহাট সদর,জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Thursday, Friday",
+     "time": "9:00 AM - 4:00 PM",
+     "fee": "New patient ৳700",
+     "serial_phones": [
+      "01762441686"
+     ]
+    },
+    {
+     "place_en": "",
+     "place_bn": "",
+     "address": "জয়পুরহাট, রাজশাহী (chamber name not printed)",
+     "upazila": "",
+     "days": "Thursday; Friday",
+     "time": "প্রতি বৃহস্পতিবার বিকাল ৩:০০ টা থেকে রাত ১০ টা ও শুক্রবার সকাল ৯:০০ টা থেকে রাত ৯:০০টা",
+     "fee": "",
+     "serial_phones": [
+      "01762441686",
+      "০১৭৪১৯৪২৯৪৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://daktarbook.com/doctor/dr-md-omar-faruk",
+    "https://daktarbook.com/district/doctor/25"
+   ],
+   "confidence": "medium",
+   "notes": "BMDC A-72729. A different listing 'ডাঃ মোঃ ওমর ফারুক' (urology, MBBS, CCD, FCPS Part-2 Surgery, MS Urology final part, BMU/PG Hospital) sits at Famous Health Care - possibly the same person; kept separate."
+  },
+  {
+   "name_en": "Dr. Mahmudur Rahman (Riyad)",
+   "name_bn": "ডাঃ মাহমুদুর রহমান (রিয়াদ)",
+   "degrees": "MBBS, BCS (Health), MD (Phase B, chest diseases), FCPS (Final Part, Medicine)",
+   "specialty": "Medicine & chest diseases",
+   "designation": "Dhaka Medical College Hospital",
+   "chambers": [
+    {
+     "place_en": "Joypurhat Diagnostic & Dialysis Centre",
+     "place_bn": "জয়পুরহাট ডায়াগনস্টিক ও ডায়ালাইসিস সেন্টার",
+     "address": "পশু হাসপাতাল রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Every Friday",
+     "time": "10:00 AM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৫১-০০৪৫৪৪",
+      "+৮৮০১৩২৯-০০৩৬৩৭"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/joypurhat-diagnostic-and-dialysis-center-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Ashik Ahmed Jebal (Bappi)",
+   "name_bn": "ডাঃ আশিক আহমদ জেবাল (বাপ্পী)",
+   "degrees": "MBBS (Sir Salimullah Medical College), BCS 36",
+   "specialty": "Orthopaedics (spine, joints, arthritis, pain); surgeon",
+   "designation": "Former PG Hospital / Bangladesh Medical University, Dhaka (as printed)",
+   "chambers": [
+    {
+     "place_en": "Joypurhat Diagnostic & Dialysis Centre",
+     "place_bn": "জয়পুরহাট ডায়াগনস্টিক ও ডায়ালাইসিস সেন্টার",
+     "address": "পশু হাসপাতাল রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Every Friday",
+     "time": "10:00 AM - 10:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৫১-০০৪৫৪৪",
+      "+৮৮০১৩২৯-০০৩৬৩৭"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/joypurhat-diagnostic-and-dialysis-center-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Nur-un-Nahar Nazmi (Ruma)",
+   "name_bn": "ডাঃ নূর-উন-নাহার নাজমী",
+   "degrees": "MBBS, BCS (Health), FCPS (Gynae & Obs)",
+   "specialty": "Gynaecology, obstetrics & infertility; surgeon",
+   "designation": "Junior Consultant, 250-bed General Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Joypurhat Diagnostic & Dialysis Centre",
+     "place_bn": "জয়পুরহাট ডায়াগনস্টিক ও ডায়ালাইসিস সেন্টার",
+     "address": "পশু হাসপাতাল রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Every Friday",
+     "time": "10:00 AM - 10:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৫১-০০৪৫৪৪",
+      "+৮৮০১৩২৯-০০৩৬৩৭",
+      "+৮৮০১৭১৫-৫৬১০৮১",
+      "+৮৮০১৭৬৮-৩৩১৮১৮"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/joypurhat-diagnostic-and-dialysis-center-doctor-list/",
+    "https://epharma.com.bd/en/doctors/joypurhat"
+   ],
+   "confidence": "high",
+   "notes": "ePharma lists 'Dr. Nur-un-Nahar Nazmi (Ruma), FCPS, Gynecology' at Joypurhat Dialysis & Diagnostic Centre."
+  },
+  {
+   "name_en": "Dr. Mahbub Al Amin",
+   "name_bn": "ডাঃ মাহবুব আল আমিন",
+   "degrees": "MBBS, BCS (Health), MD (Child Medicine)",
+   "specialty": "Neonatal, child & adolescent diseases",
+   "designation": "Dhaka Shishu Hospital; 250-bed District Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Joypurhat Diagnostic & Dialysis Centre",
+     "place_bn": "জয়পুরহাট ডায়াগনস্টিক ও ডায়ালাইসিস সেন্টার",
+     "address": "পশু হাসপাতাল রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৫১-০০৪৫৪৪",
+      "+৮৮০১৩২৯-০০৩৬৩৭"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/joypurhat-diagnostic-and-dialysis-center-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Md. Robiul Alam",
+   "name_bn": "ডাঃ মোঃ রবিউল আলম",
+   "degrees": "MBBS, BCS (Health), CCD (BIRDEM), MD (Nephrology)",
+   "specialty": "Nephrology (kidney)",
+   "designation": "National Institute of Kidney Diseases and Urology, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Joypurhat Diagnostic & Dialysis Centre",
+     "place_bn": "জয়পুরহাট ডায়াগনস্টিক ও ডায়ালাইসিস সেন্টার",
+     "address": "পশু হাসপাতাল রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Every Friday",
+     "time": "10:00 AM - 10:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৫১-০০৪৫৪৪",
+      "+৮৮০১৩২৯-০০৩৬৩৭"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/joypurhat-diagnostic-and-dialysis-center-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Shaila Zaman",
+   "name_bn": "ডাঃ শায়লা জামান",
+   "degrees": "MBBS, FCPS, DDV-BSMMU (Graduate page); MBBS, BCS (Health), DDV (BSMMU) (Green Life page)",
+   "specialty": "Skin, venereal & allergy diseases",
+   "designation": "Consultant (Skin & Sexual Diseases), Adhunik District Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Graduate General Hospital (Graduate Diagnostic Center)",
+     "place_bn": "গ্রাজুয়েট ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রাস্তা, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "5:00 PM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৫২-০১৯৯৫৬"
+     ]
+    },
+    {
+     "place_en": "New Green Life Diagnostic Center",
+     "place_bn": "নিউ গ্রীন লাইফ ডায়াগনস্টিক সেন্টার",
+     "address": "সদর রাস্তা, সি.ও কলোনী (পানির ট্যাংকের সামনে), জয়পুরহাট।",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৩০৯-২৪৬০৬০",
+      "+৮৮০১৯৭৩-৭৮৩৭৮৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/graduate-general-hospital-joypurhat-doctor-list/",
+    "https://inhealthylife.com/new-green-life-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "high",
+   "notes": "Degree list differs between the two pages (FCPS vs BCS). Green Life serial numbers conflict: inhealthylife prints +৮৮০১৯৭৩-৭৮৩৭৮৩ while daktarbook prints ০১৯৭২৭৮৩৭৮৩ (01973 vs 01972); both recorded."
+  },
+  {
+   "name_en": "Dr. Monirujjaman Manik",
+   "name_bn": "ডাঃ মনিরুজ্জামান মানিক",
+   "degrees": "MBBS, BCS (Health), DCH",
+   "specialty": "Neonatal, child & adolescent medicine",
+   "designation": "Assistant Professor (Paediatrics), Shaheed Ziaur Rahman Medical College & Hospital, Bogura",
+   "chambers": [
+    {
+     "place_en": "Graduate General Hospital (Graduate Diagnostic Center)",
+     "place_bn": "গ্রাজুয়েট ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রাস্তা, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "3:00 PM - 7:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৫২-০১৯৯৫৬",
+      "০৫৭১-৬২০১২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/graduate-general-hospital-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Md. Shariful Haque",
+   "name_bn": "ডাঃ মোঃ শরিফুল হক",
+   "degrees": "MBBS, MD (Nephrology)",
+   "specialty": "Kidney diseases (nephrology)",
+   "designation": "Associate Professor & Head, Nephrology, Dinajpur Medical College & Hospital",
+   "chambers": [
+    {
+     "place_en": "Graduate General Hospital (Graduate Diagnostic Center)",
+     "place_bn": "গ্রাজুয়েট ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রাস্তা, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Every Monday",
+     "time": "4:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৫২-০১৯৯৫৬"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/graduate-general-hospital-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Murshida Parvin Jolly",
+   "name_bn": "ডাঃ মুরশিদা পারভীন জলি",
+   "degrees": "MBBS, FCPS (Surgery)",
+   "specialty": "Surgery",
+   "designation": "Sir Salimullah Medical College & Mitford Hospital, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Graduate General Hospital (Graduate Diagnostic Center)",
+     "place_bn": "গ্রাজুয়েট ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রাস্তা, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Every Friday",
+     "time": "10:00 AM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৫২-০১৯৯৫৬",
+      "+৮৮০১৩২৫-০৩৫২১২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/graduate-general-hospital-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Md. Habibul Ahsan Talukder (Reza)",
+   "name_bn": "ডাঃ মোঃ হাবিবুল আহসান তালুকদার (রেজা)",
+   "degrees": "MBBS, BCS (Health), MPH (DU)",
+   "specialty": "Ultrasonology",
+   "designation": "Graduate General Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Graduate General Hospital (Graduate Diagnostic Center)",
+     "place_bn": "গ্রাজুয়েট ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রাস্তা, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Daily",
+     "time": "9:00 AM - 2:00 PM and 4:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৫২-০১৯৯৫৬"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/graduate-general-hospital-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Md. Matiur Rahman",
+   "name_bn": "ডাঃ মোঃ মতিউর রহমান",
+   "degrees": "MBBS, FCPS (Medicine), MD (Cardiology); Fellow of Interventional Cardiology (United Hospital, Dhaka)",
+   "specialty": "Clinical & interventional cardiology, medicine",
+   "designation": "Former Assistant Professor, EWMC, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Graduate General Hospital (Graduate Diagnostic Center)",
+     "place_bn": "গ্রাজুয়েট ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রাস্তা, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Every Friday",
+     "time": "10:00 AM - 12:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৫২-০১৯৯৫৬",
+      "+৮৮০১৭৯৪-৯০১৭১৭",
+      "+৮৮০১৭৯৪-৪৫১৮১৮"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/graduate-general-hospital-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. ASM Golam Rabbani",
+   "name_bn": "ডাঃ এএসএম গোলাম রব্বানী",
+   "degrees": "MBBS, BCS (Health), D-Card (NICVD)",
+   "specialty": "Cardiology",
+   "designation": "Assistant Professor, Cardiology, Dinajpur Medical College Hospital",
+   "chambers": [
+    {
+     "place_en": "Graduate General Hospital (Graduate Diagnostic Center)",
+     "place_bn": "গ্রাজুয়েট ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রাস্তা, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "3:30 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৫২-০১৯৯৫৬"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/graduate-general-hospital-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Md. Sohel Rana",
+   "name_bn": "ডাঃ মোঃ সোহেল রানা",
+   "degrees": "MBBS, BCS (Health), MS (Orthopaedic Surgery)",
+   "specialty": "Orthopaedics & trauma, spine",
+   "designation": "Dhaka Medical College & Hospital",
+   "chambers": [
+    {
+     "place_en": "Graduate General Hospital (Graduate Diagnostic Center)",
+     "place_bn": "গ্রাজুয়েট ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রাস্তা, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "0571-62012",
+      "+৮৮০১৭৫২-০১৯৯৫৬",
+      "01719105601"
+     ]
+    },
+    {
+     "place_en": "Graduate Diagnostics & Consultancy (Branch 3)",
+     "place_bn": "",
+     "address": "Adhunik District Hospital crossing, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৯৪-৯০১৭১৭",
+      "+৮৮০১৭৯৪-৪৫১৮১৮"
+     ]
+    },
+    {
+     "place_en": "Graduate Diagnostics & Consultancy (Branch 2, Panchbibi)",
+     "place_bn": "",
+     "address": "No. 1 Railgate, Kamdia Road, Panchbibi",
+     "upazila": "Panchbibi",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭০৬-১৫০৭০৬"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/graduate-general-hospital-joypurhat-doctor-list/",
+    "https://daktarbook.com/doctor/ডা-মোঃ-সোহেল-রানা",
+    "https://daktarbook.com/district/doctor/25"
+   ],
+   "confidence": "high",
+   "notes": "daktarbook: 'ডা. মোঃ সোহেল রানা', এমবিবিএস, এমএস (অর্থো), BMDC 56356, chamber 'Graduate General Hospital and Consultancy', phone 01719105601 (not labelled as serial)."
+  },
+  {
+   "name_en": "Dr. Md. Alim Al Razi",
+   "name_bn": "ডাঃ মোঃ আলিম আল রাজী",
+   "degrees": "MBBS, BCS (Health), MS (Urology), DU",
+   "specialty": "Urology (kidney, ureter, bladder, prostate)",
+   "designation": "Consultant (Urology), National Institute of Kidney Diseases and Urology, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Graduate General Hospital (Graduate Diagnostic Center)",
+     "place_bn": "গ্রাজুয়েট ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রাস্তা, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Thursday, Friday",
+     "time": "4:00 PM - 10:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "0571-62012",
+      "+৮৮০১৭৫২-০১৯৯৫৬"
+     ]
+    },
+    {
+     "place_en": "New Green Life Diagnostic Center",
+     "place_bn": "নিউ গ্রীন লাইফ ডায়াগনস্টিক সেন্টার",
+     "address": "সদর রাস্তা, সি.ও কলোনী (পানির ট্যাংকের সামনে), জয়পুরহাট।",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday (inhealthylife); Thursday & Friday (daktarbook)",
+     "time": "9:00 AM - 3:00 PM (inhealthylife)",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৩০৯-২৪৬০৬০",
+      "+৮৮০১৯৭৩-৭৮৩৭৮৩",
+      "01309246060",
+      "01334885050"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/graduate-general-hospital-joypurhat-doctor-list/",
+    "https://inhealthylife.com/new-green-life-diagnostic-center-joypurhat-doctor-list/",
+    "https://daktarbook.com/doctor/dr-md-alim-al-razi",
+    "https://daktarbook.com/district/doctor/25"
+   ],
+   "confidence": "high",
+   "notes": "BMDC A-31262 (daktarbook). Green Life page calls him Registrar (Urology), ex-resident surgeon NIKDU, degrees 'BBS, MS (Urology)'. Both Graduate and Green Life claim Thu/Fri - confirm. Also Dhaka chamber: Apollo Clinic & JMI Hospital, Dhanmondi."
+  },
+  {
+   "name_en": "Dr. Nahid Sultana",
+   "name_bn": "",
+   "degrees": "FCPS",
+   "specialty": "Gynecology",
+   "designation": "",
+   "chambers": [
+    {
+     "place_en": "Graduate General Hospital (Graduate Diagnostic Center)",
+     "place_bn": "গ্রাজুয়েট ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রাস্তা, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": []
+    }
+   ],
+   "source_urls": [
+    "https://epharma.com.bd/en/doctors/joypurhat"
+   ],
+   "confidence": "low",
+   "notes": "Only on ePharma (name, degree, specialty and centre visible; phone behind login)."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ জিনাত ফারুকী",
+   "degrees": "MBBS, BCS (Health), MD (Internal Medicine, BMU)",
+   "specialty": "Medicine",
+   "designation": "Rangpur Medical College Hospital",
+   "chambers": [
+    {
+     "place_en": "Padma Lab and Diagnostic Center",
+     "place_bn": "পদ্মা ল্যাব অ্যান্ড ডায়াগনস্টিক সেন্টার",
+     "address": "ইসলামী ব্যাংকের সামনে, সদর রোড, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭১৬-২১৯৪৬৩",
+      "+৮৮০১৭৩৭-৩১৭৭৭০",
+      "+৮৮০১৯৭৬-২১৯৪৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/padma-lab-and-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ জাফর ইমাম",
+   "degrees": "MBBS, D-Ortho; Fellow (Ilizarov Surgery), Dhaka",
+   "specialty": "Orthopaedic surgery",
+   "designation": "Senior Consultant, Adhunik District Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Padma Lab and Diagnostic Center",
+     "place_bn": "পদ্মা ল্যাব অ্যান্ড ডায়াগনস্টিক সেন্টার",
+     "address": "ইসলামী ব্যাংকের সামনে, সদর রোড, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Daily; Friday all day",
+     "time": "4:30 PM - 10:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭১৬-২১৯৪৬৩",
+      "+৮৮০১৭৩৭-৩১৭৭৭০",
+      "+৮৮০১৯৭৬-২১৯৪৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/padma-lab-and-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ এম.এন.এ. আল মেহেদী",
+   "degrees": "MBBS, DTCD, BCS (Health), CCD (BIRDEM)",
+   "specialty": "Asthma, chest diseases, medicine",
+   "designation": "Consultant (listed as former), Adhunik District Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Padma Lab and Diagnostic Center",
+     "place_bn": "পদ্মা ল্যাব অ্যান্ড ডায়াগনস্টিক সেন্টার",
+     "address": "ইসলামী ব্যাংকের সামনে, সদর রোড, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Saturday - Thursday",
+     "time": "4:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭১৬-২১৯৪৬৩",
+      "+৮৮০১৭৩৭-৩১৭৭৭০",
+      "+৮৮০১৯৭৬-২১৯৪৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/padma-lab-and-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ কাজী খালিদ রায়হান",
+   "degrees": "MBBS (DMC), MPhil (Nuclear Medicine)",
+   "specialty": "Ultrasonography",
+   "designation": "",
+   "chambers": [
+    {
+     "place_en": "Padma Lab and Diagnostic Center",
+     "place_bn": "পদ্মা ল্যাব অ্যান্ড ডায়াগনস্টিক সেন্টার",
+     "address": "ইসলামী ব্যাংকের সামনে, সদর রোড, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Daily",
+     "time": "11:30 AM - 9:30 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭১৬-২১৯৪৬৩",
+      "+৮৮০১৭৩৭-৩১৭৭৭০",
+      "+৮৮০১৯৭৬-২১৯৪৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/padma-lab-and-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ আসাদুজ্জামান",
+   "degrees": "MBBS (Dhaka), BCS (Health), FCPS (Medicine), MD (Neuromedicine)",
+   "specialty": "Medicine & neuromedicine",
+   "designation": "Shaheed Ziaur Rahman Medical College Hospital, Bogura; former Registrar, NINS, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Padma Lab and Diagnostic Center",
+     "place_bn": "পদ্মা ল্যাব অ্যান্ড ডায়াগনস্টিক সেন্টার",
+     "address": "ইসলামী ব্যাংকের সামনে, সদর রোড, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "2nd and 4th Thursday of each month",
+     "time": "All day",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭১৬-২১৯৪৬৩",
+      "+৮৮০১৭৩৭-৩১৭৭৭০",
+      "+৮৮০১৯৭৬-২১৯৪৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/padma-lab-and-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ মনছুর রহমান চৌধুরী",
+   "degrees": "MBBS, FCPS (Plastic & Reconstructive Surgery)",
+   "specialty": "Burn & plastic surgery",
+   "designation": "Assistant Professor, Sher-e-Bangla Medical College Hospital, Barishal",
+   "chambers": [
+    {
+     "place_en": "Padma Lab and Diagnostic Center",
+     "place_bn": "পদ্মা ল্যাব অ্যান্ড ডায়াগনস্টিক সেন্টার",
+     "address": "ইসলামী ব্যাংকের সামনে, সদর রোড, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "2nd and 4th Friday of each month",
+     "time": "All day",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭১৬-২১৯৪৬৩",
+      "+৮৮০১৭৩৭-৩১৭৭৭০",
+      "+৮৮০১৯৭৬-২১৯৪৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/padma-lab-and-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ সালাহউদ্দীন আল আযাদ",
+   "degrees": "MBBS, BCS (Health), MCPS, FCPS (ENT), MS (thesis)",
+   "specialty": "ENT surgeon",
+   "designation": "Registrar, National ENT Institute, Tejgaon, Dhaka / Dhaka Medical College Hospital (Padma page); Assistant Registrar, ENT, DMCH (Famous page)",
+   "chambers": [
+    {
+     "place_en": "Padma Lab and Diagnostic Center",
+     "place_bn": "পদ্মা ল্যাব অ্যান্ড ডায়াগনস্টিক সেন্টার",
+     "address": "ইসলামী ব্যাংকের সামনে, সদর রোড, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "3:00 PM - 9:30 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭১৬-২১৯৪৬৩",
+      "+৮৮০১৭৩৭-৩১৭৭৭০",
+      "+৮৮০১৯৭৬-২১৯৪৬৩"
+     ]
+    },
+    {
+     "place_en": "Famous Health Care & Clinic",
+     "place_bn": "ফেমাস হেলথ কেয়ার এন্ড ক্লিনিক জয়পুরহাট",
+     "address": "আলহাজ্ব ম্যানশন, সদর রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "10:00 AM - 1:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯৪২-১৪৪৯৩০",
+      "+৮৮০১৭০৮-৭৯৬৬০৫",
+      "+৮৮০১৮১৯-০৩৩৬৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/padma-lab-and-diagnostic-center-joypurhat-doctor-list/",
+    "https://inhealthylife.com/famous-health-care-joypurhat-doctor-list/"
+   ],
+   "confidence": "high",
+   "notes": "Famous page spells 'ডাঃ সালাহ্ উদ্দীন-আল-আযাদ' with degrees MBBS, BCS (Health), MS (thesis), FCPS (final year)."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ সওদাগর শাহানা পারভীন",
+   "degrees": "MBBS, BCS, DGO, CCD (BIRDEM), FCPS (Gynae & Obs) Part 2",
+   "specialty": "Gynaecology, obstetrics, laparoscopic surgery",
+   "designation": "Maa O Shishu Kalyan Kendra (Matri Mangal), Joypurhat (per Modern Hospital page)",
+   "chambers": [
+    {
+     "place_en": "Padma Lab and Diagnostic Center",
+     "place_bn": "পদ্মা ল্যাব অ্যান্ড ডায়াগনস্টিক সেন্টার",
+     "address": "ইসলামী ব্যাংকের সামনে, সদর রোড, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Daily; Friday all day",
+     "time": "3:30 PM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭১৬-২১৯৪৬৩",
+      "+৮৮০১৭৩৭-৩১৭৭৭০",
+      "+৮৮০১৯৭৬-২১৯৪৬৩"
+     ]
+    },
+    {
+     "place_en": "Modern General Hospital & Diagnostic Center",
+     "place_bn": "মডার্ণ জেনারেল হাসপাতাল এন্ড ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রোড (শহীদ ডাঃ আবুল কাশেম ময়দান সংলগ্ন) জয়পুরহাট ৫৯০০",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৪২-৪২৬৭১৩",
+      "+৮৮০১৯২২-২২৯৩৮৯",
+      "+৮৮০১৭৩২৬৭৭৯৯৬"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/padma-lab-and-diagnostic-center-joypurhat-doctor-list/",
+    "https://inhealthylife.com/modern-general-hospital-and-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Md. Shahadat Hossain",
+   "name_bn": "ডাঃ মোঃ শাহাদৎ হোসেন",
+   "degrees": "MBBS, BCS (Health), MD (Cardiology)",
+   "specialty": "Cardiology, medicine, rheumatic fever, hypertension",
+   "designation": "Assistant Professor (Padma page) / Associate Professor (Green Life page), Cardiology, Shaheed Ziaur Rahman Medical College Hospital, Bogura; daktarbook: Consultant (Cardiology)",
+   "chambers": [
+    {
+     "place_en": "Padma Lab and Diagnostic Center",
+     "place_bn": "পদ্মা ল্যাব অ্যান্ড ডায়াগনস্টিক সেন্টার",
+     "address": "ইসলামী ব্যাংকের সামনে, সদর রোড, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Thursday; Friday all day",
+     "time": "Thursday 3:00 PM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭১৬-২১৯৪৬৩",
+      "+৮৮০১৭৩৭-৩১৭৭৭০",
+      "+৮৮০১৯৭৬-২১৯৪৬৩"
+     ]
+    },
+    {
+     "place_en": "New Green Life Diagnostic Center",
+     "place_bn": "নিউ গ্রীন লাইফ ডায়াগনস্টিক সেন্টার",
+     "address": "সদর রাস্তা, সি.ও কলোনী (পানির ট্যাংকের সামনে), জয়পুরহাট।",
+     "upazila": "Joypurhat Sadar",
+     "days": "Thursday; Friday",
+     "time": "Thursday 4:00 PM - 8:00 PM; Friday 2:00 PM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৩০৯-২৪৬০৬০",
+      "+৮৮০১৯৭৩-৭৮৩৭৮৩",
+      "০১৯৭২৭৮৩৭৮৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/padma-lab-and-diagnostic-center-joypurhat-doctor-list/",
+    "https://inhealthylife.com/new-green-life-diagnostic-center-joypurhat-doctor-list/",
+    "https://daktarbook.com/doctor/ডাঃ-মোঃ-শাহাদৎ-হোসেন",
+    "https://daktarbook.com/district/doctor/25"
+   ],
+   "confidence": "high",
+   "notes": "Designation conflicts (Assistant vs Associate Professor). Thursday/Friday hours at both chambers overlap - confirm. daktarbook says schedule unknown. Green Life serial numbers conflict: inhealthylife prints +৮৮০১৯৭৩-৭৮৩৭৮৩ while daktarbook prints ০১৯৭২৭৮৩৭৮৩ (01973 vs 01972); both recorded."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ ফাহমিদা আকতার লীনা",
+   "degrees": "MBBS, BCS (Health), DDV (BSMMU/BMU)",
+   "specialty": "Skin, sexual, allergy & leprosy",
+   "designation": "Upazila Health Complex, Kalai, Joypurhat (Tajul page); former PG Hospital, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Padma Lab and Diagnostic Center",
+     "place_bn": "পদ্মা ল্যাব অ্যান্ড ডায়াগনস্টিক সেন্টার",
+     "address": "ইসলামী ব্যাংকের সামনে, সদর রোড, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Every Friday",
+     "time": "3:00 PM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭১৬-২১৯৪৬৩",
+      "+৮৮০১৭৩৭-৩১৭৭৭০",
+      "+৮৮০১৯৭৬-২১৯৪৬৩"
+     ]
+    },
+    {
+     "place_en": "Tajul Islam Diagnostic Centre",
+     "place_bn": "তাজুল ইসলাম ডায়াগনস্টিক সেন্টার",
+     "address": "Adjacent to the Upazila Parishad, CO Colony, Amtali Sadar Road, Joypurhat Sadar",
+     "upazila": "Joypurhat Sadar",
+     "days": "Monday",
+     "time": "4:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৯১-৮৬৮৬৬৬",
+      "+৮৮০১৯১২-৭১৭১০২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/padma-lab-and-diagnostic-center-joypurhat-doctor-list/",
+    "https://inhealthylife.com/tajul-islam-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "high",
+   "notes": "Tajul page spells 'ডাঃ ফাহমিদা আক্তার লীনা'."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ কে.এম. জোবায়ের গালীব",
+   "degrees": "MBBS, DCH",
+   "specialty": "Neonatal & child health",
+   "designation": "Former Director, Mother and Child Health",
+   "chambers": [
+    {
+     "place_en": "Padma Lab and Diagnostic Center",
+     "place_bn": "পদ্মা ল্যাব অ্যান্ড ডায়াগনস্টিক সেন্টার",
+     "address": "ইসলামী ব্যাংকের সামনে, সদর রোড, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Daily; Friday all day",
+     "time": "5:00 PM - 9:30 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭১৬-২১৯৪৬৩",
+      "+৮৮০১৭৩৭-৩১৭৭৭০",
+      "+৮৮০১৯৭৬-২১৯৪৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/padma-lab-and-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Muhammad Zakaria Jalal",
+   "name_bn": "ডাঃ মুহাম্মদ জাকারিয়া জালাল",
+   "degrees": "MBBS (MMC), CCD (BARDEM), MD resident in Endocrinology (BARDEM); advanced endocrinology course, Mayo Clinic, USA",
+   "specialty": "Endocrinology (diabetes, thyroid, hormones), medicine",
+   "designation": "",
+   "chambers": [
+    {
+     "place_en": "Tajul Islam Diagnostic Centre",
+     "place_bn": "তাজুল ইসলাম ডায়াগনস্টিক সেন্টার",
+     "address": "Adjacent to the Upazila Parishad, CO Colony, Amtali Sadar Road, Joypurhat Sadar",
+     "upazila": "Joypurhat Sadar",
+     "days": "Saturday, Monday, Wednesday, Friday",
+     "time": "4:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৯১-৮৬৮৬৬৬",
+      "+৮৮০১৯১২-৭১৭১০২"
+     ]
+    },
+    {
+     "place_en": "Padma Lab and Diagnostic Center",
+     "place_bn": "পদ্মা ল্যাব অ্যান্ড ডায়াগনস্টিক সেন্টার",
+     "address": "ইসলামী ব্যাংকের সামনে, সদর রোড, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "All day",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭১৬-২১৯৪৬৩",
+      "+৮৮০১৭৩৭-৩১৭৭৭০",
+      "+৮৮০১৯৭৬-২১৯৪৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/tajul-islam-diagnostic-joypurhat-doctor-list/",
+    "https://inhealthylife.com/padma-lab-and-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "Padma page entry (read via summariser as 'Muhammad Zakaria Janan', endocrinology, Friday all day) assumed to be the same doctor; Friday listed at both centres - confirm."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ আবুল কালাম আজাদ",
+   "degrees": "MBBS, BCS (Health), MPH, CCD (BIRDEM), MS (Surgery), ATBP (Thailand)",
+   "specialty": "General & laparoscopic surgery; diabetology",
+   "designation": "Associate Professor (Surgery) & Unit Chief-3, Shaheed Ziaur Rahman Medical College Hospital, Bogura",
+   "chambers": [
+    {
+     "place_en": "Al Shefa Diagnostic Centre",
+     "place_bn": "আল শেফা ডায়াগনস্টিক সেন্টার ক্ষেতলাল জয়পুরহাট",
+     "address": "Sadar Road, east of the T&T office, Khetlal, Joypurhat",
+     "upazila": "Khetlal",
+     "days": "Sunday",
+     "time": "2:00 PM - 4:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৭৮-১০৪৯৮২",
+      "+৮৮০১৭৩৭-৩৮-০২২৮"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-shefa-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "+৮৮০১৭৩৭-৩৮-০২২৮ is printed as the doctor's own number."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ নজরুল ইসলাম (নাহিদ)",
+   "degrees": "MBBS (Dhaka), BCS (Health), MS (Orthopaedics & Traumatology), NITOR & Spine (Switzerland)",
+   "specialty": "Orthopaedic, trauma & spine surgery",
+   "designation": "Orthopaedic consultant; ex-Shaheed Ziaur Rahman MCH, Bogura; ex-Registrar, Pangu Hospital, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Al Shefa Diagnostic Centre",
+     "place_bn": "আল শেফা ডায়াগনস্টিক সেন্টার ক্ষেতলাল জয়পুরহাট",
+     "address": "Sadar Road, east of the T&T office, Khetlal, Joypurhat",
+     "upazila": "Khetlal",
+     "days": "Monday",
+     "time": "3:00 PM - 5:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৭৮-১০৪৯৮২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-shefa-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. M. S. Zaman (Shajil)",
+   "name_bn": "ডাঃ এম এস জামান (শাজিল)",
+   "degrees": "MBBS (Raj), BCS (Health), D-Ortho (BSMMU / PG Hospital); IMO (Orthopaedics)",
+   "specialty": "Orthopaedics (bones, spine, joint/rheumatic pain); surgeon",
+   "designation": "Shaheed Ziaur Rahman Medical College Hospital, Bogura",
+   "chambers": [
+    {
+     "place_en": "Al Shefa Diagnostic Centre",
+     "place_bn": "আল শেফা ডায়াগনস্টিক সেন্টার ক্ষেতলাল জয়পুরহাট",
+     "address": "Sadar Road, east of the T&T office, Khetlal, Joypurhat",
+     "upazila": "Khetlal",
+     "days": "Monday",
+     "time": "4:00 PM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৭৮-১০৪৯৮২"
+     ]
+    },
+    {
+     "place_en": "Tajul Islam Diagnostic Centre",
+     "place_bn": "তাজুল ইসলাম ডায়াগনস্টিক সেন্টার",
+     "address": "Adjacent to the Upazila Parishad, CO Colony, Amtali Sadar Road, Joypurhat Sadar",
+     "upazila": "Joypurhat Sadar",
+     "days": "Thursday; Friday",
+     "time": "Thursday 4:00 PM - 9:00 PM; Friday 10:00 AM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৯১-৮৬৮৬৬৬",
+      "+৮৮০১৯১২-৭১৭১০২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-shefa-diagnostic-joypurhat-doctor-list/",
+    "https://inhealthylife.com/tajul-islam-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ শাহীন রেজা",
+   "degrees": "MBBS, BCS (Health), FCPS (ENT, final part), CCD (BIRDEM)",
+   "specialty": "ENT specialist & surgeon",
+   "designation": "Medical Officer, Upazila Health Complex, Kalai",
+   "chambers": [
+    {
+     "place_en": "Al Shefa Diagnostic Centre",
+     "place_bn": "আল শেফা ডায়াগনস্টিক সেন্টার ক্ষেতলাল জয়পুরহাট",
+     "address": "Sadar Road, east of the T&T office, Khetlal, Joypurhat",
+     "upazila": "Khetlal",
+     "days": "Friday; Monday",
+     "time": "Friday 9:00 AM - 4:00 PM; Monday from 3:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৭৮-১০৪৯৮২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-shefa-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "BMDC A-74456. Not the same listing as the surgeon 'ডাঃ শাহীন রেজা' at Famous Health Care."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ রেজাউল করিম (রেজা)",
+   "degrees": "MBBS, BCS (Health), FCPS (Medicine, final part), MD (Cardiology, part 2), PGT (Skin & STD)",
+   "specialty": "Medicine, cardiology, dermatology & STD",
+   "designation": "Medical Officer, Mohammad Ali Hospital, Bogura",
+   "chambers": [
+    {
+     "place_en": "Al Shefa Diagnostic Centre",
+     "place_bn": "আল শেফা ডায়াগনস্টিক সেন্টার ক্ষেতলাল জয়পুরহাট",
+     "address": "Sadar Road, east of the T&T office, Khetlal, Joypurhat",
+     "upazila": "Khetlal",
+     "days": "Friday",
+     "time": "9:00 AM - 4:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৭৮-১০৪৯৮২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-shefa-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "BMDC A-36900. Different from the orthopaedic 'ডাঃ মোঃ রেজাউল করিম' at Modern General Hospital."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ আব্দুল আহাদ",
+   "degrees": "MBBS (Rajshahi), DCH; PGT (Paediatrics)",
+   "specialty": "Newborn, child & adolescent medicine",
+   "designation": "Medical Officer, Rajshahi Medical College Hospital",
+   "chambers": [
+    {
+     "place_en": "Al Shefa Diagnostic Centre",
+     "place_bn": "আল শেফা ডায়াগনস্টিক সেন্টার ক্ষেতলাল জয়পুরহাট",
+     "address": "Sadar Road, east of the T&T office, Khetlal, Joypurhat",
+     "upazila": "Khetlal",
+     "days": "Friday",
+     "time": "9:00 AM - 4:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৭৮-১০৪৯৮২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-shefa-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "BMDC A-51825."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ মোহাম্মদ এস জামান",
+   "degrees": "MBBS (Rajshahi), CMU (Ultra), MS (Phase A)",
+   "specialty": "Cardiology",
+   "designation": "National Institute of Cardiovascular Diseases & Hospital, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Al Shefa Diagnostic Centre",
+     "place_bn": "আল শেফা ডায়াগনস্টিক সেন্টার ক্ষেতলাল জয়পুরহাট",
+     "address": "Sadar Road, east of the T&T office, Khetlal, Joypurhat",
+     "upazila": "Khetlal",
+     "days": "Friday",
+     "time": "9:00 AM - 5:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৭৮-১০৪৯৮২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-shefa-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ মেহেদী হাসান",
+   "degrees": "MBBS, BCS (Health), D-Card (BSMMU), CCD (BIRDEM), MACP (USA)",
+   "specialty": "Cardiology & medicine",
+   "designation": "Modern (Adhunik) District Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Al Shefa Diagnostic Centre",
+     "place_bn": "আল শেফা ডায়াগনস্টিক সেন্টার ক্ষেতলাল জয়পুরহাট",
+     "address": "Sadar Road, east of the T&T office, Khetlal, Joypurhat",
+     "upazila": "Khetlal",
+     "days": "Daily",
+     "time": "4:00 PM - 8:30 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৭৮-১০৪৯৮২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-shefa-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ নিলিমা আফরিন অর্নিবান",
+   "degrees": "MBBS, BCS (Health)",
+   "specialty": "Obstetrics & gynaecology; general practitioner",
+   "designation": "Assistant Surgeon, Upazila Health Complex, Kalai",
+   "chambers": [
+    {
+     "place_en": "Al Shefa Diagnostic Centre",
+     "place_bn": "আল শেফা ডায়াগনস্টিক সেন্টার ক্ষেতলাল জয়পুরহাট",
+     "address": "Sadar Road, east of the T&T office, Khetlal, Joypurhat",
+     "upazila": "Khetlal",
+     "days": "Sunday, Wednesday",
+     "time": "2:00 PM - 5:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৭৮-১০৪৯৮২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-shefa-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ রোজী খানম",
+   "degrees": "MBBS, DGO (Rajshahi), FCPS (final part)",
+   "specialty": "Obstetrics & gynaecology; surgeon",
+   "designation": "Consultant, Aloka Nursing Home & Oncology Centre, Bogura; Shaheed Ziaur Rahman MCH, Bogura",
+   "chambers": [
+    {
+     "place_en": "Al Shefa Diagnostic Centre",
+     "place_bn": "আল শেফা ডায়াগনস্টিক সেন্টার ক্ষেতলাল জয়পুরহাট",
+     "address": "Sadar Road, east of the T&T office, Khetlal, Joypurhat",
+     "upazila": "Khetlal",
+     "days": "Friday",
+     "time": "10:00 AM - 3:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৭৮-১০৪৯৮২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-shefa-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ নূরে ফাতেমা জান্নাতুন নূরী (ইরা)",
+   "degrees": "MBBS, BCS (Health), MS (Obs & Gynae), FCPS (part II), CUltra (Dhaka)",
+   "specialty": "Obstetrics & gynaecology; surgeon",
+   "designation": "Resident, 250-bed General Hospital, Joypurhat (Green Life page); BSMMU, Dhaka (Al Shefa page)",
+   "chambers": [
+    {
+     "place_en": "Al Shefa Diagnostic Centre",
+     "place_bn": "আল শেফা ডায়াগনস্টিক সেন্টার ক্ষেতলাল জয়পুরহাট",
+     "address": "Sadar Road, east of the T&T office, Khetlal, Joypurhat",
+     "upazila": "Khetlal",
+     "days": "Friday",
+     "time": "2:00 PM - 6:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৭৮-১০৪৯৮২"
+     ]
+    },
+    {
+     "place_en": "New Green Life Diagnostic Center",
+     "place_bn": "নিউ গ্রীন লাইফ ডায়াগনস্টিক সেন্টার",
+     "address": "সদর রাস্তা, সি.ও কলোনী (পানির ট্যাংকের সামনে), জয়পুরহাট।",
+     "upazila": "Joypurhat Sadar",
+     "days": "Saturday - Thursday",
+     "time": "3:00 PM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৩০৯-২৪৬০৬০",
+      "+৮৮০১৯৭৩-৭৮৩৭৮৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-shefa-diagnostic-joypurhat-doctor-list/",
+    "https://inhealthylife.com/new-green-life-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ সামসুর রহমান বিশ্বাস (তুহিন)",
+   "degrees": "MBBS, BCS (Health), MD (Part 2, Medicine)",
+   "specialty": "Medicine & rheumatology",
+   "designation": "Shaheed Ziaur Rahman Medical College Hospital, Bogura",
+   "chambers": [
+    {
+     "place_en": "Al Shefa Diagnostic Centre",
+     "place_bn": "আল শেফা ডায়াগনস্টিক সেন্টার ক্ষেতলাল জয়পুরহাট",
+     "address": "Sadar Road, east of the T&T office, Khetlal, Joypurhat",
+     "upazila": "Khetlal",
+     "days": "Friday",
+     "time": "9:00 AM - 5:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৭৮-১০৪৯৮২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-shefa-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ আওফি খান (শাওন)",
+   "degrees": "MBBS (AFMC, Dhaka)",
+   "specialty": "General practitioner (medicine)",
+   "designation": "RMO, Hitech Multicare Hospital, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Al Shefa Diagnostic Centre",
+     "place_bn": "আল শেফা ডায়াগনস্টিক সেন্টার ক্ষেতলাল জয়পুরহাট",
+     "address": "Sadar Road, east of the T&T office, Khetlal, Joypurhat",
+     "upazila": "Khetlal",
+     "days": "Friday",
+     "time": "9:00 AM - 5:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৭৮-১০৪৯৮২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/al-shefa-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Prof. Dr. Md. Mojibor Rahman",
+   "name_bn": "অধ্যাপক ডাঃ মোঃ মজিবর রহমান",
+   "degrees": "FCPS, FRCS (Glasgow), FRCS (Ireland), FICS (USA), Fellow in Urology (Australia)",
+   "specialty": "Laparoscopic, colorectal, urological & general surgery",
+   "designation": "Professor of Surgery (retired), Dhaka Medical College & Hospital",
+   "chambers": [
+    {
+     "place_en": "The Rawshan Clinic and Diagnostic Centre",
+     "place_bn": "দি রওশন ক্লিনিক এন্ড ডায়াগনস্টিক সেন্টার",
+     "address": "Underground Market, Natunhat, Jamalganj Road, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০২৫৮৯-৯১৫৭০০",
+      "+৮৮০১৭১১-৩০৩৩১৮",
+      "+৮৮০১৭১১-৯৪৯৬৯২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/the-rawshan-clinic-and-diagnostic-centre-joypurhat-doctor-list/",
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/"
+   ],
+   "confidence": "high",
+   "notes": "prethibi (2020/2022) lists 'Dr. Md Mojibor Rahman, MBBS, The Roushon Ckinic, Natunhat', phone 01711 303318."
+  },
+  {
+   "name_en": "Dr. Mehnaz Mushtari",
+   "name_bn": "ডাঃ মেহনাজ মুশতারী",
+   "degrees": "MBBS, FCPS (Obs & Gynae), FCPS (Infertility)",
+   "specialty": "Obstetrics & gynaecology, infertility",
+   "designation": "Consultant",
+   "chambers": [
+    {
+     "place_en": "The Rawshan Clinic and Diagnostic Centre",
+     "place_bn": "দি রওশন ক্লিনিক এন্ড ডায়াগনস্টিক সেন্টার",
+     "address": "Underground Market, Natunhat, Jamalganj Road, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০২৫৮৯-৯১৫৭০০",
+      "+৮৮০১৭১১-৩০৩৩১৮",
+      "+৮৮০১৭১১-৯৪৯৬৯২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/the-rawshan-clinic-and-diagnostic-centre-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. A B Shahriar Ahmed (Fuad)",
+   "name_bn": "ডাঃ এ বি শাহরিয়ার আহমেদ (ফুয়াদ)",
+   "degrees": "MBBS, MRCS, FCPS (Surgery), MS (Urology)",
+   "specialty": "Urology, andrology, laparoscopic surgery",
+   "designation": "Associate Professor & Head, Urology, Enam Medical College & Hospital, Dhaka",
+   "chambers": [
+    {
+     "place_en": "The Rawshan Clinic and Diagnostic Centre",
+     "place_bn": "দি রওশন ক্লিনিক এন্ড ডায়াগনস্টিক সেন্টার",
+     "address": "Underground Market, Natunhat, Jamalganj Road, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০২৫৮৯-৯১৫৭০০",
+      "+৮৮০১৭১১-৩০৩৩১৮",
+      "+৮৮০১৭১১-৯৪৯৬৯২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/the-rawshan-clinic-and-diagnostic-centre-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Md. Sher Ali Murtuza",
+   "name_bn": "ডাঃ মোঃ শের আলী মর্তুজা",
+   "degrees": "MBBS, BCS (Health), DLO (Dhaka), PMT and PSGT (Canada)",
+   "specialty": "ENT & head-neck surgery",
+   "designation": "Consultant (Assistant Professor), ENT",
+   "chambers": [
+    {
+     "place_en": "The Rawshan Clinic and Diagnostic Centre",
+     "place_bn": "দি রওশন ক্লিনিক এন্ড ডায়াগনস্টিক সেন্টার",
+     "address": "Underground Market, Natunhat, Jamalganj Road, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০২৫৮৯-৯১৫৭০০",
+      "+৮৮০১৭১১-৩০৩৩১৮",
+      "+৮৮০১৭১১-৯৪৯৬৯২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/the-rawshan-clinic-and-diagnostic-centre-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. S M Abdul Munim (Romim)",
+   "name_bn": "ডাঃ এস এম আব্দুল মুনিম (রমিম)",
+   "degrees": "MBBS, BCS (Health), MCPS (Medicine), FCPS (Medicine)",
+   "specialty": "Medicine",
+   "designation": "Senior Consultant (Medicine), 250-bed District Hospital, Joypurhat (Tajul page); Consultant, Adhunik District Hospital (Rawshan page)",
+   "chambers": [
+    {
+     "place_en": "The Rawshan Clinic and Diagnostic Centre",
+     "place_bn": "দি রওশন ক্লিনিক এন্ড ডায়াগনস্টিক সেন্টার",
+     "address": "Underground Market, Natunhat, Jamalganj Road, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০২৫৮৯-৯১৫৭০০",
+      "+৮৮০১৭১১-৩০৩৩১৮",
+      "+৮৮০১৭১১-৯৪৯৬৯২"
+     ]
+    },
+    {
+     "place_en": "Tajul Islam Diagnostic Centre",
+     "place_bn": "তাজুল ইসলাম ডায়াগনস্টিক সেন্টার",
+     "address": "Adjacent to the Upazila Parishad, CO Colony, Amtali Sadar Road, Joypurhat Sadar",
+     "upazila": "Joypurhat Sadar",
+     "days": "Saturday - Thursday",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৯১-৮৬৮৬৬৬",
+      "+৮৮০১৯১২-৭১৭১০২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/the-rawshan-clinic-and-diagnostic-centre-joypurhat-doctor-list/",
+    "https://inhealthylife.com/tajul-islam-diagnostic-joypurhat-doctor-list/",
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/"
+   ],
+   "confidence": "high",
+   "notes": "FCPS listed only on Tajul page. prethibi lists 'Dr. S M Abdul Momin Romim', phone 01711 949692 (same as a Rawshan number)."
+  },
+  {
+   "name_en": "Prof. Dr. Moriom Khatun",
+   "name_bn": "অধ্যাপক ডাঃ মরিয়ম খাতুন",
+   "degrees": "MBBS, MPhil, MSc (London)",
+   "specialty": "Microbiology",
+   "designation": "Professor (retired)",
+   "chambers": [
+    {
+     "place_en": "The Rawshan Clinic and Diagnostic Centre",
+     "place_bn": "দি রওশন ক্লিনিক এন্ড ডায়াগনস্টিক সেন্টার",
+     "address": "Underground Market, Natunhat, Jamalganj Road, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০২৫৮৯-৯১৫৭০০",
+      "+৮৮০১৭১১-৩০৩৩১৮",
+      "+৮৮০১৭১১-৯৪৯৬৯২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/the-rawshan-clinic-and-diagnostic-centre-joypurhat-doctor-list/",
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/"
+   ],
+   "confidence": "high",
+   "notes": "prethibi phone 01711 303318."
+  },
+  {
+   "name_en": "Dr. Sardar Rashed Mobarak (Jewel)",
+   "name_bn": "ডাঃ সরদার রাশেদ মোবারক (জুয়েল)",
+   "degrees": "MBBS (DU), BCS (Health)",
+   "specialty": "",
+   "designation": "Superintendent, Joypurhat General Hospital (Daily Observer, 10 Sep 2026)",
+   "chambers": [
+    {
+     "place_en": "The Rawshan Clinic and Diagnostic Centre",
+     "place_bn": "দি রওশন ক্লিনিক এন্ড ডায়াগনস্টিক সেন্টার",
+     "address": "Underground Market, Natunhat, Jamalganj Road, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০২৫৮৯-৯১৫৭০০",
+      "+৮৮০১৭১১-৩০৩৩১৮",
+      "+৮৮০১৭১১-৯৪৯৬৯২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/the-rawshan-clinic-and-diagnostic-centre-joypurhat-doctor-list/",
+    "https://observerbd.com/news/592634"
+   ],
+   "confidence": "medium",
+   "notes": "Name match only: the Observer names 'Dr. Sardar Rashed Mobarak' as superintendent; assumed same person as Rawshan listing."
+  },
+  {
+   "name_en": "Dr. Sharmin Akter Juhi",
+   "name_bn": "ডাঃ শারমিন আকতার জুঁই",
+   "degrees": "MBBS, BCS (Health), FCPS (Gynae & Obs, final part)",
+   "specialty": "Gynaecology, obstetrics, infertility; surgeon",
+   "designation": "Assistant Registrar, Gynae & Obs, Sir Salimullah Medical College Mitford Hospital, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Taqwa Lab and Consultation Center",
+     "place_bn": "তাকওয়া ল্যাব এন্ড কনসালটেশন সেন্টার",
+     "address": "হাসপাতাল মোড়, সদর রোড, জয়পুরহাট-৫৯০০",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "9:00 AM - 2:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৩৭-৩৭৪০১২",
+      "+৮৮০১৯৭৭-৩৭৪০১২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/taqwa-lab-and-consultation-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Sukanta Kumar Ghosh",
+   "name_bn": "ডাঃ সুকান্ত কুমার ঘোষ",
+   "degrees": "MBBS (Rajshahi MC), DDV (BSMMU)",
+   "specialty": "Skin, sexual health, allergy, leprosy",
+   "designation": "Assistant Professor, Skin & Sex; former Head of Dept, TMSS Medical College Hospital, Bogura",
+   "chambers": [
+    {
+     "place_en": "Taqwa Lab and Consultation Center",
+     "place_bn": "তাকওয়া ল্যাব এন্ড কনসালটেশন সেন্টার",
+     "address": "হাসপাতাল মোড়, সদর রোড, জয়পুরহাট-৫৯০০",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "9:00 AM - 2:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৩৭-৩৭৪০১২",
+      "+৮৮০১৯৭৭-৩৭৪০১২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/taqwa-lab-and-consultation-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Md. Sajedur Rahman",
+   "name_bn": "ডাঃ মোঃ সাজেদুর রহমান",
+   "degrees": "MBBS (Rangpur MC), BCS (Health), CCD (BARDEM), MD (course)",
+   "specialty": "Anaesthesiology, ICU & interventional pain medicine; arthritis/pain, diabetes",
+   "designation": "Assistant Surgeon, Bangladesh Police; Central Police Hospital, Rajarbagh, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Taqwa Lab and Consultation Center",
+     "place_bn": "তাকওয়া ল্যাব এন্ড কনসালটেশন সেন্টার",
+     "address": "হাসপাতাল মোড়, সদর রোড, জয়পুরহাট-৫৯০০",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "9:00 AM - 2:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৩৭-৩৭৪০১২",
+      "+৮৮০১৯৭৭-৩৭৪০১২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/taqwa-lab-and-consultation-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "BMDC A-76938 (as printed)."
+  },
+  {
+   "name_en": "Dr. Md. Saiful Islam",
+   "name_bn": "ডাঃ মোঃ সাইফুল ইসলাম",
+   "degrees": "MBBS (Rajshahi MC), BCS (Health), D-Card (course), CCD (BARDEM), DMU; PGT (Medicine & Respiratory)",
+   "specialty": "Heart, diabetes, medicine, chest",
+   "designation": "Medical Officer, 250-bed General Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Taqwa Lab and Consultation Center",
+     "place_bn": "তাকওয়া ল্যাব এন্ড কনসালটেশন সেন্টার",
+     "address": "হাসপাতাল মোড়, সদর রোড, জয়পুরহাট-৫৯০০",
+     "upazila": "Joypurhat Sadar",
+     "days": "Daily",
+     "time": "5:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৩৭-৩৭৪০১২",
+      "+৮৮০১৯৭৭-৩৭৪০১২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/taqwa-lab-and-consultation-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Md. Shahid Akand",
+   "name_bn": "ডাঃ মোঃ শাহীদ আকন্দ",
+   "degrees": "MBBS, BCS (Health), MS (ENT), BSMMU",
+   "specialty": "ENT, head & neck surgery",
+   "designation": "Registrar, ENT, Shaheed Ziaur Rahman Medical College Hospital, Bogura",
+   "chambers": [
+    {
+     "place_en": "Taqwa Lab and Consultation Center",
+     "place_bn": "তাকওয়া ল্যাব এন্ড কনসালটেশন সেন্টার",
+     "address": "হাসপাতাল মোড়, সদর রোড, জয়পুরহাট-৫৯০০",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "10:00 AM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৩৭-৩৭৪০১২",
+      "+৮৮০১৯৭৭-৩৭৪০১২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/taqwa-lab-and-consultation-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Md. Mamun Al Mujahid",
+   "name_bn": "ডাঃ মোঃ মামুন আল মুজাহিদ",
+   "degrees": "MBBS, MD (Psychiatry), BSMMU",
+   "specialty": "Psychiatry",
+   "designation": "Assistant Professor & HOD (Psychiatry), TMSS Medical College Hospital, Bogura",
+   "chambers": [
+    {
+     "place_en": "Taqwa Lab and Consultation Center",
+     "place_bn": "তাকওয়া ল্যাব এন্ড কনসালটেশন সেন্টার",
+     "address": "হাসপাতাল মোড়, সদর রোড, জয়পুরহাট-৫৯০০",
+     "upazila": "Joypurhat Sadar",
+     "days": "Saturday",
+     "time": "3:00 PM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৩৭-৩৭৪০১২",
+      "+৮৮০১৯৭৭-৩৭৪০১২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/taqwa-lab-and-consultation-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Md. Anwar Hossain (Orthopaedics)",
+   "name_bn": "ডাঃ মোঃ আনোয়ার হোসেন",
+   "degrees": "MBBS, BCS (Health), FCPS (Ortho-FP), MS (Ortho, course)",
+   "specialty": "Spine, joints, arthritis/pain; orthopaedic surgeon",
+   "designation": "National Orthopaedic (Pangu) Hospital, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Taqwa Lab and Consultation Center",
+     "place_bn": "তাকওয়া ল্যাব এন্ড কনসালটেশন সেন্টার",
+     "address": "হাসপাতাল মোড়, সদর রোড, জয়পুরহাট-৫৯০০",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "9:00 AM - 2:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৩৭-৩৭৪০১২",
+      "+৮৮০১৯৭৭-৩৭৪০১২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/taqwa-lab-and-consultation-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "Different from the anaesthetist/director of the same name at Modern General Hospital."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ আসাফুদ্দৌলা",
+   "degrees": "MBBS, MCPS, DLO",
+   "specialty": "ENT specialist & surgeon",
+   "designation": "",
+   "chambers": [
+    {
+     "place_en": "Fair Health Consultancy and Diagnostic Centre",
+     "place_bn": "ফেয়ার হেলথ কনসালটেন্সী এন্ড ডায়াগনষ্টিক সেন্টার",
+     "address": "Ansar Ali Complex, Batar Mor, Sadar Road, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "সকাল ১০.০০টা থেকে বিকাল ৩.০০টা",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯২৭-০৭৫৭৪৭",
+      "+৮৮০১৯০৮-৫৩১৮৮০"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/fair-health-consultancy-and-diagnostic-centre-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ শচীন্দ্রনাথ সরকার",
+   "degrees": "MBBS, ডিসিএইড (as printed)",
+   "specialty": "Child specialist",
+   "designation": "",
+   "chambers": [
+    {
+     "place_en": "Fair Health Consultancy and Diagnostic Centre",
+     "place_bn": "ফেয়ার হেলথ কনসালটেন্সী এন্ড ডায়াগনষ্টিক সেন্টার",
+     "address": "Ansar Ali Complex, Batar Mor, Sadar Road, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "সকাল ১০.০০টা থেকে বিকাল ৩.০০টা",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯২৭-০৭৫৭৪৭",
+      "+৮৮০১৯০৮-৫৩১৮৮০"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/fair-health-consultancy-and-diagnostic-centre-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "অধ্যাপক ডাঃ শাহীন রেজা চৌধুরী",
+   "degrees": "MBBS, DDV, MCH (Norway)",
+   "specialty": "Skin & venereal diseases",
+   "designation": "Professor of Dermatology, Mugda Medical College & Hospital, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Fair Health Consultancy and Diagnostic Centre",
+     "place_bn": "ফেয়ার হেলথ কনসালটেন্সী এন্ড ডায়াগনষ্টিক সেন্টার",
+     "address": "Ansar Ali Complex, Batar Mor, Sadar Road, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯২৭-০৭৫৭৪৭",
+      "+৮৮০১৯০৮-৫৩১৮৮০"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/fair-health-consultancy-and-diagnostic-centre-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ মাহবুবুর রহমান",
+   "degrees": "এমবিবিএস, বিসিএস (স্বাস্থ্য), এমডি (নিউরোমেডিসিন)",
+   "specialty": "Neurology (stroke, paralysis, epilepsy, headache, back pain)",
+   "designation": "Assistant Professor (Neuromedicine), Shaheed M. Monsur Ali Medical College Hospital, Sirajganj",
+   "chambers": [
+    {
+     "place_en": "Famous Health Care & Clinic",
+     "place_bn": "ফেমাস হেলথ কেয়ার এন্ড ক্লিনিক জয়পুরহাট",
+     "address": "আলহাজ্ব ম্যানশন, সদর রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯৪২-১৪৪৯৩০",
+      "+৮৮০১৭০৮-৭৯৬৬০৫",
+      "+৮৮০১৮১৯-০৩৩৬৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/famous-health-care-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ এনায়েতুল্লাহ নাজীম",
+   "degrees": "এমবিবিএস (ঢামেক), বিসিএস (স্বাস্থ্য), এমএস-অর্থোপেডিক সার্জারী",
+   "specialty": "Orthopaedic surgery",
+   "designation": "Registrar, Orthopaedic Surgery, National Orthopaedic Hospital (Pongu Hospital), Dhaka; Dhaka Medical College Hospital",
+   "chambers": [
+    {
+     "place_en": "Famous Health Care & Clinic",
+     "place_bn": "ফেমাস হেলথ কেয়ার এন্ড ক্লিনিক জয়পুরহাট",
+     "address": "আলহাজ্ব ম্যানশন, সদর রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Every Friday",
+     "time": "from 3:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯৪২-১৪৪৯৩০",
+      "+৮৮০১৭০৮-৭৯৬৬০৫",
+      "+৮৮০১৮১৯-০৩৩৬৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/famous-health-care-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ সুদর্শন কুমার তালুকদার",
+   "degrees": "এমবিবিএস (ঢাকা), বিসিএস (স্বাস্থ্য), এমসিপি এস (চর্ম ও যৌন রোগ), এপসিপিএস, এফএমডি (ফ্যামিলি মেডিসিন)",
+   "specialty": "Dermatology, sexual health, allergy",
+   "designation": "Shaheed Ziaur Rahman Medical College Hospital, Bogura",
+   "chambers": [
+    {
+     "place_en": "Famous Health Care & Clinic",
+     "place_bn": "ফেমাস হেলথ কেয়ার এন্ড ক্লিনিক জয়পুরহাট",
+     "address": "আলহাজ্ব ম্যানশন, সদর রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Wednesday",
+     "time": "3:00 PM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯৪২-১৪৪৯৩০",
+      "+৮৮০১৭০৮-৭৯৬৬০৫",
+      "+৮৮০১৮১৯-০৩৩৬৬৩",
+      "+৮৮০১৭১২-৩১২৪৭৬"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/famous-health-care-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মাকছুরা আরেফিন (রুনা)",
+   "degrees": "এমবিবিএস, বিসিএস (স্বাস্থ্য), এফসিপিএস (শেষ পর্ব), ডিজিও (গাইনী এন্ড অবস)",
+   "specialty": "Gynaecology & obstetrics; surgeon",
+   "designation": "Dhaka Medical College Hospital; Adhunik District Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Famous Health Care & Clinic",
+     "place_bn": "ফেমাস হেলথ কেয়ার এন্ড ক্লিনিক জয়পুরহাট",
+     "address": "আলহাজ্ব ম্যানশন, সদর রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Daily",
+     "time": "3:00 PM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯৪২-১৪৪৯৩০",
+      "+৮৮০১৭০৮-৭৯৬৬০৫",
+      "+৮৮০১৮১৯-০৩৩৬৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/famous-health-care-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ শাহীন রেজা",
+   "degrees": "এমবিবিএস, বিসিএস (স্বাস্থ), এফসিপিএস (সার্জারী)",
+   "specialty": "General surgery",
+   "designation": "Assistant Registrar (Surgery), Shaheed Ziaur Rahman Medical College Hospital, Bogura",
+   "chambers": [
+    {
+     "place_en": "Famous Health Care & Clinic",
+     "place_bn": "ফেমাস হেলথ কেয়ার এন্ড ক্লিনিক জয়পুরহাট",
+     "address": "আলহাজ্ব ম্যানশন, সদর রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "2:00 PM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯৪২-১৪৪৯৩০",
+      "+৮৮০১৭০৮-৭৯৬৬০৫",
+      "+৮৮০১৮১৯-০৩৩৬৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/famous-health-care-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "Separate from the ENT 'ডাঃ শাহীন রেজা' (Kalai UHC) at Al Shefa."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ সোয়েব আরেফিন",
+   "degrees": "এমবিবিএস, বিসিএস (স্বাস্থ্য), সিসিডি (বারডেম)",
+   "specialty": "Medicine, diabetes, kidney disease",
+   "designation": "Medical Officer (Medicine), Adhunik District Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Famous Health Care & Clinic",
+     "place_bn": "ফেমাস হেলথ কেয়ার এন্ড ক্লিনিক জয়পুরহাট",
+     "address": "আলহাজ্ব ম্যানশন, সদর রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Daily",
+     "time": "4:00 PM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯৪২-১৪৪৯৩০",
+      "+৮৮০১৭০৮-৭৯৬৬০৫",
+      "+৮৮০১৮১৯-০৩৩৬৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/famous-health-care-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ মোস্তাফিজুর রহমান (মাসুদ)",
+   "degrees": "এমবিবিএস (রামেক), বিসিএস (স্বাস্থ্য), পিজিটি (মেডিসিন ও বক্ষব্যাধি), ডিএমইউ (ঢাঃবিঃ), সিসিডি (বারডেম)",
+   "specialty": "Medicine, paediatrics, dermatology, chest; ultrasound; diabetes",
+   "designation": "Emergency Medical Officer, Adhunik District Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Famous Health Care & Clinic",
+     "place_bn": "ফেমাস হেলথ কেয়ার এন্ড ক্লিনিক জয়পুরহাট",
+     "address": "আলহাজ্ব ম্যানশন, সদর রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯৪২-১৪৪৯৩০",
+      "+৮৮০১৭০৮-৭৯৬৬০৫",
+      "+৮৮০১৮১৯-০৩৩৬৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/famous-health-care-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "অধ্যাপক ডাঃ মইনুল হাসান সাদিক",
+   "degrees": "এমবিবিএস, এফসিপিএস (মেডিসিন)",
+   "specialty": "Medicine",
+   "designation": "Professor, Medicine, TMSS Medical College & Hospital, Bogura; former Director & Head, Shaheed Ziaur Rahman MCH, Bogura",
+   "chambers": [
+    {
+     "place_en": "Famous Health Care & Clinic",
+     "place_bn": "ফেমাস হেলথ কেয়ার এন্ড ক্লিনিক জয়পুরহাট",
+     "address": "আলহাজ্ব ম্যানশন, সদর রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Sunday",
+     "time": "3:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯৪২-১৪৪৯৩০",
+      "+৮৮০১৭০৮-৭৯৬৬০৫",
+      "+৮৮০১৮১৯-০৩৩৬৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/famous-health-care-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ এ বি এম আব্দুল্লাহ",
+   "degrees": "এমবিবিএস, বিসিএস (স্বাস্থ্য)",
+   "specialty": "ENT",
+   "designation": "Adhunik District Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Famous Health Care & Clinic",
+     "place_bn": "ফেমাস হেলথ কেয়ার এন্ড ক্লিনিক জয়পুরহাট",
+     "address": "আলহাজ্ব ম্যানশন, সদর রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Saturday - Thursday",
+     "time": "3:00 PM - 6:30 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯৪২-১৪৪৯৩০",
+      "+৮৮০১৭০৮-৭৯৬৬০৫",
+      "+৮৮০১৮১৯-০৩৩৬৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/famous-health-care-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ দীপন কুমার সরকার",
+   "degrees": "এমবিবিএস, এমএস (ইএনটি)",
+   "specialty": "ENT",
+   "designation": "Associate Professor & Head, ENT, TMSS Medical College & Hospital, Bogura",
+   "chambers": [
+    {
+     "place_en": "Famous Health Care & Clinic",
+     "place_bn": "ফেমাস হেলথ কেয়ার এন্ড ক্লিনিক জয়পুরহাট",
+     "address": "আলহাজ্ব ম্যানশন, সদর রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Wednesday",
+     "time": "3:00 PM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯৪২-১৪৪৯৩০",
+      "+৮৮০১৭০৮-৭৯৬৬০৫",
+      "+৮৮০১৮১৯-০৩৩৬৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/famous-health-care-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ রাশেদুল হক",
+   "degrees": "এমবিবিএস, বিসিএস (স্বাস্থ্য), এফসিপিএস (মেডিসিন)",
+   "specialty": "Medicine",
+   "designation": "Junior Consultant (Medicine), Shaheed Ziaur Rahman Medical College Hospital, Bogura",
+   "chambers": [
+    {
+     "place_en": "Famous Health Care & Clinic",
+     "place_bn": "ফেমাস হেলথ কেয়ার এন্ড ক্লিনিক জয়পুরহাট",
+     "address": "আলহাজ্ব ম্যানশন, সদর রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯৪২-১৪৪৯৩০",
+      "+৮৮০১৭০৮-৭৯৬৬০৫",
+      "+৮৮০১৮১৯-০৩৩৬৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/famous-health-care-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "BMDC A-52371."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ ওমর ফারুক",
+   "degrees": "এমবিবিএস, সিসিডি (বারডেম), এফসিপিএস (পার্ট-২ সার্জারী), এমএস (ইউরোলজি ফাইনাল পার্ট)",
+   "specialty": "Urology (kidney, urinary tract, hernia, hydrocele, piles)",
+   "designation": "Bangladesh Medical University (PG Hospital), Dhaka",
+   "chambers": [
+    {
+     "place_en": "Famous Health Care & Clinic",
+     "place_bn": "ফেমাস হেলথ কেয়ার এন্ড ক্লিনিক জয়পুরহাট",
+     "address": "আলহাজ্ব ম্যানশন, সদর রোড, আমতলী, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "9:00 AM - 1:00 PM and 4:00 PM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৯৪২-১৪৪৯৩০",
+      "+৮৮০১৭০৮-৭৯৬৬০৫",
+      "+৮৮০১৮১৯-০৩৩৬৬৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/famous-health-care-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "Possibly the same person as daktarbook's 'ডা মোঃ ওমর ফারুক' (Al Madina, BMDC A-72729); degrees differ, so kept separate."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ সামছুজ্জোহা (সুজন)",
+   "degrees": "এমবিবিএস, বিসিএস, ডিসিএইচ",
+   "specialty": "Child specialist",
+   "designation": "Consultant, Paediatrics",
+   "chambers": [
+    {
+     "place_en": "Emu Diagnostic Center",
+     "place_bn": "ইমু ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "আমতলী, সদর রোড, জয়পুরহাট সদর, জয়পুরহাট",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৯১-৩৫৩৬১০"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/emu-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Abdur Razzak",
+   "name_bn": "ডাঃ আব্দুর রাজ্জাক",
+   "degrees": "MBBS (Board Stand), BCS (Health), FCPS (Medicine)",
+   "specialty": "Medicine",
+   "designation": "Associate Professor (Medicine), Rajshahi Medical College (inhealthylife); সহকারী অধ্যাপক (মেডিসিন), শহীদ জিয়াউর রহমান মেডিকেল কলেজ, বগুড়া (daktarbook)",
+   "chambers": [
+    {
+     "place_en": "New Green Life Diagnostic Center",
+     "place_bn": "নিউ গ্রীন লাইফ ডায়াগনস্টিক সেন্টার",
+     "address": "সদর রাস্তা, সি.ও কলোনী (পানির ট্যাংকের সামনে), জয়পুরহাট।",
+     "upazila": "Joypurhat Sadar",
+     "days": "Wednesday (daktarbook)",
+     "time": "প্রতি বুধবার বিকেল ৪টা থেকে রাত ৮টা পর্যন্ত (daktarbook); from 4:00 PM (inhealthylife)",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৩০৯-২৪৬০৬০",
+      "+৮৮০১৯৭৩-৭৮৩৭৮৩",
+      "০১৯৭২৭৮৩৭৮৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/new-green-life-diagnostic-center-joypurhat-doctor-list/",
+    "https://daktarbook.com/doctor/ডাঃ-আব্দুর-রাজ্জাক",
+    "https://daktarbook.com/district/doctor/25"
+   ],
+   "confidence": "medium",
+   "notes": "Workplace/designation conflict between sources. Green Life serial numbers conflict: inhealthylife prints +৮৮০১৯৭৩-৭৮৩৭৮৩ while daktarbook prints ০১৯৭২৭৮৩৭৮৩ (01973 vs 01972); both recorded."
+  },
+  {
+   "name_en": "Dr. Md. Ruhul Amin (Orthopaedics)",
+   "name_bn": "ডাঃ মোঃ রুহুল আমিন",
+   "degrees": "MBBS, BCS (Health), D-Ortho (Pangu Hospital, Dhaka), MS (Ortho) [inhealthylife] / FCPS (final part surgery) [daktarbook]",
+   "specialty": "Orthopaedics: bone, joint, fracture, spine, arthritis; surgeon",
+   "designation": "Orthopaedic consultant / surgeon; former resident surgeon, Pangu Hospital, Dhaka",
+   "chambers": [
+    {
+     "place_en": "New Green Life Diagnostic Center",
+     "place_bn": "নিউ গ্রীন লাইফ ডায়াগনস্টিক সেন্টার",
+     "address": "সদর রাস্তা, সি.ও কলোনী (পানির ট্যাংকের সামনে), জয়পুরহাট।",
+     "upazila": "Joypurhat Sadar",
+     "days": "Daily (inhealthylife); every Friday (daktarbook)",
+     "time": "4:00 PM - 8:00 PM (inhealthylife); প্রতি শুক্রবার দুপুর ২.৩০ মি: হতে রাত্রী ৮টা (daktarbook)",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৩০৯-২৪৬০৬০",
+      "+৮৮০১৯৭৩-৭৮৩৭৮৩",
+      "০১৯৭২৭৮৩৭৮৩",
+      "01719037288"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/new-green-life-diagnostic-center-joypurhat-doctor-list/",
+    "https://daktarbook.com/doctor/ডাঃ-মোঃ-রুহুল-আমিন",
+    "https://daktarbook.com/district/doctor/25"
+   ],
+   "confidence": "medium",
+   "notes": "Schedule conflict between sources. 01719037288 is the doctor's mobile per daktarbook profile. Different from Civil Surgeon 'ডাঃ মুহাঃ রুহুল আমিন'. Green Life serial numbers conflict: inhealthylife prints +৮৮০১৯৭৩-৭৮৩৭৮৩ while daktarbook prints ০১৯৭২৭৮৩৭৮৩ (01973 vs 01972); both recorded."
+  },
+  {
+   "name_en": "Dr. Mir Mubinul Islam (Mubin)",
+   "name_bn": "ডাঃ মীর মুবিনুল ইসলাম (মুবিন)",
+   "degrees": "MBBS, BCS (Health), MS (Surgery)",
+   "specialty": "General & laparoscopic surgery",
+   "designation": "Senior Consultant, Surgery, Joypurhat (Modern page / daktarbook); Associate Professor, Naogaon Medical College Hospital (Green Life page)",
+   "chambers": [
+    {
+     "place_en": "New Green Life Diagnostic Center",
+     "place_bn": "নিউ গ্রীন লাইফ ডায়াগনস্টিক সেন্টার",
+     "address": "সদর রাস্তা, সি.ও কলোনী (পানির ট্যাংকের সামনে), জয়পুরহাট।",
+     "upazila": "Joypurhat Sadar",
+     "days": "Daily except Tuesday (inhealthylife); every Friday (daktarbook)",
+     "time": "4:00 PM - 8:00 PM (inhealthylife); প্রতি শুক্রবার সকাল ৮টা হইতে সন্ধ্যা ৭টা (daktarbook)",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৩০৯-২৪৬০৬০",
+      "+৮৮০১৯৭৩-৭৮৩৭৮৩",
+      "০১৯৭২৭৮৩৭৮৩"
+     ]
+    },
+    {
+     "place_en": "Modern General Hospital & Diagnostic Center",
+     "place_bn": "মডার্ণ জেনারেল হাসপাতাল এন্ড ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রোড (শহীদ ডাঃ আবুল কাশেম ময়দান সংলগ্ন) জয়পুরহাট ৫৯০০",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৪২-৪২৬৭১৩",
+      "+৮৮০১৭৩২৬৭৭৯৯৬",
+      "+৮৮০১৭১৬-৬৯৬৪৪৪"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/new-green-life-diagnostic-center-joypurhat-doctor-list/",
+    "https://inhealthylife.com/modern-general-hospital-and-diagnostic-center-joypurhat-doctor-list/",
+    "https://daktarbook.com/doctor/ডাঃ-মীর-মুবিনুল-ইসলাম-মুবিন",
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/"
+   ],
+   "confidence": "high",
+   "notes": "prethibi (2020/22): 'Dr. A B M Mir Mubinul Islam', Senior Consultant, Surgery, Sadar Hospital Joypurhat, 01716696444. Schedule conflicts between sources. Green Life serial numbers conflict: inhealthylife prints +৮৮০১৯৭৩-৭৮৩৭৮৩ while daktarbook prints ০১৯৭২৭৮৩৭৮৩ (01973 vs 01972); both recorded."
+  },
+  {
+   "name_en": "Dr. Nasima Akhtar Nina",
+   "name_bn": "ডাঃ নাসিমা আখতার (নীনা)",
+   "degrees": "MBBS, BCS (Health), DGO",
+   "specialty": "Gynaecology & obstetrics; surgeon",
+   "designation": "Senior Consultant, 250-bed General Hospital (Green Life page); Consultant (Gynae & Obs), Adhunik District Hospital (Modern page); Junior Consultant (daktarbook)",
+   "chambers": [
+    {
+     "place_en": "New Green Life Diagnostic Center",
+     "place_bn": "নিউ গ্রীন লাইফ ডায়াগনস্টিক সেন্টার",
+     "address": "সদর রাস্তা, সি.ও কলোনী (পানির ট্যাংকের সামনে), জয়পুরহাট।",
+     "upazila": "Joypurhat Sadar",
+     "days": "Daily; Friday from 10:00 AM",
+     "time": "4:00 PM - 8:00 PM (inhealthylife); বিকাল ৩টা হইতে রাত ৮টা (daktarbook)",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৩০৯-২৪৬০৬০",
+      "+৮৮০১৯৭৩-৭৮৩৭৮৩",
+      "০১৯৭২৭৮৩৭৮৩"
+     ]
+    },
+    {
+     "place_en": "Modern General Hospital & Diagnostic Center",
+     "place_bn": "মডার্ণ জেনারেল হাসপাতাল এন্ড ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রোড (শহীদ ডাঃ আবুল কাশেম ময়দান সংলগ্ন) জয়পুরহাট ৫৯০০",
+     "upazila": "Joypurhat Sadar",
+     "days": "Daily",
+     "time": "5:00 PM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৪২-৪২৬৭১৩",
+      "+৮৮০১৯২২-২২৯৩৮৯",
+      "+৮৮০১৭৩২৬৭৭৯৯৬"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/new-green-life-diagnostic-center-joypurhat-doctor-list/",
+    "https://inhealthylife.com/modern-general-hospital-and-diagnostic-center-joypurhat-doctor-list/",
+    "https://daktarbook.com/doctor/ডাঃ-নাসিমা-আখতার-নীনা",
+    "https://daktarbook.com/district/doctor/25"
+   ],
+   "confidence": "high",
+   "notes": "Green Life page spells 'ডাঃ নাসিমা আক্তার নিনা'. Designation and daily hours conflict across sources; both chambers list daily evening hours. Green Life serial numbers conflict: inhealthylife prints +৮৮০১৯৭৩-৭৮৩৭৮৩ while daktarbook prints ০১৯৭২৭৮৩৭৮৩ (01973 vs 01972); both recorded."
+  },
+  {
+   "name_en": "Dr. Amit Kumar Agarwal",
+   "name_bn": "ডাঃ অমিত কুমার আগরওয়াল",
+   "degrees": "MBBS (Dhaka), BCS (Health), DLO (PG Hospital), CCD (BARDEM)",
+   "specialty": "ENT & head-neck surgery",
+   "designation": "Consultant, Shaheed Ziaur Rahman Medical College & Hospital, Bogura",
+   "chambers": [
+    {
+     "place_en": "New Green Life Diagnostic Center",
+     "place_bn": "নিউ গ্রীন লাইফ ডায়াগনস্টিক সেন্টার",
+     "address": "সদর রাস্তা, সি.ও কলোনী (পানির ট্যাংকের সামনে), জয়পুরহাট।",
+     "upazila": "Joypurhat Sadar",
+     "days": "Monday; Friday",
+     "time": "Monday 3:00 PM - 7:00 PM; Friday 10:00 AM - 3:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৩০৯-২৪৬০৬০",
+      "+৮৮০১৯৭৩-৭৮৩৭৮৩"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/new-green-life-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "Green Life serial numbers conflict: inhealthylife prints +৮৮০১৯৭৩-৭৮৩৭৮৩ while daktarbook prints ০১৯৭২৭৮৩৭৮৩ (01973 vs 01972); both recorded."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মুহাম্মদ আব্দুল্লাহ্ আল মুতী (সুবর্ণ)",
+   "degrees": "এম বি বি এস, বি সি এস (স্বাস্থ্য) এম এস,",
+   "specialty": "Orthopaedics (bone & joint)",
+   "designation": "কনসালটেন্ট",
+   "chambers": [
+    {
+     "place_en": "New Green Life Diagnostic Center",
+     "place_bn": "নিউ গ্রীন লাইফ ডায়াগনস্টিক সেন্টার",
+     "address": "সদর রাস্তা, সি.ও কলোনী (পানির ট্যাংকের সামনে), জয়পুরহাট।",
+     "upazila": "Joypurhat Sadar",
+     "days": "প্রতি বুধবার",
+     "time": "দুপুর ৩টা থেকে সন্ধ্যা ৬টা পর্যন্ত",
+     "fee": "",
+     "serial_phones": [
+      "০১৯৭২৭৮৩৭৮৩",
+      "০১৩০৯২৪৬০৬০"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://daktarbook.com/doctor/ডাঃ-মুহাম্মদ-আব্দুল্লাহ্-আল-মুতী-সুবর্ণ",
+    "https://daktarbook.com/district/doctor/25"
+   ],
+   "confidence": "medium",
+   "notes": "Green Life serial numbers conflict: inhealthylife prints +৮৮০১৯৭৩-৭৮৩৭৮৩ while daktarbook prints ০১৯৭২৭৮৩৭৮৩ (01973 vs 01972); both recorded."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ শারমিন মারিয়া",
+   "degrees": "",
+   "specialty": "Skin, venereal, allergy & leprosy (চর্ম, যৌন, এলার্জি ও কুষ্ঠ রোগ বিশেষজ্ঞ)",
+   "designation": "কনসালটেন্ট চর্ম ও যৌন",
+   "chambers": [
+    {
+     "place_en": "New Green Life Diagnostic Center",
+     "place_bn": "নিউ গ্রীন লাইফ ডায়াগনস্টিক সেন্টার",
+     "address": "সদর রাস্তা, সি.ও কলোনী (পানির ট্যাংকের সামনে), জয়পুরহাট।",
+     "upazila": "Joypurhat Sadar",
+     "days": "প্রতি বৃহস্পতিবার",
+     "time": "বিকাল ৩টা থেকে ৬টা পর্যন্ত",
+     "fee": "",
+     "serial_phones": [
+      "০১৯৭২৭৮৩৭৮৩",
+      "০১৩০৯২৪৬০৬০"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://daktarbook.com/doctor/ডাঃ-শারমিন-মারিয়া",
+    "https://daktarbook.com/district/doctor/25"
+   ],
+   "confidence": "medium",
+   "notes": "Degrees not listed. Green Life serial numbers conflict: inhealthylife prints +৮৮০১৯৭৩-৭৮৩৭৮৩ while daktarbook prints ০১৯৭২৭৮৩৭৮৩ (01973 vs 01972); both recorded."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ আনোয়ার হোসেন",
+   "degrees": "MBBS, DA (Anaesthesia)",
+   "specialty": "Pain medicine, anaesthesia & ICU",
+   "designation": "Director (overall), Modern General Hospital & Diagnostic Center, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Modern General Hospital & Diagnostic Center",
+     "place_bn": "মডার্ণ জেনারেল হাসপাতাল এন্ড ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রোড (শহীদ ডাঃ আবুল কাশেম ময়দান সংলগ্ন) জয়পুরহাট ৫৯০০",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৪২-৪২৬৭১৩",
+      "+৮৮০১৯২২-২২৯৩৮৯",
+      "+৮৮০১৭৩২৬৭৭৯৯৬"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/modern-general-hospital-and-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "BMDC A-36727."
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ মোঃ রেজাউল করিম",
+   "degrees": "MBBS, BCS (Health), D-Ortho (Bangladesh Medical University Hospital, Dhaka)",
+   "specialty": "Orthopaedics & trauma (bone, joint, pain, deformity)",
+   "designation": "",
+   "chambers": [
+    {
+     "place_en": "Modern General Hospital & Diagnostic Center",
+     "place_bn": "মডার্ণ জেনারেল হাসপাতাল এন্ড ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রোড (শহীদ ডাঃ আবুল কাশেম ময়দান সংলগ্ন) জয়পুরহাট ৫৯০০",
+     "upazila": "Joypurhat Sadar",
+     "days": "Thursday",
+     "time": "3:00 PM - 10:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৪২-৪২৬৭১৩",
+      "+৮৮০১৯২২-২২৯৩৮৯",
+      "+৮৮০১৭৩২৬৭৭৯৯৬"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/modern-general-hospital-and-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "",
+   "name_bn": "ডাঃ অমিত কুমার মোর",
+   "degrees": "MBBS, BCS (Health), FCPS (final part) Surgery",
+   "specialty": "Surgery",
+   "designation": "Registrar (Surgery), Shaheed Ziaur Rahman Medical College Hospital, Bogura",
+   "chambers": [
+    {
+     "place_en": "Modern General Hospital & Diagnostic Center",
+     "place_bn": "মডার্ণ জেনারেল হাসপাতাল এন্ড ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+     "address": "সদর রোড (শহীদ ডাঃ আবুল কাশেম ময়দান সংলগ্ন) জয়পুরহাট ৫৯০০",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৪২-৪২৬৭১৩",
+      "+৮৮০১৯২২-২২৯৩৮৯",
+      "+৮৮০১৭৩২৬৭৭৯৯৬"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/modern-general-hospital-and-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Md. Aftab Rasel",
+   "name_bn": "ডাঃ মোঃ আফতাব রাসেল",
+   "degrees": "MBBS, BCS (Health), FCPS (Medicine), MD (Neurology)",
+   "specialty": "Neuromedicine",
+   "designation": "Assistant Professor, National Institute of Neurosciences & Hospital, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Tajul Islam Diagnostic Centre",
+     "place_bn": "তাজুল ইসলাম ডায়াগনস্টিক সেন্টার",
+     "address": "Adjacent to the Upazila Parishad, CO Colony, Amtali Sadar Road, Joypurhat Sadar",
+     "upazila": "Joypurhat Sadar",
+     "days": "Thursday; Friday",
+     "time": "Thursday '5:00 PM to 10:00 AM' (as printed); Friday after Jumma, 5:00 PM - 9:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৯১-৮৬৮৬৬৬",
+      "+৮৮০১৯১২-৭১৭১০২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/tajul-islam-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "Thursday time as printed looks wrong - confirm."
+  },
+  {
+   "name_en": "Dr. Md. Saba Al Galib",
+   "name_bn": "ডাঃ মোঃ সাবা আল গালিব",
+   "degrees": "MBBS, BCS (Health), FCPS (Surgery); fellowship in minimal access surgery (India)",
+   "specialty": "General surgery, breast, piles, laparoscopic surgery",
+   "designation": "Consultant (Surgery), 250-bed General Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Tajul Islam Diagnostic Centre",
+     "place_bn": "তাজুল ইসলাম ডায়াগনস্টিক সেন্টার",
+     "address": "Adjacent to the Upazila Parishad, CO Colony, Amtali Sadar Road, Joypurhat Sadar",
+     "upazila": "Joypurhat Sadar",
+     "days": "Daily; Friday all day",
+     "time": "3:00 PM - 10:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৯১-৮৬৮৬৬৬",
+      "+৮৮০১৯১২-৭১৭১০২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/tajul-islam-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Md. Obaidul Islam",
+   "name_bn": "ডাঃ মোঃ ওবায়দুল ইসলাম",
+   "degrees": "MS Neurosurgery (Phase B)",
+   "specialty": "Neurology / neurosurgery",
+   "designation": "Former PG Hospital, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Tajul Islam Diagnostic Centre",
+     "place_bn": "তাজুল ইসলাম ডায়াগনস্টিক সেন্টার",
+     "address": "Adjacent to the Upazila Parishad, CO Colony, Amtali Sadar Road, Joypurhat Sadar",
+     "upazila": "Joypurhat Sadar",
+     "days": "Saturday",
+     "time": "10:00 AM - 6:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৯১-৮৬৮৬৬৬",
+      "+৮৮০১৯১২-৭১৭১০২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/tajul-islam-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Asiful Islam (Asif)",
+   "name_bn": "ডাঃ আসিফুল ইসলাম (আসিফ)",
+   "degrees": "MBBS, CCH, DA (course), BMU",
+   "specialty": "Interventional pain medicine (back, knee, chronic & cancer pain)",
+   "designation": "Former PG Hospital, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Tajul Islam Diagnostic Centre",
+     "place_bn": "তাজুল ইসলাম ডায়াগনস্টিক সেন্টার",
+     "address": "Adjacent to the Upazila Parishad, CO Colony, Amtali Sadar Road, Joypurhat Sadar",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "10:00 AM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৯১-৮৬৮৬৬৬",
+      "+৮৮০১৯১২-৭১৭১০২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/tajul-islam-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Md. Harun-or-Rashid Pramanik",
+   "name_bn": "ডাঃ মোঃ হারুন-অর-রশিদ প্রামানিক",
+   "degrees": "MBBS, D-Ortho (NITOR)",
+   "specialty": "Orthopaedic & trauma surgery",
+   "designation": "Registrar, Uttara Adhunik Medical College Hospital, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Tajul Islam Diagnostic Centre",
+     "place_bn": "তাজুল ইসলাম ডায়াগনস্টিক সেন্টার",
+     "address": "Adjacent to the Upazila Parishad, CO Colony, Amtali Sadar Road, Joypurhat Sadar",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "3:00 PM - 10:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৯১-৮৬৮৬৬৬",
+      "+৮৮০১৯১২-৭১৭১০২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/tajul-islam-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Manjur Hasan Swadhin",
+   "name_bn": "ডাঃ মঞ্জুর হাসান স্বাধীন",
+   "degrees": "MBBS, BCS (Health), FCPS Orthopaedic Surgery (final part)",
+   "specialty": "Spine, joint & arthritis (orthopaedics); surgery",
+   "designation": "Medical Officer, Upazila Health Complex, Khetlal, Joypurhat; National Orthopaedic Hospital (Pangu), Dhaka",
+   "chambers": [
+    {
+     "place_en": "Tajul Islam Diagnostic Centre",
+     "place_bn": "তাজুল ইসলাম ডায়াগনস্টিক সেন্টার",
+     "address": "Adjacent to the Upazila Parishad, CO Colony, Amtali Sadar Road, Joypurhat Sadar",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "10:00 AM - 8:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৯১-৮৬৮৬৬৬",
+      "+৮৮০১৯১২-৭১৭১০২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/tajul-islam-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Muh. Ruhul Amin (Civil Surgeon)",
+   "name_bn": "ডাঃ মুহাঃ রুহুল আমিন",
+   "degrees": "",
+   "specialty": "Cardiology, hypertension, rheumatic fever, diabetes",
+   "designation": "Civil Surgeon, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Tajul Islam Diagnostic Centre",
+     "place_bn": "তাজুল ইসলাম ডায়াগনস্টিক সেন্টার",
+     "address": "Adjacent to the Upazila Parishad, CO Colony, Amtali Sadar Road, Joypurhat Sadar",
+     "upazila": "Joypurhat Sadar",
+     "days": "Sunday - Wednesday",
+     "time": "5:00 PM - 10:00 PM",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৯১-৮৬৮৬৬৬",
+      "+৮৮০১৯১২-৭১৭১০২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/tajul-islam-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "Designation as printed on the centre page; not verified against an official source."
+  },
+  {
+   "name_en": "Dr. Md. Jewel Hossain",
+   "name_bn": "ডাঃ মোঃ জুয়েল হোসেন",
+   "degrees": "MBBS, BCS (Health), MS (course) ENT",
+   "specialty": "ENT",
+   "designation": "National Institute of ENT and Hospital, Dhaka",
+   "chambers": [
+    {
+     "place_en": "Tajul Islam Diagnostic Centre",
+     "place_bn": "তাজুল ইসলাম ডায়াগনস্টিক সেন্টার",
+     "address": "Adjacent to the Upazila Parishad, CO Colony, Amtali Sadar Road, Joypurhat Sadar",
+     "upazila": "Joypurhat Sadar",
+     "days": "Friday",
+     "time": "All day / 10:00 AM - 9:00 PM (as printed)",
+     "fee": "",
+     "serial_phones": [
+      "+৮৮০১৭৯১-৮৬৮৬৬৬",
+      "+৮৮০১৯১২-৭১৭১০২"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://inhealthylife.com/tajul-islam-diagnostic-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": ""
+  },
+  {
+   "name_en": "Dr. Bithi Khatun",
+   "name_bn": "",
+   "degrees": "MBBS, FCPS Part-2",
+   "specialty": "Gynecology",
+   "designation": "HMO, Rajshahi Medical College Hospital",
+   "chambers": [
+    {
+     "place_en": "",
+     "place_bn": "",
+     "address": "জয়পুরহাট, রাজশাহী (chamber name N/A)",
+     "upazila": "",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "01771837635",
+      "01919536565"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://daktarbook.com/doctor/dr-bithi-khatun",
+    "https://daktarbook.com/district/doctor/25"
+   ],
+   "confidence": "low",
+   "notes": "BMDC A-104921. Chamber name, days and time not listed; phones not labelled as serial."
+  },
+  {
+   "name_en": "Dr. Md. Mejbahul Islam",
+   "name_bn": "",
+   "degrees": "MBBS, BCS (Health), D-Ortho (course, BMU/PG Hospital), FCPS (Part-1, Orthopaedics, on training)",
+   "specialty": "Orthopaedics (bone & joint)",
+   "designation": "Assistant Surgeon, Khetlal Upazila Health Complex, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "Al Baraka Heart Centre and Diagnostic",
+     "place_bn": "",
+     "address": "Amtoli Road, Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "01932507693"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://daktarbook.com/doctor/dr-md-mejbahul-islam",
+    "https://daktarbook.com/district/doctor/25"
+   ],
+   "confidence": "medium",
+   "notes": "BMDC A-116762. Phone not labelled as serial."
+  },
+  {
+   "name_en": "Dr. Md Habibul Aussan Habib (as printed)",
+   "name_bn": "",
+   "degrees": "D.M.F",
+   "specialty": "General practitioner",
+   "designation": "",
+   "chambers": [
+    {
+     "place_en": "United Health Care; Major Hospital",
+     "place_bn": "",
+     "address": "Joupurhat Road, Akkelpur (as printed)",
+     "upazila": "Akkelpur",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": []
+    }
+   ],
+   "source_urls": [
+    "https://epharma.com.bd/en/doctors/joypurhat"
+   ],
+   "confidence": "low",
+   "notes": "ePharma public preview only; phone behind login. D.M.F is a diploma, not MBBS."
+  },
+  {
+   "name_en": "Dr Md. Amirul Islam",
+   "name_bn": "",
+   "degrees": "BDS, FCPS",
+   "specialty": "Oral & maxillofacial surgery (dentist)",
+   "designation": "",
+   "chambers": [
+    {
+     "place_en": "",
+     "place_bn": "",
+     "address": "Sadar Rd, Joypurhat 5900",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "01911-829940"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/"
+   ],
+   "confidence": "low",
+   "notes": "Only source is prethibi.com (published 2020, modified Nov 2022) - may be outdated."
+  },
+  {
+   "name_en": "Dr. Md. Mafiur Rahman (as printed)",
+   "name_bn": "",
+   "degrees": "",
+   "specialty": "",
+   "designation": "Senior Consultant, District Hospital, Joypurhat",
+   "chambers": [
+    {
+     "place_en": "District Hospital, Joypurhat",
+     "place_bn": "",
+     "address": "Joypurhat",
+     "upazila": "Joypurhat Sadar",
+     "days": "",
+     "time": "",
+     "fee": "",
+     "serial_phones": [
+      "01728237077"
+     ]
+    }
+   ],
+   "source_urls": [
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/"
+   ],
+   "confidence": "low",
+   "notes": "Only source is prethibi.com (2020/2022); name may be a misspelling."
+  }
+ ],
+ "diagnostic_centres": [
+  {
+   "name_en": "Al Madina Diagnostic & Consultation Centre",
+   "name_bn": "আল মদিনা ডায়াগনস্টিক এন্ড কনসালটেশন সেন্টার",
+   "address": "Salma Complex, Sadar Road, CO Colony, Joypurhat",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "01326-285813",
+    "01957-042288",
+    "+৮৮০১৩২৬-২৮৫৮১৩",
+    "+৮৮০১৯৫৭-০৪২২৮৮"
+   ],
+   "hours": "Per doctor (no centre-wide hours given)",
+   "services": [
+    "Gynaecology",
+    "Neuromedicine",
+    "Cardiology",
+    "Neonatal & child",
+    "Neurosurgery",
+    "Cancer",
+    "Mental health",
+    "Skin & sex",
+    "Orthopaedics",
+    "Urology",
+    "Medicine",
+    "ENT",
+    "Diabetes",
+    "General surgery"
+   ],
+   "website": "",
+   "source_urls": [
+    "https://healthcenterbd.com/al-madina-joypurhat-doctor-list/",
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://inhealthylife.com/al-madina-diagnostic-joypurhat-doctor-list/",
+    "https://inhealthylife.com/joypurhat-medical-center-list/",
+    "https://daktarbook.com/doctor/dr-md-omar-faruk"
+   ],
+   "confidence": "high",
+   "notes": "Email almadinadiagnostic@gmail.com (inhealthylife). inhealthylife's doctor page calls it 'আল মদিনা ডায়াগনস্টিক সেন্টার এন্ড জেনারেল হাসপাতাল'. daktarbook address: সি ও কলোনী(পানির ট্যাংকির বিপরীতে),জয়পুরহাট সদর. Same numbers appear in ASCII and Bangla digits in different sources.",
+   "doctors": [
+    "Dr. Dilruba Afroz Nira",
+    "Dr. Kazi Ismail Hossain",
+    "Dr. M. A. R. Chowdhury",
+    "Dr. M. A. Wahed",
+    "Dr. M. Abdullah Sakib",
+    "Dr. Md. Asaduzzaman Babu",
+    "Dr. Md. Ataul Haque",
+    "Dr. Md. Gaousul Azam",
+    "Dr. Md. Latiful Bari Shakil",
+    "Dr. Md. Monowar Hossain",
+    "Dr. Md. Omar Faruk",
+    "Dr. Md. Sawkat Ali Khan",
+    "Dr. Md. Sohrab Hossain",
+    "Dr. Md. Yousuf Ali",
+    "Dr. Morsheda Khatun Swapna",
+    "ডাঃ গোলাম সাকলাইন",
+    "ডাঃ মোঃ আদনান আরিফীন (পল্লব)",
+    "ডাঃ মোঃ আরিফুল ইসলাম",
+    "ডাঃ মোঃ মাসুদ রানা",
+    "ডাঃ শেখ মামুন ইসহাক (সাগর)"
+   ]
+  },
+  {
+   "name_en": "Joypurhat Diagnostic & Dialysis Centre",
+   "name_bn": "জয়পুরহাট ডায়াগনস্টিক ও ডায়ালাইসিস সেন্টার",
+   "address": "পশু হাসপাতাল রোড, আমতলী, জয়পুরহাট (Poshu Hospital Road, Joypurhat 5900)",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+880 1751-004544",
+    "+৮৮০১৩২৯-০০৩৬৩৭"
+   ],
+   "hours": "Per doctor",
+   "services": [
+    "Dialysis",
+    "Cardiology",
+    "Chest",
+    "Child",
+    "Nephrology",
+    "Gastroenterology",
+    "Gynaecology",
+    "Medicine",
+    "Neurology",
+    "Urology",
+    "Neuromedicine",
+    "Orthopaedics",
+    "General surgery"
+   ],
+   "website": "",
+   "source_urls": [
+    "https://inhealthylife.com/joypurhat-diagnostic-and-dialysis-center-doctor-list/",
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://inhealthylife.com/joypurhat-medical-center-list/",
+    "https://epharma.com.bd/en/doctors/joypurhat"
+   ],
+   "confidence": "high",
+   "notes": "Email jdialysiscentre@gmail.com. ePharma calls it 'Joypurhat Dialysis & Diagnostic Centre'.",
+   "doctors": [
+    "Dr. Md. Sohrab Hossain",
+    "Dr. Mahmudur Rahman (Riyad)",
+    "Dr. Ashik Ahmed Jebal (Bappi)",
+    "Dr. Nur-un-Nahar Nazmi (Ruma)",
+    "Dr. Mahbub Al Amin",
+    "Dr. Md. Robiul Alam"
+   ]
+  },
+  {
+   "name_en": "Graduate General Hospital / Graduate Diagnostic Center",
+   "name_bn": "গ্রাজুয়েট ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+   "address": "Sadar Road (Main Road), Amtoli, Joypurhat",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+880 1752-019956",
+    "0571-62012"
+   ],
+   "hours": "Open 24 hours (prethibi, 2020/22); per-doctor hours on inhealthylife",
+   "services": [
+    "Diagnostics",
+    "Specialist consultation (skin, child, nephrology, surgery, ultrasonology, neurosurgery, cardiology, orthopaedics, urology)"
+   ],
+   "website": "",
+   "source_urls": [
+    "https://inhealthylife.com/graduate-general-hospital-joypurhat-doctor-list/",
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://inhealthylife.com/joypurhat-medical-center-list/",
+    "https://www.findoutdoctor.com/2023/02/joypurhat-clinic-diagnostic-centre-list.html",
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/",
+    "https://epharma.com.bd/en/doctors/joypurhat",
+    "https://daktarbook.com/doctor/ডা-মোঃ-সোহেল-রানা"
+   ],
+   "confidence": "high",
+   "notes": "Email graduatejoypurhat@gmail.com. Also called 'Graduate General Hospital and Consultancy' / 'Graduate Diagnostics & Consultancy'. Branch 2: No. 1 Railgate, Kamdia Road, Panchbibi (+৮৮০১৭০৬-১৫০৭০৬); Branch 3: Adhunik District Hospital crossing, Joypurhat (+৮৮০১৭৯৪-৯০১৭১৭, +৮৮০১৭৯৪-৪৫১৮১৮).",
+   "doctors": [
+    "Dr. Md. Gaousul Azam",
+    "Dr. Shaila Zaman",
+    "Dr. Monirujjaman Manik",
+    "Dr. Md. Shariful Haque",
+    "Dr. Murshida Parvin Jolly",
+    "Dr. Md. Habibul Ahsan Talukder (Reza)",
+    "Dr. Md. Matiur Rahman",
+    "Dr. ASM Golam Rabbani",
+    "Dr. Md. Sohel Rana",
+    "Dr. Md. Alim Al Razi",
+    "Dr. Nahid Sultana"
+   ]
+  },
+  {
+   "name_en": "Padma Lab and Diagnostic Center",
+   "name_bn": "পদ্মা ল্যাব অ্যান্ড ডায়াগনস্টিক সেন্টার",
+   "address": "ইসলামী ব্যাংকের সামনে, সদর রোড, জয়পুরহাট (in front of Islami Bank, Sadar Road)",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+৮৮০১৭১৬-২১৯৪৬৩",
+    "+৮৮০১৭৩৭-৩১৭৭৭০",
+    "+৮৮০১৯৭৬-২১৯৪৬৩",
+    "01716-219463"
+   ],
+   "hours": "Per doctor",
+   "services": [
+    "Cardiology",
+    "Chest",
+    "Endocrinology",
+    "ENT",
+    "Burn & plastic surgery",
+    "Gynaecology",
+    "Gynae-oncology",
+    "Medicine",
+    "Neurology",
+    "Skin & STD",
+    "Urology",
+    "Neuromedicine",
+    "Orthopaedics",
+    "General surgery"
+   ],
+   "website": "",
+   "source_urls": [
+    "https://inhealthylife.com/padma-lab-and-diagnostic-center-joypurhat-doctor-list/",
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://inhealthylife.com/joypurhat-medical-center-list/",
+    "https://www.findoutdoctor.com/2023/02/joypurhat-clinic-diagnostic-centre-list.html",
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/"
+   ],
+   "confidence": "high",
+   "notes": "Email padmalabunit1@gmail.com. 01716-219463 is also listed for 'Padma Clinic' by prethibi.",
+   "doctors": [
+    "ডাঃ জিনাত ফারুকী",
+    "ডাঃ মোঃ জাফর ইমাম",
+    "ডাঃ এম.এন.এ. আল মেহেদী",
+    "ডাঃ কাজী খালিদ রায়হান",
+    "ডাঃ মোঃ আসাদুজ্জামান",
+    "ডাঃ মোঃ মনছুর রহমান চৌধুরী",
+    "ডাঃ মোঃ সালাহউদ্দীন আল আযাদ",
+    "ডাঃ সওদাগর শাহানা পারভীন",
+    "Dr. Md. Shahadat Hossain",
+    "ডাঃ ফাহমিদা আকতার লীনা",
+    "ডাঃ কে.এম. জোবায়ের গালীব",
+    "Dr. Muhammad Zakaria Jalal"
+   ]
+  },
+  {
+   "name_en": "Al Shefa Diagnostic Centre",
+   "name_bn": "আল শেফা ডায়াগনস্টিক সেন্টার",
+   "address": "Sadar Road, east of the T&T office, Khetlal (inhealthylife doctor page); 'Sadar Main Rd, Joypurhat' (healthcenterbd & inhealthylife list)",
+   "upazila": "Khetlal",
+   "phones": [
+    "+৮৮০১৭৭৮-১০৪৯৮২",
+    "+৮৮০১৯৬৯-৮৩৩৯২২",
+    "+880 1969-833922"
+   ],
+   "hours": "Per doctor",
+   "services": [
+    "Pathology / diagnostic tests",
+    "Pain management",
+    "Cardiology",
+    "Chest",
+    "Paediatrics",
+    "ENT",
+    "Gastroenterology",
+    "Gynaecology",
+    "Liver",
+    "Medicine",
+    "Neurology",
+    "Dermatology",
+    "Urology",
+    "Neuromedicine",
+    "Orthopaedics",
+    "General surgery"
+   ],
+   "website": "",
+   "source_urls": [
+    "https://inhealthylife.com/al-shefa-diagnostic-joypurhat-doctor-list/",
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://inhealthylife.com/joypurhat-medical-center-list/"
+   ],
+   "confidence": "medium",
+   "notes": "CONFLICT: location given as Khetlal upazila on the doctor-list page but as Sadar Main Rd, Joypurhat on the two centre lists (healthcenterbd spells 'Al Sifa'); same +880 1969-833922 number in all. Email alshefadiagnosticcenter@gmail.com.",
+   "doctors": [
+    "Dr. Morsheda Khatun Swapna",
+    "ডাঃ মোঃ আবুল কালাম আজাদ",
+    "ডাঃ মোঃ নজরুল ইসলাম (নাহিদ)",
+    "Dr. M. S. Zaman (Shajil)",
+    "ডাঃ শাহীন রেজা",
+    "ডাঃ মোঃ রেজাউল করিম (রেজা)",
+    "ডাঃ আব্দুল আহাদ",
+    "ডাঃ মোঃ মোহাম্মদ এস জামান",
+    "ডাঃ মোঃ মেহেদী হাসান",
+    "ডাঃ নিলিমা আফরিন অর্নিবান",
+    "ডাঃ রোজী খানম",
+    "ডাঃ নূরে ফাতেমা জান্নাতুন নূরী (ইরা)",
+    "ডাঃ সামসুর রহমান বিশ্বাস (তুহিন)",
+    "ডাঃ মোঃ আওফি খান (শাওন)"
+   ]
+  },
+  {
+   "name_en": "Taqwa Lab and Consultation Center",
+   "name_bn": "তাকওয়া ল্যাব এন্ড কনসালটেশন সেন্টার",
+   "address": "হাসপাতাল মোড়, সদর রোড, জয়পুরহাট-৫৯০০ (near the General Hospital crossing)",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+৮৮০১৭৩৭-৩৭৪০১২",
+    "+৮৮০১৯৭৭-৩৭৪০১২"
+   ],
+   "hours": "Per doctor",
+   "services": [
+    "Urology",
+    "Neurology",
+    "Cardiology",
+    "Psychiatry",
+    "Orthopaedics",
+    "Nutrition",
+    "Haematology",
+    "Paediatrics",
+    "Medicine",
+    "Nephrology",
+    "Hepatology",
+    "Thoracic surgery",
+    "Oncology",
+    "Gynaecology",
+    "Gastroenterology",
+    "Ophthalmology",
+    "ENT",
+    "Endocrinology"
+   ],
+   "website": "",
+   "source_urls": [
+    "https://inhealthylife.com/taqwa-lab-and-consultation-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "Email jamshedsujon@gmail.com. Page also calls it 'আনার কলি ল্যাব' and heads one section 'তাকওয়া হাসপাতাল'.",
+   "doctors": [
+    "Dr. Sharmin Akter Juhi",
+    "Dr. Sukanta Kumar Ghosh",
+    "Dr. Md. Sajedur Rahman",
+    "Dr. Md. Saiful Islam",
+    "Dr. Md. Shahid Akand",
+    "Dr. Md. Mamun Al Mujahid",
+    "Dr. Md. Anwar Hossain (Orthopaedics)"
+   ]
+  },
+  {
+   "name_en": "Fair Health Consultancy and Diagnostic Centre",
+   "name_bn": "ফেয়ার হেলথ কনসালটেন্সী এন্ড ডায়াগনষ্টিক সেন্টার",
+   "address": "Ansar Ali Complex, Batar Mor, Joypurhat 5900",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+৮৮০১৯২৭-০৭৫৭৪৭",
+    "+৮৮০১৯০৮-৫৩১৮৮০",
+    "+880 571-62846"
+   ],
+   "hours": "",
+   "services": [
+    "ENT",
+    "Child diseases",
+    "Skin & venereal",
+    "Medicine",
+    "Neurology",
+    "Neuromedicine",
+    "Orthopaedics",
+    "Urology",
+    "General surgery"
+   ],
+   "website": "",
+   "source_urls": [
+    "https://inhealthylife.com/fair-health-consultancy-and-diagnostic-centre-joypurhat-doctor-list/",
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://inhealthylife.com/joypurhat-medical-center-list/"
+   ],
+   "confidence": "high",
+   "notes": "",
+   "doctors": [
+    "ডাঃ আসাফুদ্দৌলা",
+    "ডাঃ শচীন্দ্রনাথ সরকার",
+    "অধ্যাপক ডাঃ শাহীন রেজা চৌধুরী"
+   ]
+  },
+  {
+   "name_en": "Emu Diagnostic Center",
+   "name_bn": "ইমু ডায়াগনস্টিক সেন্টার জয়পুরহাট",
+   "address": "আমতলী, সদর রোড, জয়পুরহাট সদর, জয়পুরহাট",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+৮৮০১৭৯১-৩৫৩৬১০",
+    "০৫৭১-৬২৯৭২",
+    "+880 571-62972"
+   ],
+   "hours": "Open 24 hours (prethibi lists 'Emu General Hospital', 2020/22)",
+   "services": [
+    "Gynaecology",
+    "Child health",
+    "Medicine",
+    "Skin",
+    "Anaesthesiology",
+    "General surgery"
+   ],
+   "website": "",
+   "source_urls": [
+    "https://inhealthylife.com/emu-diagnostic-center-joypurhat-doctor-list/",
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://inhealthylife.com/joypurhat-medical-center-list/",
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/"
+   ],
+   "confidence": "high",
+   "notes": "prethibi lists the same 0571-62972 number as 'Emu General Hospital', Sadar Rd, Joypurhat 5900.",
+   "doctors": [
+    "ডাঃ মোঃ সামছুজ্জোহা (সুজন)"
+   ]
+  },
+  {
+   "name_en": "New Green Life Diagnostic Center",
+   "name_bn": "নিউ গ্রীন লাইফ ডায়াগনস্টিক সেন্টার",
+   "address": "সদর রাস্তা, সি.ও কলোনী (পানির ট্যাংকের সামনে), জয়পুরহাট (in front of the water tank)",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+৮৮০১৩০৯-২৪৬০৬০",
+    "+৮৮০১৯৭৩-৭৮৩৭৮৩",
+    "০১৯৭২৭৮৩৭৮৩",
+    "+880 1731-778779"
+   ],
+   "hours": "Per doctor",
+   "services": [
+    "Urology",
+    "Cardiology",
+    "Medicine",
+    "Orthopaedics",
+    "Surgery",
+    "Gynaecology",
+    "Skin & sexual diseases",
+    "ENT",
+    "Anaesthesiology"
+   ],
+   "website": "",
+   "source_urls": [
+    "https://inhealthylife.com/new-green-life-diagnostic-center-joypurhat-doctor-list/",
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://inhealthylife.com/joypurhat-medical-center-list/",
+    "https://www.findoutdoctor.com/2023/02/joypurhat-clinic-diagnostic-centre-list.html",
+    "https://daktarbook.com/district/doctor/25"
+   ],
+   "confidence": "high",
+   "notes": "Green Life serial numbers conflict: inhealthylife prints +৮৮০১৯৭৩-৭৮৩৭৮৩ while daktarbook prints ০১৯৭২৭৮৩৭৮৩ (01973 vs 01972); both recorded. Older lists call it 'Green Life Diagnostic Center'.",
+   "doctors": [
+    "Dr. Shaila Zaman",
+    "Dr. Md. Alim Al Razi",
+    "Dr. Md. Shahadat Hossain",
+    "ডাঃ নূরে ফাতেমা জান্নাতুন নূরী (ইরা)",
+    "Dr. Abdur Razzak",
+    "Dr. Md. Ruhul Amin (Orthopaedics)",
+    "Dr. Mir Mubinul Islam (Mubin)",
+    "Dr. Nasima Akhtar Nina",
+    "Dr. Amit Kumar Agarwal",
+    "ডাঃ মুহাম্মদ আব্দুল্লাহ্ আল মুতী (সুবর্ণ)",
+    "ডাঃ শারমিন মারিয়া"
+   ]
+  },
+  {
+   "name_en": "Tajul Islam Diagnostic Centre",
+   "name_bn": "তাজুল ইসলাম ডায়াগনস্টিক সেন্টার",
+   "address": "Adjacent to the Upazila Parishad, CO Colony, Amtali Sadar Road (inhealthylife doctor page); Building-1, opposite UCB Bank, Sadar Rd (healthcenterbd / inhealthylife list)",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+৮৮০১৭৯১-৮৬৮৬৬৬",
+    "+৮৮০১৯১২-৭১৭১০২",
+    "+880 1791-868666"
+   ],
+   "hours": "Per doctor",
+   "services": [
+    "Cancer",
+    "Cardiology",
+    "Chest",
+    "Child health",
+    "Endocrinology",
+    "Interventional pain medicine",
+    "Skin & sex",
+    "ENT",
+    "Eye",
+    "Gastroenterology",
+    "Gynaecology",
+    "Medicine",
+    "Neurology",
+    "Urology",
+    "Neuromedicine",
+    "Orthopaedics",
+    "General surgery"
+   ],
+   "website": "",
+   "source_urls": [
+    "https://inhealthylife.com/tajul-islam-diagnostic-joypurhat-doctor-list/",
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://inhealthylife.com/joypurhat-medical-center-list/"
+   ],
+   "confidence": "high",
+   "notes": "Two address descriptions in different sources (may describe the same spot).",
+   "doctors": [
+    "ডাঃ ফাহমিদা আকতার লীনা",
+    "Dr. Muhammad Zakaria Jalal",
+    "Dr. M. S. Zaman (Shajil)",
+    "Dr. S M Abdul Munim (Romim)",
+    "Dr. Md. Aftab Rasel",
+    "Dr. Md. Saba Al Galib",
+    "Dr. Md. Obaidul Islam",
+    "Dr. Asiful Islam (Asif)",
+    "Dr. Md. Harun-or-Rashid Pramanik",
+    "Dr. Manjur Hasan Swadhin",
+    "Dr. Muh. Ruhul Amin (Civil Surgeon)",
+    "Dr. Md. Jewel Hossain"
+   ]
+  },
+  {
+   "name_en": "Seba Diagnostic Center",
+   "name_bn": "সেবা ডায়াগনস্টিক সেন্টার",
+   "address": "Sadar Main Rd, Joypurhat",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+880 571-63117",
+    "0571-63117"
+   ],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://inhealthylife.com/joypurhat-medical-center-list/",
+    "https://www.findoutdoctor.com/2023/02/joypurhat-clinic-diagnostic-centre-list.html"
+   ],
+   "confidence": "medium",
+   "notes": "",
+   "doctors": []
+  },
+  {
+   "name_en": "KM Lab and Consultancy",
+   "name_bn": "কেএম ল্যাব এন্ড কনসালটেন্সি",
+   "address": "DKM Bhaban, Mahila College Rd, Joypurhat 5900",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+880 1712-265904"
+   ],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://inhealthylife.com/joypurhat-medical-center-list/"
+   ],
+   "confidence": "medium",
+   "notes": "",
+   "doctors": []
+  },
+  {
+   "name_en": "Al Baraka Heart Centre and Diagnostic",
+   "name_bn": "",
+   "address": "Amtoli Road, Joypurhat",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "01932507693"
+   ],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://daktarbook.com/doctor/dr-md-mejbahul-islam"
+   ],
+   "confidence": "low",
+   "notes": "Known only as a chamber on Dr. Md. Mejbahul Islam's daktarbook profile; phone is that chamber's listed number.",
+   "doctors": [
+    "Dr. Md. Mejbahul Islam"
+   ]
+  },
+  {
+   "name_en": "Family Care Lab",
+   "name_bn": "",
+   "address": "Sardar Abed Ali Complex, Sadar Road, CO Colony, Joypurhat (3rd floor, 2nd lift)",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "01758-102740"
+   ],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://www.findoutdoctor.com/2023/02/joypurhat-clinic-diagnostic-centre-list.html"
+   ],
+   "confidence": "low",
+   "notes": "findoutdoctor list dated Feb 2023; the page says its list is not verified.",
+   "doctors": []
+  },
+  {
+   "name_en": "Bismilla Diagnostic Center",
+   "name_bn": "",
+   "address": "",
+   "upazila": "",
+   "phones": [],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://epharma.com.bd/en/doctors/joypurhat"
+   ],
+   "confidence": "low",
+   "notes": "ePharma shows Dr. Yousuf Ali (paediatrics) here without address. A search-result title on medicare24bd.com reads 'BISMILLAH DIAGNOSTIC CENTRE, Akkelpur, Joypurhat', but that page could not be fetched, so the address is unconfirmed.",
+   "doctors": [
+    "Dr. Md. Yousuf Ali"
+   ]
+  }
+ ],
+ "dental": [
+  {
+   "name_en": "Hasan Dental Care, Joypurhat",
+   "name_bn": "",
+   "address": "",
+   "upazila": "",
+   "phones": [],
+   "hours": "",
+   "services": [],
+   "website": "https://www.facebook.com/p/Hasan-Dental-Care-Joypurhat-100063961483374/",
+   "source_urls": [
+    "https://www.facebook.com/p/Hasan-Dental-Care-Joypurhat-100063961483374/"
+   ],
+   "confidence": "low",
+   "notes": "Known only from a web-search result title for a Facebook page; Facebook blocks fetching (robots), so no address, phone or dentist could be read.",
+   "dentists": []
+  },
+  {
+   "name_en": "Chamber of Dr Md. Amirul Islam (oral & maxillofacial surgeon)",
+   "name_bn": "",
+   "address": "Sadar Rd, Joypurhat 5900",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "01911-829940"
+   ],
+   "hours": "",
+   "services": [
+    "Oral & maxillofacial surgery"
+   ],
+   "website": "",
+   "source_urls": [
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/"
+   ],
+   "confidence": "low",
+   "notes": "From prethibi.com (2020, modified 2022); clinic name not given. Likely outdated - verify.",
+   "dentists": [
+    "Dr Md. Amirul Islam (BDS, FCPS)"
+   ]
+  }
+ ],
+ "hospitals": [
+  {
+   "name_en": "Joypurhat District Hospital (Adhunik Sadar / General Hospital)",
+   "name_bn": "জেলা সদর হাসপাতাল, জয়পুরহাট (আধুনিক জেলা হাসপাতাল)",
+   "address": "সদর রোড, জয়পুরহাট (Sadar Road, Joypurhat)",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "০৫৭১-৬২২০৭"
+   ],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://inhealthylife.com/joypurhat-medical-center-list/",
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://observerbd.com/news/592634",
+    "https://locator.eduportalbd.com/medical/?ins=10001298",
+    "https://locator.eduportalbd.com/medical/filter.php?district=joypurhat",
+    "https://healthcenterbd.com/dr-m-a-r-chowdhury/"
+   ],
+   "confidence": "high",
+   "notes": "Email joypurhat@cs.dghs.gov.bd (inhealthylife list; ০৫৭১-৬২২০৭ is also given for the Civil Surgeon's Office, +880 571-62207 per healthcenterbd). BEDS CONFLICT: eduportalbd/DGHS registry names it 'Joypurhat 150 bed District Hospital' (150); directories and doctor pages call it 250-bed; Daily Observer (10 Sep 2026) says it was upgraded from 250 to 400 beds on 2 July but still runs with 100-bed staffing (31 doctors in post; no ENT specialist or nephrologist). Superintendent: Dr. Sardar Rashed Mobarak (Observer).",
+   "type": "govt",
+   "beds": "400 (upgraded July 2026 per Daily Observer); 250 (most directories); 150 (eduportalbd registry)",
+   "doctors": [
+    "Dr. Md. Sohrab Hossain",
+    "Dr. Morsheda Khatun Swapna",
+    "Dr. Dilruba Afroz Nira",
+    "Dr. M. Abdullah Sakib",
+    "Dr. M. A. R. Chowdhury",
+    "Dr. Md. Yousuf Ali",
+    "Dr. Kazi Ismail Hossain",
+    "Dr. Md. Ataul Haque",
+    "ডাঃ মোঃ মাসুদ রানা",
+    "Dr. Nur-un-Nahar Nazmi (Ruma)",
+    "Dr. Mahbub Al Amin",
+    "Dr. Shaila Zaman",
+    "ডাঃ মোঃ জাফর ইমাম",
+    "ডাঃ এম.এন.এ. আল মেহেদী",
+    "ডাঃ মোঃ মেহেদী হাসান",
+    "ডাঃ নূরে ফাতেমা জান্নাতুন নূরী (ইরা)",
+    "Dr. S M Abdul Munim (Romim)",
+    "Dr. Sardar Rashed Mobarak (Jewel)",
+    "Dr. Md. Saiful Islam",
+    "ডাঃ মাকছুরা আরেফিন (রুনা)",
+    "ডাঃ মোঃ সোয়েব আরেফিন",
+    "ডাঃ মোঃ মোস্তাফিজুর রহমান (মাসুদ)",
+    "ডাঃ এ বি এম আব্দুল্লাহ",
+    "Dr. Nasima Akhtar Nina",
+    "Dr. Md. Saba Al Galib",
+    "Dr. Md. Mafiur Rahman (as printed)"
+   ]
+  },
+  {
+   "name_en": "Kalai Upazila Health Complex",
+   "name_bn": "উপজেলা স্বাস্থ্য কমপ্লেক্স, কালাই, জয়পুরহাট",
+   "address": "Upazila Health Complex, Kalai, Joypurhat (Ahmmedabad union, ward 01)",
+   "upazila": "Kalai",
+   "phones": [
+    "572556013",
+    "01701248655"
+   ],
+   "hours": "",
+   "services": [
+    "Emergency",
+    "OPD",
+    "IPD",
+    "Operation Theater",
+    "Pharmacy",
+    "Pathology",
+    "Ambulance"
+   ],
+   "website": "https://www.facebook.com/kalai.uhc",
+   "source_urls": [
+    "https://hris.mohfw.gov.bd/public/facility-registry/facilities/1295/profile?tab=detailed-information",
+    "https://locator.eduportalbd.com/medical/?ins=10001301"
+   ],
+   "confidence": "high",
+   "notes": "DGHS HRIS facility registry: established 1962, email kalai@uhfpo.dghs.gov.bd, facility head A. F. M. Obaidul Islam. Landline printed without leading 0.",
+   "type": "govt",
+   "beds": "50",
+   "doctors": [
+    "ডাঃ শাহীন রেজা (ENT, Medical Officer)",
+    "ডাঃ নিলিমা আফরিন অর্নিবান (Assistant Surgeon)",
+    "ডাঃ ফাহমিদা আকতার লীনা"
+   ]
+  },
+  {
+   "name_en": "Akkelpur Upazila Health Complex",
+   "name_bn": "",
+   "address": "Akkelpur, Joypurhat",
+   "upazila": "Akkelpur",
+   "phones": [],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://locator.eduportalbd.com/medical/?ins=10001289",
+    "https://locator.eduportalbd.com/medical/filter.php?district=joypurhat"
+   ],
+   "confidence": "medium",
+   "notes": "DGHS organisation code 10001289. Address/phone not given in source.",
+   "type": "govt",
+   "beds": "50",
+   "doctors": []
+  },
+  {
+   "name_en": "Khetlal Upazila Health Complex",
+   "name_bn": "",
+   "address": "Khetlal, Joypurhat",
+   "upazila": "Khetlal",
+   "phones": [],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://locator.eduportalbd.com/medical/?ins=10001303",
+    "https://locator.eduportalbd.com/medical/filter.php?district=joypurhat"
+   ],
+   "confidence": "medium",
+   "notes": "DGHS organisation code 10001303.",
+   "type": "govt",
+   "beds": "50",
+   "doctors": [
+    "Dr. Md. Mejbahul Islam (Assistant Surgeon)",
+    "Dr. Manjur Hasan Swadhin (Medical Officer)"
+   ]
+  },
+  {
+   "name_en": "Panchbibi Upazila Health Complex",
+   "name_bn": "",
+   "address": "Panchbibi, Joypurhat",
+   "upazila": "Panchbibi",
+   "phones": [],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://locator.eduportalbd.com/medical/?ins=10001305",
+    "https://locator.eduportalbd.com/medical/filter.php?district=joypurhat",
+    "https://epharma.com.bd/en/doctors/joypurhat"
+   ],
+   "confidence": "medium",
+   "notes": "DGHS organisation code 10001305. ePharma lists Dr. Dilruba Afroz Nira (dermatology) here; other sources place her at the District Hospital.",
+   "type": "govt",
+   "beds": "50",
+   "doctors": [
+    "Dr. Dilruba Afroz Nira (per ePharma)"
+   ]
+  },
+  {
+   "name_en": "Mother & Child Welfare Centre (MCWC), Joypurhat Sadar",
+   "name_bn": "মা ও শিশু কল্যাণ কেন্দ্র (মাতৃমঙ্গল), জয়পুরহাট",
+   "address": "Joypurhat Sadar",
+   "upazila": "Joypurhat Sadar",
+   "phones": [],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://locator.eduportalbd.com/medical/filter.php?district=joypurhat",
+    "https://inhealthylife.com/modern-general-hospital-and-diagnostic-center-joypurhat-doctor-list/"
+   ],
+   "confidence": "medium",
+   "notes": "Listed in eduportalbd registry (code 10023319).",
+   "type": "govt",
+   "beds": "",
+   "doctors": [
+    "ডাঃ সওদাগর শাহানা পারভীন"
+   ]
+  },
+  {
+   "name_en": "Police Hospital Joypurhat",
+   "name_bn": "পুলিশ হাসপাতাল জয়পুরহাট",
+   "address": "Joypurhat Police Line, Joypurhat 5900",
+   "upazila": "Joypurhat Sadar",
+   "phones": [],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://inhealthylife.com/joypurhat-medical-center-list/"
+   ],
+   "confidence": "medium",
+   "notes": "No phone listed.",
+   "type": "govt",
+   "beds": "",
+   "doctors": []
+  },
+  {
+   "name_en": "Joypurhat Diabetes Hospital",
+   "name_bn": "জয়পুরহাট ডায়াবেটিস হাসপাতাল",
+   "address": "বাবুপাড়া রোড (বগুড়া বাস টার্মিনালের কাছে), জয়পুরহাট ৫৯০০",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+৮৮০১৭৩৫-২৯৬৬৮৪"
+   ],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://inhealthylife.com/joypurhat-medical-center-list/",
+    "https://healthcenterbd.com/joypurhat-medical-center-list/"
+   ],
+   "confidence": "medium",
+   "notes": "Email joypurhatdiabetic@gmail.com. Ownership not stated.",
+   "type": "",
+   "beds": "",
+   "doctors": []
+  },
+  {
+   "name_en": "Modern General Hospital & Diagnostic Center",
+   "name_bn": "মডার্ণ জেনারেল হাসপাতাল এন্ড ডায়াগনস্টিক সেন্টার",
+   "address": "সদর রোড (শহীদ ডাঃ আবুল কাশেম ময়দান সংলগ্ন) জয়পুরহাট ৫৯০০ (beside Abul Kasem Moidan)",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+৮৮০১৭৪২৪২৬৭১৩ (lab)",
+    "+৮৮০১৭৩২৬৭৭৯৯৬ (clinic)",
+    "+০৫৭১৫১২১২",
+    "+880 1711-071324",
+    "+880 1737-502425"
+   ],
+   "hours": "",
+   "services": [
+    "Anaesthesia",
+    "Cardiology",
+    "Chest",
+    "Child health",
+    "ENT",
+    "Gynaecology",
+    "Kidney",
+    "Gastro-liver",
+    "Medicine",
+    "Neurology",
+    "Psychiatry",
+    "Rheumatology",
+    "Dermatology",
+    "Urology",
+    "Neuromedicine",
+    "Orthopaedics",
+    "General surgery"
+   ],
+   "website": "",
+   "source_urls": [
+    "https://inhealthylife.com/modern-general-hospital-and-diagnostic-center-joypurhat-doctor-list/",
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://inhealthylife.com/joypurhat-medical-center-list/",
+    "https://www.findoutdoctor.com/2023/02/joypurhat-clinic-diagnostic-centre-list.html",
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/",
+    "https://locator.eduportalbd.com/medical/filter.php?district=joypurhat"
+   ],
+   "confidence": "high",
+   "notes": "healthcenterbd lists it twice (+880 1711-071324 and +880 1737-502425). prethibi/eduportal list 'Modern General Hospital-Joypurhat Sadar' (private).",
+   "type": "private",
+   "beds": "",
+   "doctors": [
+    "Dr. M. A. Wahed",
+    "Dr. Kazi Ismail Hossain",
+    "ডাঃ সওদাগর শাহানা পারভীন",
+    "Dr. Mir Mubinul Islam (Mubin)",
+    "Dr. Nasima Akhtar Nina",
+    "ডাঃ মোঃ আনোয়ার হোসেন",
+    "ডাঃ মোঃ রেজাউল করিম",
+    "ডাঃ অমিত কুমার মোর"
+   ]
+  },
+  {
+   "name_en": "Famous Health Care & Clinic",
+   "name_bn": "ফেমাস হেলথ কেয়ার এন্ড ক্লিনিক জয়পুরহাট",
+   "address": "আলহাজ্ব ম্যানশন, সদর রোড, আমতলী, জয়পুরহাট",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+৮৮০১৯৪২-১৪৪৯৩০",
+    "+৮৮০১৭০৮-৭৯৬৬০৫",
+    "+৮৮০১৮১৯-০৩৩৬৬৩",
+    "+880 1712-312476"
+   ],
+   "hours": "",
+   "services": [
+    "Cardiology",
+    "Chest",
+    "Paediatrics",
+    "ENT",
+    "Gynaecology",
+    "Nephrology",
+    "Medicine",
+    "Neurology",
+    "Dermatology",
+    "Urology",
+    "Neuromedicine",
+    "Orthopaedics",
+    "General surgery"
+   ],
+   "website": "",
+   "source_urls": [
+    "https://inhealthylife.com/famous-health-care-joypurhat-doctor-list/",
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://inhealthylife.com/joypurhat-medical-center-list/"
+   ],
+   "confidence": "high",
+   "notes": "Email kabir73880@gmail.com.",
+   "type": "private",
+   "beds": "",
+   "doctors": [
+    "ডাঃ মোঃ মাসুদ রানা",
+    "ডাঃ মোঃ সালাহউদ্দীন আল আযাদ",
+    "ডাঃ মোঃ মাহবুবুর রহমান",
+    "ডাঃ এনায়েতুল্লাহ নাজীম",
+    "ডাঃ সুদর্শন কুমার তালুকদার",
+    "ডাঃ মাকছুরা আরেফিন (রুনা)",
+    "ডাঃ শাহীন রেজা",
+    "ডাঃ মোঃ সোয়েব আরেফিন",
+    "ডাঃ মোঃ মোস্তাফিজুর রহমান (মাসুদ)",
+    "অধ্যাপক ডাঃ মইনুল হাসান সাদিক",
+    "ডাঃ এ বি এম আব্দুল্লাহ",
+    "ডাঃ দীপন কুমার সরকার",
+    "ডাঃ মোঃ রাশেদুল হক",
+    "ডাঃ মোঃ ওমর ফারুক"
+   ]
+  },
+  {
+   "name_en": "The Rawshan Clinic and Diagnostic Centre",
+   "name_bn": "দি রওশন ক্লিনিক এন্ড ডায়াগনস্টিক সেন্টার",
+   "address": "Underground Market, Natunhat, Jamalganj Road (Joypurhat-Akkelpur highway), Joypurhat",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+৮৮০২৫৮৯-৯১৫৭০০",
+    "+৮৮০১৭১১-৩০৩৩১৮",
+    "+৮৮০১৭১১-৯৪৯৬৯২",
+    "+880 571-62908",
+    "0571-62908"
+   ],
+   "hours": "",
+   "services": [
+    "Clinic",
+    "Diagnostics"
+   ],
+   "website": "",
+   "source_urls": [
+    "https://inhealthylife.com/the-rawshan-clinic-and-diagnostic-centre-joypurhat-doctor-list/",
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://inhealthylife.com/joypurhat-medical-center-list/",
+    "https://www.findoutdoctor.com/2023/02/joypurhat-clinic-diagnostic-centre-list.html",
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/"
+   ],
+   "confidence": "high",
+   "notes": "Landline varies by source: +880 571-62908 (healthcenterbd, findoutdoctor) vs ০২৫৮-৯৯১৫৭০০ / +৮৮০২৫৮৯-৯১৫৭০০ (inhealthylife).",
+   "type": "private",
+   "beds": "",
+   "doctors": [
+    "Prof. Dr. Md. Mojibor Rahman",
+    "Dr. Mehnaz Mushtari",
+    "Dr. A B Shahriar Ahmed (Fuad)",
+    "Dr. Md. Sher Ali Murtuza",
+    "Dr. S M Abdul Munim (Romim)",
+    "Prof. Dr. Moriom Khatun",
+    "Dr. Sardar Rashed Mobarak (Jewel)"
+   ]
+  },
+  {
+   "name_en": "Padma Clinic (& Diagnostic Center)",
+   "name_bn": "পদ্মা ক্লিনিক এন্ড ডায়াগনস্টিক সেন্টার",
+   "address": "সিও কলোনী, সদর রাস্তা, হোন্ডা শো রুম এর (২য় তলা), জয়পুরহাট ৫৯০০",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+৮৮০১৭১৫-৫৫২৫৭৬",
+    "09678771860",
+    "01941-794931",
+    "01738-665593"
+   ],
+   "hours": "",
+   "services": [],
+   "website": "https://padmaclinic.net/",
+   "source_urls": [
+    "https://inhealthylife.com/joypurhat-medical-center-list/",
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://padmaclinic.net/",
+    "https://locator.eduportalbd.com/medical/filter.php?district=joypurhat"
+   ],
+   "confidence": "medium",
+   "notes": "padmaclinic.net (linked from inhealthylife's entry) showed only a maintenance page with hotline 09678771860 and contacts 01941-794931, 01738-665593 - not confirmed as the same clinic. prethibi lists 'Padma Clinic-Joypurhat Sadar' with 1716219463 (the Padma Lab number).",
+   "type": "private",
+   "beds": "",
+   "doctors": []
+  },
+  {
+   "name_en": "Doctors Clinic",
+   "name_bn": "ডাক্তার ক্লিনিক",
+   "address": "Hazi Madrasa Road, Joypurhat",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+880 1721-714303",
+    "1711976782"
+   ],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://healthcenterbd.com/joypurhat-medical-center-list/",
+    "https://inhealthylife.com/joypurhat-medical-center-list/",
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/",
+    "https://locator.eduportalbd.com/medical/filter.php?district=joypurhat"
+   ],
+   "confidence": "medium",
+   "notes": "prethibi prints 1711976782 (no leading 0); healthcenterbd +880 1721-714303 - conflicting numbers.",
+   "type": "private",
+   "beds": "",
+   "doctors": []
+  },
+  {
+   "name_en": "New Doctors Clinic",
+   "name_bn": "",
+   "address": "Hazi Madrasa Rd, Joypurhat Sadar",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "1711193328"
+   ],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/",
+    "https://locator.eduportalbd.com/medical/filter.php?district=joypurhat"
+   ],
+   "confidence": "low",
+   "notes": "Phone as printed by prethibi (2020/22) without leading 0.",
+   "type": "private",
+   "beds": "",
+   "doctors": []
+  },
+  {
+   "name_en": "Bandhan Clinic & Diagnostic Centre",
+   "name_bn": "",
+   "address": "Purbo Bazar, Joypurhat Sadar (findoutdoctor); Shahid Zia College Rd (prethibi)",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "+8801723-555715",
+    "1712135711"
+   ],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://www.findoutdoctor.com/2023/02/joypurhat-clinic-diagnostic-centre-list.html",
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/",
+    "https://locator.eduportalbd.com/medical/filter.php?district=joypurhat"
+   ],
+   "confidence": "low",
+   "notes": "Address and phone differ between the two sources.",
+   "type": "private",
+   "beds": "",
+   "doctors": []
+  },
+  {
+   "name_en": "Anowara Clinic",
+   "name_bn": "",
+   "address": "Joypurhat Sadar",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "1199121281"
+   ],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/",
+    "https://locator.eduportalbd.com/medical/filter.php?district=joypurhat"
+   ],
+   "confidence": "low",
+   "notes": "Phone as printed by prethibi (2020/22).",
+   "type": "private",
+   "beds": "",
+   "doctors": []
+  },
+  {
+   "name_en": "Joypurhat Clinic and Nursing Home",
+   "name_bn": "",
+   "address": "Shahid Zia College Rd, Joypurhat Sadar",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "1911970800"
+   ],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/",
+    "https://locator.eduportalbd.com/medical/filter.php?district=joypurhat"
+   ],
+   "confidence": "low",
+   "notes": "Phone as printed by prethibi (2020/22).",
+   "type": "private",
+   "beds": "",
+   "doctors": []
+  },
+  {
+   "name_en": "Satman Clinic",
+   "name_bn": "",
+   "address": "Shahid Zia College Rd, Joypurhat Sadar",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "1711062892"
+   ],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/",
+    "https://locator.eduportalbd.com/medical/filter.php?district=joypurhat"
+   ],
+   "confidence": "low",
+   "notes": "Phone as printed by prethibi (2020/22).",
+   "type": "private",
+   "beds": "",
+   "doctors": []
+  },
+  {
+   "name_en": "Mission Hospital",
+   "name_bn": "",
+   "address": "Naogaon - Joypurhat Rd, Joypurhat Sadar",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "1716791396"
+   ],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/",
+    "https://locator.eduportalbd.com/medical/filter.php?district=joypurhat"
+   ],
+   "confidence": "low",
+   "notes": "NGO hospital/clinic per eduportalbd registry. Phone as printed by prethibi.",
+   "type": "private",
+   "beds": "",
+   "doctors": []
+  },
+  {
+   "name_en": "Marie Stopes Clinic, Joypurhat",
+   "name_bn": "",
+   "address": "Shahid Zia College Rd, Joypurhat Sadar",
+   "upazila": "Joypurhat Sadar",
+   "phones": [
+    "1715359196"
+   ],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://prethibi.com/2020/11/18/doctor-list-in-joypurhat-bangladesh/",
+    "https://locator.eduportalbd.com/medical/filter.php?district=joypurhat"
+   ],
+   "confidence": "low",
+   "notes": "NGO clinic (registry spells 'Marie Stops'). Phone as printed by prethibi.",
+   "type": "private",
+   "beds": "",
+   "doctors": []
+  },
+  {
+   "name_en": "Patwari General Hospital",
+   "name_bn": "",
+   "address": "Baraigram (as listed)",
+   "upazila": "Joypurhat Sadar",
+   "phones": [],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://locator.eduportalbd.com/medical/filter.php?district=joypurhat"
+   ],
+   "confidence": "low",
+   "notes": "eduportalbd lists 'Patwari General Hospital -Baraigram' under Joypurhat Sadar as a private hospital; location not verified.",
+   "type": "private",
+   "beds": "",
+   "doctors": []
+  },
+  {
+   "name_en": "Major Hospital / United Health Care, Akkelpur",
+   "name_bn": "",
+   "address": "Joupurhat Road, Akkelpur (as printed)",
+   "upazila": "Akkelpur",
+   "phones": [],
+   "hours": "",
+   "services": [],
+   "website": "",
+   "source_urls": [
+    "https://epharma.com.bd/en/doctors/joypurhat"
+   ],
+   "confidence": "low",
+   "notes": "Known only as the chamber of Dr. Md Habibul Aussan Habib on ePharma.",
+   "type": "private",
+   "beds": "",
+   "doctors": []
+  }
+ ]
+}

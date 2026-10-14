@@ -1,0 +1,490 @@
+{
+  "checked": "2026-10-13",
+  "items": [
+    {
+      "category": "community",
+      "name_bn": "স্বপ্নছায়া কমিউনিটি সেন্টার",
+      "name_en": "Shopno Chaya Community Centre",
+      "kind_bn": "কমিউনিটি সেন্টার",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "শান্তিনগর, স্টেশন রোড, জয়পুরহাট ৫৯০০",
+      "address_en": "Shantinagar, Station Rd, Joypurhat 5900",
+      "phones": [
+        "01711-144353"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "capacity": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Shopno Chaya Community Centre, Station Road, Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD-biz/shopno-chaya-community-centre",
+        "https://www.deshrupantor.com/684276"
+      ],
+      "confidence": "medium",
+      "notes": "Two independent sources confirm the venue is in use. Cybo (aggregator) gives the address, the phone, 4.2 stars from 145 reviews and 'est. 2019'. Desh Rupantor (30 Apr 2026) reports an event held at 'স্বপ্নছায়া কমিউনিটি সেন্টার' and places it on College Road, Joypurhat town. The road differs (Station Road vs College Road), so I rated it medium, not high. Cybo also lists the website shopno-chaya-community-centre.business.site, but Google retired business.site sites in 2024, so I left website empty. Cybo says 'open 24 hours'; that is not meaningful for a hall, so hours are empty. No source gives capacity, AC/non-AC or rent. It also appears in round-1 places.json under other_services."
+    },
+    {
+      "category": "community",
+      "name_bn": "পৌর কমিউনিটি সেন্টার",
+      "name_en": "Pourashava (Municipal) Community Centre, Joypurhat",
+      "kind_bn": "পৌরসভার কমিউনিটি সেন্টার",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "জয়পুরহাট শহর",
+      "address_en": "Joypurhat town",
+      "phones": [],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "capacity": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Paura Community Center Joypurhat",
+      "source_urls": [
+        "https://www.bssnews.net/bangla/national/286746"
+      ],
+      "confidence": "medium",
+      "notes": "Only source is a BSS (state news agency) report dated 27 Feb 2026 about an event held the day before at 'পৌর কমিউনিটি সেন্টার' in Joypurhat town. The source gives no street address, phone, capacity, AC info or rent. Upazila set to Sadar because the report places it in Joypurhat town (the Pourashava is in Sadar upazila). The app could add a note telling users to ask Joypurhat Pourashava about booking."
+    },
+    {
+      "category": "serviceman",
+      "name_bn": "হাসান ট্রেডিং (বাজাজ)",
+      "name_en": "Hasan Trading (Bajaj)",
+      "kind_bn": "বাজাজ মোটরসাইকেল ডিলার, সার্ভিস ও যন্ত্রাংশ",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "সদর রোড, জয়পুরহাট সরকারি কলেজের পাশে, জয়পুরহাট",
+      "address_en": "Sadar Road, beside Joypurhat Government College, Joypurhat",
+      "phones": [
+        "01710-647611",
+        "01761-852739"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [
+        "বাজাজ মোটরসাইকেল বিক্রয়",
+        "সার্ভিসিং",
+        "খুচরা যন্ত্রাংশ"
+      ],
+      "price_info_bn": "",
+      "capacity": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Hasan Trading Bajaj Sadar Road Joypurhat",
+      "source_urls": [
+        "https://www.bajajauto.com/bn-bd/store-locator",
+        "https://www.bikebd.com/showroom/hasan-trading"
+      ],
+      "confidence": "high",
+      "notes": "Bajaj Bangladesh's official store locator lists it at 'Sadar Road, Joypurhat' with sales 01710647611 and service/spare parts 01761852739 (shown there without the leading 0). bikebd.com (updated Jun 2026) agrees on the name, Sadar Road and the 01710-647611 number, and adds 'beside Joypurhat Government College'. 01710-647611 = sales; 01761-852739 = service and parts."
+    },
+    {
+      "category": "serviceman",
+      "name_bn": "অর্থী বাজাজ মার্ট",
+      "name_en": "Orthee Bajaj Mart",
+      "kind_bn": "বাজাজ মোটরসাইকেল ডিলার, সার্ভিস ও যন্ত্রাংশ",
+      "upazila": "Kalai",
+      "address_bn": "সদর রোড, কালাই সরকারি কলেজের কাছে, কালাই, জয়পুরহাট",
+      "address_en": "Sador Road, near Kalai Government College, Kalai, Joypurhat",
+      "phones": [
+        "01711-414664",
+        "01701-692531"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [
+        "বাজাজ মোটরসাইকেল বিক্রয়",
+        "সার্ভিসিং",
+        "খুচরা যন্ত্রাংশ"
+      ],
+      "price_info_bn": "",
+      "capacity": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Orthee Bajaj Mart Kalai Joypurhat",
+      "source_urls": [
+        "https://www.bajajauto.com/bn-bd/store-locator",
+        "https://www.bikebd.com/showroom/orthee-bajaj-mart"
+      ],
+      "confidence": "high",
+      "notes": "Bajaj Bangladesh's official store locator lists 'Sador Road, Kalai, Joypurhat' with sales 1711414664 and service/spare parts 01701692531. bikebd.com (updated Jun 2026) agrees on the name, address and 01711-414664, and adds 'near Kalai Government College'. 01711-414664 = sales; 01701-692531 = service and parts."
+    },
+    {
+      "category": "serviceman",
+      "name_bn": "ইয়ানাত ট্রেডার্স (বাজাজ)",
+      "name_en": "Yanat Traders (Bajaj)",
+      "kind_bn": "বাজাজ মোটরসাইকেল ডিলার, সার্ভিস ও যন্ত্রাংশ",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "জয়পুরহাট সদর, জয়পুরহাট",
+      "address_en": "Joypurhat Sadar, Joypurhat",
+      "phones": [
+        "01711-343086",
+        "01744-584134"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [
+        "বাজাজ মোটরসাইকেল বিক্রয়",
+        "সার্ভিসিং",
+        "খুচরা যন্ত্রাংশ"
+      ],
+      "price_info_bn": "",
+      "capacity": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Yanat Traders Bajaj Joypurhat",
+      "source_urls": [
+        "https://www.bajajauto.com/bn-bd/store-locator"
+      ],
+      "confidence": "medium",
+      "notes": "Only source is Bajaj Bangladesh's official store locator, which gives no street address. 01711-343086 = sales; 01744-584134 = service and spare parts. name_bn is a transliteration of 'Yanat'."
+    },
+    {
+      "category": "serviceman",
+      "name_bn": "জোহান মোটরস (বাজাজ)",
+      "name_en": "Zohan Motors (Bajaj)",
+      "kind_bn": "বাজাজ মোটরসাইকেল ডিলার, সার্ভিস ও যন্ত্রাংশ",
+      "upazila": "Akkelpur",
+      "address_bn": "পুরাতন বাজার, আক্কেলপুর, জয়পুরহাট",
+      "address_en": "Puraton Bazar, Akkelpur, Joypurhat",
+      "phones": [
+        "01304-918740",
+        "01716-852172",
+        "01580-439885"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [
+        "বাজাজ মোটরসাইকেল বিক্রয়",
+        "সার্ভিসিং",
+        "খুচরা যন্ত্রাংশ"
+      ],
+      "price_info_bn": "",
+      "capacity": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Zohan Motors Bajaj Akkelpur Joypurhat",
+      "source_urls": [
+        "https://www.bajajauto.com/bn-bd/store-locator"
+      ],
+      "confidence": "medium",
+      "notes": "Only source is Bajaj Bangladesh's official store locator. 01304-918740 = sales; 01716-852172 = service; 01580-439885 = spare parts."
+    },
+    {
+      "category": "serviceman",
+      "name_bn": "ফাহিম মোটরস (হিরো)",
+      "name_en": "Fahim Motors (Hero)",
+      "kind_bn": "হিরো মোটরসাইকেল ডিলার, সার্ভিস ও যন্ত্রাংশ",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "থানার বিপরীতে, মেইন রোড, জয়পুরহাট",
+      "address_en": "Opposite police station, Main Road, Joypurhat",
+      "phones": [
+        "01724-140649"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [
+        "হিরো মোটরসাইকেল বিক্রয়",
+        "সার্ভিসিং",
+        "খুচরা যন্ত্রাংশ"
+      ],
+      "price_info_bn": "",
+      "capacity": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Fahim Motors (Hero) Opposite police station, Main Road, Joypurhat",
+      "source_urls": [
+        "https://www.bikebd.com/showroom/fahim-motors"
+      ],
+      "confidence": "low",
+      "notes": "bikebd.com is a motorcycle portal that aggregates dealer listings. The page was marked 'Updated' in June 2026 (its title says Oct 2026). Its services line reads 'Parts Sales Service'. This is an authorised dealer showroom; the page does not describe a separate repair workshop. The page shows opening hours of Sat-Wed 10am-9pm, Friday closed, but every bikebd showroom page shows the same hours, so they look like a template and I left hours empty. The phone was taken from the page's call link; the number shown on the page is partly masked. The page also calls it a 'Genuine Parts Stockist'. Upazila: the address is in Joypurhat town, which is in Sadar upazila."
+    },
+    {
+      "category": "serviceman",
+      "name_bn": "আরাফাত অটো (ইয়ামাহা)",
+      "name_en": "Arafat Auto (Yamaha)",
+      "kind_bn": "ইয়ামাহা মোটরসাইকেল ডিলার, সার্ভিস ও যন্ত্রাংশ",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "আরাফাত সুপার মার্কেট, থানা রোড, সোনালী ব্যাংকের পাশে, জয়পুরহাট ৫৯০০",
+      "address_en": "Arafat Super Market, Thana Road, beside Sonali Bank, Joypurhat 5900",
+      "phones": [
+        "01737-607010"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [
+        "ইয়ামাহা মোটরসাইকেল বিক্রয়",
+        "সার্ভিসিং",
+        "খুচরা যন্ত্রাংশ"
+      ],
+      "price_info_bn": "",
+      "capacity": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Arafat Auto (Yamaha) Arafat Super Market, Thana Road, beside Sonali Bank, Joypurhat 5900",
+      "source_urls": [
+        "https://www.bikebd.com/showroom/arafat-auto"
+      ],
+      "confidence": "low",
+      "notes": "bikebd.com is a motorcycle portal that aggregates dealer listings. The page was marked 'Updated' in June 2026 (its title says Oct 2026). Its services line reads 'Parts Sales Service'. This is an authorised dealer showroom; the page does not describe a separate repair workshop. The page shows opening hours of Sat-Wed 10am-9pm, Friday closed, but every bikebd showroom page shows the same hours, so they look like a template and I left hours empty. The phone was taken from the page's call link; the number shown on the page is partly masked. The page mentions 'After Sales Service Support' and 'Spare Parts & Accessories'. Upazila: Joypurhat 5900 (town), which is in Sadar."
+    },
+    {
+      "category": "serviceman",
+      "name_bn": "এ ওয়ান ইমপেক্স (হোন্ডা)",
+      "name_en": "A One Impex (Honda)",
+      "kind_bn": "হোন্ডা মোটরসাইকেল ডিলার, সার্ভিস ও যন্ত্রাংশ",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "সি.ও. কলোনি (টিঅ্যান্ডটি অফিসের বিপরীতে), সদর রোড, জয়পুরহাট",
+      "address_en": "C.O. Colony (opposite T&T Office), Sadar Road, Joypurhat",
+      "phones": [
+        "01789-929292"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [
+        "হোন্ডা মোটরসাইকেল বিক্রয়",
+        "সার্ভিসিং",
+        "খুচরা যন্ত্রাংশ"
+      ],
+      "price_info_bn": "",
+      "capacity": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "A One Impex (Honda) C.O. Colony (opposite T&T Office), Sadar Road, Joypurhat",
+      "source_urls": [
+        "https://www.bikebd.com/showroom/a-one-impex"
+      ],
+      "confidence": "low",
+      "notes": "bikebd.com is a motorcycle portal that aggregates dealer listings. The page was marked 'Updated' in June 2026 (its title says Oct 2026). Its services line reads 'Parts Sales Service'. This is an authorised dealer showroom; the page does not describe a separate repair workshop. The page shows opening hours of Sat-Wed 10am-9pm, Friday closed, but every bikebd showroom page shows the same hours, so they look like a template and I left hours empty. The phone was taken from the page's call link; the number shown on the page is partly masked. I could not check it on bdhonda.com because that site's robots.txt blocks fetching. Upazila: Joypurhat town (Sadar)."
+    },
+    {
+      "category": "serviceman",
+      "name_bn": "এইচ অ্যান্ড এইচ হোন্ডা",
+      "name_en": "H&H Honda",
+      "kind_bn": "হোন্ডা মোটরসাইকেল ডিলার, সার্ভিস ও যন্ত্রাংশ",
+      "upazila": "Kalai",
+      "address_bn": "সদর রোড, কালাই, জয়পুরহাট",
+      "address_en": "Sadar Road, Kalai, Joypurhat",
+      "phones": [
+        "01731-572606"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [
+        "হোন্ডা মোটরসাইকেল বিক্রয়",
+        "সার্ভিসিং",
+        "খুচরা যন্ত্রাংশ"
+      ],
+      "price_info_bn": "",
+      "capacity": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "H&H Honda Sadar Road, Kalai, Joypurhat",
+      "source_urls": [
+        "https://www.bikebd.com/showroom/hh-honda"
+      ],
+      "confidence": "low",
+      "notes": "bikebd.com is a motorcycle portal that aggregates dealer listings. The page was marked 'Updated' in June 2026 (its title says Oct 2026). Its services line reads 'Parts Sales Service'. This is an authorised dealer showroom; the page does not describe a separate repair workshop. The page shows opening hours of Sat-Wed 10am-9pm, Friday closed, but every bikebd showroom page shows the same hours, so they look like a template and I left hours empty. The phone was taken from the page's call link; the number shown on the page is partly masked. I could not check it on bdhonda.com because that site's robots.txt blocks fetching."
+    },
+    {
+      "category": "serviceman",
+      "name_bn": "টিভিএস কর্নার জয়পুরহাট",
+      "name_en": "TVS Corner Jaypurhat",
+      "kind_bn": "টিভিএস মোটরসাইকেল ডিলার, সার্ভিস ও যন্ত্রাংশ",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "সি.ও. কলোনি, সদর রোড, জয়পুরহাট",
+      "address_en": "C.O Colony, Sadar Road, Joypurhat",
+      "phones": [
+        "01822-511234"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [
+        "টিভিএস মোটরসাইকেল বিক্রয়",
+        "সার্ভিসিং",
+        "খুচরা যন্ত্রাংশ"
+      ],
+      "price_info_bn": "",
+      "capacity": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "TVS Corner Jaypurhat C.O Colony, Sadar Road, Joypurhat",
+      "source_urls": [
+        "https://www.bikebd.com/showroom/tvs-corner-jaypurhat"
+      ],
+      "confidence": "low",
+      "notes": "bikebd.com is a motorcycle portal that aggregates dealer listings. The page was marked 'Updated' in June 2026 (its title says Oct 2026). Its services line reads 'Parts Sales Service'. This is an authorised dealer showroom; the page does not describe a separate repair workshop. The page shows opening hours of Sat-Wed 10am-9pm, Friday closed, but every bikebd showroom page shows the same hours, so they look like a template and I left hours empty. The phone was taken from the page's call link; the number shown on the page is partly masked. Upazila: Joypurhat town (Sadar)."
+    },
+    {
+      "category": "serviceman",
+      "name_bn": "রিফা মোটরস (হিরো)",
+      "name_en": "Rifa Motors (Hero)",
+      "kind_bn": "হিরো মোটরসাইকেল ডিলার, সার্ভিস ও যন্ত্রাংশ",
+      "upazila": "Kalai",
+      "address_bn": "সোনালী ব্যাংকের সামনে, সদর রোড, কালাই, জয়পুরহাট",
+      "address_en": "In front of Sonali Bank, Sadar Road, Kalai, Joypurhat",
+      "phones": [
+        "01718-644126"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [
+        "হিরো মোটরসাইকেল বিক্রয়",
+        "সার্ভিসিং",
+        "খুচরা যন্ত্রাংশ"
+      ],
+      "price_info_bn": "",
+      "capacity": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Rifa Motors (Hero) In front of Sonali Bank, Sadar Road, Kalai, Joypurhat",
+      "source_urls": [
+        "https://www.bikebd.com/showroom/rifa-motors"
+      ],
+      "confidence": "low",
+      "notes": "bikebd.com is a motorcycle portal that aggregates dealer listings. The page was marked 'Updated' in June 2026 (its title says Oct 2026). Its services line reads 'Parts Sales Service'. This is an authorised dealer showroom; the page does not describe a separate repair workshop. The page shows opening hours of Sat-Wed 10am-9pm, Friday closed, but every bikebd showroom page shows the same hours, so they look like a template and I left hours empty. The phone was taken from the page's call link; the number shown on the page is partly masked."
+    },
+    {
+      "category": "serviceman",
+      "name_bn": "রাসেল ট্রেডিং (সুজুকি)",
+      "name_en": "RaselTrading (Suzuki)",
+      "kind_bn": "সুজুকি মোটরসাইকেল ডিলার, সার্ভিস ও যন্ত্রাংশ",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "সদর রোড, জয়পুরহাট পৌরসভা, জয়পুরহাট",
+      "address_en": "Sadar Road, Joypurhat Pourashava, Joypurhat",
+      "phones": [
+        "01792-895959",
+        "01720-252445"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [
+        "সুজুকি মোটরসাইকেল বিক্রয়",
+        "সার্ভিসিং",
+        "খুচরা যন্ত্রাংশ"
+      ],
+      "price_info_bn": "",
+      "capacity": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "RaselTrading (Suzuki) Sadar Road, Joypurhat Pourashava, Joypurhat",
+      "source_urls": [
+        "https://www.bikebd.com/showroom/raseltrading"
+      ],
+      "confidence": "low",
+      "notes": "bikebd.com is a motorcycle portal that aggregates dealer listings. The page was marked 'Updated' in June 2026 (its title says Oct 2026). Its services line reads 'Parts Sales Service'. This is an authorised dealer showroom; the page does not describe a separate repair workshop. The page shows opening hours of Sat-Wed 10am-9pm, Friday closed, but every bikebd showroom page shows the same hours, so they look like a template and I left hours empty. The phone was taken from the page's call link; the number shown on the page is partly masked. The page's header tags mention 'Official Service Center' and 'Genuine Spare Parts'. Upazila: Joypurhat Pourashava (Sadar)."
+    },
+    {
+      "category": "serviceman",
+      "name_bn": "জয়পুরহাট রানার মোটরসাইকেলস শোরুম",
+      "name_en": "Joypurhat Runner Motorcycles Showroom",
+      "kind_bn": "রানার মোটরসাইকেল ডিলার, সার্ভিস ও যন্ত্রাংশ",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "আলী হাই-টস, আমতলী, ৬ নং ওয়ার্ড, সদর রোড, জয়পুরহাট-৫৯০০",
+      "address_en": "Ali Hi-Tos, Amtoli, Ward No-6, Sadar Road, Joypurhat-5900",
+      "phones": [
+        "01730-405459"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [
+        "রানার মোটরসাইকেল বিক্রয়",
+        "সার্ভিসিং",
+        "খুচরা যন্ত্রাংশ"
+      ],
+      "price_info_bn": "",
+      "capacity": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Joypurhat Runner Motorcycles Showroom Ali Hi-Tos, Amtoli, Ward No-6, Sadar Road, Joypurhat-5900",
+      "source_urls": [
+        "https://www.bikebd.com/showroom/joypurhat-runner-motorcycles-showroom"
+      ],
+      "confidence": "low",
+      "notes": "bikebd.com is a motorcycle portal that aggregates dealer listings. The page was marked 'Updated' in June 2026 (its title says Oct 2026). Its services line reads 'Parts Sales Service'. This is an authorised dealer showroom; the page does not describe a separate repair workshop. The page shows opening hours of Sat-Wed 10am-9pm, Friday closed, but every bikebd showroom page shows the same hours, so they look like a template and I left hours empty. The phone was taken from the page's call link; the number shown on the page is partly masked. The page lists the services as 'Parts Sales, Service'. 'Ali Hi-Tos' is copied as written (probably a building name). Upazila: Joypurhat town ward 6 (Sadar)."
+    },
+    {
+      "category": "serviceman",
+      "name_bn": "আরেফিন এন্টারপ্রাইজ (লিফান)",
+      "name_en": "Arefin Enterprise (Lifan)",
+      "kind_bn": "লিফান মোটরসাইকেল ডিলার, সার্ভিস ও যন্ত্রাংশ",
+      "upazila": "",
+      "address_bn": "হারাইল, সদর রোড, জয়পুরহাট",
+      "address_en": "Harail, Sadar Road, Joypurhat",
+      "phones": [
+        "01773-511523"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [
+        "লিফান মোটরসাইকেল বিক্রয়",
+        "সার্ভিসিং",
+        "খুচরা যন্ত্রাংশ"
+      ],
+      "price_info_bn": "",
+      "capacity": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Arefin Enterprise (Lifan) Harail, Sadar Road, Joypurhat",
+      "source_urls": [
+        "https://www.bikebd.com/showroom/arefin-enterprise"
+      ],
+      "confidence": "low",
+      "notes": "bikebd.com is a motorcycle portal that aggregates dealer listings. The page was marked 'Updated' in June 2026 (its title says Oct 2026). Its services line reads 'Parts Sales Service'. This is an authorised dealer showroom; the page does not describe a separate repair workshop. The page shows opening hours of Sat-Wed 10am-9pm, Friday closed, but every bikebd showroom page shows the same hours, so they look like a template and I left hours empty. The phone was taken from the page's call link; the number shown on the page is partly masked. Upazila left empty: the page says only 'Harail, Sadar Road, Joypurhat', and I could not confirm which upazila Harail is in. The page's feature tags mention skilled mechanics and after-sales care."
+    },
+    {
+      "category": "serviceman",
+      "name_bn": "শাওমি সার্ভিস সেন্টার (সুলতান ইলেকট্রনিক্স)",
+      "name_en": "Xiaomi Service Center (Sultan Electronics)",
+      "kind_bn": "মোবাইল সার্ভিস সেন্টার (শাওমি)",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "সুলতান ইলেকট্রনিক্স, কেন্দ্রীয় মসজিদ মার্কেট, জয়পুরহাট",
+      "address_en": "Sultan Electronics, Kendrio Mosjid Market, Joypurhat",
+      "phones": [
+        "01727-113380"
+      ],
+      "website": "",
+      "hours_bn": "সকাল ১০টা – সন্ধ্যা ৭টা; শুক্রবার বন্ধ",
+      "services_bn": [
+        "শাওমি মোবাইল ও পণ্য সার্ভিসিং"
+      ],
+      "price_info_bn": "",
+      "capacity": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Sultan Electronics Kendrio Mosjid Market Joypurhat",
+      "source_urls": [
+        "https://www.gsmarena.com.bd/service-center/xiaomi-service-center-joypurhat/",
+        "https://www.gsmarena.com.bd/service-centers/joypurhat/",
+        "https://mi.com/bd/service/repair"
+      ],
+      "confidence": "low",
+      "notes": "Only source is gsmarena.com.bd, an undated aggregator page. Xiaomi's official Bangladesh service list (mi.com/bd/service/repair, checked 2026-10-13) has NO Joypurhat centre; the nearest are Bogura and Rajshahi. This may be an old or unofficial collection point, so call before going. Upazila: Joypurhat town (Sadar). 'Kendrio Mosjid Market' = central mosque market."
+    }
+  ],
+  "searched_but_not_found": [
+    "Decorators / event decoration (ডেকোরেটর, বিয়ের স্টেজ): no named Joypurhat decorator in any source I could open. Searches in English and Bangla returned only Indian vendors, and Cybo has no decorator category for Joypurhat.",
+    "Wedding/event photographers and cinematography teams: none confirmed as based in Joypurhat. FNF Creative Studio and Kothachitro give no location. Libanza Films has a 'Joypurhat' service-area page, but it is a Dhaka (Gulshan) corporate video company with no local office, so I left it out. 'Joypur Brothers Photography' is in India.",
+    "Photo studios: Cybo's English 'photography' page for Joypurhat (3 results) lists only Rongdhonu Studio ('Nowhata', not clearly in Joypurhat) and two Bogura studios, so none were usable. Cybo's 'photography-studio' and Bangla 'ফটোগ্রাফার'/'ফটোগ্রাফি' category pages do not exist for Joypurhat.",
+    "Community centres: only the two venues above. I found no convention hall with published capacity, AC/non-AC or rent. Bangla news searches surfaced other event venues, but they are government rooms (DC office conference room, Kalai Press Club) and not rentable halls.",
+    "Travel agencies / Hajj-Umrah agencies: none found with a Joypurhat office. Cybo has no travel-agency category page for Joypurhat (the same Bangla slug works for Dhaka, which has 36). hajj.gov.bd agency pages that turned up in search (0855 Jearate Baitullah, 0285 Saim Travels) have Dhaka and Bogura addresses. The hajj.gov.bd agency list URL returns 'Requested Url not valid'.",
+    "Electronics / AC / fridge repair: none found. Walton's service-centre list (waltonbd.com/service-center) loads by JavaScript, so it is not readable. The Walton 'Apon Enterprise' showroom in Akkelpur (Financial Express, Jul 2024) is a sales showroom and was left out. gsmarena.com.bd lists 4 Joypurhat mobile showrooms (Hello Joypurhat, Mobile Corner, Rony Mobile Plus, Walton Plaza Akkelpur), but they are sales-only with no service info, so I left them out.",
+    "Plumbing/sanitary shops and electricians: no named business found in any readable source.",
+    "Motorbike: dealers for Panchbibi and Khetlal were not found (the Bajaj locator lists only Sadar, Kalai and Akkelpur). I did not find independent (non-dealer) motorbike workshops.",
+    "Search coverage note: the WebSearch engine is US-centric and mostly returned Indian or unrelated results for Joypurhat and Bangla queries. 59 of 60 searches and about 105 of 150 fetches were used."
+  ],
+  "blocked_sites": [
+    "overpass-api.de (OpenStreetMap Overpass API): robots-disallowed",
+    "bdhonda.com (Bangladesh Honda dealer page): robots-disallowed",
+    "www.cybo.com category pages with query filters (?rating=, ?features=): robots-disallowed",
+    "www.cybo.com / yellowpages-bn.cybo.com: most guessed category slugs (community-center, travel-agencies, event-planning, wedding-venues, photography-studio, ট্রাভেল-এজেন্সি, স্থানীয়-সেবা-সমূহ, etc.) returned fetch errors, and postal-code and some BD-biz pages also errored. Only 'photography/' and the Bangla barber/hostel pages loaded, so Cybo looks to have no such categories for Joypurhat.",
+    "bikroy.com Joypurhat services pages: fetch errors",
+    "bd-pratidin.com and dailyinqilab.com article pages: fetch errors",
+    "symphony-mobile.com service-center page: fetch error",
+    "waltonbd.com/service-center: list loads by JavaScript, not readable",
+    "Facebook: skipped by rule (most local decorators, studios and photographers appear to be Facebook-only)"
+  ]
+}

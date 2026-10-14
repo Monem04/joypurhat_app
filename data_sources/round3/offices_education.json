@@ -1,0 +1,797 @@
+{
+  "checked": "2026-10-13",
+  "items": [
+    {
+      "category": "coaching",
+      "name_bn": "উদ্ভাস-উন্মেষ, জয়পুরহাট শাখা",
+      "name_en": "Udvash-Unmesh, Joypurhat Branch",
+      "kind_bn": "কোচিং সেন্টার (উদ্ভাস-উন্মেষের শাখা)",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "প্রফেসর পাড়া, সূর্যের হাসি ক্লিনিক (৪র্থ তলা), জয়পুরহাট",
+      "address_en": "Professor Para, Surjer Hashi Clinic (4th floor), Joypurhat",
+      "phones": [
+        "01713236754",
+        "01313036338"
+      ],
+      "website": "https://udvash.com/Branch/Details/52",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": 25.0962,
+      "lng": 89.0286,
+      "maps_query": "Udvash Joypurhat Branch",
+      "source_urls": [
+        "https://udvash.com/Branch/Details/52",
+        "https://udvash.com/Branch",
+        "https://unmesh.com/Branch"
+      ],
+      "confidence": "medium",
+      "notes": "From the official Udvash and Unmesh branch lists (same organisation, so one source). Coordinates come from the map embedded on the branch page. The page does not list this branch's programmes or opening hours. Central helpline on udvash.com: 09666775566."
+    },
+    {
+      "category": "coaching",
+      "name_bn": "মিতুল সায়েন্স কেয়ার",
+      "name_en": "Mitul Science Care",
+      "kind_bn": "বিজ্ঞান বিষয়ের কোচিং",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "বড়ঘাটি পুকুরের দক্ষিণ পাশে, সাগরপাড়া, রেলস্টেশনের পাশে, জয়পুরহাট",
+      "address_en": "South side of Baroghati Pukur, Sagor Para, beside Railway Station, Joypurhat",
+      "phones": [
+        "01723732315"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Mitul Science Care, Sagor Para, Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/educational-institution/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). Listed under educational institutions; the kind is inferred from the name. Bangla name transliterated from the English listing."
+    },
+    {
+      "category": "coaching",
+      "name_bn": "রবিউল মতিন কমার্স একাডেমি",
+      "name_en": "RabiulMotin Commerce Academy",
+      "kind_bn": "ব্যবসায় শিক্ষা বিভাগের কোচিং",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "জয়পুরহাট ৫৯০০",
+      "address_en": "Joypurhat 5900",
+      "phones": [
+        "01746621124"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "RabiulMotin Commerce Academy Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/educational-institution/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). No street address is given. The upazila comes from postal code 5900 (Joypurhat Sadar). Bangla name transliterated from the English listing."
+    },
+    {
+      "category": "coaching",
+      "name_bn": "সোহান কেমিস্ট্রি একাডেমিক অ্যান্ড অ্যাডমিশন কেয়ার",
+      "name_en": "Sohan Chemistry Academic and Admission Care",
+      "kind_bn": "রসায়ন: একাডেমিক ও ভর্তি কোচিং",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "বদর উদ্দিন রোড, জয়পুরহাট",
+      "address_en": "Badar Uddin Road (listed as 'Bodoroddin road'), Joypurhat",
+      "phones": [
+        "01307325994"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Sohan Chemistry Academic and Admission Care, Badar Uddin Road, Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/educational-institution/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). The listing shows postal code 5000, which is not Joypurhat's (5900), so treat the code as a typo. Bangla name transliterated from the English listing."
+    },
+    {
+      "category": "coaching",
+      "name_bn": "সাকিব বায়োলজি ল্যাব",
+      "name_en": "Sakib Biology Lab",
+      "kind_bn": "জীববিজ্ঞান কোচিং",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "হাজী বদর, বদর উদ্দিন রোড, জয়পুরহাট",
+      "address_en": "Hazi Bodor, Badar Uddin Road, Joypurhat",
+      "phones": [
+        "01319161710"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Sakib Biology Lab, Badar Uddin Road, Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/educational-institution/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). Listed under educational institutions; the kind is inferred from the name. Bangla name transliterated from the English listing."
+    },
+    {
+      "category": "coaching",
+      "name_bn": "বেসিক একাডেমি",
+      "name_en": "Besic Academy",
+      "kind_bn": "কোচিং / একাডেমি",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "বদর উদ্দিন রোড, জয়পুরহাট",
+      "address_en": "Badar Uddin Road, Joypurhat 5900",
+      "phones": [
+        "01764795919",
+        "01723872614"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "32XH+5PJ Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/educational-institution/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). Three Cybo entries on Badar Uddin Road (plus codes 32XH+5PJ and 32XH+5MM), one in Bangla as 'বেসিক একাডেমি' and two spelled 'Besic Academy'. 01723-872614 is also the number on the 'Master IT' listing on the same road. Subjects are not stated."
+    },
+    {
+      "category": "it",
+      "name_bn": "যুব উন্নয়ন অধিদপ্তর, জয়পুরহাট",
+      "name_en": "Department of Youth Development, Joypurhat",
+      "kind_bn": "সরকারি যুব প্রশিক্ষণ (কম্পিউটার বেসিক ও আইসিটিসহ)",
+      "upazila": "",
+      "address_bn": "",
+      "address_en": "",
+      "phones": [],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [
+        "কম্পিউটার বেসিক",
+        "আইসিটি",
+        "ইলেকট্রিক্যাল",
+        "ইলেকট্রনিক্স",
+        "রেফ্রিজারেশন",
+        "পোশাক তৈরি",
+        "গবাদিপশু পালন",
+        "প্রাথমিক চিকিৎসা",
+        "মৎস্য চাষ",
+        "কৃষি"
+      ],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Department of Youth Development Joypurhat",
+      "source_urls": [
+        "https://www.bssnews.net/bangla/national/272665"
+      ],
+      "confidence": "medium",
+      "notes": "BSS, 12 Jan 2026: the department's Joypurhat office opened a batch of 3- and 6-month courses for ages 18-35 (225 trainees in 6 trades). The report gives no office address, phone or fees, so the upazila is left empty (district offices are usually in the district town, but no source says so). youth.joypurhat.gov.bd and dyd.gov.bd are robots-blocked."
+    },
+    {
+      "category": "it",
+      "name_bn": "সাইদ কম্পিউটার অ্যান্ড সফটওয়্যার একাডেমি",
+      "name_en": "Sayed Computer And Software Academy",
+      "kind_bn": "কম্পিউটার প্রশিক্ষণ কেন্দ্র",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "সানন্দা হোটেল সংলগ্ন, রেলস্টেশনের পূর্ব দিক, বৈরাগীর মোড়, রেলস্টেশন রোড, জয়পুরহাট ৫৯০০",
+      "address_en": "Next to Sananda Hotel, east of the railway station, Bairagir Mor, Railway Station Road, Joypurhat 5900",
+      "phones": [
+        "01712131380"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Sayed Computer And Software Academy Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/training-centre/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). Three listings share this phone: two English ones on Badar Uddin Road (one marked 'may be closed') and the Bangla 'সাইদ কম্পিউটার জয়পুরহাট' at the Station Road address used here. It may have moved, so call first. The listed business.site website is not used because Google shut those sites down."
+    },
+    {
+      "category": "it",
+      "name_bn": "মাস্টার আইটি",
+      "name_en": "Master IT",
+      "kind_bn": "কম্পিউটার / আইটি প্রশিক্ষণ কেন্দ্র",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "বদর উদ্দিন রোড, জয়পুরহাট ৫৯০০",
+      "address_en": "Badar Uddin Road, Joypurhat 5900",
+      "phones": [
+        "01723872614"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Master IT, Badar Uddin Road, Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/training-centre/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). Listed under training centres. Same phone as one 'Besic Academy' listing on the same road. Bangla name transliterated from the English listing."
+    },
+    {
+      "category": "it",
+      "name_bn": "ই-লার্নিং অ্যান্ড আর্নিং লিমিটেড",
+      "name_en": "E-learning & Earning Ltd",
+      "kind_bn": "আইটি / ফ্রিল্যান্সিং প্রশিক্ষণ",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "জয়পুরহাট শহর (প্লাস কোড 32WJ+F87)",
+      "address_en": "32WJ+F87, Joypurhat",
+      "phones": [
+        "01737095757"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "32WJ+F87 Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/training-centre/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). Listed under training centres. The courses are not stated; the kind is inferred from the name. Bangla name transliterated from the English listing."
+    },
+    {
+      "category": "it",
+      "name_bn": "দিশারী কম্পিউটার ট্রেনিং সেন্টার",
+      "name_en": "Dishari Computer Training Centre",
+      "kind_bn": "কম্পিউটার প্রশিক্ষণ কেন্দ্র",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "রুচিতা চাইনিজ হোটেল অ্যান্ড রেস্টুরেন্ট, ২ নং স্টেশন রোড, জয়পুরহাট ৫৯০০",
+      "address_en": "Ruchita Chinese Hotel & Restaurant building, 2 No. Station Road, Joypurhat 5900",
+      "phones": [
+        "01728119129"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Dishari Computer Training Centre, Station Road, Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/training-centre/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). Bangla name transliterated from the English listing."
+    },
+    {
+      "category": "it",
+      "name_bn": "এমএমএস টিসি (কম্পিউটার ট্রেনিং সেন্টার)",
+      "name_en": "MMS_TC (Computer Training Center)",
+      "kind_bn": "কম্পিউটার প্রশিক্ষণ কেন্দ্র",
+      "upazila": "",
+      "address_bn": "জয়পুরহাট",
+      "address_en": "Joypurhat",
+      "phones": [
+        "01725117167"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "MMS_TC Computer Training Center Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/training-centre/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). The address says only 'Joypurhat', so the upazila is unknown."
+    },
+    {
+      "category": "it",
+      "name_bn": "বেস্ট ট্রেনিং আউটসোর্সিং ইনস্টিটিউট",
+      "name_en": "Best Traning Outsorcing Institute in Joypurhat",
+      "kind_bn": "আউটসোর্সিং / ফ্রিল্যান্সিং প্রশিক্ষণ",
+      "upazila": "Panchbibi",
+      "address_bn": "পাঁচবিবি ৫৯১০ (প্লাস কোড 643J+364)",
+      "address_en": "643J+364, Panchbibi 5910",
+      "phones": [
+        "01731905107"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "643J+364 Panchbibi",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/training-centre/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). Name kept with the listing's spelling. Its business.site website is not used because Google shut those sites down."
+    },
+    {
+      "category": "it",
+      "name_bn": "তরিকুল কম্পিউটার অ্যান্ড ইন্টারনেট পয়েন্ট",
+      "name_en": "Tariqul Computer And Internet Point",
+      "kind_bn": "কম্পিউটার প্রশিক্ষণ ও ইন্টারনেট সেবা",
+      "upazila": "Akkelpur",
+      "address_bn": "বদলগাছী রোড, আক্কেলপুর ৫৯৪০",
+      "address_en": "Badalachi (Badalgachhi) Road, Akkelpur 5940",
+      "phones": [
+        "01743163676"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Tariqul Computer And Internet Point Akkelpur",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/training-centre/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). Listed under training centres; may be mainly a computer/internet shop. Road name spelled 'Badalachi Road' on the listing. Bangla name transliterated from the English listing."
+    },
+    {
+      "category": "it",
+      "name_bn": "অ্যাসপিরেন্ট আইটি",
+      "name_en": "Aspirant IT",
+      "kind_bn": "কম্পিউটার / আইটি প্রশিক্ষণ",
+      "upazila": "Kalai",
+      "address_bn": "জয়পুরহাট-কালাই মহাসড়ক, কালাই (প্লাস কোড 3578+W8P)",
+      "address_en": "3578+W8P, Joypurhat - Kalai Hwy, Kalai",
+      "phones": [
+        "01766048074"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "3578+W8P Kalai",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/computer-training/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). Listed under computer training; the courses are not stated. Bangla name transliterated from the English listing."
+    },
+    {
+      "category": "it",
+      "name_bn": "সৃজনশীল পলিটেকনিক ইনস্টিটিউট",
+      "name_en": "Srijonshil Polytechnic Institute",
+      "kind_bn": "বেসরকারি পলিটেকনিক ইনস্টিটিউট",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "পশ্চিম সবুজনগর, জয়পুরহাট ৫৯০০",
+      "address_en": "West Sabujnagor, Joypurhat 5900",
+      "phones": [
+        "057151229"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Srijonshil Polytechnic Institute Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/educational-institution/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). A private polytechnic; its technologies and any short computer courses are not stated. The government Joypurhat Polytechnic Institute's short courses were not found online (its gov.bd portal is robots-blocked). Bangla name transliterated from the English listing."
+    },
+    {
+      "category": "library",
+      "name_bn": "জেলা সরকারি গণগ্রন্থাগার, জয়পুরহাট",
+      "name_en": "Joypurhat District Government Public Library",
+      "kind_bn": "সরকারি গণগ্রন্থাগার",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "জয়পুরহাট শহর (প্লাস কোড 32WF+V37)",
+      "address_en": "32WF+V37, Joypurhat",
+      "phones": [],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "32WF+V37 Joypurhat",
+      "source_urls": [
+        "https://www.bssnews.net/bangla/national/280097",
+        "https://www.cybo.com/BD/joypurhat/public-library/"
+      ],
+      "confidence": "medium",
+      "notes": "BSS (5 Feb 2026) names the district government public library as co-organiser of National Library Day in Joypurhat. The location (plus code only) comes from Cybo's 'Joypurhat government public library' listing. That listing's website, nanl.gov.bd, belongs to a different department, so it is not used. No phone or hours were found; the publiclibrary.*.gov.bd portals are robots-blocked."
+    },
+    {
+      "category": "library",
+      "name_bn": "জয়পুরহাট লাইব্রেরি অ্যান্ড ক্লাব",
+      "name_en": "Joypurhat Library and Club",
+      "kind_bn": "পাঠাগার ও ক্লাব",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "শহীদ ডা. আবুল কাশেম ময়দান, সদর রোড, জয়পুরহাট",
+      "address_en": "Shahid Dr Abul Kashem Moydan, Sadar Road, Joypurhat",
+      "phones": [],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Joypurhat Library and Club, Sadar Road, Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/libraries",
+        "https://www.cybo.com/BD/joypurhat/public-library/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). It appears in two Cybo categories, but both come from the same directory. Bangla name transliterated from the English listing."
+    },
+    {
+      "category": "library",
+      "name_bn": "হাজী আমজাদ হোসেন স্মৃতি পাঠাগার",
+      "name_en": "Hazi Amjad Hossian Smriti Pathagar",
+      "kind_bn": "স্মৃতি পাঠাগার",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "জয়পুরহাট সরকারি কলেজ রোড, জয়পুরহাট",
+      "address_en": "Joypurhat Government College Road, Joypurhat",
+      "phones": [
+        "01719240223"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Hazi Amjad Hossain Smriti Pathagar Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/libraries"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). Cybo's public-library category also has an 'আমজাদ হোসেন স্মৃতি পাঠাগার' at 3XVJ+63 with a different phone (01518-399479). It may be the same library or another one, so the two are not merged."
+    },
+    {
+      "category": "library",
+      "name_bn": "প্রত্যাশা মহিলা সমিতি পাঠাগার",
+      "name_en": "Prottasha Mohila Samity Pathagar",
+      "kind_bn": "সমিতি পরিচালিত পাঠাগার",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "জয়পুরহাট শহর (প্লাস কোড 32WF+R68)",
+      "address_en": "32WF+R68, Joypurhat",
+      "phones": [],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "32WF+R68 Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/libraries"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). The English name is transliterated from the Bangla listing."
+    },
+    {
+      "category": "library",
+      "name_bn": "রোকেয়া স্মৃতি পাঠাগার",
+      "name_en": "Rokeya Smriti Pathagar",
+      "kind_bn": "স্মৃতি পাঠাগার",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "নতুনহাট রোড, জয়পুরহাট (প্লাস কোড 32WG+5RM)",
+      "address_en": "Natun Hat Road (32WG+5RM), Joypurhat",
+      "phones": [],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "32WG+5RM Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/libraries"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13)."
+    },
+    {
+      "category": "library",
+      "name_bn": "বীর মুক্তিযোদ্ধা মাহবুব আলম চৌধুরী স্মৃতি পাঠাগার",
+      "name_en": "Bir Muktijoddha Mahbub Alam Chowdhury Smriti Pathagar",
+      "kind_bn": "স্মৃতি পাঠাগার",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "ধানমন্ডি রোড, জয়পুরহাট (প্লাস কোড 423H+PMQ)",
+      "address_en": "Dhanmondi Road (423H+PMQ), Joypurhat",
+      "phones": [
+        "01710277031"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "423H+PMQ Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/libraries"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13)."
+    },
+    {
+      "category": "library",
+      "name_bn": "জামশেদ-শামছুন স্মৃতি পাঠাগার",
+      "name_en": "Jamshed-Shamsun Smriti Pathagar",
+      "kind_bn": "স্মৃতি পাঠাগার",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "গাড়িয়াকান্ত রোড, জয়পুরহাট (প্লাস কোড 4227+Q2V)",
+      "address_en": "Gariakanto Road (4227+Q2V), Joypurhat",
+      "phones": [
+        "01911645091"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "4227+Q2V Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/libraries"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13)."
+    },
+    {
+      "category": "library",
+      "name_bn": "রজিব উদ্দীন স্মৃতি পাঠাগার",
+      "name_en": "Rojib Uddin Smriti Pathagar",
+      "kind_bn": "স্মৃতি পাঠাগার",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "জয়পুরহাট (প্লাস কোড 328J+4M)",
+      "address_en": "328J+4M, Joypurhat",
+      "phones": [],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "328J+4M Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/libraries"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). The listing spells it 'রজিব উদ্দীন সৃতি পাঠাগার'. Cybo puts it about 3.3 km from the town centre."
+    },
+    {
+      "category": "library",
+      "name_bn": "শহীদ আবদুল জোব্বার ক্লাব ও পাঠাগার, মল্লিকপুর",
+      "name_en": "Shahid Abdul Jobbar Club O Pathagar, Mollikpur",
+      "kind_bn": "ক্লাব ও পাঠাগার",
+      "upazila": "",
+      "address_bn": "মল্লিকপুর, ডাকঘর কোড ৫৯০০ (প্লাস কোড 4WQJ+6VQ)",
+      "address_en": "Mollikpur, 5900 (4WQJ+6VQ)",
+      "phones": [],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "4WQJ+6VQ",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/public-library/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). Two duplicate entries. Upazila left empty: the listing gives only the village and postal code 5900, and the plus code lies outside the town."
+    },
+    {
+      "category": "library",
+      "name_bn": "জয়পুরহাট শিশু একাডেমি",
+      "name_en": "Joypurhat Shishu Academy",
+      "kind_bn": "শিশু একাডেমি (ডিরেক্টরিতে পাঠাগার হিসেবে তালিকাভুক্ত)",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "জয়পুরহাট সুগার মিল রোড, জয়পুরহাট",
+      "address_en": "Joypurhat Sugar Mill Road, Joypurhat",
+      "phones": [
+        "057162614"
+      ],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Joypurhat Shishu Academy",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/libraries"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). Cybo lists it under libraries, but no source checked here confirms a public library service."
+    },
+    {
+      "category": "probashi",
+      "name_bn": "জেলা কর্মসংস্থান ও জনশক্তি অফিস (ডেমো), জয়পুরহাট",
+      "name_en": "District Employment and Manpower Office (DEMO), Joypurhat",
+      "kind_bn": "বিএমইটির জেলা অফিস (বিদেশগামী কর্মী)",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "২ জয়পুরহাট-আক্কেলপুর মহাসড়ক, জয়পুরহাট ৫৯০০",
+      "address_en": "2 Joypurhat - Akkelpur Hwy, Joypurhat 5900",
+      "phones": [
+        "057162131"
+      ],
+      "website": "https://bmet.gov.bd",
+      "hours_bn": "",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Employment and Manpower Office Joypurhat",
+      "source_urls": [
+        "https://www.cybo.com/BD/joypurhat/government-office/"
+      ],
+      "confidence": "low",
+      "notes": "Cybo business-directory listing (undated; checked 2026-10-13). Listed as 'Employment and Manpower Office Joypurhat' with website bmet.gov.bd. bmet.gov.bd and the Joypurhat portal are robots-blocked, so no official page confirmed the address, phone, hours or the Wage Earners' Welfare desk."
+    },
+    {
+      "category": "probashi",
+      "name_bn": "জয়পুরহাট কারিগরি প্রশিক্ষণ কেন্দ্র (টিটিসি)",
+      "name_en": "Joypurhat Technical Training Centre (TTC)",
+      "kind_bn": "সরকারি কারিগরি প্রশিক্ষণ কেন্দ্র (বিএমইটি)",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "হানাইল, জয়পুরহাট",
+      "address_en": "Hanayal, Joypurhat",
+      "phones": [],
+      "website": "https://ttc.joypurhat.gov.bd",
+      "hours_bn": "",
+      "services_bn": [
+        "৬ মাসের কোর্স: কম্পিউটার, গার্মেন্টস, অটোক্যাড, ইলেকট্রিক্যাল, ইলেকট্রনিক্স, অটোমোটিভ",
+        "জাপানি ভাষা (৪ মাস)",
+        "কোরিয়ান ভাষা (২ মাস)",
+        "ড্রাইভিং (৪ মাস ও ২ মাস)",
+        "হাউসকিপিং (১ মাস)",
+        "প্রাক-বহির্গমন প্রশিক্ষণ (৩ দিন)"
+      ],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Technical Training Centre Hanayal Joypurhat",
+      "source_urls": [
+        "https://ttc.joypurhat.gov.bd/en/site/page/HUT1-এক-নজরে",
+        "https://www.banksbd.org/pkb/joypurhat-branch-11346.html"
+      ],
+      "confidence": "medium",
+      "notes": "The official TTC 'at a glance' page (English version) gives founding year 2016 (under the Expatriates' Welfare ministry) and the course list. The location 'Hanayal' comes from banksbd.org's Probashi Kallyan Bank branch address, which sits inside the TTC. No phone or hours were found; other pages of the TTC portal are robots-blocked. Also relevant to the 'it' category (6-month computer course)."
+    },
+    {
+      "category": "probashi",
+      "name_bn": "প্রবাসী কল্যাণ ব্যাংক, জয়পুরহাট শাখা",
+      "name_en": "Probashi Kallyan Bank, Joypurhat Branch",
+      "kind_bn": "প্রবাসী কর্মীদের জন্য সরকারি বিশেষায়িত ব্যাংক",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "জয়পুরহাট কারিগরি প্রশিক্ষণ কেন্দ্র (টিটিসি), হানাইল, জয়পুরহাট",
+      "address_en": "Joypurhat Technical Training Centre (TTC), Hanayal, Joypurhat",
+      "phones": [
+        "+880248322873"
+      ],
+      "website": "",
+      "hours_bn": "রবি-বুধ সকাল ১০টা-বিকাল ৪টা; বৃহস্পতি সকাল ১০টা-বিকাল ৩:৩০; শুক্র, শনি ও সরকারি ব্যাংক ছুটির দিনে বন্ধ",
+      "services_bn": [],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "Probashi Kallyan Bank Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/pkb/joypurhat-branch-11346.html",
+        "https://www.banksbd.org/pkb/branches/joypurhat.html"
+      ],
+      "confidence": "low",
+      "notes": "From the banksbd.org aggregator (page current for 2026; it says its data comes from the bank's website). The phone is the bank's central call centre, not the branch. The page also lists branch email joypurhat.pkb@gmail.com. No routing number is given. pkb.gov.bd was not reachable (gov.bd portals are robots-blocked)."
+    },
+    {
+      "category": "wifi",
+      "name_bn": "কেটি কম্পিউটার অ্যান্ড নেটওয়ার্ক",
+      "name_en": "KT Computer & Network",
+      "kind_bn": "ব্রডব্যান্ড ইন্টারনেট সেবাদাতা (জেলা পর্যায়ের আইএসপি লাইসেন্স)",
+      "upazila": "Joypurhat Sadar",
+      "address_bn": "পৌর মার্কেট (১ম/২য় তলা), দোকান নং ০৬, ১০, ১১, মেইন রোড, জয়পুরহাট ৫৯০০",
+      "address_en": "Shop no. 06, 10, 11, Pouro Market (1st/2nd floor), Main Road, Joypurhat 5900",
+      "phones": [
+        "09642506071",
+        "09639106071",
+        "09649506071",
+        "01919506071"
+      ],
+      "website": "https://ktcnbd.com/",
+      "hours_bn": "",
+      "services_bn": [
+        "ফাইবার অপটিক হোম ব্রডব্যান্ড",
+        "আনলিমিটেড বিডিআইএক্স",
+        "২৪/৭ সাপোর্ট"
+      ],
+      "price_info_bn": "মাসিক হোম প্যাকেজ (ওয়েবসাইট অনুযায়ী): সিলভার ৩০ এমবিপিএস ৫০০ টাকা; গোল্ড ৫০ এমবিপিএস ৭০০ টাকা; প্লাটিনাম ৭০ এমবিপিএস ৮০০ টাকা; ডায়মন্ড ৮০ এমবিপিএস ১০০০ টাকা; স্যাফায়ার ১০০ এমবিপিএস ১২০০ টাকা; স্টার ১২০ এমবিপিএস ১৪০০ টাকা। ভ্যাট বা সংযোগ ফি উল্লেখ নেই।",
+      "lat": null,
+      "lng": null,
+      "maps_query": "KT Computer & Network, Pouro Market, Joypurhat",
+      "source_urls": [
+        "https://ispab.org/member/kt-computer-network",
+        "https://ispab.org/members?q=Joypurhat",
+        "https://ktcnbd.com/",
+        "https://ktcnbd.com/home-package/"
+      ],
+      "confidence": "high",
+      "notes": "ISPAB member D-028, district licence, BTRC licence no. 14.32.0000.702.45.651.22.051. The company site says 'Coverage: Joypurhat District'. ISPAB gives the shop numbers on the 1st floor, but its office field says 2nd floor. Phones are the hotline and customer-care numbers on ktcnbd.com. Prices are from /home-package/; the homepage shows an older-looking table (Platinum 50 Mbps 700 Tk, Diamond 70 Mbps 800 Tk). That page also lists higher-priced Jupite 70 Mbps 1500, Brass 80 Mbps 2000 and Advance 100 Mbps 2500 with no explanation, so they are left out. It was the only ISPAB member with a Joypurhat address in a search for Joypurhat, Jaipurhat, Jaypurhat, Joypur, Panchbibi, Akkelpur, Kalai and Khetlal."
+    },
+    {
+      "category": "brtc",
+      "name_bn": "বিআরটিসি ঈদ স্পেশাল সার্ভিস: ঢাকা-জয়পুরহাট",
+      "name_en": "BRTC Eid Special Service: Dhaka-Joypurhat",
+      "kind_bn": "ঈদের সময়ের মৌসুমি বাস সার্ভিস",
+      "upazila": "",
+      "address_bn": "ছাড়ে ও টিকিট: মতিঝিল বাস ডিপো, ঢাকা (২০২৪ সালের তথ্য)",
+      "address_en": "Departure/tickets: BRTC Motijheel Bus Depot, Dhaka (2024)",
+      "phones": [],
+      "website": "",
+      "hours_bn": "",
+      "services_bn": [
+        "ঈদের আগে ঢাকা থেকে জয়পুরহাট রুটে বিশেষ বাস",
+        "ডিপো থেকে অগ্রিম টিকিট"
+      ],
+      "price_info_bn": "",
+      "lat": null,
+      "lng": null,
+      "maps_query": "BRTC Motijheel Bus Depot Dhaka",
+      "source_urls": [
+        "https://bangla.thedailystar.net/news/bangladesh/news-589261",
+        "https://www.risingbd.com/national/news/559803",
+        "https://www.tbsnews.net/bangladesh/brtc-launch-eid-special-bus-service-13-june-873891",
+        "https://bangla.thedailystar.net/news/bangladesh/news-469296"
+      ],
+      "confidence": "medium",
+      "notes": "Seasonal, not a regular service. Three June 2024 reports (Daily Star Bangla, risingbd, TBS) list Joypurhat among the Motijheel-depot routes for Eid-ul-Azha (13-18 June 2024). In April 2023 (Eid-ul-Fitr) Joypurhat was on the Joarsahara depot list. No Joypurhat stop, counter, phone, departure time or fare was published, and none for 2025 or 2026 was found. No regular BRTC depot or route in Joypurhat was found; brtc.gov.bd is robots-blocked. Confidence is medium, not high, because the information is seasonal and from 2024."
+    }
+  ],
+  "searched_but_not_found": [
+    "PASSPORT: No address, phone or hours for a Joypurhat regional passport office was found. passport.joypurhat.gov.bd, dip.gov.bd and joypurhat.gov.bd are robots-disallowed. epassport.gov.bd is a JavaScript app with no readable office list. Cybo's Joypurhat 'visa-and-passport-office' category lists only travel agents and offices in other districts. Bangla/English news searches found only other districts' passport offices. The only Joypurhat mention found is a 2013 Daily Star report (thedailystar.net/news/deal-inked-to-build-33-passport-offices) listing Joypurhat among districts slated for a new passport office building, so no passport record was added. Online applications are at https://www.epassport.gov.bd.",
+    "PROBASHI: No Wage Earners' Welfare Board desk for Joypurhat was found. No phone or hours for TTC Joypurhat was found, and DEMO Joypurhat is confirmed only by a Cybo listing. bmet.gov.bd (old and new site), wewb/probashi gov.bd portals and ttc.joypurhat.gov.bd (except one English page) are robots-blocked.",
+    "COACHING CHAINS: Only Udvash-Unmesh lists a Joypurhat branch. retinabd.org/branches lists 33 branches with none in Joypurhat (Rajshahi division: Rajshahi, Bogura, Pabna, Naogaon, Sirajganj). mentors.com.bd and acsfutureschool.com show no Joypurhat branch, and Biddabari is online-only. Saifur's (saifurs.com), UCC (uccbd.net; uccbd.com is an unrelated construction firm), Fahim's (fahimsbd.com), Oronno (oronno.com) and Psychology (psychologymedical.com) are robots-blocked, so they were not checked.",
+    "LOCAL COACHING: Web searches for Joypurhat coaching centres returned nothing local; all local entries come from Cybo's educational-institution list (36 results, only 25 readable; pagination did not load). Left out: 'Student's Care Teaching Academy coaching center' (listed with postal code 5259, which is not Joypurhat) and 'Arif Private Centre' (unclear what it is). Cybo 'tutoring-service' for Joypurhat lists only non-Joypurhat places.",
+    "IT: The government Joypurhat Polytechnic Institute's short courses were not found (gov.bd portal blocked). From Cybo, 'Jumman Computer' and 'Magic Academy' are marked permanently closed and were skipped. Also skipped: 'AR It Institute' and 'E training centre' (no phone, only the generic town-centre plus code), 'NDC technical, hatil campus' (type unclear) and 'Real Life School' (type unclear; its site is robots-blocked). 'Income Varsity' and most other entries on Cybo's computer-training page are in other districts.",
+    "LIBRARY: No upazila public libraries (Akkelpur, Kalai, Khetlal, Panchbibi) were found; Cybo has no library pages for those upazilas, and Banglapedia gives only counts (Sadar: 'Library 11'). Several 'library' listings in Joypurhat town are bookshops or stationers and were left out: Titas Library, তিতাস লাইব্রেরী এন্ড পেপার হাউস, New Iqra Library, Oxford Library and Photocopy, আজিম বুক হাউজ, Joypurhat Siddiqa Kutobkhan Library, and the ambiguous Niribili library. 'Mujibur Rahman Chishti Memorial Library' (5W2P+9WW) was left out because its location is unclear.",
+    "WIFI: An ISPAB member search found only KT Computer & Network. BTRC's licensed-ISP list is on a blocked gov.bd site. Cybo has no Joypurhat ISP category page, and its telecom page lists only mobile-operator service centres. db-ip.com geolocates some Fiber@Home and Digi Jadoo IP addresses to Joypurhat, but IP geolocation is not evidence of an office, so neither was added. A Bangla Outlook report (16 Oct 2025) says Starlink's distributor Fellocity launched a free service in Joypurhat, with no location or terms, so it was not added. No national ISP coverage page was checked for Joypurhat POPs.",
+    "BRTC: No regular BRTC route, depot, counter, timetable or fare for Joypurhat was found (see the brtc record). The Eid special service for 2025/2026 was not confirmed; an Ittefaq article could not be fetched."
+  ],
+  "blocked_sites": [
+    "joypurhat.gov.bd and its National Portal subdomains (passport.joypurhat.gov.bd, publiclibrary.joypurhat.gov.bd, ttc.joypurhat.gov.bd Bangla/officer pages): robots-disallowed",
+    "dip.gov.bd: robots-disallowed",
+    "bmet.gov.bd (old /BMET/ paths and new /pages/ paths): robots-disallowed",
+    "passport.faridpur.gov.bd (test of the National Portal page pattern): robots-disallowed",
+    "saifurs.com, uccbd.net, fahimsbd.com, oronno.com, psychologymedical.com: robots-disallowed",
+    "reallifeschoolbd.com: robots-disallowed",
+    "nominatim.openstreetmap.org: robots-disallowed",
+    "www.epassport.gov.bd: JavaScript app, no readable content",
+    "scribd.com: requires JavaScript",
+    "ittefaq.com.bd/734965: server error",
+    "yellowpages-bn.cybo.com category pages, the www.cybo.com/BD/joypurhat index, and many Cybo category slugs (internet-service-provider, passport-office, bus-station, coaching-center, tutoring, education, vocational-school, technical-school) plus all paginated pages: client errors",
+    "Facebook: not attempted, per instructions"
+  ]
+}

@@ -1,0 +1,1509 @@
+{
+  "checked": "2026-10-11",
+  "police": [
+    {
+      "name_en": "Joypurhat Sadar Police Station",
+      "name_bn": "জয়পুরহাট সদর থানা",
+      "kind": "police_station",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        "01713-374082",
+        "01320-127569"
+      ],
+      "website": "",
+      "extra": "01713-374082 = 'OC, Joypurhat Police Station'; 01320-127569 = 'Officer-in-Charge, Sadar Police Station' (Md. Sirajul Islam, per judiciary e-directory).",
+      "maps_query": "Joypurhat Sadar Police Station, Joypurhat",
+      "source_urls": [
+        "https://joypurhat.judiciary.gov.bd/en/servicve-box-detail/police-stations",
+        "https://informer57.com/joypurhat-district-thana-police-contact-number-list/",
+        "https://joypurhat.judiciary.gov.bd/en/menu/page/government-organisations"
+      ],
+      "confidence": "medium",
+      "notes": "Two sources disagree. Joypurhat judiciary e-directory 'Police Stations' page (footer (c) 2024) and informer57.com (28.09.2020) both give the 01713-3740xx number. The judiciary 'Government Organisations' page (same site) gives a different OC number. Officer names on that page may be out of date. Call 999 if neither works."
+    },
+    {
+      "name_en": "Panchbibi Police Station",
+      "name_bn": "পাঁচবিবি থানা",
+      "kind": "police_station",
+      "upazila": "Panchbibi",
+      "address": "",
+      "phones": [
+        "01713-374086",
+        "01720-127595"
+      ],
+      "website": "",
+      "extra": "01713-374086 = 'OC, Panchbibi Police Station'; 01720-127595 = OC (Palash Chandradev, per judiciary e-directory).",
+      "maps_query": "Panchbibi Police Station, Joypurhat",
+      "source_urls": [
+        "https://joypurhat.judiciary.gov.bd/en/servicve-box-detail/police-stations",
+        "https://informer57.com/joypurhat-district-thana-police-contact-number-list/",
+        "https://joypurhat.judiciary.gov.bd/en/menu/page/government-organisations"
+      ],
+      "confidence": "medium",
+      "notes": "Two sources disagree. Joypurhat judiciary e-directory 'Police Stations' page (footer (c) 2024) and informer57.com (28.09.2020) both give the 01713-3740xx number. The judiciary 'Government Organisations' page (same site) gives a different OC number; printed as '01720-...'; all other police numbers on that page use the 01320-1275xx series, so this may be a misprint of 01320 - verify before publishing. Officer names on that page may be out of date. Call 999 if neither works."
+    },
+    {
+      "name_en": "Khetlal Police Station",
+      "name_bn": "ক্ষেতলাল থানা",
+      "kind": "police_station",
+      "upazila": "Khetlal",
+      "address": "",
+      "phones": [
+        "01713-374084",
+        "01720-127621"
+      ],
+      "website": "",
+      "extra": "01713-374084 = 'OC, Khetlal Police Station'; 01720-127621 = OC (Md. Roshan Yazdani, per judiciary e-directory).",
+      "maps_query": "Khetlal Police Station, Joypurhat",
+      "source_urls": [
+        "https://joypurhat.judiciary.gov.bd/en/servicve-box-detail/police-stations",
+        "https://informer57.com/joypurhat-district-thana-police-contact-number-list/",
+        "https://joypurhat.judiciary.gov.bd/en/menu/page/government-organisations"
+      ],
+      "confidence": "medium",
+      "notes": "Two sources disagree. Joypurhat judiciary e-directory 'Police Stations' page (footer (c) 2024) and informer57.com (28.09.2020) both give the 01713-3740xx number. The judiciary 'Government Organisations' page (same site) gives a different OC number; printed as '01720-...'; all other police numbers on that page use the 01320-1275xx series, so this may be a misprint of 01320 - verify before publishing. Officer names on that page may be out of date. Call 999 if neither works."
+    },
+    {
+      "name_en": "Kalai Police Station",
+      "name_bn": "কালাই থানা",
+      "kind": "police_station",
+      "upazila": "Kalai",
+      "address": "",
+      "phones": [
+        "01713-374083",
+        "01720-127647"
+      ],
+      "website": "",
+      "extra": "01713-374083 = 'OC, Kalai Police Station'; 01720-127647 = OC (Md. Moin Khan, per judiciary e-directory).",
+      "maps_query": "Kalai Police Station, Joypurhat",
+      "source_urls": [
+        "https://joypurhat.judiciary.gov.bd/en/servicve-box-detail/police-stations",
+        "https://informer57.com/joypurhat-district-thana-police-contact-number-list/",
+        "https://joypurhat.judiciary.gov.bd/en/menu/page/government-organisations"
+      ],
+      "confidence": "medium",
+      "notes": "Two sources disagree. Joypurhat judiciary e-directory 'Police Stations' page (footer (c) 2024) and informer57.com (28.09.2020) both give the 01713-3740xx number. The judiciary 'Government Organisations' page (same site) gives a different OC number; printed as '01720-...'; all other police numbers on that page use the 01320-1275xx series, so this may be a misprint of 01320 - verify before publishing. Officer names on that page may be out of date. Call 999 if neither works."
+    },
+    {
+      "name_en": "Akkelpur Police Station",
+      "name_bn": "আক্কেলপুর থানা",
+      "kind": "police_station",
+      "upazila": "Akkelpur",
+      "address": "",
+      "phones": [
+        "01713-374085",
+        "01720-127673"
+      ],
+      "website": "",
+      "extra": "01713-374085 = 'OC, Akkelpur Police Station'; 01720-127673 = OC (Md. Abu Bakr Siddique, per judiciary e-directory).",
+      "maps_query": "Akkelpur Police Station, Joypurhat",
+      "source_urls": [
+        "https://joypurhat.judiciary.gov.bd/en/servicve-box-detail/police-stations",
+        "https://informer57.com/joypurhat-district-thana-police-contact-number-list/",
+        "https://joypurhat.judiciary.gov.bd/en/menu/page/government-organisations"
+      ],
+      "confidence": "medium",
+      "notes": "Two sources disagree. Joypurhat judiciary e-directory 'Police Stations' page (footer (c) 2024) and informer57.com (28.09.2020) both give the 01713-3740xx number. The judiciary 'Government Organisations' page (same site) gives a different OC number; printed as '01720-...'; all other police numbers on that page use the 01320-1275xx series, so this may be a misprint of 01320 - verify before publishing. Officer names on that page may be out of date. Call 999 if neither works."
+    },
+    {
+      "name_en": "Joypurhat District Police Control Room",
+      "name_bn": "জেলা পুলিশ কন্ট্রোল রুম, জয়পুরহাট",
+      "kind": "police_control_room",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        "01865-020214"
+      ],
+      "website": "",
+      "extra": "Listed as 'Pollice Control Room' (sic) on the judiciary e-directory.",
+      "maps_query": "Police Lines, Joypurhat",
+      "source_urls": [
+        "https://joypurhat.judiciary.gov.bd/en/servicve-box-detail/police-stations"
+      ],
+      "confidence": "medium",
+      "notes": "Only one source found. Address not given in the source."
+    },
+    {
+      "name_en": "Office of the Superintendent of Police, Joypurhat",
+      "name_bn": "পুলিশ সুপারের কার্যালয়, জয়পুরহাট",
+      "kind": "district_police_hq",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        "01320-127500",
+        "01713-374077"
+      ],
+      "website": "https://joypurhat.police.gov.bd/",
+      "extra": "Superintendent of Police mobile. Judiciary e-directory (c) 2024: 01320-127500 (names SP Mohammad Abdul Wahab). informer57.com (2020): 'SP Joypurhat' 01713-374077. Other judiciary listings: Addl. SP (Admin & Crime) 01320-127502; Addl. SP (Sadar) 01320-127503; Addl. SP (Sadar Circle) 01320-127544; ASP (Panchbibi Circle) 01320-127549.",
+      "maps_query": "Police Super Office, Joypurhat",
+      "source_urls": [
+        "https://joypurhat.judiciary.gov.bd/en/servicve-box-detail/police-stations",
+        "https://joypurhat.judiciary.gov.bd/en/menu/page/government-organisations",
+        "https://informer57.com/joypurhat-district-thana-police-contact-number-list/"
+      ],
+      "confidence": "medium",
+      "notes": "Conflict: 01320-127500 (newer source) vs 01713-374077 (2020). Prefer 01320-127500. Official website joypurhat.police.gov.bd exists but blocks automated reading, so it was not checked. Officer name may be out of date."
+    },
+    {
+      "name_en": "Detective Branch (DB), Joypurhat District Police",
+      "name_bn": "জেলা গোয়েন্দা শাখা (ডিবি), জয়পুরহাট",
+      "kind": "police_unit",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        "01713-374087"
+      ],
+      "website": "",
+      "extra": "OC, DB.",
+      "maps_query": "DB Office, Joypurhat",
+      "source_urls": [
+        "https://joypurhat.judiciary.gov.bd/en/servicve-box-detail/police-stations",
+        "https://informer57.com/joypurhat-district-thana-police-contact-number-list/"
+      ],
+      "confidence": "medium",
+      "notes": "Two sources agree."
+    },
+    {
+      "name_en": "Traffic Inspector, Joypurhat",
+      "name_bn": "ট্রাফিক ইন্সপেক্টর, জয়পুরহাট",
+      "kind": "police_unit",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        "01713-374090"
+      ],
+      "website": "",
+      "extra": "Printed as 'Trafic Inspector-Joypurhat'.",
+      "maps_query": "",
+      "source_urls": [
+        "https://informer57.com/joypurhat-district-thana-police-contact-number-list/"
+      ],
+      "confidence": "low",
+      "notes": "Only source is a 2020 third-party list; not on the judiciary page."
+    },
+    {
+      "name_en": "National Emergency Service 999",
+      "name_bn": "জাতীয় জরুরি সেবা ৯৯৯",
+      "kind": "national_emergency",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        "999"
+      ],
+      "website": "",
+      "extra": "Toll-free; connects to police, fire service and ambulance.",
+      "maps_query": "",
+      "source_urls": [
+        "https://thefinancialexpress.com.bd/home/national-emergency-service-999-now-fully-operational"
+      ],
+      "confidence": "high",
+      "notes": "Nationwide number, works in all of Joypurhat. Source dated 13 Aug 2024."
+    }
+  ],
+  "fire": [
+    {
+      "name_en": "Joypurhat Fire Service Station",
+      "name_bn": "জয়পুরহাট ফায়ার সার্ভিস স্টেশন",
+      "kind": "fire_station",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        "+88-0571-62333",
+        "01730-002539"
+      ],
+      "website": "https://fireservice.joypurhat.gov.bd/",
+      "extra": "",
+      "maps_query": "Joypurhat Fire Service and Civil Defence Station",
+      "source_urls": [
+        "https://profilebd.blogspot.com/2017/03/rajshahi-division-bangladesh-fire-service-station-contact-number.html"
+      ],
+      "confidence": "low",
+      "notes": "Numbers from a blog post dated 6 Mar 2017 that points to fireservice.gov.bd for updates; the official list (fireservice.gov.bd 'all station numbers' page) blocks automated reading and was not checked. Address not in source. Note: Bangladesh land lines have since moved to a new 02-... format, so the 0571 number may no longer work."
+    },
+    {
+      "name_en": "Akkelpur Fire Service Station",
+      "name_bn": "আক্কেলপুর ফায়ার সার্ভিস স্টেশন",
+      "kind": "fire_station",
+      "upazila": "Akkelpur",
+      "address": "",
+      "phones": [
+        "+88-05722-64333",
+        "01743-246424"
+      ],
+      "website": "http://www.fireservice.akkelpur.joypurhat.gov.bd/",
+      "extra": "",
+      "maps_query": "Akkelpur Fire Service Station, Joypurhat",
+      "source_urls": [
+        "https://profilebd.blogspot.com/2017/03/rajshahi-division-bangladesh-fire-service-station-contact-number.html"
+      ],
+      "confidence": "low",
+      "notes": "Blog post dated 6 Mar 2017; not confirmed against an official list. Website seen in search results only."
+    },
+    {
+      "name_en": "Panchbibi Fire Service Station",
+      "name_bn": "পাঁচবিবি ফায়ার সার্ভিস স্টেশন",
+      "kind": "fire_station",
+      "upazila": "Panchbibi",
+      "address": "",
+      "phones": [
+        "+88-05724-75433",
+        "01726-662123"
+      ],
+      "website": "http://fireservice.panchbibi.joypurhat.gov.bd/",
+      "extra": "",
+      "maps_query": "Panchbibi Fire Service Station, Joypurhat",
+      "source_urls": [
+        "https://profilebd.blogspot.com/2017/03/rajshahi-division-bangladesh-fire-service-station-contact-number.html"
+      ],
+      "confidence": "low",
+      "notes": "Blog post dated 6 Mar 2017; not confirmed against an official list. Website seen in search results only."
+    },
+    {
+      "name_en": "Kalai Fire Service Station",
+      "name_bn": "কালাই ফায়ার সার্ভিস স্টেশন",
+      "kind": "fire_station",
+      "upazila": "Kalai",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "https://fireservice.kalai.joypurhat.gov.bd/",
+      "extra": "",
+      "maps_query": "Kalai Fire Service Station, Joypurhat",
+      "source_urls": [
+        "https://fireservice.kalai.joypurhat.gov.bd/"
+      ],
+      "confidence": "low",
+      "notes": "Existence inferred only from an official sub-site (fireservice.kalai.joypurhat.gov.bd) appearing in search results; the site blocks automated reading, so no phone or address could be read. No Khetlal fire station source was found."
+    }
+  ],
+  "ambulance": [
+    {
+      "name_en": "National Emergency Service 999 (ambulance)",
+      "name_bn": "জাতীয় জরুরি সেবা ৯৯৯ (অ্যাম্বুলেন্স)",
+      "kind": "national_emergency",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        "999"
+      ],
+      "website": "",
+      "extra": "Toll-free; National Emergency Service includes ambulance, police, fire.",
+      "maps_query": "",
+      "source_urls": [
+        "https://thefinancialexpress.com.bd/home/national-emergency-service-999-now-fully-operational"
+      ],
+      "confidence": "high",
+      "notes": "Same 999 line as in police; listed here so the ambulance tab is not empty."
+    },
+    {
+      "name_en": "Joypurhat District Sadar Hospital (switchboard)",
+      "name_bn": "জেলা সদর হাসপাতাল, জয়পুরহাট",
+      "kind": "government_hospital_contact",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        "০৫৭১-৬২২০৭"
+      ],
+      "website": "",
+      "extra": "Email: joypurhat@cs.dghs.gov.bd. Same number listed for the Civil Surgeon Office (+৮৮০৫৭১-৬২২০৭).",
+      "maps_query": "Joypurhat District Sadar Hospital, Joypurhat",
+      "source_urls": [
+        "https://inhealthylife.com/joypurhat-medical-center-list/"
+      ],
+      "confidence": "low",
+      "notes": "Hospital land line from a third-party list dated 9 Mar 2025 (copied as printed, in Bangla digits). The source does NOT give a separate ambulance number; callers would have to ask the hospital. No private ambulance provider in Joypurhat with a published number was found."
+    }
+  ],
+  "offices": [
+    {
+      "name_en": "Office of the Deputy Commissioner, Joypurhat",
+      "name_bn": "জেলা প্রশাসকের কার্যালয়, জয়পুরহাট",
+      "kind": "district_administration",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        "02589915051",
+        "(+88)0571-62208"
+      ],
+      "website": "https://joypurhat.gov.bd/",
+      "extra": "Email: dcjoypurhat@mopa.gov.bd (DC press releases, July 2020). Judiciary e-directory lists DC 'Begum Afroza Akter Chowdhury' with 02589915051.",
+      "maps_query": "Deputy Commissioner Office, Joypurhat",
+      "source_urls": [
+        "https://joypurhat.judiciary.gov.bd/en/menu/page/government-organisations",
+        "https://file-rajshahi.portal.gov.bd/files/www.joypurhat.gov.bd/files/b463c9cf_390c_4f14_af69_bbd2763f795c/085ccb7f5b684aa9e890c9c5eeebe798.pdf",
+        "https://file-rajshahi.portal.gov.bd/files/www.joypurhat.gov.bd/files/b463c9cf_390c_4f14_af69_bbd2763f795c/fa23cc42ba5dfbcde5e01a66a9c3c21f.pdf"
+      ],
+      "confidence": "medium",
+      "notes": "02589915051 is from the judiciary e-directory ((c) 2024); (+88)0571-62208 from DC press releases dated 9 Jul and 28 Jul 2020 (older format). DC name on the e-directory is probably out of date. joypurhat.gov.bd blocks automated reading."
+    },
+    {
+      "name_en": "Upazila Nirbahi Officer's Office, Joypurhat Sadar",
+      "name_bn": "উপজেলা নির্বাহী অফিসারের কার্যালয়, জয়পুরহাট সদর",
+      "kind": "uno_office",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "https://joypurhatsadar.joypurhat.gov.bd/",
+      "extra": "",
+      "maps_query": "Upazila Parishad, Joypurhat Sadar",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "medium",
+      "notes": "Website from Wikipedia; the gov.bd site blocks automated reading, so no phone was found."
+    },
+    {
+      "name_en": "Upazila Nirbahi Officer's Office, Akkelpur",
+      "name_bn": "উপজেলা নির্বাহী অফিসারের কার্যালয়, আক্কেলপুর",
+      "kind": "uno_office",
+      "upazila": "Akkelpur",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "https://akkelpur.joypurhat.gov.bd/",
+      "extra": "",
+      "maps_query": "Upazila Parishad, Akkelpur, Joypurhat",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "medium",
+      "notes": "Website from Wikipedia; no phone found."
+    },
+    {
+      "name_en": "Upazila Nirbahi Officer's Office, Kalai",
+      "name_bn": "উপজেলা নির্বাহী অফিসারের কার্যালয়, কালাই",
+      "kind": "uno_office",
+      "upazila": "Kalai",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "https://kalai.joypurhat.gov.bd/",
+      "extra": "",
+      "maps_query": "Upazila Parishad, Kalai, Joypurhat",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "medium",
+      "notes": "Website from Wikipedia; no phone found."
+    },
+    {
+      "name_en": "Upazila Nirbahi Officer's Office, Khetlal",
+      "name_bn": "উপজেলা নির্বাহী অফিসারের কার্যালয়, ক্ষেতলাল",
+      "kind": "uno_office",
+      "upazila": "Khetlal",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "https://khetlal.joypurhat.gov.bd/",
+      "extra": "",
+      "maps_query": "Upazila Parishad, Khetlal, Joypurhat",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "medium",
+      "notes": "Website from Wikipedia; no phone found."
+    },
+    {
+      "name_en": "Upazila Nirbahi Officer's Office, Panchbibi",
+      "name_bn": "উপজেলা নির্বাহী অফিসারের কার্যালয়, পাঁচবিবি",
+      "kind": "uno_office",
+      "upazila": "Panchbibi",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "https://panchbibi.joypurhat.gov.bd/",
+      "extra": "",
+      "maps_query": "Upazila Parishad, Panchbibi, Joypurhat",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Joypurhat_District"
+      ],
+      "confidence": "medium",
+      "notes": "Website from Wikipedia; no phone found."
+    },
+    {
+      "name_en": "Joypurhat Pourashava (Municipality)",
+      "name_bn": "জয়পুরহাট পৌরসভা",
+      "kind": "municipality",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Administrator: Nurul Islam (নুরুল ইসলাম), Additional Deputy Commissioner (General). Chief Executive Officer: Ashik Khan (আশিক খান). As reported 22 Aug 2026.",
+      "maps_query": "Joypurhat Pourashava, Joypurhat",
+      "source_urls": [
+        "https://www.deshrupantor.com/714737"
+      ],
+      "confidence": "medium",
+      "notes": "No elected mayor; run by an administrator. No phone found. Banglapedia (2023) counts 4 municipalities in the district (Joypurhat, Akkelpur, Kalai, Panchbibi; none in Khetlal) while English Wikipedia says 5 - conflict noted."
+    },
+    {
+      "name_en": "Joypurhat Sadar Post Office",
+      "name_bn": "জয়পুরহাট সদর ডাকঘর",
+      "kind": "post_office",
+      "upazila": "Joypurhat Sadar",
+      "address": "Joypurhat 5900",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Postcodes: Joypurhat Sadar 5900; Panchbibi 5910; Khetlal 5920; Kalai 5930; Akkelpur 5940; Jamalganj 5941; Tilakpur 5942.",
+      "maps_query": "Joypurhat Post Office",
+      "source_urls": [
+        "http://joypurhatdistrictinformation.blogspot.com/2016/03/information-about-post-office-of.html"
+      ],
+      "confidence": "low",
+      "notes": "From a 2016 blog. The source gives no formal 'head post office' name or address. A reader comment (2020) on that page gives 01760180379 for Joypurhat Sadar post office - unverified, so it is not put in phones."
+    },
+    {
+      "name_en": "Electricity complaints hotline (all power distribution companies)",
+      "name_bn": "বিদ্যুৎ অভিযোগ হটলাইন",
+      "kind": "utility_hotline",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        "16999"
+      ],
+      "website": "",
+      "extra": "Unified complaint number for customers of all power-sector companies (Power Division).",
+      "maps_query": "",
+      "source_urls": [
+        "https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-508056"
+      ],
+      "confidence": "medium",
+      "notes": "Source dated 23 Aug 2023. It says Palli Bidyut customers also have area-based complaint numbers; the Joypurhat Palli Bidyut Samity's own complaint number was not found (its official site blocks automated reading)."
+    },
+    {
+      "name_en": "NESCO, Joypurhat office",
+      "name_bn": "নেসকো, জয়পুরহাট",
+      "kind": "electricity_distribution",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        "16603"
+      ],
+      "website": "",
+      "extra": "16603 is the NESCO company hotline (2023 source). Executive Engineer, Joypurhat NESCO: Suman Sutradhar (সুমন সূত্রধর), as reported 6 Apr 2025.",
+      "maps_query": "NESCO Office, Joypurhat",
+      "source_urls": [
+        "https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-508056",
+        "https://www.itvbd.com/country/rajshahi/210989"
+      ],
+      "confidence": "medium",
+      "notes": "Local office address and local phone not found. Officer name may have changed."
+    },
+    {
+      "name_en": "Department of Narcotics Control, Joypurhat",
+      "name_bn": "মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর, জয়পুরহাট",
+      "kind": "government_office",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        "01708-904320"
+      ],
+      "website": "",
+      "extra": "Deputy Director (Md. Rafiqul Islam, per e-directory).",
+      "maps_query": "Department of Narcotics Control, Joypurhat",
+      "source_urls": [
+        "https://joypurhat.judiciary.gov.bd/en/menu/page/government-organisations"
+      ],
+      "confidence": "medium",
+      "notes": "Single source ((c) 2024); officer may have changed."
+    },
+    {
+      "name_en": "Joypurhat District Press Club",
+      "name_bn": "জয়পুরহাট জেলা প্রেস ক্লাব",
+      "kind": "press_club",
+      "upazila": "Joypurhat Sadar",
+      "address": "Temporary office in front of Prithibi Complex (পৃথিবী কমপ্লেক্স), Joypurhat town",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Committee formed 13 Apr 2026: President Rafiqul Islam Rafiq (ATN Bangla); General Secretary Rezaul Karim Reza (Desh TV / Desh Rupantor).",
+      "maps_query": "Prithibi Complex, Joypurhat",
+      "source_urls": [
+        "https://www.deshrupantor.com/679925"
+      ],
+      "confidence": "medium",
+      "notes": "No phone found. A DC press release (Jul 2020) lists separate bodies: Joypurhat Press Club, Joypurhat District Press Club and Joypurhat Model Press Club - so there may be more than one press club in town."
+    }
+  ],
+  "banks": [
+    {
+      "name_en": "Sonali Bank PLC, Joypurhat Branch",
+      "name_bn": "সোনালী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Joypurhat Sadar",
+      "address": "Sadar Road, Joypurhat Sadar, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 200380409",
+      "maps_query": "Sonali Bank PLC Joypurhat Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/sbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Sonali Bank PLC, Joypurhat East Branch",
+      "name_bn": "সোনালী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Joypurhat Sadar",
+      "address": "Amtoli, Sadar Road, Joypurhat Sadar, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 200380438",
+      "maps_query": "Sonali Bank PLC Joypurhat East Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/sbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Sonali Bank PLC, Hatil Branch",
+      "name_bn": "সোনালী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Joypurhat Sadar",
+      "address": "Durgapur Bazar, Joypurhat Sadar, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 200380346",
+      "maps_query": "Sonali Bank PLC Hatil Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/sbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Sonali Bank PLC, Akkelpur Branch",
+      "name_bn": "সোনালী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Akkelpur",
+      "address": "Nicha Bazar, Akkelpur, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 200380041",
+      "maps_query": "Sonali Bank PLC Akkelpur Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/sbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Sonali Bank PLC, Kalai Branch",
+      "name_bn": "সোনালী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Kalai",
+      "address": "Samad Talukdar Shoping Complex, Sadar Road, Kalai, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 200380467",
+      "maps_query": "Sonali Bank PLC Kalai Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/sbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Sonali Bank PLC, Punathat Branch",
+      "name_bn": "সোনালী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Kalai",
+      "address": "Punathat Bazar, Kalai, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 200380704",
+      "maps_query": "Sonali Bank PLC Punathat Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/sbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Sonali Bank PLC, Khetlal Branch",
+      "name_bn": "সোনালী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Khetlal",
+      "address": "Sadar Road, Khetlal, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 200380496",
+      "maps_query": "Sonali Bank PLC Khetlal Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/sbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Sonali Bank PLC, Panchbibi Branch",
+      "name_bn": "সোনালী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Panchbibi",
+      "address": "Daneshpur, Kamdia Road, Panchbibi, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 200380670",
+      "maps_query": "Sonali Bank PLC Panchbibi Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/sbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Janata Bank PLC, Joypurhat Branch",
+      "name_bn": "জনতা ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Joypurhat Sadar",
+      "address": "Golam Akbar Chowdhuri Wakf Estate, Bara Masjid Road, Purba Bazar,Joypurhat 5900",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 135380408",
+      "maps_query": "Janata Bank PLC Joypurhat Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/jbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Janata Bank PLC, Jamalganj Branch",
+      "name_bn": "জনতা ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Akkelpur",
+      "address": "Jamalganj Bazar, Akkelpur, Joypurhat 5941",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 135380374",
+      "maps_query": "Janata Bank PLC Jamalganj Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/jbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Janata Bank PLC, Tilakpur Branch",
+      "name_bn": "জনতা ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Akkelpur",
+      "address": "Tilakpur, Akkelpur, Joypurhat 5942",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 135380824",
+      "maps_query": "Janata Bank PLC Tilakpur Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/jbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Janata Bank PLC, Panchbibi Branch",
+      "name_bn": "জনতা ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Panchbibi",
+      "address": "Panchbibi, Joypurhat 5910",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 135380679",
+      "maps_query": "Janata Bank PLC Panchbibi Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/jbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Rupali Bank PLC, Joypurhat Corporate Branch",
+      "name_bn": "রূপালী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Joypurhat Sadar",
+      "address": "Abeda Mansion,Bater More, Sadar Road, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 185380403",
+      "maps_query": "Rupali Bank PLC Joypurhat Corporate Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Rupali Bank PLC, Akkelpur Branch",
+      "name_bn": "রূপালী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Akkelpur",
+      "address": "Likhon Commercial Complex, Main Road, Akkelpur, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 185380795",
+      "maps_query": "Rupali Bank PLC Akkelpur Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Rupali Bank PLC, Gopinathpur Branch",
+      "name_bn": "রূপালী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Akkelpur",
+      "address": "Gopinathpur Bazar, Akkelpur, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 185380311",
+      "maps_query": "Rupali Bank PLC Gopinathpur Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Rupali Bank PLC, Khetlal Branch",
+      "name_bn": "রূপালী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Khetlal",
+      "address": "Badhan Super Market, Khetlal, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 185380490",
+      "maps_query": "Rupali Bank PLC Khetlal Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Rupali Bank PLC, Molamgarihat Branch",
+      "name_bn": "রূপালী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Kalai",
+      "address": "Masjid Market, Molamgarihat Bazar, Kalai, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 185380616",
+      "maps_query": "Rupali Bank PLC Molamgarihat Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Rajshahi Krishi Unnayan Bank, Joypurhat Branch",
+      "name_bn": "রাজশাহী কৃষি উন্নয়ন ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Joypurhat Sadar",
+      "address": "Joypurhat Sadar, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 180380408",
+      "maps_query": "Rajshahi Krishi Unnayan Bank Joypurhat Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rakub/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed. In this region farm credit is from RAKUB; no Bangladesh Krishi Bank branch was found for Joypurhat."
+    },
+    {
+      "name_en": "Rajshahi Krishi Unnayan Bank, Madhainagar Branch",
+      "name_bn": "রাজশাহী কৃষি উন্নয়ন ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Joypurhat Sadar",
+      "address": "Madhainagar, Amdai, Joypurhat Sadar, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 180380558",
+      "maps_query": "Rajshahi Krishi Unnayan Bank Madhainagar Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rakub/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed. In this region farm credit is from RAKUB; no Bangladesh Krishi Bank branch was found for Joypurhat."
+    },
+    {
+      "name_en": "Rajshahi Krishi Unnayan Bank, Puronapail Branch",
+      "name_bn": "রাজশাহী কৃষি উন্নয়ন ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Joypurhat Sadar",
+      "address": "Puronapail, Joypurhat Sadar, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 180380732",
+      "maps_query": "Rajshahi Krishi Unnayan Bank Puronapail Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rakub/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed. In this region farm credit is from RAKUB; no Bangladesh Krishi Bank branch was found for Joypurhat."
+    },
+    {
+      "name_en": "Rajshahi Krishi Unnayan Bank, Akkelpur Branch",
+      "name_bn": "রাজশাহী কৃষি উন্নয়ন ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Akkelpur",
+      "address": "Akkelpur, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 180380040",
+      "maps_query": "Rajshahi Krishi Unnayan Bank Akkelpur Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rakub/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed. In this region farm credit is from RAKUB; no Bangladesh Krishi Bank branch was found for Joypurhat."
+    },
+    {
+      "name_en": "Rajshahi Krishi Unnayan Bank, Raikali Branch",
+      "name_bn": "রাজশাহী কৃষি উন্নয়ন ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Akkelpur",
+      "address": "Raikali, Akkelpur, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 180380761",
+      "maps_query": "Rajshahi Krishi Unnayan Bank Raikali Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rakub/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed. In this region farm credit is from RAKUB; no Bangladesh Krishi Bank branch was found for Joypurhat."
+    },
+    {
+      "name_en": "Rajshahi Krishi Unnayan Bank, Kalai Branch",
+      "name_bn": "রাজশাহী কৃষি উন্নয়ন ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Kalai",
+      "address": "Kalai, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 180380466",
+      "maps_query": "Rajshahi Krishi Unnayan Bank Kalai Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rakub/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed. In this region farm credit is from RAKUB; no Bangladesh Krishi Bank branch was found for Joypurhat."
+    },
+    {
+      "name_en": "Rajshahi Krishi Unnayan Bank, Dogachi Branch",
+      "name_bn": "রাজশাহী কৃষি উন্নয়ন ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Kalai",
+      "address": "Dogachi, Bagzana, Kalai, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 180380282",
+      "maps_query": "Rajshahi Krishi Unnayan Bank Dogachi Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rakub/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed. In this region farm credit is from RAKUB; no Bangladesh Krishi Bank branch was found for Joypurhat."
+    },
+    {
+      "name_en": "Rajshahi Krishi Unnayan Bank, Moslemganj Branch",
+      "name_bn": "রাজশাহী কৃষি উন্নয়ন ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Kalai",
+      "address": "Moslemganj, Kalai, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 180380640",
+      "maps_query": "Rajshahi Krishi Unnayan Bank Moslemganj Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rakub/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed. In this region farm credit is from RAKUB; no Bangladesh Krishi Bank branch was found for Joypurhat."
+    },
+    {
+      "name_en": "Rajshahi Krishi Unnayan Bank, Khetlal Branch",
+      "name_bn": "রাজশাহী কৃষি উন্নয়ন ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Khetlal",
+      "address": "Khetlal, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 180380495",
+      "maps_query": "Rajshahi Krishi Unnayan Bank Khetlal Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rakub/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed. In this region farm credit is from RAKUB; no Bangladesh Krishi Bank branch was found for Joypurhat."
+    },
+    {
+      "name_en": "Rajshahi Krishi Unnayan Bank, Battali Branch",
+      "name_bn": "রাজশাহী কৃষি উন্নয়ন ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Khetlal",
+      "address": "Battali, Baliadanga, Khetlal, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 180380161",
+      "maps_query": "Rajshahi Krishi Unnayan Bank Battali Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rakub/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed. In this region farm credit is from RAKUB; no Bangladesh Krishi Bank branch was found for Joypurhat."
+    },
+    {
+      "name_en": "Rajshahi Krishi Unnayan Bank, Panchbibi Branch",
+      "name_bn": "রাজশাহী কৃষি উন্নয়ন ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Panchbibi",
+      "address": "Panchbibi, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 180380679",
+      "maps_query": "Rajshahi Krishi Unnayan Bank Panchbibi Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rakub/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed. In this region farm credit is from RAKUB; no Bangladesh Krishi Bank branch was found for Joypurhat."
+    },
+    {
+      "name_en": "Rajshahi Krishi Unnayan Bank, Atapur Branch",
+      "name_bn": "রাজশাহী কৃষি উন্নয়ন ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Panchbibi",
+      "address": "Atapur, Panchbibi, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 180380079",
+      "maps_query": "Rajshahi Krishi Unnayan Bank Atapur Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rakub/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed. In this region farm credit is from RAKUB; no Bangladesh Krishi Bank branch was found for Joypurhat."
+    },
+    {
+      "name_en": "Rajshahi Krishi Unnayan Bank, Bagzana Branch",
+      "name_bn": "রাজশাহী কৃষি উন্নয়ন ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Panchbibi",
+      "address": "Bagzana, Panchbibi, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 180380132",
+      "maps_query": "Rajshahi Krishi Unnayan Bank Bagzana Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rakub/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed. In this region farm credit is from RAKUB; no Bangladesh Krishi Bank branch was found for Joypurhat."
+    },
+    {
+      "name_en": "Rajshahi Krishi Unnayan Bank, Chatinali Branch",
+      "name_bn": "রাজশাহী কৃষি উন্নয়ন ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Panchbibi",
+      "address": "Chatinali, Panchbibi, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 180380190",
+      "maps_query": "Rajshahi Krishi Unnayan Bank Chatinali Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rakub/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed. In this region farm credit is from RAKUB; no Bangladesh Krishi Bank branch was found for Joypurhat."
+    },
+    {
+      "name_en": "Rajshahi Krishi Unnayan Bank, Dharanji Branch",
+      "name_bn": "রাজশাহী কৃষি উন্নয়ন ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Panchbibi",
+      "address": "Dharanji, Panchbibi, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 180380253",
+      "maps_query": "Rajshahi Krishi Unnayan Bank Dharanji Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/rakub/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed. In this region farm credit is from RAKUB; no Bangladesh Krishi Bank branch was found for Joypurhat."
+    },
+    {
+      "name_en": "Pubali Bank PLC, Joypurhat Branch",
+      "name_bn": "পূবালী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Joypurhat Sadar",
+      "address": "Anser Ali Complex, Thana Road, Joypurhat 5900",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 175380400",
+      "maps_query": "Pubali Bank PLC Joypurhat Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/pbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Pubali Bank PLC, Jamalganj Branch",
+      "name_bn": "পূবালী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Akkelpur",
+      "address": "College Road, Jamalganj Bazar, Akkelpur, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 175380376",
+      "maps_query": "Pubali Bank PLC Jamalganj Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/pbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Islami Bank Bangladesh PLC, Joypurhat Branch",
+      "name_bn": "ইসলামী ব্যাংক বাংলাদেশ",
+      "kind": "bank_branch",
+      "upazila": "Joypurhat Sadar",
+      "address": "Tahera Complex, Holding No.306, Sadar Road, Joypurhat-5900",
+      "phones": [
+        "(0571) 62962",
+        "01711-889952",
+        "01722-412424"
+      ],
+      "website": "https://islamibankbd.com/branch/joypurhat-branch",
+      "extra": "Routing number: 125380405. Email: joypurhat@islamibankbd.com. 01722-412424 is labelled 'Manager Personal'.",
+      "maps_query": "Islami Bank Joypurhat Branch, Joypurhat",
+      "source_urls": [
+        "https://islamibankbd.com/branch/joypurhat-branch",
+        "https://www.banksbd.org/ibbl/branches/joypurhat.html"
+      ],
+      "confidence": "high",
+      "notes": "From the bank's own branch page (no date shown). Address also matches banksbd.org."
+    },
+    {
+      "name_en": "Islami Bank Bangladesh PLC, Kalai Branch",
+      "name_bn": "ইসলামী ব্যাংক বাংলাদেশ",
+      "kind": "bank_branch",
+      "upazila": "Kalai",
+      "address": "Alhaj Bhaban, Holding No. 417, Joypurhat-Mokamtala Sarak, Kalai, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 125380463",
+      "maps_query": "Islami Bank Bangladesh PLC Kalai Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/ibbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Islami Bank Bangladesh PLC, Panchbibi Branch",
+      "name_bn": "ইসলামী ব্যাংক বাংলাদেশ",
+      "kind": "bank_branch",
+      "upazila": "Panchbibi",
+      "address": "Baitun Nur Masjid Market, Holding No. 332/1, Masjid Road, Panchbibi, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 125380676",
+      "maps_query": "Islami Bank Bangladesh PLC Panchbibi Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/ibbl/branches/joypurhat.html"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party branch directory (banksbd.org); no phone listed there."
+    },
+    {
+      "name_en": "Dutch-Bangla Bank PLC, Joypurhat Branch",
+      "name_bn": "ডাচ-বাংলা ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Joypurhat Sadar",
+      "address": "Ansar Ali Complex, 110/1 Sadar Road, Joypurhat",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Routing number: 090380406",
+      "maps_query": "Dutch-Bangla Bank Joypurhat Branch, Joypurhat",
+      "source_urls": [
+        "https://allbanksbd.com/dbbl/joypurhat-branch-1151"
+      ],
+      "confidence": "medium",
+      "notes": "Third-party directory (allbanksbd.com); no phone listed."
+    },
+    {
+      "name_en": "Prime Bank PLC, Joypurhat Branch",
+      "name_bn": "প্রাইম ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Joypurhat Sadar",
+      "address": "Tahera Complex, Holding No. 306, Main Road, Joypurhat 5900",
+      "phones": [
+        "16218",
+        "+880 96040 16218"
+      ],
+      "website": "",
+      "extra": "Routing number: 170380405. Phones are the bank's call centre, not the branch.",
+      "maps_query": "Prime Bank Joypurhat Branch, Joypurhat",
+      "source_urls": [
+        "https://www.banksbd.org/prbl/joypurhat-branch-2879.html"
+      ],
+      "confidence": "low",
+      "notes": "Address is identical to Islami Bank's Joypurhat branch (Tahera Complex, Holding 306) - may be a directory error; verify."
+    },
+    {
+      "name_en": "Al-Arafah Islami Bank PLC, Joypurhat Branch",
+      "name_bn": "আল-আরাফাহ্ ইসলামী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Opened 5 Dec 2023 as the bank's 212th branch.",
+      "maps_query": "Al-Arafah Islami Bank Joypurhat Branch",
+      "source_urls": [
+        "https://www.aibl.com.bd/?p=9408",
+        "https://d11.thedailystar.net/business/banking/news/al-arafah-islami-bank-opens-branch-joypurhat-3486766"
+      ],
+      "confidence": "medium",
+      "notes": "Address and branch phone not given in either source."
+    },
+    {
+      "name_en": "Agrani Bank PLC, Joypurhat",
+      "name_bn": "অগ্রণী ব্যাংক",
+      "kind": "bank_branch",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "",
+      "maps_query": "Agrani Bank Joypurhat Branch",
+      "source_urls": [
+        "https://today.thefinancialexpress.com.bd/print/4-banks-recover-tk-6525m-loan-in-joypurhat"
+      ],
+      "confidence": "low",
+      "notes": "Only evidence is a 2007 news item mentioning 'Joypurhat Agrani bank'. No address, branch list or phone found."
+    }
+  ],
+  "representatives": [
+    {
+      "name_en": "Md Fazlur Rahman Sayeed",
+      "name_bn": "মো. ফজলুর রহমান সাঈদ",
+      "kind": "member_of_parliament",
+      "upazila": "Joypurhat Sadar; Panchbibi",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "https://en.wikipedia.org/wiki/Md_Fazlur_Rahman_Sayed",
+      "extra": "Joypurhat-1 (seat No. 34: Joypurhat Sadar and Panchbibi). Party: Bangladesh Jamaat-e-Islami. 13th Jatiya Sangsad election: 1,65,192 votes; runner-up Md Masud Rana (BNP; 'মোঃ মাসুদ রানা প্রধান' on Jugantor) 1,55,309 votes.",
+      "maps_query": "",
+      "source_urls": [
+        "https://thefinancialexpress.com.bd/national/jamaat-candidate-fazlur-rahman-wins-from-joypurhat-1",
+        "https://www.jugantor.com/13th-parliament-election-2026/seat/jaipurhat-1"
+      ],
+      "confidence": "high",
+      "notes": "Result reported 13 Feb 2026 (unofficial result at time of report). Bangla spelling from Jugantor candidate list."
+    },
+    {
+      "name_en": "Md. Abdul Bari",
+      "name_bn": "মো. আব্দুল বারী",
+      "kind": "member_of_parliament",
+      "upazila": "Akkelpur; Kalai; Khetlal",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "https://en.wikipedia.org/wiki/Joypurhat-2",
+      "extra": "Joypurhat-2 (seat No. 35: Akkelpur, Kalai, Khetlal). Party: Bangladesh Nationalist Party (BNP). Other candidates: S.A. Zahid (AB Party), S.M. Rashedul Alam (Jamaat).",
+      "maps_query": "",
+      "source_urls": [
+        "https://www.dhakatimes24.com/2026/02/13/401579",
+        "https://en.wikipedia.org/wiki/Joypurhat-2",
+        "https://www.jugantor.com/13th-parliament-election-2026/seat/jaipurhat-2"
+      ],
+      "confidence": "high",
+      "notes": "Listed as winner ('জয়পুরহাট-২ আব্দুল বারী') in Dhaka Times list of BNP-won seats, 13 Feb 2026. Vote totals not found."
+    },
+    {
+      "name_en": "Nurul Islam",
+      "name_bn": "নুরুল ইসলাম",
+      "kind": "municipality_administrator",
+      "upazila": "Joypurhat Sadar",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Administrator, Joypurhat Pourashava, and Additional Deputy Commissioner (General).",
+      "maps_query": "",
+      "source_urls": [
+        "https://www.deshrupantor.com/714737"
+      ],
+      "confidence": "medium",
+      "notes": "As reported 22 Aug 2026. No elected mayor at present; administrators are government officers and can change."
+    }
+  ],
+  "newspapers": [
+    {
+      "name_en": "Nabanna (daily)",
+      "name_bn": "",
+      "kind": "daily_newspaper",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Daily; no years given.",
+      "maps_query": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District"
+      ],
+      "confidence": "low",
+      "notes": "From Banglapedia's Joypurhat District article (last updated 14 Oct 2023). Banglapedia gives no website and does not say whether it is still published; name_bn left blank because the Bangla spelling was not seen in a source."
+    },
+    {
+      "name_en": "Balighata (weekly)",
+      "name_bn": "",
+      "kind": "weekly_newspaper",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Weekly; no years given.",
+      "maps_query": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District"
+      ],
+      "confidence": "low",
+      "notes": "From Banglapedia's Joypurhat District article (last updated 14 Oct 2023). Banglapedia gives no website and does not say whether it is still published; name_bn left blank because the Bangla spelling was not seen in a source."
+    },
+    {
+      "name_en": "Panchmatha (weekly)",
+      "name_bn": "",
+      "kind": "weekly_newspaper",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Weekly; no years given.",
+      "maps_query": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District"
+      ],
+      "confidence": "low",
+      "notes": "From Banglapedia's Joypurhat District article (last updated 14 Oct 2023). Banglapedia gives no website and does not say whether it is still published; name_bn left blank because the Bangla spelling was not seen in a source."
+    },
+    {
+      "name_en": "Mahua (monthly)",
+      "name_bn": "",
+      "kind": "monthly_periodical",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Monthly; no years given.",
+      "maps_query": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District"
+      ],
+      "confidence": "low",
+      "notes": "From Banglapedia's Joypurhat District article (last updated 14 Oct 2023). Banglapedia gives no website and does not say whether it is still published; name_bn left blank because the Bangla spelling was not seen in a source."
+    },
+    {
+      "name_en": "Uttar Simanta (half-weekly)",
+      "name_bn": "",
+      "kind": "periodical_historic",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Half-weekly, 1996-99.",
+      "maps_query": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District"
+      ],
+      "confidence": "low",
+      "notes": "From Banglapedia's Joypurhat District article (last updated 14 Oct 2023). Banglapedia gives no website and does not say whether it is still published; name_bn left blank because the Bangla spelling was not seen in a source. Only the years 1996-99 are given."
+    },
+    {
+      "name_en": "Simanta (weekly)",
+      "name_bn": "",
+      "kind": "periodical_historic",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Weekly, 1982-89.",
+      "maps_query": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District"
+      ],
+      "confidence": "low",
+      "notes": "From Banglapedia's Joypurhat District article (last updated 14 Oct 2023). Banglapedia gives no website and does not say whether it is still published; name_bn left blank because the Bangla spelling was not seen in a source. Only the years 1982-89 are given."
+    },
+    {
+      "name_en": "Joypurhat Barta (weekly)",
+      "name_bn": "",
+      "kind": "periodical_historic",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Weekly, 1987-88.",
+      "maps_query": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District"
+      ],
+      "confidence": "low",
+      "notes": "From Banglapedia's Joypurhat District article (last updated 14 Oct 2023). Banglapedia gives no website and does not say whether it is still published; name_bn left blank because the Bangla spelling was not seen in a source. Only the years 1987-88 are given."
+    },
+    {
+      "name_en": "Bangadhoni (weekly)",
+      "name_bn": "",
+      "kind": "periodical_historic",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Weekly, 1985-88.",
+      "maps_query": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District"
+      ],
+      "confidence": "low",
+      "notes": "From Banglapedia's Joypurhat District article (last updated 14 Oct 2023). Banglapedia gives no website and does not say whether it is still published; name_bn left blank because the Bangla spelling was not seen in a source. Only the years 1985-88 are given."
+    },
+    {
+      "name_en": "Diganta (fortnightly)",
+      "name_bn": "",
+      "kind": "periodical_historic",
+      "upazila": "",
+      "address": "",
+      "phones": [
+        ""
+      ],
+      "website": "",
+      "extra": "Fortnightly, 1981-84.",
+      "maps_query": "",
+      "source_urls": [
+        "https://en.banglapedia.org/index.php/Joypurhat_District"
+      ],
+      "confidence": "low",
+      "notes": "From Banglapedia's Joypurhat District article (last updated 14 Oct 2023). Banglapedia gives no website and does not say whether it is still published; name_bn left blank because the Bangla spelling was not seen in a source. Only the years 1981-84 are given."
+    }
+  ]
+}

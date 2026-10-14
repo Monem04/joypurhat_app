@@ -1,0 +1,757 @@
+{
+  "checked": "2026-10-11",
+  "trains": [
+    {
+      "name_en": "Ekota Express",
+      "name_bn": "একতা এক্সপ্রেস",
+      "numbers": {
+        "705": "Dhaka (Kamalapur) to Panchagarh",
+        "706": "Panchagarh to Dhaka (Kamalapur)"
+      },
+      "joypurhat_times": {
+        "705": {
+          "arr": "16:50",
+          "dep": "16:53"
+        },
+        "706": {
+          "arr": "01:18",
+          "dep": "01:21"
+        }
+      },
+      "off_day": "None (runs daily)",
+      "termini": "Dhaka (Kamalapur) - Panchagarh",
+      "fares_from_joypurhat": {
+        "Dhaka": {
+          "shovan_chair": "510 (amlye.com, Jun 2026) / 465 (gojatra.com, Aug 2026)",
+          "first_berth": "775 (gojatra.com, Aug 2026)",
+          "snigdha": "978 (amlye.com, Jun 2026) / 892 (gojatra.com, Aug 2026)",
+          "ac_s": "1173 (amlye.com, Jun 2026) / 1070 'AC' (gojatra.com, Aug 2026)",
+          "ac_b": "1810 (amlye.com, Jun 2026) / 1599 (gojatra.com, Aug 2026)"
+        }
+      },
+      "stops_nearby": [
+        "Akkelpur (705 arr 16:25 dep 16:27; 706 arr 01:35 dep 01:37)",
+        "Panchbibi (705 arr 17:12 dep 17:14; 706 arr 01:05 dep 01:07)"
+      ],
+      "source_urls": [
+        "https://bdtrainschedule.com/ekota-express-train-schedule/",
+        "https://railwaytimes.org/ekota-express-train-schedule/",
+        "https://www.amlye.com/2026/06/dhaka-to-joypurhat-train-schedule.html",
+        "https://gojatra.com/bn/train/%e0%a6%9c%e0%a7%9f%e0%a6%aa%e0%a7%81%e0%a6%b0%e0%a6%b9%e0%a6%be%e0%a6%9f-%e0%a6%9f%e0%a7%81-%e0%a6%a2%e0%a6%be%e0%a6%95%e0%a6%be-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a7%87/",
+        "https://minciter.com/joypurhat-train-schedule-ticket-price-time-booking/",
+        "https://railway.gov.bd/pages/static-pages/691997b8933eb65569dde71d"
+      ],
+      "confidence": "high",
+      "notes": "Times from bdtrainschedule.com (published 15 Mar 2025, matches official Time Table No. 54 effective 10 Mar 2025); railwaytimes.org (updated 10 Oct 2026) gives the same 705 Joypurhat times 16:50/16:53. Jamalganj not listed as a stop. Conflicts: minciter.com (updated 6 Mar 2026 but data looks old) says 705 off Tuesday / 706 off Monday and 706 departs Joypurhat 01:13 or 01:18; gojatra.com says 706 departs Joypurhat 01:31. Full-route Dhaka-Panchagarh fares (not from Joypurhat): bdtrainschedule S_CHAIR 695, SNIGDHA 1334, AC_S 1599; railwaytimes.org Shovon Chair 760, Snigdha 1420, AC sleeper 1700. Dhaka fares: amlye.com (Jun 2026) lists one Dhaka-Joypurhat fare table for all six Dhaka trains (Shovon Chair 510, Snigdha 978, AC Seat 1173, AC Berth 1810); gojatra.com (updated 31 Aug 2026) lists Joypurhat-Dhaka fares for Ekota/Druto/Nilsagar as Shovon Chair 465, First Berth 775, Snigdha 892, AC 1070, AC Berth 1599. The two sources conflict; neither is official. Confirm on eticket.railway.gov.bd."
+    },
+    {
+      "name_en": "Drutojan Express",
+      "name_bn": "দ্রুতযান এক্সপ্রেস",
+      "numbers": {
+        "757": "Dhaka to Panchagarh",
+        "758": "Panchagarh to Dhaka"
+      },
+      "joypurhat_times": {
+        "757": {
+          "arr": "02:37",
+          "dep": "02:39"
+        },
+        "758": {
+          "arr": "11:53",
+          "dep": "11:56"
+        }
+      },
+      "off_day": "None (runs daily) per bdtrainschedule.com; minciter.com says Wednesday",
+      "termini": "Dhaka - Panchagarh",
+      "fares_from_joypurhat": {
+        "Dhaka": {
+          "shovan_chair": "510 (amlye.com, Jun 2026) / 465 (gojatra.com, Aug 2026)",
+          "first_berth": "775 (gojatra.com, Aug 2026)",
+          "snigdha": "978 (amlye.com, Jun 2026) / 892 (gojatra.com, Aug 2026)",
+          "ac_s": "1173 (amlye.com, Jun 2026) / 1070 'AC' (gojatra.com, Aug 2026)",
+          "ac_b": "1810 (amlye.com, Jun 2026) / 1599 (gojatra.com, Aug 2026)"
+        }
+      },
+      "stops_nearby": [
+        "Akkelpur (757 arr 02:20 dep 02:22; 758 arr 12:09 dep 12:11)",
+        "Panchbibi (757 arr 02:50 dep 02:52; 758 arr 11:40 dep 11:42)"
+      ],
+      "source_urls": [
+        "https://bdtrainschedule.com/drutojan-express-train-schedule/",
+        "https://www.amlye.com/2026/06/dhaka-to-joypurhat-train-schedule.html",
+        "https://gojatra.com/bn/train/%e0%a6%9c%e0%a7%9f%e0%a6%aa%e0%a7%81%e0%a6%b0%e0%a6%b9%e0%a6%be%e0%a6%9f-%e0%a6%9f%e0%a7%81-%e0%a6%a2%e0%a6%be%e0%a6%95%e0%a6%be-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a7%87/",
+        "https://vromonprio.com/dhaka-to-joypurhat-train-fare-schedule",
+        "https://minciter.com/joypurhat-train-schedule-ticket-price-time-booking/"
+      ],
+      "confidence": "medium",
+      "notes": "Times from bdtrainschedule.com (published 10 Mar 2025). amlye.com (Jun 2026) agrees on 757 Joypurhat arrival 02:37 but gives Dhaka departure 20:45 (8:45 PM); vromonprio.com gives Dhaka dep 20:00, Joypurhat arr 02:06; gojatra.com gives 758 Joypurhat dep 11:57 (it mislabels the train as 768); minciter.com gives 758 Joypurhat dep 11:34 or 12:57. Jamalganj not listed. Full-route Dhaka-Panchagarh fares (bdtrainschedule): SNIGDHA 1334, S_CHAIR 695, AC_B 2398. Dhaka fares: amlye.com (Jun 2026) lists one Dhaka-Joypurhat fare table for all six Dhaka trains (Shovon Chair 510, Snigdha 978, AC Seat 1173, AC Berth 1810); gojatra.com (updated 31 Aug 2026) lists Joypurhat-Dhaka fares for Ekota/Druto/Nilsagar as Shovon Chair 465, First Berth 775, Snigdha 892, AC 1070, AC Berth 1599. The two sources conflict; neither is official. Confirm on eticket.railway.gov.bd."
+    },
+    {
+      "name_en": "Nilsagar Express",
+      "name_bn": "নীলসাগর এক্সপ্রেস",
+      "numbers": {
+        "765": "Dhaka to Chilahati",
+        "766": "Chilahati to Dhaka"
+      },
+      "joypurhat_times": {
+        "765": {
+          "arr": "12:54",
+          "dep": "12:57"
+        },
+        "766": {
+          "arr": "22:43",
+          "dep": "22:46"
+        }
+      },
+      "off_day": "765: Wednesday; 766: Tuesday",
+      "termini": "Dhaka - Chilahati (Nilphamari)",
+      "fares_from_joypurhat": {
+        "Dhaka": {
+          "shovan_chair": "510 (amlye.com, Jun 2026) / 465 (gojatra.com, Aug 2026)",
+          "first_berth": "775 (gojatra.com, Aug 2026)",
+          "snigdha": "978 (amlye.com, Jun 2026) / 892 (gojatra.com, Aug 2026)",
+          "ac_s": "1173 (amlye.com, Jun 2026) / 1070 'AC' (gojatra.com, Aug 2026)",
+          "ac_b": "1810 (amlye.com, Jun 2026) / 1599 (gojatra.com, Aug 2026)"
+        }
+      },
+      "stops_nearby": [
+        "Akkelpur (765 arr 12:38 dep 12:40; 766 arr 23:00 dep 23:02)"
+      ],
+      "source_urls": [
+        "https://bdtrainschedule.com/nilsagar-express-train-schedule/",
+        "https://railway.gov.bd/pages/static-pages/691997b8933eb65569dde71d",
+        "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-railway/2024/12/59b5aa56840546f1a05b0741b8cca044.pdf",
+        "https://www.amlye.com/2026/06/dhaka-to-joypurhat-train-schedule.html",
+        "https://vromonprio.com/dhaka-to-joypurhat-train-fare-schedule",
+        "https://gojatra.com/bn/train/%e0%a6%9c%e0%a7%9f%e0%a6%aa%e0%a7%81%e0%a6%b0%e0%a6%b9%e0%a6%be%e0%a6%9f-%e0%a6%9f%e0%a7%81-%e0%a6%a2%e0%a6%be%e0%a6%95%e0%a6%be-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a7%87/",
+        "https://minciter.com/joypurhat-train-schedule-ticket-price-time-booking/"
+      ],
+      "confidence": "high",
+      "notes": "Joypurhat times from bdtrainschedule.com (published 12 Mar 2025). Off days 765 Wednesday / 766 Tuesday confirmed in the official Western Region Time Table No. 54 PDF (effective 10 Mar 2025; 765 Dhaka dep 06:45, Santahar 12:00/12:05; 766 Chilahati dep 20:00, Santahar 23:20/23:25). amlye.com (Jun 2026) agrees: 765 off Wednesday, Joypurhat arr 12:54. Conflicts: minciter.com says 765 off Monday / 766 off Sunday; vromonprio.com says 765 off Monday (arr 13:11); gojatra.com says 766 off Sunday, dep Joypurhat 22:47. Panchbibi and Jamalganj not listed. Full-route Dhaka-Chilahati fares (bdtrainschedule): AC_S 1421, SNIGDHA 1185, S_CHAIR 620. Dhaka fares: amlye.com (Jun 2026) lists one Dhaka-Joypurhat fare table for all six Dhaka trains (Shovon Chair 510, Snigdha 978, AC Seat 1173, AC Berth 1810); gojatra.com (updated 31 Aug 2026) lists Joypurhat-Dhaka fares for Ekota/Druto/Nilsagar as Shovon Chair 465, First Berth 775, Snigdha 892, AC 1070, AC Berth 1599. The two sources conflict; neither is official. Confirm on eticket.railway.gov.bd."
+    },
+    {
+      "name_en": "Panchagarh Express",
+      "name_bn": "পঞ্চগড় এক্সপ্রেস",
+      "numbers": {
+        "793": "Dhaka to Panchagarh",
+        "794": "Panchagarh to Dhaka"
+      },
+      "joypurhat_times": {
+        "793": {
+          "arr": "05:01",
+          "dep": "05:04"
+        },
+        "794": {
+          "arr": "16:13",
+          "dep": "16:16"
+        }
+      },
+      "off_day": "None (runs daily)",
+      "termini": "Dhaka (Kamalapur) - Panchagarh",
+      "fares_from_joypurhat": {
+        "Dhaka": {
+          "shovan_chair": "510 (amlye.com, Jun 2026)",
+          "snigdha": "978 (amlye.com, Jun 2026)",
+          "ac_s": "1173 (amlye.com, Jun 2026)",
+          "ac_b": "1810 (amlye.com, Jun 2026)"
+        }
+      },
+      "stops_nearby": [],
+      "source_urls": [
+        "https://bdtrainschedule.com/panchagarh-express-train-schedule/",
+        "https://www.amlye.com/2026/06/dhaka-to-joypurhat-train-schedule.html",
+        "https://gojatra.com/bn/train/%e0%a6%9c%e0%a7%9f%e0%a6%aa%e0%a7%81%e0%a6%b0%e0%a6%b9%e0%a6%be%e0%a6%9f-%e0%a6%9f%e0%a7%81-%e0%a6%a2%e0%a6%be%e0%a6%95%e0%a6%be-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a7%87/",
+        "https://en.wikipedia.org/wiki/Panchagarh_Express"
+      ],
+      "confidence": "high",
+      "notes": "Times from bdtrainschedule.com (published 16 Mar 2025). amlye.com (Jun 2026) agrees on 793 Joypurhat arr 05:01; gojatra.com agrees on 794 Joypurhat dep 16:16. No stop at Akkelpur, Jamalganj or Panchbibi listed by bdtrainschedule or Wikipedia. Full-route Dhaka-Panchagarh fares (bdtrainschedule): SNIGDHA 1334, S_CHAIR 695, AC_B 2448. Dhaka fares: amlye.com (Jun 2026) lists one Dhaka-Joypurhat fare table for all six Dhaka trains (Shovon Chair 510, Snigdha 978, AC Seat 1173, AC Berth 1810); gojatra.com (updated 31 Aug 2026) lists Joypurhat-Dhaka fares for Ekota/Druto/Nilsagar as Shovon Chair 465, First Berth 775, Snigdha 892, AC 1070, AC Berth 1599. The two sources conflict; neither is official. Confirm on eticket.railway.gov.bd."
+    },
+    {
+      "name_en": "Banglabandha Express",
+      "name_bn": "বাংলাবান্ধা এক্সপ্রেস",
+      "numbers": {
+        "803": "Rajshahi to Panchagarh",
+        "804": "Panchagarh to Rajshahi"
+      },
+      "joypurhat_times": {
+        "803": {
+          "arr": "00:02",
+          "dep": "00:04"
+        },
+        "804": {
+          "arr": "13:43",
+          "dep": "13:46"
+        }
+      },
+      "off_day": "803: Friday; 804: Saturday",
+      "termini": "Rajshahi - Panchagarh",
+      "fares_from_joypurhat": {
+        "Rajshahi": {
+          "shovan": "130",
+          "shovan_chair": "155",
+          "first_seat": "205",
+          "snigdha": "255"
+        }
+      },
+      "stops_nearby": [
+        "Akkelpur (803 arr 23:45 dep 23:47; 804 arr 14:12 dep 14:14)",
+        "Panchbibi (803 arr 00:15 dep 00:17; 804 arr 13:30 dep 13:32)"
+      ],
+      "source_urls": [
+        "https://bdtrainschedule.com/banglabandha-express-train-schedule/",
+        "https://railway.gov.bd/pages/static-pages/691997b8933eb65569dde71d",
+        "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-railway/2024/12/59b5aa56840546f1a05b0741b8cca044.pdf",
+        "https://gojatra.com/bn/train/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%9F%E0%A7%81-%E0%A6%9C%E0%A7%9F%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%B9%E0%A6%BE%E0%A6%9F-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87/",
+        "https://gojatra.com/bn/train/%e0%a6%9c%e0%a7%9f%e0%a6%aa%e0%a7%81%e0%a6%b0%e0%a6%b9%e0%a6%be%e0%a6%9f-%e0%a6%9f%e0%a7%81-%e0%a6%b0%e0%a6%be%e0%a6%9c%e0%a6%b6%e0%a6%be%e0%a6%b9%e0%a7%80-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a7%87/"
+      ],
+      "confidence": "high",
+      "notes": "Times from bdtrainschedule.com (published 13 Mar 2025). Official Time Table No. 54 PDF confirms off days (803 Friday, 804 Saturday), 803 Rajshahi dep 21:00 (Santahar 23:21/23:25), 804 Panchagarh dep 09:00. 803 reaches Joypurhat just after midnight (next calendar day). gojatra.com (Aug 2026): 803 arr Joypurhat 00:06, 804 dep Joypurhat 13:43. Jamalganj not listed. Full-route fares (bdtrainschedule): AC_B 1352, S_CHAIR 395. Rajshahi fares from gojatra.com Rajshahi-Joypurhat page (updated 31 Aug 2026): Shovon 130, Shovon Chair 155, First Seat 205, Snigdha 255; the page does not say which train or give AC fares."
+    },
+    {
+      "name_en": "Titumir Express",
+      "name_bn": "তিতুমীর এক্সপ্রেস",
+      "numbers": {
+        "733": "Rajshahi to Chilahati",
+        "734": "Chilahati to Rajshahi"
+      },
+      "joypurhat_times": {
+        "733": {
+          "arr": "09:30",
+          "dep": "09:33"
+        },
+        "734": {
+          "arr": "18:12",
+          "dep": "18:15"
+        }
+      },
+      "off_day": "Wednesday",
+      "termini": "Rajshahi - Chilahati",
+      "fares_from_joypurhat": {
+        "Rajshahi": {
+          "shovan": "130",
+          "shovan_chair": "155",
+          "first_seat": "205",
+          "snigdha": "255"
+        }
+      },
+      "stops_nearby": [
+        "Akkelpur (733 arr 09:10 dep 09:12; 734 arr 18:33 dep 18:35)",
+        "Jamalganj (733 arr 09:20 dep 09:22; 734 arr 18:23 dep 18:25)",
+        "Panchbibi (733 arr 09:44; 734 arr 17:59; departure not listed)"
+      ],
+      "source_urls": [
+        "https://bdtrainschedule.com/titumir-express-train-schedule/",
+        "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-railway/2024/12/59b5aa56840546f1a05b0741b8cca044.pdf",
+        "https://gojatra.com/bn/train/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%9F%E0%A7%81-%E0%A6%9C%E0%A7%9F%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%B9%E0%A6%BE%E0%A6%9F-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87/",
+        "https://gojatra.com/bn/train/%e0%a6%9c%e0%a7%9f%e0%a6%aa%e0%a7%81%e0%a6%b0%e0%a6%b9%e0%a6%be%e0%a6%9f-%e0%a6%9f%e0%a7%81-%e0%a6%b0%e0%a6%be%e0%a6%9c%e0%a6%b6%e0%a6%be%e0%a6%b9%e0%a7%80-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a7%87/",
+        "https://minciter.com/joypurhat-train-schedule-ticket-price-time-booking/"
+      ],
+      "confidence": "medium",
+      "notes": "Station times from bdtrainschedule.com (published 20 May 2024, updated 13 Feb 2025); that page labels directions only as Rajshahi->Chilahati (dep 06:20) and Chilahati->Rajshahi (dep 15:00). Number-to-direction mapping (733 = from Rajshahi, 734 = to Rajshahi) is from gojatra.com (733 dep Rajshahi 06:20 arr Joypurhat 09:30; 734 dep Joypurhat 18:15), minciter.com and the official TT54 PDF (733 row starts Rajshahi 06:20, off Wednesday). Only train in this list with a Jamalganj stop in the sources read. minciter.com gives older Joypurhat departures 733 09:43 / 734 17:28. Full-route fares (bdtrainschedule): First Class Seat 483, Shovon Chair 315, Shovon 265. Rajshahi fares from gojatra.com Rajshahi-Joypurhat page (updated 31 Aug 2026): Shovon 130, Shovon Chair 155, First Seat 205, Snigdha 255; the page does not say which train or give AC fares."
+    },
+    {
+      "name_en": "Barendra Express",
+      "name_bn": "বরেন্দ্র এক্সপ্রেস",
+      "numbers": {
+        "731": "Rajshahi to Chilahati",
+        "732": "Chilahati to Rajshahi"
+      },
+      "joypurhat_times": {
+        "731": {
+          "arr": "18:07",
+          "dep": "18:10"
+        },
+        "732": {
+          "arr": "07:58",
+          "dep": "08:01"
+        }
+      },
+      "off_day": "Sunday",
+      "termini": "Rajshahi - Chilahati",
+      "fares_from_joypurhat": {
+        "Rajshahi": {
+          "shovan": "130",
+          "shovan_chair": "155",
+          "first_seat": "205",
+          "snigdha": "255"
+        }
+      },
+      "stops_nearby": [
+        "Akkelpur (731 arr 17:50 dep 17:52; 732 arr 08:15 dep 08:17)",
+        "Panchbibi (731 arr 18:28 dep 18:30; 732 arr 07:45 dep 07:47)"
+      ],
+      "source_urls": [
+        "https://bdtrainschedule.com/barendra-express-train-schedule/",
+        "https://railway.gov.bd/pages/static-pages/691997b8933eb65569dde71d",
+        "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-railway/2024/12/59b5aa56840546f1a05b0741b8cca044.pdf",
+        "https://gojatra.com/bn/train/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%9F%E0%A7%81-%E0%A6%9C%E0%A7%9F%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%B9%E0%A6%BE%E0%A6%9F-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87/",
+        "https://gojatra.com/bn/train/%e0%a6%9c%e0%a7%9f%e0%a6%aa%e0%a7%81%e0%a6%b0%e0%a6%b9%e0%a6%be%e0%a6%9f-%e0%a6%9f%e0%a7%81-%e0%a6%b0%e0%a6%be%e0%a6%9c%e0%a6%b6%e0%a6%be%e0%a6%b9%e0%a7%80-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a7%87/",
+        "https://en.wikipedia.org/wiki/Barendra_Express",
+        "https://minciter.com/joypurhat-train-schedule-ticket-price-time-booking/"
+      ],
+      "confidence": "high",
+      "notes": "Joypurhat, Akkelpur and Panchbibi times are identical in bdtrainschedule.com (published 10 Mar 2025) and the official Western Region Time Table No. 54 PDF (effective 10 Mar 2025). 731 dep Rajshahi 15:00, arr Chilahati 21:30; 732 dep Chilahati 05:00, arr Rajshahi 11:10. Minor conflicts: gojatra.com gives 731 arr Joypurhat 18:06 and 732 dep 08:11; minciter.com gives 731 dep 18:13 and 732 dep 09:00. Jamalganj not listed. Full-route S_CHAIR fare (bdtrainschedule): 315. Rajshahi fares from gojatra.com Rajshahi-Joypurhat page (updated 31 Aug 2026): Shovon 130, Shovon Chair 155, First Seat 205, Snigdha 255; the page does not say which train or give AC fares."
+    },
+    {
+      "name_en": "Rupsha Express",
+      "name_bn": "রূপসা এক্সপ্রেস",
+      "numbers": {
+        "727": "Khulna to Chilahati",
+        "728": "Chilahati to Khulna"
+      },
+      "joypurhat_times": {
+        "727": {
+          "arr": "14:05",
+          "dep": "14:08"
+        },
+        "728": {
+          "arr": "11:22",
+          "dep": "11:25"
+        }
+      },
+      "off_day": "Thursday",
+      "termini": "Khulna - Chilahati",
+      "fares_from_joypurhat": {},
+      "stops_nearby": [
+        "Akkelpur (727 arr 13:50 dep 13:52; 728 arr 11:39 dep 11:41)"
+      ],
+      "source_urls": [
+        "https://bdtrainschedule.com/rupsha-express-train-schedule/",
+        "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-railway/2024/12/59b5aa56840546f1a05b0741b8cca044.pdf",
+        "https://minciter.com/joypurhat-train-schedule-ticket-price-time-booking/"
+      ],
+      "confidence": "high",
+      "notes": "Times from bdtrainschedule.com (published 15 Mar 2025); official TT54 PDF confirms off day Thursday, 727 Khulna dep 07:15 (Santahar 13:25/13:30), 728 Chilahati dep 08:30 and 728 Joypurhat 11:22/11:25, Akkelpur 11:39/11:41. minciter.com gives older Joypurhat departures 727 14:12 / 728 10:59. Panchbibi and Jamalganj not listed. No Joypurhat-Khulna fare found; full-route Khulna-Chilahati fares (bdtrainschedule): F_SEAT 880, S_CHAIR 575, SNIGDHA 1104, AC_S 1323."
+    },
+    {
+      "name_en": "Simanta Express",
+      "name_bn": "সীমান্ত এক্সপ্রেস",
+      "numbers": {
+        "747": "Khulna to Chilahati",
+        "748": "Chilahati to Khulna"
+      },
+      "joypurhat_times": {
+        "747": {
+          "arr": "03:46",
+          "dep": ""
+        },
+        "748": {
+          "arr": "21:15",
+          "dep": ""
+        }
+      },
+      "off_day": "Monday",
+      "termini": "Khulna - Chilahati",
+      "fares_from_joypurhat": {},
+      "stops_nearby": [
+        "Akkelpur (747: 03:30)"
+      ],
+      "source_urls": [
+        "https://traintimesbd.com/simanta-express-train-schedule/",
+        "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-railway/2024/12/59b5aa56840546f1a05b0741b8cca044.pdf",
+        "https://en.wikipedia.org/wiki/Simanta_Express",
+        "https://minciter.com/joypurhat-train-schedule-ticket-price-time-booking/"
+      ],
+      "confidence": "medium",
+      "notes": "Joypurhat times from traintimesbd.com (modified 9 Oct 2026), which gives a single time per station (not separate arr/dep): 747 Joypurhat 03:46, 748 Joypurhat 21:15; 747 dep Khulna 21:15 arr Chilahati 06:45; 748 dep Chilahati 18:30 arr Khulna 04:10. Official TT54 PDF: off day Monday, 747 Khulna dep 21:15 (Santahar 03:05/03:10), 748 Chilahati dep 18:30 (Santahar 21:55/22:00). Conflicts: minciter.com says no off day and Joypurhat departures 747 03:30 / 748 21:38; Wikipedia gives old daytime termini times. Wikipedia's stop list includes Akkelpur. bdtrainschedule.com page could not be fetched. No Joypurhat-Khulna fare found; full-route fares (traintimesbd): Shovon Chair 575, Snigdha 1104, 1st Berth 1323, AC Berth 1978."
+    },
+    {
+      "name_en": "Kurigram Express",
+      "name_bn": "কুড়িগ্রাম এক্সপ্রেস",
+      "numbers": {
+        "797": "Dhaka to Kurigram",
+        "798": "Kurigram to Dhaka"
+      },
+      "joypurhat_times": {
+        "797": {
+          "arr": "01:55",
+          "dep": "01:58"
+        },
+        "798": {
+          "arr": "10:42",
+          "dep": "10:45"
+        }
+      },
+      "off_day": "Tuesday per bdtrainschedule.com and amlye.com; Wednesday per gojatra.com, minciter.com, vromonprio.com",
+      "termini": "Dhaka - Kurigram",
+      "fares_from_joypurhat": {
+        "Dhaka": {
+          "shovan_chair": "510 (amlye.com, Jun 2026)",
+          "snigdha": "978 (amlye.com, Jun 2026)",
+          "ac_s": "1173 (amlye.com, Jun 2026)",
+          "ac_b": "1810 (amlye.com, Jun 2026)"
+        }
+      },
+      "stops_nearby": [],
+      "source_urls": [
+        "https://bdtrainschedule.com/kurigram-express-train-schedule/",
+        "https://www.amlye.com/2026/06/dhaka-to-joypurhat-train-schedule.html",
+        "https://gojatra.com/bn/train/%e0%a6%9c%e0%a7%9f%e0%a6%aa%e0%a7%81%e0%a6%b0%e0%a6%b9%e0%a6%be%e0%a6%9f-%e0%a6%9f%e0%a7%81-%e0%a6%a2%e0%a6%be%e0%a6%95%e0%a6%be-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a7%87/",
+        "https://minciter.com/joypurhat-train-schedule-ticket-price-time-booking/",
+        "https://vromonprio.com/dhaka-to-joypurhat-train-fare-schedule"
+      ],
+      "confidence": "medium",
+      "notes": "Times from bdtrainschedule.com (published 10 Mar 2025): 797 dep Dhaka 20:00, 798 dep Kurigram 07:10. amlye.com (Jun 2026) agrees on 797 Joypurhat arr 01:55 and off Tuesday. gojatra.com: 798 dep Joypurhat 10:46, off Wednesday; minciter.com: 798 dep 10:49, off Wednesday; vromonprio.com: Dhaka dep 20:45, Joypurhat arr 02:52, off Wednesday. Off day is unresolved. Akkelpur/Jamalganj/Panchbibi not listed. Full-route Dhaka-Kurigram fares (bdtrainschedule): AC_B 2197, SNIGDHA 1225, S_CHAIR 640. Dhaka fares: amlye.com (Jun 2026) lists one Dhaka-Joypurhat fare table for all six Dhaka trains (Shovon Chair 510, Snigdha 978, AC Seat 1173, AC Berth 1810); gojatra.com (updated 31 Aug 2026) lists Joypurhat-Dhaka fares for Ekota/Druto/Nilsagar as Shovon Chair 465, First Berth 775, Snigdha 892, AC 1070, AC Berth 1599. The two sources conflict; neither is official. Confirm on eticket.railway.gov.bd."
+    },
+    {
+      "name_en": "Chilahati Express",
+      "name_bn": "চিলাহাটি এক্সপ্রেস",
+      "numbers": {
+        "805": "Dhaka to Chilahati",
+        "806": "Chilahati to Dhaka"
+      },
+      "joypurhat_times": {
+        "805": {
+          "arr": "23:19",
+          "dep": "23:22"
+        },
+        "806": {
+          "arr": "08:32",
+          "dep": "08:35"
+        }
+      },
+      "off_day": "Saturday",
+      "termini": "Dhaka - Chilahati",
+      "fares_from_joypurhat": {
+        "Dhaka": {
+          "shovan_chair": "510 (amlye.com, Jun 2026)",
+          "snigdha": "978 (amlye.com, Jun 2026)",
+          "ac_s": "1173 (amlye.com, Jun 2026)",
+          "ac_b": "1810 (amlye.com, Jun 2026)"
+        }
+      },
+      "stops_nearby": [],
+      "source_urls": [
+        "https://bdtrainschedule.com/chilahati-express-train-schedule/",
+        "https://www.amlye.com/2026/06/dhaka-to-joypurhat-train-schedule.html",
+        "https://gojatra.com/bn/train/%e0%a6%9c%e0%a7%9f%e0%a6%aa%e0%a7%81%e0%a6%b0%e0%a6%b9%e0%a6%be%e0%a6%9f-%e0%a6%9f%e0%a7%81-%e0%a6%a2%e0%a6%be%e0%a6%95%e0%a6%be-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a7%87/",
+        "https://vromonprio.com/dhaka-to-joypurhat-train-fare-schedule"
+      ],
+      "confidence": "high",
+      "notes": "Times from bdtrainschedule.com (published 11 Mar 2025). amlye.com (Jun 2026): 805 dep Dhaka 17:00, arr Joypurhat 23:19, off Saturday; gojatra.com: 806 dep Joypurhat 08:35, off Saturday. vromonprio.com gives 805 arr Joypurhat 23:41 and is self-contradictory on off day (Saturday in table, Friday in text). Akkelpur/Jamalganj/Panchbibi not listed. Full-route Dhaka-Chilahati fares (bdtrainschedule): SNIGDHA 1185, AC_B 2128, S_CHAIR 620. Dhaka fares: amlye.com (Jun 2026) lists one Dhaka-Joypurhat fare table for all six Dhaka trains (Shovon Chair 510, Snigdha 978, AC Seat 1173, AC Berth 1810); gojatra.com (updated 31 Aug 2026) lists Joypurhat-Dhaka fares for Ekota/Druto/Nilsagar as Shovon Chair 465, First Berth 775, Snigdha 892, AC 1070, AC Berth 1599. The two sources conflict; neither is official. Confirm on eticket.railway.gov.bd."
+    },
+    {
+      "name_en": "Uttara Express (mail/express)",
+      "name_bn": "উত্তরা এক্সপ্রেস",
+      "numbers": {
+        "5": "Rajshahi to Parbatipur (traintimesbd numbering)",
+        "6": "Parbatipur to Rajshahi (traintimesbd numbering)",
+        "31": "towards Parbatipur (minciter/gojatra numbering)",
+        "32": "towards Rajshahi (minciter/gojatra numbering)"
+      },
+      "joypurhat_times": {
+        "31": {
+          "arr": "",
+          "dep": "18:29"
+        },
+        "32": {
+          "arr": "",
+          "dep": "05:09"
+        }
+      },
+      "off_day": "None (runs daily) per traintimesbd.com",
+      "termini": "Rajshahi - Parbatipur",
+      "fares_from_joypurhat": {},
+      "stops_nearby": [
+        "Akkelpur",
+        "Jamalganj",
+        "Panchbibi"
+      ],
+      "source_urls": [
+        "https://traintimesbd.com/uttara-express-train-schedule/",
+        "https://minciter.com/joypurhat-train-schedule-ticket-price-time-booking/",
+        "https://gojatra.com/bn/train/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%9F%E0%A7%81-%E0%A6%9C%E0%A7%9F%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%B9%E0%A6%BE%E0%A6%9F-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87/",
+        "https://bn.wikipedia.org/wiki/জয়পুরহাট_রেলওয়ে_স্টেশন"
+      ],
+      "confidence": "low",
+      "notes": "Train numbers conflict: traintimesbd.com (modified 11 Oct 2026) says 5 (Rajshahi dep 12:30 -> Parbatipur arr 20:15) and 6 (Parbatipur dep 03:15 -> Rajshahi arr 10:20), and lists Akkelpur, Joypurhat, Jamalganj, Panchbibi as stops without times; minciter.com and gojatra.com use 31/32. Joypurhat departure times shown are from minciter.com only (31 dep 18:29 -> Parbatipur 20:15; 32 dep 05:09 -> Rajshahi 10:20) and may be outdated. Full-route fares (traintimesbd): Shovon 180, Shovon Chair 215."
+    },
+    {
+      "name_en": "Rocket Express (mail/express)",
+      "name_bn": "রকেট এক্সপ্রেস",
+      "numbers": {
+        "23": "towards Parbatipur",
+        "24": "towards Khulna"
+      },
+      "joypurhat_times": {
+        "23": {
+          "arr": "",
+          "dep": "20:20"
+        },
+        "24": {
+          "arr": "",
+          "dep": "10:41"
+        }
+      },
+      "off_day": "",
+      "termini": "Khulna - Parbatipur",
+      "fares_from_joypurhat": {},
+      "stops_nearby": [],
+      "source_urls": [
+        "https://minciter.com/joypurhat-train-schedule-ticket-price-time-booking/",
+        "https://bn.wikipedia.org/wiki/জয়পুরহাট_রেলওয়ে_স্টেশন"
+      ],
+      "confidence": "low",
+      "notes": "Only source with times is minciter.com (updated 6 Mar 2026, data appears old): 23 dep Joypurhat 20:20 arr Parbatipur 22:00; 24 dep Joypurhat 10:41 arr Khulna 23:45. Bangla Wikipedia's Joypurhat station page lists Rocket Express among trains stopping there. Not verified against the official timetable."
+    }
+  ],
+  "buses": [
+    {
+      "operator_en": "SR Travels",
+      "operator_bn": "এস আর ট্রাভেলস",
+      "coach": "AC",
+      "route": "Dhaka - Joypurhat",
+      "departures": [],
+      "counters": [
+        {
+          "place": "Joypurhat",
+          "phones": [
+            "01991-177436"
+          ]
+        },
+        {
+          "place": "Panchbibi ('Pachbibi'), Joypurhat",
+          "phones": [
+            "01991-177437"
+          ]
+        },
+        {
+          "place": "Hili ('Hili, Jaypurhat' per source)",
+          "phones": [
+            "01991-177438"
+          ]
+        }
+      ],
+      "fare": "1300 (Hyundai, business class); 900 (Hino, economy class)",
+      "source_urls": [
+        "https://travelinfo.com.bd/dhaka-to-jaipurhat-bus-service-ticket-price/",
+        "https://vromonprio.com/bus/dhaka-to-jaipurhat-bus-tickets-and-schedule",
+        "https://www.zatriseba.com/2024/05/sr-travels-all-counter-contact-number.html"
+      ],
+      "confidence": "medium",
+      "notes": "Fares from travelinfo.com.bd (published 27 Sep 2024) and vromonprio.com (2026, undated) which list the same table. Counter phones from zatriseba.com (URL dated May 2024, no street address given). Hili is listed by the source under Joypurhat, but Hili is not a Joypurhat upazila; verify. rakibulislamnayon.com (18 Oct 2025) gives SR Travels Dhaka-Joypurhat fare range 550-1000 and Dhaka boarding at Shyamoli. No Joypurhat departure times found."
+    },
+    {
+      "operator_en": "SR Travels",
+      "operator_bn": "এস আর ট্রাভেলস",
+      "coach": "Non-AC",
+      "route": "Dhaka - Joypurhat",
+      "departures": [],
+      "counters": [
+        {
+          "place": "Joypurhat",
+          "phones": [
+            "01991-177436"
+          ]
+        },
+        {
+          "place": "Panchbibi ('Pachbibi'), Joypurhat",
+          "phones": [
+            "01991-177437"
+          ]
+        }
+      ],
+      "fare": "700 (Hino, economy)",
+      "source_urls": [
+        "https://travelinfo.com.bd/dhaka-to-jaipurhat-bus-service-ticket-price/",
+        "https://www.zatriseba.com/2024/05/sr-travels-all-counter-contact-number.html"
+      ],
+      "confidence": "medium",
+      "notes": "Same counters as the AC entry. No Joypurhat departure times found."
+    },
+    {
+      "operator_en": "Hanif Enterprise",
+      "operator_bn": "হানিফ এন্টারপ্রাইজ",
+      "coach": "AC",
+      "route": "Dhaka - Joypurhat",
+      "departures": [],
+      "counters": [],
+      "fare": "1200 (RM-2, business class)",
+      "source_urls": [
+        "https://travelinfo.com.bd/dhaka-to-jaipurhat-bus-service-ticket-price/",
+        "https://vromonprio.com/bus/dhaka-to-jaipurhat-bus-tickets-and-schedule",
+        "https://rakibulislamnayon.com/dhaka-to-joypurhat-bus/"
+      ],
+      "confidence": "medium",
+      "notes": "vromonprio.com says Hanif leaves Dhaka daily at 13:45 from Kalyanpur depot and Gabtoli terminal (Dhaka side, not Joypurhat). travelinfo.com.bd's Hanif all-counters page (24 Dec 2025) lists no Joypurhat counter. rakibulislamnayon.com gives phone 16374 for Hanif, but shohoz.com lists 16374 as Shohoz's own helpline, so it is not recorded as a Hanif counter number."
+    },
+    {
+      "operator_en": "Hanif Enterprise",
+      "operator_bn": "হানিফ এন্টারপ্রাইজ",
+      "coach": "Non-AC",
+      "route": "Dhaka - Joypurhat",
+      "departures": [],
+      "counters": [],
+      "fare": "700 (Hino, economy)",
+      "source_urls": [
+        "https://travelinfo.com.bd/dhaka-to-jaipurhat-bus-service-ticket-price/"
+      ],
+      "confidence": "medium",
+      "notes": "No Joypurhat counter or departure times found."
+    },
+    {
+      "operator_en": "Shyamoli Paribahan / Shyamoli NR Travels",
+      "operator_bn": "শ্যামলী পরিবহন / শ্যামলী এন আর ট্রাভেলস",
+      "coach": "Non-AC",
+      "route": "Dhaka - Joypurhat",
+      "departures": [],
+      "counters": [
+        {
+          "place": "Joypurhat counter (no address given)",
+          "phones": [
+            "01865-068960"
+          ]
+        }
+      ],
+      "fare": "600 (Hino, economy)",
+      "source_urls": [
+        "https://travelinfo.com.bd/dhaka-to-jaipurhat-bus-service-ticket-price/",
+        "https://www.zatriseba.com/2025/07/shyamoli-paribahan-contact-number.html",
+        "https://rakibulislamnayon.com/dhaka-to-joypurhat-bus/"
+      ],
+      "confidence": "medium",
+      "notes": "Fare table names 'শ্যামলী এন আর ট্রাভেলস'; the article text says 'শ্যামলী পরিবহন'. Joypurhat counter phone from zatriseba.com Shyamoli Paribahan list (URL dated Jul 2025; comments to Apr 2026). rakibulislamnayon.com (18 Oct 2025) lists Shyamoli Paribahan as AC and semi-deluxe, 700-1300 Tk, Dhaka boarding Gabtoli, phone 019 0889 9544 (not stated to be a Joypurhat counter)."
+    },
+    {
+      "operator_en": "Jamuna Line Paribahan",
+      "operator_bn": "যমুনা লাইন পরিবহন",
+      "coach": "AC",
+      "route": "Dhaka - Joypurhat",
+      "departures": [],
+      "counters": [],
+      "fare": "700 (Hino, economy) AC; 650 (Ashok Leyland, economy) Non-AC",
+      "source_urls": [
+        "https://travelinfo.com.bd/dhaka-to-jaipurhat-bus-service-ticket-price/",
+        "https://vromonprio.com/bus/dhaka-to-jaipurhat-bus-tickets-and-schedule"
+      ],
+      "confidence": "low",
+      "notes": "Listed in both AC (700) and Non-AC (650) fare tables. No counter, phone or times found."
+    },
+    {
+      "operator_en": "Ahad Enterprise",
+      "operator_bn": "আহাদ এন্টারপ্রাইজ",
+      "coach": "Non-AC",
+      "route": "Dhaka - Joypurhat",
+      "departures": [],
+      "counters": [],
+      "fare": "700 (Ashok Leyland, economy)",
+      "source_urls": [
+        "https://travelinfo.com.bd/dhaka-to-jaipurhat-bus-service-ticket-price/",
+        "https://rakibulislamnayon.com/dhaka-to-joypurhat-bus/"
+      ],
+      "confidence": "low",
+      "notes": "rakibulislamnayon.com says Ahad has AC options, 600-1100 Tk. No counter, phone or times found."
+    },
+    {
+      "operator_en": "SI Travels",
+      "operator_bn": "এস আই ট্রাভেলস",
+      "coach": "Non-AC",
+      "route": "Dhaka - Joypurhat",
+      "departures": [],
+      "counters": [],
+      "fare": "700 (Ashok Leyland, economy)",
+      "source_urls": [
+        "https://travelinfo.com.bd/dhaka-to-jaipurhat-bus-service-ticket-price/"
+      ],
+      "confidence": "low",
+      "notes": "No counter, phone or times found."
+    },
+    {
+      "operator_en": "Orin Travels",
+      "operator_bn": "অরিন ট্রাভেলস",
+      "coach": "Non-AC",
+      "route": "Dhaka - Joypurhat",
+      "departures": [],
+      "counters": [],
+      "fare": "600 (Mercedes Benz, economy)",
+      "source_urls": [
+        "https://travelinfo.com.bd/dhaka-to-jaipurhat-bus-service-ticket-price/"
+      ],
+      "confidence": "low",
+      "notes": "No counter, phone or times found."
+    }
+  ],
+  "brtc": [],
+  "places": [
+    {
+      "name_en": "Joypurhat Railway Station",
+      "name_bn": "জয়পুরহাট রেলওয়ে স্টেশন",
+      "maps_query": "Joypurhat Railway Station",
+      "lat": "25.0990",
+      "lng": "89.0259",
+      "source_urls": [
+        "https://bn.wikipedia.org/wiki/জয়পুরহাট_রেলওয়ে_স্টেশন",
+        "https://mapcarta.com/W531381531"
+      ],
+      "notes": "Coordinates from Bangla Wikipedia (25°05'56\"N 89°01'33\"E); station is at the town's zero point, opened 1884, 2 platforms. Mapcarta (OSM) puts it about 2 km west of the bus terminal."
+    },
+    {
+      "name_en": "Joypurhat Bus Terminal",
+      "name_bn": "জয়পুরহাট বাস টার্মিনাল",
+      "maps_query": "Joypurhat Bus Terminal",
+      "lat": "25.09369",
+      "lng": "89.0467",
+      "source_urls": [
+        "https://mapcarta.com/W531381531",
+        "https://vymaps.com/BD/Joypurhat-Bus-Terminal-91984/"
+      ],
+      "notes": "OpenStreetMap/Mapcarta name 'Oypurhat Bus Terminal' (typo), Bengali জয়পুরহাট বাস টার্মিনাল, area Bambu, Joypurhat Sadar; next to DC Park. A search-result title from vymaps.com reads 'Joypurhat Bus Terminal, bus station at Sadar Rd, Joypurhat 5900' (page itself could not be fetched)."
+    },
+    {
+      "name_en": "Akkelpur Railway Station",
+      "name_bn": "আক্কেলপুর রেলওয়ে স্টেশন",
+      "maps_query": "Akkelpur Railway Station",
+      "lat": "24.96500",
+      "lng": "89.01583",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Akkelpur_railway_station"
+      ],
+      "notes": "Coordinates from English Wikipedia. Bengali station name spelled আক্কেলপুর in timetable sources."
+    },
+    {
+      "name_en": "Jamalganj Railway Station",
+      "name_bn": "জামালগঞ্জ রেলওয়ে স্টেশন",
+      "maps_query": "Jamalganj Railway Station, Joypurhat",
+      "lat": "",
+      "lng": "",
+      "source_urls": [
+        "https://bdtrainschedule.com/titumir-express-train-schedule/"
+      ],
+      "notes": "No coordinates found. Station appears in Titumir Express timetable between Akkelpur and Joypurhat. Add ', Joypurhat' to the query to avoid Jamalganj in Sunamganj."
+    },
+    {
+      "name_en": "Panchbibi Railway Station",
+      "name_bn": "পাঁচবিবি রেলওয়ে স্টেশন",
+      "maps_query": "Panchbibi Railway Station",
+      "lat": "25.1891",
+      "lng": "89.0213",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Panchbibi_railway_station"
+      ],
+      "notes": "Coordinates from English Wikipedia (25°11'21\"N 89°01'17\"E); about 11 km north of Joypurhat station and 6.4 km south of Hili."
+    },
+    {
+      "name_en": "Akkelpur Bus Stand",
+      "name_bn": "আক্কেলপুর বাসস্ট্যান্ড",
+      "maps_query": "Akkelpur Bus Stand, Kanupur, Joypurhat",
+      "lat": "24.974286",
+      "lng": "89.014242",
+      "source_urls": [
+        "https://mapcarta.com/W1148799371"
+      ],
+      "notes": "OpenStreetMap/Mapcarta name 'Akkelpur Bus Stand, Kanupur, Joypurhat' (Rukindipur area, Akkelpur Upazila), about 1 km north of Akkelpur railway station. Bengali name not given by source."
+    }
+  ],
+  "rail_services": {
+    "ticket_site": "https://eticket.railway.gov.bd/ (রেলওয়ে ই-টিকিট)",
+    "app": "রেল সেবা (Rail Sheba), Android package com.shohoz.dtrainpwa (linked from railway.gov.bd)",
+    "call_centre": "131",
+    "sms_location": "Send 'TR <space> train number' (e.g. TR 705) to 16318; reply gives location, last station crossed and delay. Charge stated as Tk 4 + VAT, may vary by operator (GP, Banglalink, Robi, Airtel, Teletalk).",
+    "source_urls": [
+      "https://railway.gov.bd/",
+      "https://railwayticket.bd/live-train-tracking/"
+    ],
+    "notes": "Ticket site, app and 131 call centre from the official railway.gov.bd home page (page shows last updated 11 Oct 2026). SMS 16318 format from railwayticket.bd, a third-party undated page; not confirmed on an official page in this check."
+  },
+  "notes": "Train times are mostly from bdtrainschedule.com per-train pages published Mar 2025, which match the official Bangladesh Railway Western Region Time Table No. 54 (effective 10 Mar 2025; railway.gov.bd page last updated 12 Mar 2025) wherever the official PDF could be read (Barendra, Rupsha 728, off days for Nilsagar/Simanta/Rupsha/Banglabandha). No newer official timetable was found. trainjatri.com, eticket.railway.gov.bd and the shohoz rail API were blocked by the network proxy; brtc.gov.bd and dailyinfobd.com are robots-disallowed. BRTC: no Joypurhat BRTC depot, route, time or fare was found in readable sources (oursneed.com BRTC counter list, Dec 2024, has no Joypurhat entry; nearest listed is Rajshahi Main Counter 01777832007). No Joypurhat bus departure times and no bus routes other than Dhaka were found. Bus tickets: shohoz.com helpline 16374 (07:00-23:00) per shohoz.com."
+}

@@ -1,0 +1,7 @@
+# Copy this file to key.properties (same folder) and fill in your values.
+# Never upload key.properties or the .jks file anywhere public, and keep a
+# backup: without them you cannot publish updates to the same app.
+storePassword=YOUR_STORE_PASSWORD
+keyPassword=YOUR_KEY_PASSWORD
+keyAlias=upload
+storeFile=C:/Users/YOU/upload-keystore.jks
